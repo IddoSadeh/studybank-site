@@ -303,6 +303,21 @@ Always visible:
 2. Merge into `data/questions.json`
 3. Source will auto-appear in Exam browse mode filter buttons
 
+**Deploy to GitHub Pages:**
+```bash
+git subtree push --prefix web public-site main
+```
+Site: https://isadeh.com/studybank-site/
+
+---
+
+## Git Setup
+
+- **Private repo** (`studybank`): full project — tools, data, editor
+- **Public repo** (`studybank-site`): website only (contents of `web/`)
+- Remote `origin` → private repo, remote `public-site` → public repo
+- `git subtree push --prefix web public-site main` deploys `web/` to the public site
+
 ---
 
 ## Notes
