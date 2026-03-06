@@ -618,20 +618,38 @@ function openQuestionModal(q) {
         `;
     }
 
+    // Build hint content from solution concepts + equations
+    let hintHtml = '';
+    if (q.solution) {
+        if (q.solution.concepts?.length) {
+            hintHtml += `<p><strong>Concepts:</strong> ${q.solution.concepts.join(', ')}</p>`;
+        }
+        if (q.solution.equations?.length) {
+            hintHtml += '<div class="equations"><strong>Key Equations:</strong><br>';
+            q.solution.equations.forEach(eq => { hintHtml += `<div>${eq}</div>`; });
+            hintHtml += '</div>';
+        }
+    }
+    if (!hintHtml) hintHtml = '<p><em>No hints available</em></p>';
+
     // Build answer section based on type
     let answerSection;
     if (isFR) {
         answerSection = `
             <div class="modal-actions">
+                <button class="action-btn hint-toggle">Hint</button>
                 <button class="action-btn solution-toggle">Show Solution</button>
             </div>
+            <div class="hint-reveal" style="display:none;">${hintHtml}</div>
         `;
     } else {
         answerSection = `
             <div class="modal-actions">
+                <button class="action-btn hint-toggle">Hint</button>
                 <button class="action-btn answer-toggle">Show Answer</button>
                 <button class="action-btn solution-toggle">Show Solution</button>
             </div>
+            <div class="hint-reveal" style="display:none;">${hintHtml}</div>
             <div class="answer-reveal" style="display:none;">
                 ${q.correct_answer ? `<p><strong>Answer:</strong> ${q.correct_answer.toUpperCase()}</p>` : '<p><em>No answer available</em></p>'}
             </div>
@@ -688,6 +706,24 @@ function openQuestionModal(q) {
             }
         });
     }
+
+    // Hint toggle
+    body.querySelector('.hint-toggle').addEventListener('click', function() {
+        const hint = body.querySelector('.hint-reveal');
+        const isVisible = hint.style.display !== 'none';
+        hint.style.display = isVisible ? 'none' : 'block';
+        this.textContent = isVisible ? 'Hint' : 'Hide Hint';
+
+        if (!isVisible) {
+            renderMathInElement(hint, {
+                delimiters: [
+                    {left: '$$', right: '$$', display: true},
+                    {left: '$', right: '$', display: false}
+                ],
+                throwOnError: false
+            });
+        }
+    });
 
     // Solution toggle
     body.querySelector('.solution-toggle').addEventListener('click', function() {

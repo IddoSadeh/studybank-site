@@ -376,6 +376,15 @@ main {
     background: #eee;
 }
 
+/* Hint reveal */
+.hint-reveal {
+    padding: 0.75rem 1rem;
+    background: #fff8e1;
+    border-left: 3px solid #ffc107;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
 /* Answer reveal */
 .answer-reveal {
     padding: 0.75rem 1rem;
@@ -535,6 +544,140 @@ main {
     text-align: right;
     font-family: 'Courier New', monospace;
 }
+
+/* Source filter */
+.source-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Clickable topic bars */
+.clickable-bar {
+    cursor: pointer;
+    transition: background 0.1s;
+}
+.clickable-bar:hover {
+    background: #f8f8f8;
+}
+
+/* Subtopic bars (indented) */
+.sub-bar {
+    padding-left: 1.5rem;
+}
+.sub-bar .bar-label {
+    min-width: 120px;
+    font-size: 0.8rem;
+    color: #666;
+}
+.bar-fill-sub {
+    background: #5a9fd4;
+}
+.bar-fill-unknown {
+    background: #ccc;
+}
+
+/* MC / FR split bars */
+.bar-fill-mc {
+    background: #0066cc;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.bar-fill-fr {
+    background: #7b2d8b;
+    position: absolute;
+    top: 0;
+}
+
+/* Legend */
+.legend {
+    display: flex;
+    gap: 1.25rem;
+    margin-bottom: 0.75rem;
+    font-size: 0.8rem;
+    color: #555;
+}
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+.legend-swatch {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+}
+
+/* Year timeline */
+.year-timeline {
+    display: flex;
+    align-items: flex-end;
+    gap: 3px;
+    margin-bottom: 1rem;
+    padding: 0.5rem 0;
+}
+.timeline-block {
+    flex: 1;
+    min-width: 8px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    border-radius: 2px 2px 0 0;
+}
+.timeline-block:hover {
+    opacity: 0.75;
+}
+.timeline-block-active {
+    outline: 2px solid #222;
+    outline-offset: 1px;
+}
+
+/* Section note */
+.section-note {
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 0.75rem;
+}
+
+/* Year detail h4 */
+.year-detail h4 {
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+    color: #444;
+}
+
+/* Sortable table headers */
+.sortable-table th.sortable {
+    cursor: pointer;
+    user-select: none;
+}
+.sortable-table th.sortable:hover {
+    color: #0066cc;
+}
+
+/* Priority rows */
+.priority-high td:first-child {
+    border-left: 3px solid #f44336;
+    padding-left: calc(0.75rem - 3px);
+}
+.priority-quick td:first-child {
+    border-left: 3px solid #4caf50;
+    padding-left: calc(0.75rem - 3px);
+}
+.priority-low td:first-child {
+    border-left: 3px solid #bbb;
+    padding-left: calc(0.75rem - 3px);
+}
+.priority-medium td:first-child {
+    border-left: 3px solid #ffc107;
+    padding-left: calc(0.75rem - 3px);
+}
+
+/* Trend arrows */
+.trend-up { color: #f44336; }
+.trend-down { color: #4caf50; }
+.trend-flat { color: #999; }
 
 /* About */
 .about-content {
