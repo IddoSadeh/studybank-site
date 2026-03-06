@@ -1,0 +1,129 @@
+{
+  "year": 2012,
+  "questions": [
+    {
+      "id": "2012_FR1",
+      "year": 2012,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Mass spectrometry is a way of measuring the mass-to-charge ratio of charged particles as well as distinguishing different components of a beam of particles. As an example of such an experiment, consider ions of two isotopes of Potassium, K₃₉⁺ and K₄₁⁺, with positive charge +e entering as a beam of particles into a region with magnetic field B in the z direction, as shown in the picture. The beam is injected at point O. Due to the magnetic field, all the ions travel in a circle with radius given by r = mv/qB, in which v is the velocity of ions, m is the mass of ions and q is the charge. After these two types of ions travel through the magnetic field, they reach a sensitive film and record bright spots on it as show in the picture. Consider the distance from point O to the bright spot produced by K₃₉⁺ ion to be L₁, and the distance to the spot recorded by K₄₁⁺ ion to be L₂. We use L for the average of L₁ and L₂.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Assuming that the energy of both isotopes is the same, compute the ratio (L₁-L₂)/L."
+        },
+        {
+          "label": "b",
+          "text": "Since these ions have different masses, one can distinguish them by observing the two bright spots on the film. However, some experimental uncertainties can complicate the situation. For example, tuning the energy of the beam to a specific value is impossible. If the energy of particles in the beam varies from 7.9 × 10⁻¹⁷ J to 8.1 × 10⁻¹⁷ J, is it possible to distinguish these two types of ions?"
+        },
+        {
+          "label": "c",
+          "text": "Furthermore, adjusting the ions to enter exactly in the y direction, as shown in the picture, is also impossible. Assuming that the beam enters at a small angle α from the y direction, compute L as a function of α."
+        },
+        {
+          "label": "d",
+          "text": "Now assume that the particles in the incident beam can have any angle α between 0 and 3° from the y direction, due to the uncertainty in the angle. Is it possible to distinguish the two types of ions in this case?"
+        }
+      ],
+      "given_data": "r = mv/qB where v is velocity, m is mass, q is charge",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "A coordinate system showing point O with a magnetic field B in the z direction, ions entering in the y direction, and a sensitive film positioned to detect the particles after they travel through circular paths",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2012_FR2",
+      "year": 2012,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Andrzej's electric bike is equipped with a motor built into the front wheel hub. The stator of the electric motor (stationary part with the coils) is fixed solidly to the axle and the magnets are attached to the wheel. He made the following measurements on the bike:",
+      "parts": [
+        {
+          "label": "1",
+          "text": "If he runs it on a horizontal road at 20 km/h and then switches the motor off, it takes the bike 50 m to stop."
+        },
+        {
+          "label": "2",
+          "text": "At full power, it can accelerate up a 5° slope from 5 to 20 km/h in 6 seconds."
+        },
+        {
+          "label": "3",
+          "text": "The total mass of the bike plus the rider, is 106 kg."
+        },
+        {
+          "label": "4",
+          "text": "The diameter of the wheels is 66 cm."
+        },
+        {
+          "label": "5",
+          "text": "The diameter of the front wheel axle is 11 mm."
+        },
+        {
+          "label": "6",
+          "text": "The bike uses a 48 V battery with a capacity of 8 Ah (ampere-hour)."
+        },
+        {
+          "label": "7",
+          "text": "The motor is 85% efficient."
+        }
+      ],
+      "given_data": "The motor is 85% efficient",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2012_FR3",
+      "year": 2012,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "This problem has two independent parts.",
+      "parts": [
+        {
+          "label": "A",
+          "text": "A Russian nuclear icebreaker named 50 Let Pobedy has a length of 160 m, a width of 30 m and two nuclear reactors, each delivering about 30 MW of power. It can clear a path 35 m wide in 2 m thick ice (at −10°C) at a speed of 5 knots (2.5 m/s). Somebody suggested that instead of breaking the ice, one should melt it with a gigantic heater mounted at the front of the ship. (a) For this to work, what power should this heater have, in order to achieve the same performance as the icebreaker? (b) Explain in one sentence whether such a heater would work or not on this icebreaker."
+        },
+        {
+          "label": "B",
+          "text": "You are given a graph of temperature as a function of time of a container with a mixture of ice and water slowly heated at constant rate. When all the ice melts, there is 850 mL of water in the container. In the following questions, neglect the evaporation of water. (a) At which rate is the container heated? (b) How much ice was initially present?"
+        }
+      ],
+      "given_data": "When all the ice melts, there is 850 mL of water in the container",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "A graph showing temperature (in degrees C) as a function of time, with temperature on y-axis ranging from approximately -1.75 to 7.00, and time in seconds on x-axis ranging from 0 to 1500. The graph shows a flat portion at 0°C (phase transition) followed by a linear increase in temperature.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

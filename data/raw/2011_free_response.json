@@ -1,0 +1,121 @@
+{
+  "year": 2011,
+  "questions": [
+    {
+      "id": "2011_FR1",
+      "year": 2011,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Last year, a customer tried to compare two cars. A manufacturer of the USA car claims fuel efficiency of 30 mpg (miles per gallon). The manufacturer of the European car states the fuel efficiency of 7.8 l/100km (liters per hundred kilometers). This year, still undecided, this customer noticed that both manufacturers improved their fuel efficiency numbers by 20%. Fig. 1 shows the velocity as a function of time graph for a trip you took with your car.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Which car is more efficient and by how much?"
+        },
+        {
+          "label": "b",
+          "text": "Which car is more efficient now, and by how much?"
+        },
+        {
+          "label": "c",
+          "text": "Determine the total distance travelled during this two hour trip."
+        },
+        {
+          "label": "d",
+          "text": "Fig. 2 displays the air drag force as a function of velocity. What is the total work done by the drag force on the car during this two hour trip?"
+        },
+        {
+          "label": "e",
+          "text": "Each liter of gasoline has 35 MJ of energy. The efficiency of the motor as a function of the car's speed is shown on Fig. 3. How much gasoline is used to overcome the air drag during this two hour trip?"
+        },
+        {
+          "label": "f",
+          "text": "In which part of the trip the fuel was used most efficiently (least gasoline used per kilometer travelled)?"
+        }
+      ],
+      "given_data": "USA car: 30 mpg initially, European car: 7.8 l/100km initially, both improved by 20%, gasoline energy content: 35 MJ/liter",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Figure 1 shows velocity vs time graph for 2-hour trip, Figure 2 shows air drag force vs velocity, Figure 3 shows engine efficiency vs speed",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2011_FR2",
+      "year": 2011,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Photo A shows a pendulum for a grandfather clock. It consists of very thin sets of iron and zinc rods and the pendulum bob. At room temperature there is one iron rod of length $L_{0Fe} = 68.00$ cm, two iron rods of length $L_{1Fe}$ and two iron rods of length $L_{Zn}$ connected as in diagram B. Both sets of rods are of negligible weight compared to the pendulum bob. The thickness of the connecting pieces is negligible compared to the length of the rods. The bob is attached to the iron rod. The pendulum length, then is $L = L_{0Fe} + (L_{1Fe} - L_{Zn})$, $L = 70.00$ cm.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Does the position of the rods in diagram B correspond to a warmer day or a colder day compared to their position in diagram C?"
+        },
+        {
+          "label": "b",
+          "text": "Find $L_{1Fe}$ and $L_{Zn}$ if the pendulum period does not change when the temperature changes."
+        }
+      ],
+      "given_data": "$L_{0Fe} = 68.00$ cm, $L = 70.00$ cm, $L = L_{0Fe} + (L_{1Fe} - L_{Zn})$",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Photo A shows grandfather clock pendulum, Diagram B and C show different positions of iron (Fe) and zinc (Zn) rods in the pendulum mechanism",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2011_FR3",
+      "year": 2011,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Two radio antennas are 100 m apart on a north-south line. They broadcast identical radio waves at a frequency of 3.0 MHz. Your job is to monitor the signal strength with a handheld receiver. To get to your first measuring point, you walk 800 m east from the midpoint between the antennas, then 600 m north.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "What is the phase difference between the waves at this point?"
+        },
+        {
+          "label": "b",
+          "text": "Is the interference at this point maximally constructive, perfectly destructive, or somewhere in between? Explain."
+        },
+        {
+          "label": "c",
+          "text": "If you now begin to walk further north, does the signal strength increase, decrease, or stay the same? Sketch the amplitude of the signal as a function of the distance."
+        }
+      ],
+      "given_data": "Antenna separation: 100 m on north-south line, frequency: 3.0 MHz, initial position: 800 m east and 600 m north from midpoint between antennas",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "year": 2023,
+  "questions": [
+    {
+      "id": "2023_FR1",
+      "year": 2023,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A turtle is pulling two stacked boxes as shown in the above figure. The string attached to the bottom box is parallel to the ground. The mass of the bottom box is $m_b$ and that of the top box is $m_a$. The tension in the string is $T$. The coefficient of static friction between the bottom box and the ground is $\\mu_b$ and that between the two boxes is $\\mu_a$. Find the range of $T$ with sufficient justification and mathematical reasoning when:",
+      "parts": [
+        {
+          "label": "a",
+          "text": "two boxes are static"
+        },
+        {
+          "label": "b",
+          "text": "the bottom box is moving relative to the ground with the box on top resting on it"
+        },
+        {
+          "label": "c",
+          "text": "the bottom box is moving relative to the ground but there is also relative motion between the top and the bottom box"
+        }
+      ],
+      "given_data": "",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "A diagram showing two stacked boxes ($m_a$ on top, $m_b$ on bottom) being pulled by a turtle via a horizontal string attached to the bottom box",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2023_FR2",
+      "year": 2023,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A linear accelerator is a machine used to deliver radiation therapy to cancer patients. It shoots very precise beams of high energy photons into the patient's body, and those photons interact with electrons and atoms in the cancer cells to kill it. There are several different ways a photon can interact with electrons and atoms. In this question, we're going to explore a Compton interaction between a photon and an electron. Historically accepted relativistic equations are provided: The electron is originally at rest, has a mass $m_e$ and energy $m_e c^2$. An incoming photon with energy $\\frac{hc}{\\lambda}$ and momentum $\\frac{h}{\\lambda}$, where $\\lambda$ is the wavelength of the photon, collides with this electron and transfers some of its energy, which causes the electron and the photon to scatter in different directions. The ejected electron is now travelling at speed $v$ and has a mass $m = \\frac{m_e}{\\sqrt{1-\\frac{v^2}{c^2}}}$ and energy $mc^2$. Derive an equation that relates the wavelength ($\\lambda$) of the incoming photon with the wavelength ($\\lambda'$) of the outgoing scattered photon and its scattering angle ($\\theta$).",
+      "parts": [],
+      "given_data": "Hint: $\\sin^2\\theta + \\cos^2\\theta = 1$",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "A collision diagram showing an incoming photon colliding with an electron at rest, resulting in a scattered photon at angle $\\theta$ and a scattered electron at angle $\\phi$",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2023_FR3",
+      "year": 2023,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "One way of measuring distance using optics is to send a laser beam to the object and measure the angle the scattered light makes with the original beam as shown below: The components inside the dashed line box form the optical distance sensor. The vertical rectangle represents a linear light sensor, which measures the point of impact of the returning beam. The three lines indicate light rays reflected from objects at different distances. The linear sensor is 9 mm long and consists of one line of 600 pixels spaced 15 $\\mu$m apart. The slit for the returning beam is 20 $\\mu$m wide and is located 5 mm above the laser beam and 2 mm away from the linear sensor. The last pixel of the linear light sensor, the one closest to the laser beam is 15 $\\mu$m above the slit. What is the shortest and longest distance this sensor can measure in air? If we want to measure the distance to an object underwater, two pixels of the linear sensor will be activated: one corresponding to the laser scattering off the water surface and one corresponding to the laser scattering off the object. Explain how one can use these two readings to get the proper distance to the object underwater. Start with the case when the laser beam is perpendicular to the water surface:",
+      "parts": [],
+      "given_data": "Linear sensor: 9 mm long, 600 pixels spaced 15 μm apart. Slit: 20 μm wide, located 5 mm above laser beam and 2 mm away from linear sensor. Last pixel is 15 μm above the slit.",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "An optical distance sensor diagram showing a laser beam, returning beams from objects at different distances, a slit, and a linear light sensor. A second diagram shows the underwater measurement setup with laser beam perpendicular to water surface and an object below.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

@@ -1,0 +1,496 @@
+CAP High School Prize Exam
+April 5th, 2012
+9:00 - 12:00
+Competitor’s Information Sheet
+The following information will be used to inform competitors and schools of the exam results, to determine
+eligibilityforsomesubsequentcompetitions,andforstatisticalpurposes. Onlythemarkingcode,tobeassigned
+by the local examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS
+Family Name: Given Name:
+Home Address:
+Postal Code:
+Telephone: ( ) Email:
+School: Grade:
+Physics Teacher:
+Date of Birth: Sex: Male Female
+Citizenship:
+or Immigration Status:
+For how many years have you studied in a Canadian school?
+Would you prefer further correspondence in French or English?
+Sponsored by:
+Canadian Association of Physicists,
+Canadian Physics Olympiad,
+The University of British Columbia,
+Department of Physics and Astronomy.
+1
+
+Canadian Association of Physicists
+2012 Prize Exam
+Thisisathree-hourexam. Nationalrankingandprizes
+will be based on students’ performance on sections A
+and B of the exam. Performance on the questions in
+part A will be used to determine whose written work
+inpartBwillbemarkedforprizeconsiderationbythe
+CAP Exam National Committee. Part A consists of
+twenty-five multiple-choice questions. The questions
+in part B span a range of difficulties, and may require The radiioftheir orbits areinthe ratio3:1. Atsome
+graphing. Be careful to gather as many of the easier time, they are aligned as in Fig. 1, making a straight
+marks as possible before venturing into more difficult line with the star. After five Earth years, the angular
+territory. If an answer to part (a) of a question is displacement of planet X is 90.0 ◦ , as in Fig. 2. What
+needed forpart(b), andyouarenot able to solvepart is the angular displacement of planet Y at this time?
+(a), assume a likely solution and attempt the rest of
+◦
+the question anyway. a) 35
+◦
+Non-programmable calculators may be used. Please b) 90
+◦
+be careful to answer the multiple-choice questions on c) 180
+◦
+the answer card/sheetprovided;mostimportantly, d) 360
+◦
+write your solutions to the three long problems on e) 468
+three separatesheetsastheywillbemarkedbypeo-
+ple in different parts of Canada. Good luck.
+Question 2
+Notice: Full marks will be given to a student who
+Youareholdingabottleofsparklingwaterinsideacar
+providesanyfullcorrectsolutiontothelongproblems.
+moving forward. When the driver applies the brakes:
+Partialmarkswillbegivenforpartialsolutions. There
+are no penalties for incorrect answers. The questions
+a) Bubbles in the middle of the liquid will start to
+are not of equaldifficulty. Remember we are challeng-
+move forward with respect to the bottle.
+ing the best physics students in Canada; it is possible
+b) Bubbles will start to move backward with respect
+that even the best papers may not achieve an overall
+the bottle.
+score of 80%. This is meant to be tough!
+c) Bubbles will stay at the same horizontallocationin
+the water.
+Data
+d) Depending on the speed of the car, bubbles might
+Speed of light c=3.00 108m/s move forward or backward.
+Gravitational constant
+×
+G=6.67 10
+−11Nm2/kg2
+×
+Acceleration due to gravity g =9.80m/s2
+Normal atmospheric pressure P =1.01 105Pa Question 3
+0
+Density of fresh water ρ=1.00 103kg/ × m3 An Earth satellite revolves in a circular orbit at a
+Specific heat of water C =418 × 6J/kgK height h from the surface of the Earth. If R is the
+w
+Specific heat of ice C =2050J/kgK Earth’s radius and g is the acceleration due to grav-
+i
+Latent heat of water L =2260kJ/kg ity at the surface of the Earth, then the speed of the
+w
+Latent heat of ice L =334kJ/kg satellite is given by:
+i
+Density of ice ρ =916kg/m3
+i a) √gR
+Fundamental charge e=1.60 10
+−19C
+Mass of electron m =9.11 × 10 −31kg b) p g(R+h)
+Mass of proton m p e =1.67 × 10 −27kg c) q g R R + 2 h
+C
+Pl
+o
+a
+u
+n
+l
+c
+o
+k
+m
+’s
+b’
+c
+s
+on
+co
+st
+n
+a
+s
+n
+ta
+t
+n
+h
+t
+=
+1/
+6
+(4
+.6
+π
+3
+ǫ
+× ×
+)
+1
+=
+0 −
+8.
+3
+9
+4
+9
+Js
+109Nm2/C2
+d) qg(R+
+R
+h)2
+0
+Boltzmann’s constant k =1.38 10
+−×
+23J/K
+×
+A.U. Astronomical Unit 1.49598 1011m: The ap-
+Question 4
+×
+proximate distance from the Sun to the Earth.
+Assume that sodium produces monochromatic light
+Radius of the Earth R e =6.371 106m with a wavelength of 5.89 10 −7m. At what approx-
+×
+Radius of the Sun R =6.96 108m ×
+s imate rate would a 10 watt sodium-vapour light be
+×
+emitting photons? Assume that the efficiency of the
+light bulb is about 30%.
+Part A: Multiple Choice
+a) 8.9 1018 photons/sec.
+Each multiple choice question is worth 1 point. ×
+b) 3.0 1019 photons/sec.
+×
+Question 1 c) 9.9 1019 photons/sec.
+×
+Twoplanets XandYtravelcounterclockwisein circu- d) 2.0 1020 photons/sec.
+×
+lar orbits around a star as shown in the figure below:
+2
+
+Question 5 6.0 km/h, then it would detect a total of 18200 pulses
+Three batteries are placed in series. Each battery has per hour. What is the speed of the wave?
+aninternalresistancer. Ifoneofthebatteriesisplaced
+a) 100 m/s
+the wrong way around as shown in the picture, what
+b) 150 m/s
+will be the total resistance of the three cells now?
+c) 200 m/s
+d) 300 m/s
+a) r/3
+b) r/2
+c) r Question 10
+d) 2r There are three different liquids, with densities ρ 1 , ρ 2
+e) 3r and ρ 3 , in a U-shaped container as shown in the pic-
+ture. The lengths shownareH =15cmandH =10
+1 2
+cm. Which of the following equations gives the cor-
+Question 6 rect relation between the densities of the fluids in the
+Atthedesignedintensity,thetwobeamscirculatingin container?
+the Large Hadron Collider (LHC) at CERN consist of
+a) 3ρ =2ρ +ρ
+5616bunches(2808ineachdirection)ofapproximately 3 1 2
+b) ρ =2ρ +3ρ
+1.15 1011protonsperbunch. Asmallcommercialhy- 3 1 2
+drog × en cylinder contains 40 L of gas at a pressure of c) 2ρ 3 =3ρ 1 +ρ 2
+10 MPa and a temperature of 25 ◦ C. Assuming an in- d) ρ 3 =3ρ 1 +2ρ 2 (cid:0) (cid:0) (cid:1) (cid:1)
+jection efficiency of 70%, how many times could the (cid:0)(cid:1)
+LHC be filled at the designed intensity using a single, ρ 3 H 2 (cid:0)(cid:1) ρ 1
+perfectly hermetic cylinder? H 1 (cid:0)(cid:1)
+a) 1.1 1011
+×
+b) 1.5 1011
+×
+c) 2.1 1011
+×
+d) 1.1 1014
+ρ
+× 2
+e) 1.5 1014
+×
+Question 7
+TheEarthisconstantlyreceivingenergyfromtheSun. Question 11
+To stay at approximately the same temperature, the The intensity oflightfromasourcedecreaseswiththe
+Earth loses energy by: distancexfromthesource,as x 1 2 . Inthefollowingpic-
+ture, the intensity of light from the source S at point
+a) Conduction A on a curtain is 8.1U where U is some unit. We then
+b) Radiation add a big mirror parallel to the curtain at point B.
+c) Convection The distances AS and SB are equal, and the points
+d) Evaporation A, S and B are in line perpendicular to the curtain
+e)The Earthdoesnotloseenergy,this is why wehave andthe mirror. Whatisthe intensityoflightreaching
+global warming. point A now?
+Question 8
+A car starts to move at time t = 0. If the engine of
+the caris able toprovideconstantpower,whichofthe
+following statements is correct about the speed of car
+B
+at the beginning of the motion? A
+S
+a) The speed is constant.
+L L
+b) The speed increases proportionally to time passed
+(v t).
+∝
+c) The speed increases as the square root of time
+(v √t).
+∝
+d) The speed increases as time squared (v t2). a) 9.0 U
+∝
+b) 10.15 U
+c) 10.8 U
+Question 9
+d) 16.2 U
+A detector far away from the source of a wave is de-
+tectingpulses ofthatwaveevery0.2second. Ifthe de-
+tector starts to move towards the source at a speed of
+3
+
+Question 12 Question 15
+Whichofthefollowingisthecorrectfree-bodydiagram
+Assume that you videotaped the fall of a ball due to
+for a cylinder floating in water?
+gravityinvacuum,andarenowplayingthevideoinre-
+verseatthe same speed. Whichof the followingstate-
+mentsiscorrectabouttheaccelerationoftheballseen
+in these conditions, compared to that of the actual
+falling ball?
+a) The accelerations are the same in both cases.
+b) They have the same value but opposite directions.
+c) They have different values but the same direction.
+d) Both the values and directions differ.
+a) b)
+Question 16
+A rod (AB) is attached to a fixed point (C) using a
+light rope (AC). The other end of the rod (B) is sit-
+tingonicewithnegligiblefrictionandthe systemisin
+stationaryposition. Whichof the following canbe the
+equilibrium configuration of this system?
+c) d)
+Question 13
+◦
+Vancouver’slatitudeisabout49 ,andEarth’saxialtilt
+◦
+is about 23 . The power delivered by the Sun reach-
+ing a horizontal surface in Vancouver at noon differs a) b)
+in winter andsummer. What is the approximateratio
+of this quantity measuredin winter, comparedto that
+measured in summer?
+a) 1:2
+b) 1:3
+c) 1:4
+d) 1:5
+c) d)
+Question 14
+Question 17
+Consider a metal rod firmly attached to a wall. When
+youstrike the rod with a hammer, which kind of wave
+Which of the following is the closest to the total mass
+will you excite?
+of the atmosphere around the Earth?
+a) 1013 kg
+b) 1016 kg
+c) 1019 kg
+d) 1022 kg
+Question 18
+a) A longitudinal wave. At shallow depth, h, the pressure in the ocean is sim-
+b) A transverse wave. plygivenbyP =P +ρgh,inwhichρisthedensityof
+0
+c) Either kind, or both, depending on where and how water and P is the air pressure. As we go deeper, the
+0
+you hit the rod. highpressurecausesthewatertocompressandbecome
+d) No wave will be excited, the metal is too strong. denser. Which of the following sketches illustrates the
+correct dependence of the pressure on the depth h?
+4
+
+P P Question 21
+Which of the following radiationtypes has the longest
+wavelength?
+a) Radio waves
+P0 P0
+b) Visible light
+a) b)
+h h c) X rays
+P P d) Infrared light
+e) They all have at the same wavelength
+Question 22
+P0 P0 A cup filled with water has a hole in the side, through
+c) d) which the liquid is flowing out. If the cup is dropped
+h h
+from a height, what will happen to the water flowing
+Question 19 from the cup?
+Analuminiumplateandaglassplateareleftinaroom
+a) It will keep coming out, flowing at the same rate as
+for a long time. Putting one ice cube on each plate,
+before:
+you notice that the ice melts faster on the aluminium
+plate. Why?
+a) The ice is in thermal equilibrium with the glass
+plate, but not with the aluminium plate.
+b) Aluminium conducts heat to the ice more rapidly
+than glass.
+c) The aluminium plate holds more heat. b) It willkeepcoming out, but it will flowa bit slower
+d) The aluminium plate is warmer. than before.
+c) It will keep coming out, but start to flow upwards
+relative to the cup:
+Question 20
+You are on the side of the highway, listening to the
+siren of a fast-approachingambulance. When the am-
+bulanceisnotmovingthefrequencyofitssirenis1000
+Hz. Which of the following graphs best describes the
+frequency that you hear as the ambulance approaches
+and then passes you? d) It will keep coming out, flowing horizontally with
+respect to the falling cup:
+a)
+e) It will stop flowing.
+b)
+Question 23
+Two cubes, with respective masses M and
+1
+M and side lengths L and L , are lying
+2 1 2
+on a smooth table as shown. What is the
+c) pressure exerted by the cubes on the table?
+a) M1g + M2g
+L1 2 L2 2 L M
+b) M1g + M2g 2 2
+L1 2 L1 2
+c) M1g + M2g
+L2 2 L2 2 L 1 M 1
+d) None of the above.
+d) (cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)(cid:0)(cid:1)
+5
+
+Question 24 (a) Assuming that the energy of both isotopes is the
+Consider an object that floats in water but sinks in same, compute the ratio
+L2−L1
+L
+oil. When the object floats in water, half of it is sub-
+(b)Sincetheseionshavedifferentmasses,onecandis-
+merged. If we slowly pour oilon top of the water so it
+tinguishthembyobservingthetwobrightspotsonthe
+completely covers the object, the object:
+film. However, some experimental uncertainties can
+a) moves up complicate the situation. For example, tuning the en-
+b) stays in the same place ergyofthebeamtoaspecificvalueisimpossible. Ifthe
+c) moves down energyofparticlesinthebeamvariesfrom7.9 10
+−17J
+to 8.1 10
+−17J,
+is it possible to distinguish t
+×
+hese two
+×
+types of ions?
+Question 25
+(c) Furthermore,adjusting the ions to enter exactlyin
+The pressure in a stream of water flowing out of a
+the y direction, as shownin the picture, is also impos-
+faucet is:
+sible. Assuming that the beam enters at a small angle
+a) largest at the bottom α from the y direction, compute L as a function of α.
+b) largest near the faucet
+(d)Nowassumethattheparticlesintheincidentbeam
+c) the same everywhere in the stream ◦
+can have any angle α between 0 and 3 from the y di-
+rection, due to the uncertainty in the angle. Is it pos-
+sible to distinguish the two types of ions in this case?
+Problem 2 (10 points)
+Andrzej’s electric bike is equipped with a motor built
+into the front wheel hub. The stator of the electric
+motor (stationary part with the coils) is fixed solidly
+totheaxleandthemagnetsareattachedtothewheel.
+He made the following measurements on the bike:
+Part B: Problems
+1. If he runs it on a horizontal road at 20 km/h and
+Problem 1 (10 points) then switches the motor off, it takes the bike 50 m to
+Mass spectrometry is a way of measuring the mass- stop.
+◦
+to-charge ratio of charged particles as well as distin- 2. At full power, it can accelerate up a 5 slope from
+guishing different components of a beam of particles. 5 to 20 km/h in 6 seconds.
+As anexample of suchanexperiment, consider ions of 3. The total mass of the bike plus the rider, is 106 kg.
+two isotopes of Potassium,K39 and K41, with positive 4. The diameter of the wheels is 66 cm.
+19 19
+charge+eenteringasabeamofparticlesintoaregion 5. The diameter of the front wheel axle is 11 mm.
+with magnetic field B in the z direction, as shown in 6. Thebikeusesa48Vbatterywithacapacityof8Ah
+the picture. The beam is injected at point O. Due to (ampere-hour).
+themagneticfield,alltheionstravelinacirclewithra- 7. The motor is 85% efficient.
+diusgivenbyr = mv,inwhichvisthevelocityofions,
+qB
+m is the mass of ions and q is the charge. After these Find out:
+two types of ions travel through the magnetic field, (a) What is the current flowing through the motor
+they reach a sensitive film and record bright spots on when the bike is driven at 20 km/h on a horizontal
+it as show in the picture. road without pedaling?
+Consider the distance from point O to the bright spot (b) How far can it go on one battery charge at
+producedby K39 ionto be L , andthe distance to the 20 km/h?
+19 1
+spot recorded by K41 ion to be L . We use L for the (c) What is the net torque acting on the front axle?
+19 2
+average of L and L . (d) What is the current flowing through the motor
+1 2 ◦
+when the bike is accelerating up a 5 slope from
+0 to 20 km/h in 20 seconds?
+(e) What is the full mechanical power of this motor?
+(f) What is the maximum slope one can bike up at
+constant speed using the motor only (not pedaling)?
+(g) What is the current flowing through the motor at
+maximum power?
+(h) What was the most important simplifying as-
+sumption that you had to make in order to solve this
+problem?
+6
+
+Problem 3 Problem 3B (5 points)
+This problem has two independent parts. You are given a graph of temperature as a function
+of time of a container with a mixture of ice and wa-
+Problem 3A (5 points) ter slowly heated at constant rate. When all the ice
+ARussiannuclearicebreakernamed50LetPobedyhas melts,thereis850mLofwaterinthecontainer. Inthe
+alengthof160m,awidthof30mandtwonuclearre- following questions, neglect the evaporation of water.
+actors, each delivering about 30 MW of power. It can
+◦ (a) At which rate is the container heated?
+clearapath35mwidein2mthickice(at 10 C)ata
+−
+speed of 5 knots (2.5 m/s). Somebody suggested that
+(b) How much ice was initially present?
+instead of breaking the ice, one should melt it with a
+gigantic heater mounted at the front of the ship.
+(a) For this to work, what power should this heater
+have, in order to achieve the same performance as the
+icebreaker?
+(b) Explain in one sentence whether such a heater
+would work or not on this icebreaker.
+7
+
+Question 1 a b c d e
+Question 2 a b c d
+Question 3 a b c d
+Question 4 a b c d
+Question 5 a b c d e
+Question 6 a b c d e
+Question 7 a b c d e
+Question 8 a b c d
+Question 9 a b c d
+Question 10 a b c d
+Question 11 a b c d
+Question 12 a b c d
+Question 13 a b c d
+Question 14 a b c d
+Question 15 a b c d
+Question 16 a b c d
+Question 17 a b c d
+Question 18 a b c d
+Question 19 a b c d
+Question 20 a b c d
+Question 21 a b c d e
+Question 22 a b c d e
+Question 23 a b c d
+Question 24 a b c
+Question 25 a b c
+8
+

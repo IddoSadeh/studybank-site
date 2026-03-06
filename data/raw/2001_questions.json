@@ -1,0 +1,530 @@
+{
+  "year": 2001,
+  "questions": [
+    {
+      "id": "2001_Q01",
+      "year": 2001,
+      "number": 1,
+      "text": "Three identical resistors are connected across a voltage source V so that one of them is in parallel with two others which are connected in series. The power dissipated through the first one, compared to the power dissipated by each of the other two, is approximately",
+      "choices": {
+        "a": "the same.",
+        "b": "half as much.",
+        "c": "twice as much.",
+        "d": "four times as much."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q02",
+      "year": 2001,
+      "number": 2,
+      "text": "The diagram below shows various positions of a child in motion on a swing. Somewhere in front of the child a stationary whistle is blowing. At which position will the child hear the highest frequency for the sound of the whistle?",
+      "choices": {
+        "a": "At B when moving toward A.",
+        "b": "At B when moving toward C.",
+        "c": "At C when moving toward B.",
+        "d": "At C when moving toward D."
+      },
+      "has_diagram": true,
+      "diagram_description": "Diagram shows a swing with positions labeled A, B, C, and D in an arc, with a whistle positioned to the right of the swing",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q03",
+      "year": 2001,
+      "number": 3,
+      "text": "In a Young double slit experiment, green light is incident on the two slits. The interference pattern is observed on a screen. Which one of the following changes would cause the observed fringes to be more closely spaced?",
+      "choices": {
+        "a": "Reducing the separation between the slits.",
+        "b": "Using blue light instead of green light.",
+        "c": "Using red light instead of green light.",
+        "d": "Moving the light source further away from the slits."
+      },
+      "has_diagram": true,
+      "diagram_description": "Diagram shows incoming light waves hitting two slits, with fringes pattern shown on a screen to the right",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q04",
+      "year": 2001,
+      "number": 4,
+      "text": "A thin lens with focal length f is to be used as a magnifying glass. Which of the following statements regarding this situation is true?",
+      "choices": {
+        "a": "A converging lens must be used, and the object be placed at a distance greater than 2f from the lens.",
+        "b": "A diverging lens must be used, and the object be placed between f and 2f from the lens.",
+        "c": "A converging lens must be used, and the object be placed at a distance less than f from the lens.",
+        "d": "A diverging lens must be used, and the object be placed at any point other than the focal point."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q05",
+      "year": 2001,
+      "number": 5,
+      "text": "The figure shows the path of a ray of light as it passes through three different materials with refractive indices n₁, n₂ and n₃. The figure is drawn to scale. What can we conclude concerning the indices of these three materials?",
+      "choices": {
+        "a": "n₃ < n₂ < n₁",
+        "b": "n₃ < n₁ < n₂",
+        "c": "n₂ < n₁ < n₃",
+        "d": "n₁ < n₃ < n₂"
+      },
+      "has_diagram": true,
+      "diagram_description": "Shows a light ray passing through three different materials labeled n₁, n₂, and n₃, with the ray bending at each interface. The ray appears to bend more as it progresses through the materials.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q06",
+      "year": 2001,
+      "number": 6,
+      "text": "The diagram shows the trajectory of three artillery shells. Each was fired with the same initial speed. Which shell was in the air for the longest time? (Ignore air friction.)",
+      "choices": {
+        "a": "Shell A",
+        "b": "Shell B",
+        "c": "Shell C",
+        "d": "Shells A and C were in the air for equal time, which was longer than for shell B"
+      },
+      "has_diagram": true,
+      "diagram_description": "Shows three parabolic trajectories labeled A, B, and C. Shell A has the highest arc, shell B has a medium arc, and shell C has the lowest, flattest trajectory.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q07",
+      "year": 2001,
+      "number": 7,
+      "text": "Let V be electric potential and E the magnitude of the electric field. At a given position, which of the following statements is true?",
+      "choices": {
+        "a": "E is always zero where V is zero",
+        "b": "V is always zero where E is zero",
+        "c": "E can be zero where V is nonzero",
+        "d": "E is always nonzero where V is nonzero"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q08",
+      "year": 2001,
+      "number": 8,
+      "text": "Two test charges are brought successively to a position some distance away from a negative charge −Q. First, test-charge q is placed at a distance R from −Q. Then it is removed and a test-charge −2q is placed at a distance 2R from −Q. The sign of q is unknown. Compared with the electric potential at the position of the test-charge in the first case, the electric potential at the position of the second test-charge is",
+      "choices": {
+        "a": "the same",
+        "b": "twice as large",
+        "c": "half as large",
+        "d": "impossible to determine unless the sign of q is known"
+      },
+      "has_diagram": true,
+      "diagram_description": "Shows two scenarios: (a) charge q at distance R from −Q, and (b) charge −2q at distance 2R from −Q",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q09",
+      "year": 2001,
+      "number": 9,
+      "text": "A simple pendulum, consisting of a mass m at the end of an unstretchable string of length L, swings downward, making an angle θ with the vertical. The work done by the tension in the string is",
+      "choices": {
+        "a": "Zero",
+        "b": "mgL",
+        "c": "mgL cos θ",
+        "d": "−mgL sin θ"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q10",
+      "year": 2001,
+      "number": 10,
+      "text": "In problems involving electromagnetism it is often convenient and informative to express answers in terms of a constant, α, which is a combination of the Coulomb constant, kₑ = 1/4πε₀, the charge of the electron, e, and ℏ = h/2π, h being Planck's constant. For instance, the lowest energy that a hydrogen atom can have is given by E = −½α²mc², where m is the mass of the electron and c is the speed of light. Which of the following is the correct expression for α? (HINT: non-relativistic kinetic energy is ½mv², where v is speed.)",
+      "choices": {
+        "a": "kₑe²/ℏc",
+        "b": "ℏ/kₑe²c",
+        "c": "kₑe²ℏ/c",
+        "d": "kₑe²c/ℏ"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q11",
+      "year": 2001,
+      "number": 11,
+      "text": "A mass suspended from a spring is oscillating up and down. Consider the following two statements:\n(1) At some point during the oscillation, the mass has zero velocity but it is accelerating.\n(2) At some point during the oscillation, the mass has zero velocity and zero acceleration.",
+      "choices": {
+        "a": "Both occur at some time during the oscillation.",
+        "b": "Neither occurs during the oscillation.",
+        "c": "Only (1) occurs.",
+        "d": "Only (2) occurs."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q12",
+      "year": 2001,
+      "number": 12,
+      "text": "A very long solenoid perpendicular to the page generates a downward magnetic field whose magnitude increases with time. This induces an emf in a conducting wire loop around the solenoid which lights two identical bulbs connected in series along the wire. Now two points diametrically opposed on the wire loop are shorted with another wire lying to the right of bulb B in the plane of the page. After the shorting wire is inserted,",
+      "choices": {
+        "a": "bulb A goes out, and bulb B dims.",
+        "b": "bulb A goes out, and bulb B gets brighter.",
+        "c": "bulb B goes out, and bulb A dims.",
+        "d": "bulb B goes out, and bulb A gets brighter."
+      },
+      "has_diagram": true,
+      "diagram_description": "Circular wire loop with two bulbs labeled A and B connected in series around the loop, with a solenoid perpendicular to the page in the center",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q13",
+      "year": 2001,
+      "number": 13,
+      "text": "A quantity of charge, Q, is distributed uniformly through a sphere of radius R. A smaller sphere, of radius d and concentric with the large sphere, is now removed from it, leaving a spherical cavity with no charge in it. The charge density of the remaining shell has not changed. The electrostatic potential at a distance r > R, outside the shell, is",
+      "choices": {
+        "a": "$\\frac{1}{4\\pi\\epsilon_0} \\frac{Q r^3}{r d^3}$",
+        "b": "$\\frac{1}{4\\pi\\epsilon_0} \\frac{Q R^3 - d^3}{R^3}$",
+        "c": "$\\frac{1}{4\\pi\\epsilon_0} \\frac{Q R^3}{r d^3}$",
+        "d": "$\\frac{1}{4\\pi\\epsilon_0} \\frac{Q d^3}{r R^3}$"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q14",
+      "year": 2001,
+      "number": 14,
+      "text": "A vertical spring with constant 250 N/m and negligible mass is attached to a horizontal plate. A block of mass 0.255 kg is dropped onto the spring which compresses by 0.12 m before coming momentarily to rest. The following two members are the work done by the force of gravity, $W_g$, and the work done by the spring, $W_s$ (both over the total distance that the spring is compressed).",
+      "choices": {
+        "a": "$W_g = 0.30$ J, $W_s = -1.8$ J.",
+        "b": "$W_g = 0.30$ J, $W_s = 1.8$ J.",
+        "c": "$W_g = -0.30$ J, $W_s = 1.8$ J.",
+        "d": "$W_g = -0.30$ J, $W_s = -1.8$ J."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q15",
+      "year": 2001,
+      "number": 15,
+      "text": "A stone of mass m is attached to a light strong string and whirled in a vertical circle of radius r. At the exact bottom of the path, the tension in the string is three times the weight of the stone. The stone's speed at that point is given by",
+      "choices": {
+        "a": "$2\\sqrt{gr}$",
+        "b": "$\\sqrt{2gr}$",
+        "c": "$\\sqrt{3gr}$",
+        "d": "$4gr$"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q16",
+      "year": 2001,
+      "number": 16,
+      "text": "You are rapidly pumping air into a tire with a bicycle pump. At the same time, helium gas is rapidly escaping out of a balloon. Which of the following statements is true?",
+      "choices": {
+        "a": "The pump cools down while the helium gas warms up as it is expelled.",
+        "b": "The pump warms up while the helium gas cools down as it is expelled.",
+        "c": "The pump cools down while the helium gas also cools down as it is expelled.",
+        "d": "The pump warms up while the helium has also warms up as it is expelled."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q17",
+      "year": 2001,
+      "number": 17,
+      "text": "A particle moving through a certain region of space, experiences a non-zero magnetic force. Which of the following is possible?",
+      "choices": {
+        "a": "A magnetic field exists in that region and changes the speed of the particle.",
+        "b": "A magnetic field exists in this region and the particle's velocity vector is parallel to the magnetic field vector.",
+        "c": "A magnetic field exists in this region and the particle is moving at right angle to the magnetic field.",
+        "d": "A magnetic field exists in this region and the particle is moving in the direction opposite to the magnetic field vector."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q18",
+      "year": 2001,
+      "number": 18,
+      "text": "The astronauts aboard a Space Shuttle in circular orbit around the Earth wish to transfer the shuttle to a new circular orbit at higher altitude. In this new orbit, the shuttle will have",
+      "choices": {
+        "a": "a smaller orbital speed and a larger total energy.",
+        "b": "a smaller orbital speed and a smaller total energy.",
+        "c": "a larger orbital speed and a larger total energy.",
+        "d": "a larger orbital speed and a smaller total energy."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q19",
+      "year": 2001,
+      "number": 19,
+      "text": "A car pushes a stalled truck up a hill. The car exerts a force of magnitude $F_1$ on the truck. The truck exerts a force of magnitude $F_2$ on the car. Then",
+      "choices": {
+        "a": "$F_1 = F_2$ since these forces form an action-reaction pair.",
+        "b": "$F_1 = F_2$ only if the car and truck do not accelerate.",
+        "c": "$F_1 > F_2$, or else the car and the truck would not move.",
+        "d": "$F_1 < F_2$ because the truck is heavier."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q20",
+      "year": 2001,
+      "number": 20,
+      "text": "A convex mirror has its centre of curvature located behind the mirror. The image formed by such a mirror is",
+      "choices": {
+        "a": "upside down, enlarged and virtual.",
+        "b": "upside down, reduced and virtual.",
+        "c": "right side up, reduced and real.",
+        "d": "right side up, reduced and virtual."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q21",
+      "year": 2001,
+      "number": 21,
+      "text": "A toy airplane is travelling in a horizontal circle at a constant speed at the end of a tether wire. The magnitude of the tension in the wire is $F$. Then the wire is played out to twice its original length and the plane is made to fly at twice the original speed. The tension in the wire is now",
+      "choices": {
+        "a": "$\\frac{1}{4}F$",
+        "b": "$\\frac{1}{2}F$",
+        "c": "$F$",
+        "d": "$2F$"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q22",
+      "year": 2001,
+      "number": 22,
+      "text": "The plates of a parallel-plate capacitor are separated by a solid dielectric. This capacitor and a resistor are connected in series across the terminals of a battery. Now the plates of the capacitor are pulled slightly further apart. When equilibrium is restored in the circuit,",
+      "choices": {
+        "a": "the potential difference across the plates has increased.",
+        "b": "the energy stored on the capacitor has increased.",
+        "c": "the capacitance of the capacitor has increased.",
+        "d": "the charge on the plates of the capacitor has decreased."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q23",
+      "year": 2001,
+      "number": 23,
+      "text": "A uniform pole is attached to a vertical wall by a frictionless pivot. The pole is held horizontal by a vertical cable attached to the ceiling as shown. Considering torques on the pole about the axis of the pivot, which one of the statements below the figure is correct?",
+      "choices": {
+        "a": "The magnitude of the torque due to the tension in the cable is equal to the magnitude of the torque due to the weight of the pole.",
+        "b": "The magnitude of the torque due to the tension in the cable is greater than the magnitude of the torque due to the weight of the pole.",
+        "c": "The magnitude of the torque due to the tension in the cable is less than the magnitude of the torque due to the weight of the pole.",
+        "d": "The tension in the cable is equal to the weight of the pole."
+      },
+      "has_diagram": true,
+      "diagram_description": "Shows a horizontal pole attached to a vertical wall by a pivot point, with a vertical cable connecting the end of the pole to the ceiling above.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q24",
+      "year": 2001,
+      "number": 24,
+      "text": "The minimum speed with respect to air that a particular jet aircraft must have in order to keep aloft is 300 km/hr. Suppose that as its pilot prepares to take off, the wind blows across at a ground speed that can vary between 0 and 30 km/hr. Ignoring any other fact, a safe procedure to follow, consistent with using up as little fuel as possible, is to",
+      "choices": {
+        "a": "take off eastward at a ground speed of 320 km/hr.",
+        "b": "take off westward at a ground speed of 320 km/hr.",
+        "c": "take off westward at a ground speed of 300 km/hr.",
+        "d": "take off westward at a ground speed of 280 km/hr."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2001_Q25",
+      "year": 2001,
+      "number": 25,
+      "text": "A mass $m$ is moving at speed $v$ perpendicular to a rod of length $d$ and mass $M = 6m$ which pivots around a frictionless axle running through its centre. It strikes and sticks to the end of the rod. The moment of inertia of the rod about its centre is $Md^2/12$. Then the angular speed of the system right after the collision is",
+      "choices": {
+        "a": "$2v/3d$.",
+        "b": "$2v/d$.",
+        "c": "$v/d$.",
+        "d": "$3v/2d$."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    }
+  ]
+}

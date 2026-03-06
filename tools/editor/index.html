@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question Editor</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+    <link rel="stylesheet" href="editor.css">
+</head>
+<body>
+    <!-- Left Panel: Question Browser -->
+    <div id="panel-left" class="panel">
+        <div class="panel-header">
+            <h2>Questions</h2>
+            <input type="text" id="search-input" placeholder="Search questions...">
+            <div class="browser-filters">
+                <select id="filter-year"><option value="">All Years</option></select>
+                <select id="filter-topic"><option value="">All Topics</option></select>
+                <select id="filter-type">
+                    <option value="">All Types</option>
+                    <option value="multiple_choice">MC</option>
+                    <option value="free_response">FR</option>
+                </select>
+            </div>
+        </div>
+        <div id="question-list" class="question-list"></div>
+    </div>
+
+    <!-- Center Panel: Question Detail + Solution Editor -->
+    <div id="panel-center" class="panel">
+        <div class="panel-header">
+            <h2 id="detail-title">Select a question</h2>
+            <div class="chat-mode-toggle">
+                <button id="btn-discuss" class="mode-btn active" onclick="setChatMode('discuss')">Edit</button>
+                <button id="btn-visualize" class="mode-btn" onclick="setChatMode('visualize')">Visualize</button>
+            </div>
+        </div>
+        <div id="detail-content" class="detail-content">
+            <p class="placeholder-text">Click a question from the left panel to view and edit it.</p>
+        </div>
+    </div>
+
+    <!-- Right Panel: Chat (discuss mode) -->
+    <div id="panel-right" class="panel">
+        <div class="panel-header">
+            <h2>Chat</h2>
+        </div>
+        <div id="chat-messages" class="chat-messages"></div>
+        <div class="chat-input-area">
+            <textarea id="chat-input" placeholder="Ask about this question..." rows="2"></textarea>
+            <button id="chat-send" onclick="sendChat()">Send</button>
+        </div>
+    </div>
+
+    <!-- Visualize mode: full-screen overlay with chat sidebar + iframe -->
+    <div id="viz-overlay" class="viz-overlay" style="display:none;">
+        <div id="viz-chat-panel" class="viz-chat-panel">
+            <div class="panel-header">
+                <h2>Visualize</h2>
+                <button class="mode-btn active" onclick="setChatMode('discuss')">Back to Editor</button>
+            </div>
+            <div class="viz-scope-toggle">
+                <button id="btn-viz-question" class="scope-btn active" onclick="setVizScope('question')">Question</button>
+                <button id="btn-viz-concept" class="scope-btn" onclick="setVizScope('concept')">Concept</button>
+                <span id="viz-scope-label" class="viz-scope-label"></span>
+            </div>
+            <div id="viz-chat-messages" class="chat-messages"></div>
+            <div class="chat-input-area">
+                <textarea id="viz-chat-input" placeholder="Describe the visualization or request changes..." rows="2"></textarea>
+                <button id="viz-chat-send" onclick="sendChat()">Send</button>
+            </div>
+        </div>
+        <div id="viz-main" class="viz-main">
+            <div id="viz-placeholder" class="placeholder-text" style="margin-top:30vh;">
+                Send a message to generate a visualization.
+            </div>
+            <iframe id="viz-iframe" sandbox="allow-scripts allow-same-origin" style="display:none;"></iframe>
+            <div id="viz-actions" class="viz-actions" style="display:none;">
+                <button onclick="copyVizHTML()">Copy HTML</button>
+                <button onclick="promptSaveViz()">Save to Site</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="editor.js"></script>
+</body>
+</html>

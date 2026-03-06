@@ -1,0 +1,104 @@
+{
+  "year": 2010,
+  "questions": [
+    {
+      "id": "2010_FR1",
+      "year": 2010,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A double inclined plane is in the form of a wedge of weight 10 g, held on the ground with its base horizontal and rough faces inclined at 30° and 45° respectively to the horizontal. A 5 g particle on the face inclined at 30° is connected by a mass-less, flexible, inextensible string over a smooth mass-less pulley at the ridge of the wedge to a 7 g particle on the other face. If the coefficient of friction between each of the particles and the wedge is 1/5, find the accelerations of the particles and the magnitude of the vertical force between the wedge and the ground.",
+      "parts": [],
+      "given_data": "Wedge weight: 10 g; Particle 1: 5 g on 30° incline; Particle 2: 7 g on 45° incline; Coefficient of friction μ = 1/5",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "A wedge with two inclined faces at 30° and 45°, with masses connected by a string over a pulley at the ridge",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2010_FR2",
+      "year": 2010,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Oceanographers have deployed an array of instruments off the west coast of Vancouver Island, connected together by cables carrying power and communication. The power is supplied through a single DC line. The return path is through the sea water. The grounds at each end of the line are large metal spheres. Consider two copper spheres, radii a, buried in an infinite medium of resistivity ρ. Current flows out of one sphere and is collected by the second sphere. The current flow in vicinity of each sphere can be considered radially uniform as the distance between the spheres is large compared with a.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "By considering the series resistance of many thin spherical shells around a sphere show graphically (or by direct integration) that much of the resistance is due to material within a radius 2a of each sphere and thereby estimate the total resistance between the spheres."
+        },
+        {
+          "label": "b",
+          "text": "If the current flow between the spheres is 1 A, calculate the charge in coulombs on each one."
+        }
+      ],
+      "given_data": "Copper spheres of radius a; resistivity ρ; radially uniform current flow; current = 1 A (for part b)",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2010_FR3",
+      "year": 2010,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Sir Ernest Rutherford, a very famous New Zealander who worked at McGill University in Montreal and the Cavendish Laboratory in Cambridge, won the Nobel Prize for his studies of the disintegration of nuclei. He established an important relationship for a nuclear reaction, in which a parent atom disintegrates into a daughter atom, which is called the Rutherford – Soddy law of radioactive disintegration. This law states that if N is the number of radioactive nuclei present at some instant, the number of nuclei ΔN that decay in a time Δt is given by: ΔN = −λNΔt where λ is called the decay constant. We can integrate this expression to get the relationship N(t) = N₀e^(-λt) where N₀ represents the number of radioactive nuclei at time t = 0. Potassium-argon (K-Ar) dating is used in earth science to determine the age of a rock sample. The potassium isotope ₁₉⁴⁰K is radioactive and decays over time to the argon isotope ₁₈⁴⁰Ar⁻. When a rock is molten the argon gas is released into the atmosphere but as the rock cools and crystallizes, the daughter argon atoms are trapped within the rock matrix. Time since crystallization is calculated by measuring the ratio of the amount of ₁₈⁴⁰Ar accumulated to the amount of ₁₉⁴⁰K remaining.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Show that the time taken for N(t) = N₀/2 (known as the half-life), is given by T₁/₂ = (ln 2)/λ."
+        },
+        {
+          "label": "b",
+          "text": "Describe the physical process that is occurring in these reactions."
+        },
+        {
+          "label": "c",
+          "text": "Which of the two is the more likely to occur?"
+        },
+        {
+          "label": "d",
+          "text": "Most of the potassium ₁₉⁴⁰K (89.1%) decays to ₂₀⁴⁰Ca. What is the equation for this reaction?"
+        },
+        {
+          "label": "e",
+          "text": "If a rock sample has remained undisturbed for 50 million years and the half-life of ₁₉⁴⁰K is 1.248 × 10⁹ years, what ratio of Ar/K should be measured in the sample?"
+        }
+      ],
+      "given_data": "Decay equation: ΔN = −λNΔt; Integrated form: N(t) = N₀e^(-λt); Two nuclear reactions: ₁₉⁴⁰K → ₁₈⁴⁰Ar + neutrino (positron emission) and ₁₉⁴⁰K + e⁻ → ₁₈⁴⁰Ar + neutrino (electron capture); Time equation with constants K_f and Ar_f; Half-life of ⁴⁰K = 1.248 × 10⁹ years; 89.1% decays to ⁴⁰Ca; Sample age = 50 million years",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

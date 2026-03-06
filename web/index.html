@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Bank</title>
+    <meta name="description" content="Competition and exam problems with step-by-step solutions, filtered by topic and difficulty.">
+    <link rel="icon" href="data:,">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+</head>
+<body>
+    <header>
+        <div class="header-inner">
+            <div class="header-left">
+                <h1>Study Bank</h1>
+                <p class="subtitle">Competition and exam problems with solutions</p>
+            </div>
+            <nav class="nav">
+                <a href="index.html" class="active">Questions</a>
+                <a href="analytics.html">Analytics</a>
+                <a href="visualizations.html">Visualizations</a>
+                <a href="about.html">About</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="toolbar">
+            <input type="text" id="search" placeholder="Search questions...">
+            <select id="sort-by">
+                <option value="year-desc">Newest First</option>
+                <option value="year-asc">Oldest First</option>
+                <option value="difficulty-asc">Easiest First</option>
+                <option value="difficulty-desc">Hardest First</option>
+            </select>
+        </div>
+
+        <div class="filters">
+            <div class="filter-row" id="browse-row">
+                <span class="filter-label">Browse by:</span>
+                <div class="filter-buttons" id="browse-buttons"></div>
+            </div>
+            <div class="filter-row" id="subject-row" style="display:none;">
+                <span class="filter-label">Subject:</span>
+                <div class="filter-buttons" id="subject-buttons"></div>
+            </div>
+            <div class="filter-row" id="source-row" style="display:none;">
+                <span class="filter-label">Source:</span>
+                <div class="filter-buttons" id="source-buttons"></div>
+            </div>
+            <div class="filter-row" id="year-row" style="display:none;">
+                <span class="filter-label">Year:</span>
+                <div class="filter-buttons" id="year-buttons"></div>
+            </div>
+            <div class="filter-row" id="topic-row" style="display:none;">
+                <span class="filter-label">Topic:</span>
+                <div class="filter-buttons" id="topic-buttons"></div>
+            </div>
+            <div class="filter-row" id="subtopic-row" style="display:none;">
+                <span class="filter-label">Subtopic:</span>
+                <div class="filter-buttons" id="subtopic-buttons"></div>
+            </div>
+            <div class="filter-row">
+                <span class="filter-label">Type:</span>
+                <div class="filter-buttons" id="type-buttons"></div>
+            </div>
+            <div class="filter-row">
+                <span class="filter-label">Difficulty:</span>
+                <div class="filter-buttons" id="difficulty-buttons"></div>
+            </div>
+        </div>
+
+        <div class="filter-status">
+            <span id="question-count">0</span> questions
+            <button id="clear-filters" class="clear-btn">Clear All</button>
+        </div>
+
+        <div id="questions" class="questions-list"></div>
+
+        <div id="load-more" class="load-more" style="display: none;">
+            <button id="load-more-btn">Load More</button>
+        </div>
+    </main>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <button class="close-btn">&times;</button>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

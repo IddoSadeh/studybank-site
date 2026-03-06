@@ -1,0 +1,506 @@
+CAP High School Prize Exam
+April 8th, 2014
+9:00 - 12:00
+Competitor’s Information Sheet
+The following information will be used to inform competitors and schools of the exam results, to determine
+eligibilityforsomesubsequentcompetitions,andforstatisticalpurposes. Onlythemarkingcode,tobeassigned
+by the local examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS
+Family Name: Given Name:
+Home Address:
+Postal Code:
+Telephone: ( ) Email:
+School: Grade:
+Physics Teacher:
+Date of Birth: Sex: Male Female
+Citizenship:
+Would you prefer further correspondence in French or English?
+If you are not a Canadian citizen, what is your Immigration Status?
+For how many years have you studied in a Canadian school?
+Sponsored by:
+Canadian Association of Physicists,
+Canadian Physics Olympiad,
+The University of British Columbia,
+Department of Physics and Astronomy.
+1
+
+Canadian Association of Physicists Part A: Multiple Choice
+2014 Prize Exam
+Each multiple choice question is worth 1 point.
+Thisisathree-hourexam. Nationalrankingandprizes
+Question 1
+will be based on students’ performance on sections A
+Consider the electric power dissipation due to resis-
+and B of the exam. Performance on the questions in
+tanceinacircuit. Whichofthefollowingchangesleave
+part A will be used to determine whose written work
+the dissipated electric power unchanged?
+inpartBwillbemarkedforprizeconsiderationbythe
+CAP Exam National Committee. Part A consists of a)Doubling the voltageand reducing the currentby a
+twenty-five multiple-choice questions. The questions factor of two.
+in part B span a range of difficulties, and may require b) Doubling the voltage and increasing the resistance
+graphing. Be careful to gather as many of the easier by a factor of four.
+marks as possible before venturing into more difficult c)Doublingthecurrentandreducingtheresistanceby
+territory. If an answer to part (a) of a question is a factor of four.
+needed forpart(b), andyouarenot able to solvepart d) None of the above.
+(a), assume a likely solution and attempt the rest of e) Both (b) and (c) are correct.
+the question anyway. f) (a),(b) and (c) are correct.
+Non-programmablecalculatorsmaybeused. Pleasebe
+Question 2
+carefultoanswerthemultiple-choicequestionson the
+A U-shaped glass tube closed at both ends and posi-
+answer sheet provided;mostimportantly,writeyour
+tioned vertically is partly filled with water. At a cer-
+solutionstothethreelongproblemsonthreeseparate
+tain time the levels of water are different in the two
+sheets as they will be marked by people in different
+arms of the tube due to a difference in air pressure
+parts of Canada. Good luck.
+above each arm. If there is no temperature change,
+Notice: Full marks will be given to a student who
+what will happen to the water level on both sides?
+providesanyfullcorrectsolutiontothelongproblems.
+Partialmarkswillbegivenforpartialsolutions. There
+are no penalties for incorrect answers. The questions
+are not of equaldifficulty. Remember we are challeng-
+ing the best physics students in Canada; it is possible
+that even the best papers may not achieve an overall
+score of 80%. This is meant to be tough!
+Data
+a) The water levels will stay stationary.
+Speed of light c=3.00 108m/s
+× −11 2 2 b)Thewaterlevelswillequalizerapidly—withinsec-
+Gravitational constant G=6.67 10 N m /kg
+Acceleration due to gravity g =9 × .80m/s2 · onds.
+c)Thewaterlevelswillslowlyequalize—withindays.
+N
+D
+o
+en
+rm
+sit
+a
+y
+l a
+o
+t
+f
+m
+fr
+o
+e
+s
+s
+p
+h
+h
+w
+er
+a
+i
+t
+c
+e
+p
+r
+r
+ρ
+es
+=
+su
+1
+r
+.
+e
+00
+P0 =
+10
+1
+3
+.0
+k
+1
+g/ × m
+1
+3
+05Pa
+d) The difference between the levels in each arm will
+× increase.
+Specific heat of water C =4186J/(kg K)
+w
+·
+Specific heat of ice C i =2050J/(kg K) Question 3
+·
+Latent heat of water L w =2260kJ/kg Howdoesthemagnitudeofthegravitationalforcewith
+Latent heat of ice L i =334kJ/kg which the Moon attracts the Earth compare to the
+3
+Density of ice ρ i =916kg/m magnitude of the gravitational force with which the
+Fundamental chargee=1.60 10
+−19C
+Earth attracts the Moon?
+Mass of electron m =9.11
+×
+10
+−31kg
+e
+Mass of proton m =1.67 × 10 −27kg a) They are equal.
+p
+Planck’s constant h=6.63 × 10 −34Js b) The first is greater.
+Coulomb’s constant 1/(4πǫ0 × )=8.99 109N m2/C2 c) The first is smaller.
+Boltzmann’s constant k =1.38 10
+−×23J/K ·
+A.U. Astronomical Unit = 1.49 × 598 1011m: The ap- Question 4
+× The friction force acting on a bicycle is 20N. What
+proximate distance from the Sun to the Earth.
+Radius of the Earth R =6.371 106m powerdoesacyclistneedinordertotravelat18km/h?
+E
+Radius of the Sun R S =6.96 1 × 08m a) 50W
+Stefan’s constant σ =5.6704 × 10 −8W/(m2 K4) b) 100W
+× ·
+c) 1800W
+d) 3600W
+2
+
+Question 5
+What is the average horizontal force acting on a ball
+when it elastically bounces off a wall, assuming the
+collision time is 0.1s and the momentum of the ball
+before the bounce was2kg m/s,perpendicular to the
+·
+wall?
+a) 0.2N
+b) 0.4N
+c) 40N
+d) 20N
+Question 6
+Asmallexplosionoccursinamodelairplanewhichrips
+a) It increases.
+it into two pieces. The model was flying with velocity
+b) It decreases.
+v just before the explosion. Which combination of v1
+c) It remains the same.
+and v2 are possible velocities of the two pieces after
+the explosion? Question 9
+Twoidenticalloudspeakers,placedclosetoeachother,
+are supplied with the same sinusoidal voltage. One
+V can imagine a pattern around the loudspeakers with
+alternating areas of increased and decreasedsound in-
+tensity. Which of the actions below will not change
+the positions of these areas?
+a) Moving one of the speakers.
+b) Changing the amplitude of the voltage.
+c) Changing the frequency.
+d)Replacingthe airinthe roomwithagasofadiffer-
+ent density.
+a) b) c)
+Question 10
+Two artificial satellites, named Argo and Navis, have
+Question 7
+circular orbits of radii R and 2R, respectively, about
+Three ping-pong balls are electrically charged and are
+thesameplanet. TheorbitalspeedofArgoisv. What
+arranged in the plane of the page in an equilateral
+is the orbital speed of Navis?
+triangle as shown below. What is the direction of
+the force acting on the ping-pong ball charged with a) v/2
+Q3 = 10µC? b) v/√2
+−
+c) v
+d) v√2
+e) 2v
+Question 11
+When someone drags their fingernails across a chalk-
+board,aterriblehigh-pitchedsoundisproduceddueto
+small bumps in the chalkboard. Assume these bumps
+are uniformly spaced by 0.5mm. Audiologists have
+determined that humans find sounds in the range of
+2 4kHz to be very annoying. An evil teacher wants
+∼
+to produce the longest duration continuous sound in
+thisrangebydraggingherfingernailsacrossthechalk-
+a) Towards the top of the page. board. At what speed should she drag her nails to
+b) Towards the bottom of the page. accomplish this?
+c) Towards the left.
+a) 0.28m/s
+d) Towards the right.
+b) 0.56m/s
+e) Another direction.
+c) 1.00m/s
+d) 2.00m/s
+Question 8
+In the circuit shown below, the resistance R1 is in-
+creased. What happens to the magnitude of the po-
+tential difference across R1?
+3
+
+Question 12 D D
+The Hall Effect occurs when both a current and mag-
+netic field arepresentandperpendicular to eachother
+in a solid. The result is the generation of an electric
+fieldandacorrespondingpotentialdifference(theHall a) t b) t
+voltage) across the width of the solid. Suppose a two- D D
+dimensional rectangular material carries a current of
+0.5A in the positive x direction and is penetrated by
+a magnetic field of 1.4mT in the negative z direction.
+The number of mobile charges per unit area of the c) t d) t
+material is 0.2µC/m2. What is the magnitude of the
+Hallvoltage,andthedirectionofthegeneratedelectric Question 16
+field? (Assume a right-handed coordinate system)
+Which of the following is closest to the thickness of a
+piece of paper?
+a) 70µV, negative y direction
+b) 70µV, positive y direction a) 10 −3m
+c) 3.5kV, negative y direction b) 10
+−4m
+d) 3.5kV, positive y direction c) 10 −5m
+d) 10
+−6m
+Question 13 e) 10
+−7m
+214Po atoms have a mass of 3.55 10 −22g and decay
+210 ×
+into Pb with a half-life of 160µs. A detector en-
+compassing 1g of 214Po counts the number of 210Pb Question 17
+The paper-folding theoremstates that in order to fold
+daughters produced. An experimentalist rigs an oscil-
+something in half, it’s length must be at least π times
+lator so that the frequency of electromagnetic radia-
+tion it emits matches the frequency of 210Pb counts its thickness. How many times can you fold a stan-
+dardsheetofprintingpaper(0.216m 0.279m)ifyou
+measured by detector. After 8ms, what type of elec- ×
+always fold from the middle of the longer edge?
+tromagnetic radiation is produced by the oscillator?
+a) 5
+a) Radar
+b) 6
+b) Red light
+c) 7
+c) Ultra-violet
+d) 12
+d) X-rays
+Question 14 Question 18
+To submerge a block of wood which is less dense than A circuit contains nothing but a battery of voltage V
+water,oneneedstoexertaforcedownwardwhichdoes wired to three resistors of resistance R. Which of the
+a positive amount of work on the block. Which of the followingcannotbethepowerdissipatedinthecircuit
+following is correct for this situation to occur? (assuming negligible resistance for the wires)?
+a) P =V2/(3R)
+a) The work done by the external force is stored as
+b) P =3V2/R
+potential energy in the block.
+c) P =3V2/(2R)
+b)Theblockismovingdownward,thereforeits poten-
+2
+d) P =2V /(3R)
+tial energy is decreasing, thus the work done by the
+e) All of the above are possible
+external force is all converted to heat, due to friction.
+c) The work done by external force is all stored as ki-
+netic energy in the block. Question 19
+d)Thepotentialenergyofthewaterisincreasedwhile Inabinarystarsystemconsistingoftwostarsofequal
+the potential energy of the block is decreased. mass, where is the gravitational potential equal to
+e) The total energy of the block is conserved. zero? Assume that for a single star in empty space,
+f)Thetotalenergyoftheblockandwaterisconserved. the potential is zero at infinity.
+a) Exactly halfway between the stars.
+Question 15
+b) Along a line bisecting the line connecting the stars
+In 1929,Edwin Hubble discoveredthat the universe is
+and perpendicular to the plane of the stars’ orbit.
+expanding. He observed that galaxies far away from
+c) Infinitely far from the stars.
+us are moving away at a speed that is proportional to
+d)Atanypointonaplanebisectingthelineconnecting
+their distance from us (you can assume the constant
+the stars and perpendicular to the plane of the stars’
+of proportionality is time-independent). For a galaxy
+orbit.
+thatobeysHubble’slaw,whichofthefollowingcanbe
+the graph of distance (from Earth) versus time? For
+each plot, t=0 corresponds to the present.
+4
+
+Question 20 A
+In Young’s double-slit experiment, both slits are illu-
+minated by a laser beam and the interference pattern
+isobservedonascreen. Iftheviewingscreenismoving
+B C
+farther from the slits, what will happen to the inter-
+ference pattern?
+a)The pattern gets brighter.
+b)Thepatterngetsbrighterandthefringesmovecloser
+to each other and to the central fringe.
+c)The pattern gets brighter and the fringes move far-
+ther from the central fringe and from each other.
+d)The pattern gets less bright and fringes appear far-
+ther apart. a) A quarter as much.
+e)There is no change in the pattern. b) Half as much.
+f)The pattern becomes unfocused. c) The same.
+d) Twice as much.
+e) Four times as much.
+Question 21
+A ball is dropped to the Earth from a height of 2m. Question 24
+Neglecting the air resistance, which one of the follow- Aboxsitsonahorizontalsurfacethatexertsanormal
+ing graphsrepresentsthe kinetic energyof the ball vs. force N on the box. You apply a horizontalforce to it
+time? and it does not move. If youhad applied a force twice
+as large, it still would not have moved. Let µ be the
+s
+coefficient of static friction of the surface. While you
+KE/J KE/J are applying your initial force, which of the following
+is true of the force of friction acting on the box?
+a) F =0
+f
+b) F <µ N
+f s
+a) T/s b) T/s c) F f ≤ µ s N
+KE/J KE/J d) F f =µ s N
+e) F µ N
+f s
+≥
+f) F >µ N
+f s
+c) d) Question 25
+T/s T/s
+Which of the following is closer to the dimensions of
+a solar cell panel that can produce enough energy for
+a family in Vancouver in summer time? The following
+Question 22
+information might be useful:
+What will happen to the magnitude of the optical
+The price ofresidentialelectricity in BritishColumbia
+power of a lens when it is placed in water (n = 1.33)
+isapproximately6.90centsperkWh. Atypicalhouse-
+compared to its power in the air (n=1)?
+hold’s monthly electricity bill is $40 in the summer.
+Thepowerperareafromsunlightthatreachesthecity
+of Vancouver is about 0.5kW/m2 (averaged over 24
+a)It will increase. hours) during the period of June-September.
+b)It will decrease. The efficiency of a typical solar cell is about 20%.
+c)It will stay the same.
+a) 30cm 30cm
+d)It will depend on whether the lens is converging or ×
+b) 3m 3m
+diverging. ×
+c) 30m 30m
+×
+d) 300m 300m
+×
+e)The sizeofthepanelmustbemuchbiggerthanany
+Question 23 of these numbers, since it is always cloudy in Vancou-
+The three electric heaters in the following circuit all ver and the city does not get enough sunshine!
+have the same resistance. Given that the total heat
+emitted by a heater is proportional to the power dis-
+sipated, the total heat produced by B and C together,
+compared with the heat produced in A, is:
+5
+
+Part B: Problems
+Problem 1
+Whenanobjectsbreaks,manyofthe molecularbonds
+get detached, but in this process, some of the energy
+that caused the break turns into heat and sound wave
+energy.
+In this problem we want to understand what percent-
+ageoftheenergythatcausesabreakisactuallyusedto
+break the molecular bondings. As a simple model we
+can think of glass as a cubical structure, which means a) What was the average speed of the “tooth” in one
+each SiO2 molecule occupies a cube of side length a, of the expansion joints?
+andeachcubicmoleculesitehas1bondingwitheachof
+b) At 6in the morning a piece of tire rubber fell into
+its neighbouring cubes. The energy required to break
+a crack in front of one of the “fingers”, filling it com-
+this bond is called bonding energy, denoted by E .
+b pletely. The rubber was 10cm long and had a cross
+Furthermore, in this problem we are only interested section of 4cm2. What was the force acting on the
+in the order of magnitude of the values we obtain.
+rubber along its length at 2 PM?
+The following image shows a piece of glass of dimen-
+sions 25mm 75mm 1mm that is fallen down from c) What will be the vertical force needed to pull this
+a height 150 × cm and b × roken into pieces. piece of rubber vertically to remove it?
+Clearly state all the assumptions that youmade while
+solving this problem. Data: The elastic constant of
+such a piece of rubber compressed along its length is
+28N/m. Thecoefficientoffrictionbetweenthe rubber
+and steel is 0.35. The linear Expansion coefficient of
+steel 13 10
+−6K −1.
+The linear Expansion coefficient
+of rubbe
+×
+r 77 10
+−6K −1.
+×
+Problem 3
+Aplanetwithoutatmosphereinorbitaroundastarra-
+diates away an amount of energy equal to the amount
+ofenergyitreceivesfromthestar. Therefore,theaver-
+a)Usingthe image,estimate the totallengthofcracks
+age surface temperature of the planet is constant over
+and thereby the total number of broken bonds.
+decades. Imagine an Earth-sized planet without at-
+b) Using the latent heatof vaporizationfor glass,esti-
+mosphere orbiting around a Sun-sized star (with the
+mate the bonding energy of glass.
+sameradiationpowerasthesun)atadistanceof1AU
+c) What percentage of the energy in this collision is (AU is the AstronomicalUnit, equal to the Earth-Sun
+used to break the bonds? distance).
+Numerical Values:
+a) What portion of the energy radiated by the star is
+captured by the planet? (Assume that planet absorbs
+3
+Density of glass: ρ g =2g/cm all the energy it receives)
+•
+b)AccordingtoStefan-Boltzmann’slaw,thepowerper
+•
+Molecular mass of SiO2: M
+SiO2
+=60g/mol
+area emitted from the surface of an object at temper-
+ature T is I = σT4 for which σ is Stefan’s constant.
+Assuming the power output of the star is the same as
+Latent heat of Vaporization for glass: L =
+• g theSun(3.85 1026W),findthesurfacetemperatureof
+10kJ/g
+×
+the planet. Compare this result to the averagesurface
+temperature of the Earth (288K). How much differ-
+ence does the atmospheremake inthe surface temper-
+Problem 2
+ature of Earth? Would Earth be warm enough to be
+ThemainspanoftheLionGateBridgehasalengthof habitableforhumansifitdidnothaveanatmosphere?
+473m. Oneachendthere arethe expansionjoints like
+the one on the photo below. They allow the span to c) Neptune is the outer-most planet in our solar sys-
+expand horizontally without warping the steel frame tem at distance 30.4AU. If we assume that Nep-
+of the span. One day the temperature in Vancou- tune absorbs all the energy it receives from the Sun,
+ver changed from 4 to +15 degrees between 6in the whatistheaverageuniformsurfacetemperatureofthis
+−
+morning and 2in the afternoon. planet?
+6
+
+Question 1 a b c d e f
+Question 2 a b c d e f
+Question 3 a b c d e f
+Question 4 a b c d e f
+Question 5 a b c d e f
+Question 6 a b c d e f
+Question 7 a b c d e f
+Question 8 a b c d e f
+Question 9 a b c d e f
+Question 10 a b c d e f
+Question 11 a b c d e f
+Question 12 a b c d e f
+Question 13 a b c d e f
+Question 14 a b c d e f
+Question 15 a b c d e f
+Question 16 a b c d e f
+Question 17 a b c d e f
+Question 18 a b c d e f
+Question 19 a b c d e f
+Question 20 a b c d e f
+Question 21 a b c d e f
+Question 22 a b c d e f
+Question 23 a b c d e f
+Question 24 a b c d e f
+Question 25 a b c d e f
+7
+

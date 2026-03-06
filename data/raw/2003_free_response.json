@@ -1,0 +1,104 @@
+{
+  "year": 2003,
+  "questions": [
+    {
+      "id": "2003_FR1",
+      "year": 2003,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "At TRIUMF, a large experimental particle and nuclear physics research facility on the campus of the University of British Columbia, one major programme involves the production of intense beams of unstable isotopes of alkali atoms (potassium K, rubidium Rb, francium Fr). These have the advantage that since their outermost shell contains only one electron, their closed shell structure when they are ionised simplifies calculations. Many isotopes are produced when bombarding a calcium oxide target with 0.5 GeV protons from the TRIUMF accelerator. Until recently, the desired isotope was selected by means of the TRIUMF Isotope Separator On-Line (TISOL)—now decommissioned and replaced by a combined separator/accelerator called ISAC—and sent as a low-speed beam to experimental areas. You are asked to design a (much) simplified version of TISOL. More specifically, you want to select $^{38}K$ ions whose energy is 20 keV. $^{38}K$ has a mass of $6.3 \\times 10^{-26}$ kg. Separation should proceed in two steps, as illustrated below. The figure shows the desired path of a 20 keV $^{38}K$ ion through the system. This path is to be achieved by means of suitable uniform time-independent electromagnetic fields. Interactions between ions can be neglected here.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "In the first step, out of all ions ($^{38}K$ or not) entering the velocity selector from the left, only those that have a speed corresponding to a 20 keV $^{38}K$ ion should be undeflected. Suggest a field configuration that can do this, draw a sketch showing the direction of the field(s), and derive as much information as you can about the magnitude of the field(s)."
+        },
+        {
+          "label": "b",
+          "text": "In the second step, only $^{38}K$ ions should be deflected so that the radius $R$ of their trajectory is 2.1 m. Again, suggest a suitable field configuration for this, draw a sketch showing the direction of the field(s), and derive as much information as you can about the magnitude of the field(s)."
+        }
+      ],
+      "given_data": "$^{38}K$ ions have energy 20 keV and mass $6.3 \\times 10^{-26}$ kg",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Shows a two-stage system with (1) Velocity Selector and (2) Mass Separator, with a curved path of radius R for the $^{38}K$ ion",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2003_FR2",
+      "year": 2003,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Tides are mainly caused by the gradient (or variation) of the gravitational force of the Moon and of the Sun across the Earth's diameter. Large water masses, such as Earth's oceans, bulge along the direction of the gradient and are pinched in the perpendicular direction. As the Earth rotates, the bulges (high tide regions) move across the surface of the Earth. Now the Bay of Fundy, between New Brunswick and Nova Scotia, is reputed to have the highest tides in the world. Their amplitude is only about a metre at the mouth, by entrance to the bay, whereas at the other end, 260 km away, the amplitude reaches up to 16 m. You may assume that the relevant speed of water waves in the bay (for very long wavelengths and shallow enough depth) is about 25 m/s. The bay is narrow compared to its length. Using the above data, investigate whether the unusually high tides could be the result of a resonance excited by the Moon in the bay. Assume that the depth of the bay is uniform, and neglect the influence of the Sun. Hint: calculate the period of the water oscillations in the bay.",
+      "parts": [],
+      "given_data": "Bay of Fundy length: 260 km, tidal amplitude at mouth: ~1 m, tidal amplitude at end: ~16 m, water wave speed: ~25 m/s",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2003_FR3",
+      "year": 2003,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "The next-generation large space telescope is scheduled for launch in 2010. It will be put in orbit around the Sun, in a special zone where its distance relative to the Earth and to the Sun can remain constant. The location of such zones was first calculated in the XVIII$^{th}$ century by the French-Italian mathematician Joseph-Louis Lagrange. Even though it relies on approximations, Lagrange's full solution is fairly involved, but you should still be able to make a good qualitative guess at a partial solution. Consider two point masses, $M_1$ and $M_2$, referring respectively to the Sun and the Earth. Both orbit around their common centre of mass at angular velocity $\\omega$ and with a period of one year. These orbits are circular to a good approximation, and the distance $R$ between $M_1$ and $M_2$ is constant. Since $M_1 \\gg M_2$, the motion of $M_1$ is not detectable at the scale of the figure below and can be neglected. We wish to find where, on the line that joins $M_1$ and $M_2$, an object of mass $m$ (which we can take to be at $M_1$'s position) can also orbit the centre of mass (which we can take to be at $M_1$'s position) with the same, constant, angular velocity $\\omega$. We can also safely assume that $m$ is so small that it does not influence the motion of $M_1$ and $M_2$.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Write down the equation that must be satisfied by the forces acting on the orbiting $m$ in terms of $\\omega$, $M_1$, $M_2$, $R$ and $x$, where $x$ is the distance between $m$ and $M_1$."
+        },
+        {
+          "label": "b",
+          "text": "Show that in the limit $M_2 \\ll M_1$, this condition can be written $u^3 - 1 = \\pm \\frac{\\alpha u^2}{(1 \\pm u)^2}$ where $u \\equiv x/R$, and $\\alpha \\equiv M_2/M_1$."
+        },
+        {
+          "label": "c",
+          "text": "Do not attempt to solve this algebraic equation. Instead, use physical arguments to find how many solutions there are for $x$ and where roughly the Lagrange zones are positioned on the $x$ axis. Provide a qualitative sketch based on the above figure, and explain your reasoning."
+        },
+        {
+          "label": "d",
+          "text": "The Webb space telescope (as it is called) will operate at a temperature of about 35 K and, therefore, it should be shielded from heat sources at all times. While having as unobstructed a view of the sky as possible. Discuss which (if any) of your solutions is most suitable for the Webb telescope."
+        },
+        {
+          "label": "e",
+          "text": "If there are other Lagrange zones off the $x$ axis, they cannot be found from the equation in (b), but what would be their minimum number? Justify your answer."
+        }
+      ],
+      "given_data": "Hint: To a good approximation Kepler's Third Law for the system is $\\omega^2 R^3 = GM_1$",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Shows two masses $M_1$ and $M_2$ with distance $R$ between them, and a coordinate system with $x$ axis",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

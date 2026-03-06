@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAP Exam Question Verifier</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        header {
+            background: #2563eb;
+            color: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        header h1 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+        .stats {
+            display: flex;
+            gap: 20px;
+            font-size: 0.9rem;
+        }
+        .stats span {
+            background: rgba(255,255,255,0.2);
+            padding: 4px 12px;
+            border-radius: 4px;
+        }
+        .navigation {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        button {
+            background: #2563eb;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.9rem;
+        }
+        button:hover {
+            background: #1d4ed8;
+        }
+        button:disabled {
+            background: #9ca3af;
+            cursor: not-allowed;
+        }
+        button.secondary {
+            background: #6b7280;
+        }
+        button.success {
+            background: #16a34a;
+        }
+        button.danger {
+            background: #dc2626;
+        }
+        select, input[type="text"], input[type="number"] {
+            padding: 10px;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            font-size: 0.9rem;
+        }
+        .main-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        @media (max-width: 1000px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+        }
+        .panel {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .panel h2 {
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            color: #374151;
+            border-bottom: 2px solid #e5e7eb;
+            padding-bottom: 10px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 500;
+            color: #374151;
+        }
+        textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            font-family: inherit;
+            font-size: 0.9rem;
+            resize: vertical;
+        }
+        textarea.question-text {
+            min-height: 150px;
+        }
+        .choices-grid {
+            display: grid;
+            gap: 10px;
+        }
+        .choice-row {
+            display: flex;
+            gap: 10px;
+            align-items: flex-start;
+        }
+        .choice-row label {
+            min-width: 30px;
+            font-weight: bold;
+            padding-top: 10px;
+        }
+        .choice-row textarea {
+            flex: 1;
+            min-height: 60px;
+        }
+        .checkbox-group {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .checkbox-group input[type="checkbox"] {
+            width: 20px;
+            height: 20px;
+        }
+        .pdf-viewer {
+            width: 100%;
+            height: 600px;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+        }
+        .status-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+        .status-verified {
+            background: #dcfce7;
+            color: #166534;
+        }
+        .status-unverified {
+            background: #fef3c7;
+            color: #92400e;
+        }
+        .jump-controls {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        #loadingOverlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+        #loadingOverlay .spinner {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .file-input-wrapper {
+            margin-bottom: 20px;
+            padding: 20px;
+            background: #f9fafb;
+            border-radius: 8px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="loadingOverlay">
+        <div class="spinner">Loading...</div>
+    </div>
+
+    <div class="container">
+        <header>
+            <h1>CAP Exam Question Verifier</h1>
+            <div class="stats">
+                <span>Total: <strong id="totalCount">0</strong></span>
+                <span>Verified: <strong id="verifiedCount">0</strong></span>
+                <span>Remaining: <strong id="remainingCount">0</strong></span>
+                <span>Current: <strong id="currentId">-</strong></span>
+            </div>
+        </header>
+
+        <div class="file-input-wrapper" id="fileInputWrapper">
+            <p>Load questions.json to begin:</p>
+            <input type="file" id="fileInput" accept=".json">
+            <p style="margin-top:10px;font-size:0.85rem;color:#6b7280;">Or drag & drop the file here</p>
+        </div>
+
+        <div class="navigation" style="display:none;" id="navControls">
+            <button onclick="prevQuestion()" id="prevBtn">&larr; Previous</button>
+            <button onclick="nextQuestion()" id="nextBtn">Next &rarr;</button>
+            <button onclick="nextUnverified()" class="secondary">Next Unverified</button>
+
+            <div class="jump-controls">
+                <label>Jump to:</label>
+                <select id="yearSelect" onchange="filterByYear()">
+                    <option value="">All Years</option>
+                </select>
+                <input type="number" id="questionNum" placeholder="Q#" style="width:70px;">
+                <button onclick="jumpToQuestion()" class="secondary">Go</button>
+            </div>
+
+            <button onclick="saveToFile()" class="success" style="margin-left:auto;">Save JSON</button>
+        </div>
+
+        <div class="main-content" style="display:none;" id="mainContent">
+            <div class="panel">
+                <h2>
+                    Question Editor
+                    <span class="status-badge" id="statusBadge">Unverified</span>
+                </h2>
+
+                <div class="form-group">
+                    <label>Year: <span id="yearDisplay"></span> | Question: <span id="numDisplay"></span> | Section: <span id="sectionDisplay"></span></label>
+                </div>
+
+                <div class="form-group">
+                    <label for="questionText">Question Text:</label>
+                    <textarea id="questionText" class="question-text" onchange="markDirty()"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label>Answer Choices:</label>
+                    <div class="choices-grid" id="choicesGrid">
+                        <!-- Choices will be populated dynamically -->
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="correctAnswer">Correct Answer:</label>
+                    <select id="correctAnswer" onchange="markDirty()">
+                        <option value="">Unknown</option>
+                        <option value="a">A</option>
+                        <option value="b">B</option>
+                        <option value="c">C</option>
+                        <option value="d">D</option>
+                        <option value="e">E</option>
+                        <option value="f">F</option>
+                    </select>
+                </div>
+
+                <div class="form-group" style="display:flex;gap:20px;align-items:center;">
+                    <div class="checkbox-group">
+                        <input type="checkbox" id="hasDiagram" onchange="markDirty()">
+                        <label for="hasDiagram">Has Diagram</label>
+                    </div>
+                    <div>
+                        <label for="pageNum">Page #:</label>
+                        <input type="number" id="pageNum" min="1" max="20" style="width:60px;" onchange="markDirty()">
+                        <button onclick="copyCurrentPage()" class="secondary" style="padding:5px 10px;font-size:0.8rem;">Use Current</button>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="diagramDesc">Diagram Description:</label>
+                    <textarea id="diagramDesc" rows="2" onchange="markDirty()"></textarea>
+                </div>
+
+                <div class="form-group checkbox-group">
+                    <input type="checkbox" id="verifiedCheckbox" onchange="toggleVerified()">
+                    <label for="verifiedCheckbox">Mark as Verified</label>
+                </div>
+
+                <div style="display:flex;gap:10px;margin-top:20px;">
+                    <button onclick="saveCurrentQuestion()" class="success">Save Changes</button>
+                    <button onclick="revertChanges()" class="danger">Revert</button>
+                </div>
+            </div>
+
+            <div class="panel">
+                <h2>PDF Page Images</h2>
+                <div class="form-group" style="display:flex;gap:10px;align-items:center;">
+                    <label>Year:</label>
+                    <select id="pdfSelect" onchange="loadPageImages()">
+                        <option value="">Select year...</option>
+                    </select>
+                    <label>Page:</label>
+                    <select id="pageSelect" onchange="showPage()">
+                    </select>
+                    <button onclick="prevPage()" class="secondary">&larr;</button>
+                    <button onclick="nextPage()" class="secondary">&rarr;</button>
+                </div>
+                <div id="pageImageContainer" style="position:relative;overflow:auto;max-height:500px;border:1px solid #d1d5db;border-radius:6px;background:#f0f0f0;">
+                    <canvas id="cropCanvas" style="cursor:crosshair;"></canvas>
+                </div>
+                <div style="margin-top:10px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
+                    <button onclick="saveCrop()" class="success" id="saveCropBtn" disabled>Save Diagram</button>
+                    <button onclick="clearCrop()" class="secondary" id="clearCropBtn">Clear Selection</button>
+                    <span id="cropStatus" style="font-size:0.85rem;color:#6b7280;">Click and drag on image to select diagram region</span>
+                </div>
+                <div id="croppedPreview" style="margin-top:10px;display:none;background:#dcfce7;padding:10px;border-radius:6px;">
+                    <p style="font-size:0.85rem;font-weight:500;color:#166534;">Diagram captured! Click "Save Changes" then "Save JSON" to keep it.</p>
+                    <img id="croppedImage" style="max-width:100%;border:2px solid #16a34a;border-radius:4px;margin-top:8px;">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let data = null;
+        let currentIndex = 0;
+        let filteredQuestions = [];
+        let isDirty = false;
+
+        // File input handling
+        document.getElementById('fileInput').addEventListener('change', handleFileSelect);
+
+        // Drag and drop
+        const wrapper = document.getElementById('fileInputWrapper');
+        wrapper.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            wrapper.style.background = '#e0e7ff';
+        });
+        wrapper.addEventListener('dragleave', () => {
+            wrapper.style.background = '#f9fafb';
+        });
+        wrapper.addEventListener('drop', (e) => {
+            e.preventDefault();
+            wrapper.style.background = '#f9fafb';
+            const file = e.dataTransfer.files[0];
+            if (file) loadFile(file);
+        });
+
+        function handleFileSelect(e) {
+            const file = e.target.files[0];
+            if (file) loadFile(file);
+        }
+
+        function loadFile(file) {
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                try {
+                    data = JSON.parse(e.target.result);
+                    initializeApp();
+                } catch (err) {
+                    alert('Error parsing JSON: ' + err.message);
+                }
+            };
+            reader.readAsText(file);
+        }
+
+        function initializeApp() {
+            document.getElementById('fileInputWrapper').style.display = 'none';
+            document.getElementById('navControls').style.display = 'flex';
+            document.getElementById('mainContent').style.display = 'grid';
+
+            // Populate year selector
+            const years = [...new Set(data.questions.map(q => q.year))].sort();
+            const yearSelect = document.getElementById('yearSelect');
+            yearSelect.innerHTML = '<option value="">All Years</option>';
+            years.forEach(y => {
+                yearSelect.innerHTML += `<option value="${y}">${y}</option>`;
+            });
+
+            // Populate PDF selector
+            const pdfSelect = document.getElementById('pdfSelect');
+            pdfSelect.innerHTML = '<option value="">Select year...</option>';
+            years.forEach(y => {
+                pdfSelect.innerHTML += `<option value="${y}">${y} Exam</option>`;
+            });
+
+            filteredQuestions = [...data.questions];
+            updateStats();
+            loadQuestion(0);
+        }
+
+        function updateStats() {
+            const total = data.questions.length;
+            const verified = data.questions.filter(q => q.verified).length;
+            document.getElementById('totalCount').textContent = total;
+            document.getElementById('verifiedCount').textContent = verified;
+            document.getElementById('remainingCount').textContent = total - verified;
+        }
+
+        function filterByYear() {
+            const year = document.getElementById('yearSelect').value;
+            if (year) {
+                filteredQuestions = data.questions.filter(q => q.year == year);
+            } else {
+                filteredQuestions = [...data.questions];
+            }
+            currentIndex = 0;
+            loadQuestion(0);
+        }
+
+        function loadQuestion(index) {
+            if (isDirty && !confirm('You have unsaved changes. Discard?')) {
+                return;
+            }
+
+            if (index < 0 || index >= filteredQuestions.length) return;
+
+            currentIndex = index;
+            const q = filteredQuestions[currentIndex];
+
+            document.getElementById('currentId').textContent = q.id;
+            document.getElementById('yearDisplay').textContent = q.year;
+            document.getElementById('numDisplay').textContent = q.number;
+            document.getElementById('sectionDisplay').textContent = q.section || 'A';
+            document.getElementById('questionText').value = q.text || '';
+            document.getElementById('correctAnswer').value = q.correct_answer || '';
+            document.getElementById('hasDiagram').checked = q.has_diagram || false;
+            document.getElementById('diagramDesc').value = q.diagram_description || '';
+            document.getElementById('verifiedCheckbox').checked = q.verified || false;
+            document.getElementById('pageNum').value = q.page || '';
+
+            // Update status badge
+            const badge = document.getElementById('statusBadge');
+            if (q.verified) {
+                badge.textContent = 'Verified';
+                badge.className = 'status-badge status-verified';
+            } else {
+                badge.textContent = 'Unverified';
+                badge.className = 'status-badge status-unverified';
+            }
+
+            // Load choices
+            const choicesGrid = document.getElementById('choicesGrid');
+            choicesGrid.innerHTML = '';
+            const choices = q.choices || {};
+            ['a', 'b', 'c', 'd', 'e', 'f'].forEach(letter => {
+                if (choices[letter] !== undefined || letter <= 'e') {
+                    const row = document.createElement('div');
+                    row.className = 'choice-row';
+                    row.innerHTML = `
+                        <label>${letter.toUpperCase()})</label>
+                        <textarea id="choice_${letter}" onchange="markDirty()">${choices[letter] || ''}</textarea>
+                    `;
+                    choicesGrid.appendChild(row);
+                }
+            });
+
+            // Auto-select PDF year and load page images
+            document.getElementById('pdfSelect').value = q.year;
+            loadPageImages();
+
+            isDirty = false;
+            updateNavButtons();
+        }
+
+        function updateNavButtons() {
+            document.getElementById('prevBtn').disabled = currentIndex === 0;
+            document.getElementById('nextBtn').disabled = currentIndex >= filteredQuestions.length - 1;
+        }
+
+        function prevQuestion() {
+            loadQuestion(currentIndex - 1);
+        }
+
+        function nextQuestion() {
+            loadQuestion(currentIndex + 1);
+        }
+
+        function nextUnverified() {
+            for (let i = currentIndex + 1; i < filteredQuestions.length; i++) {
+                if (!filteredQuestions[i].verified) {
+                    loadQuestion(i);
+                    return;
+                }
+            }
+            // Wrap around
+            for (let i = 0; i < currentIndex; i++) {
+                if (!filteredQuestions[i].verified) {
+                    loadQuestion(i);
+                    return;
+                }
+            }
+            alert('All questions verified!');
+        }
+
+        function jumpToQuestion() {
+            const num = parseInt(document.getElementById('questionNum').value);
+            const year = document.getElementById('yearSelect').value;
+
+            let idx = filteredQuestions.findIndex(q =>
+                q.number == num && (!year || q.year == year)
+            );
+
+            if (idx >= 0) {
+                loadQuestion(idx);
+            } else {
+                alert('Question not found');
+            }
+        }
+
+        function markDirty() {
+            isDirty = true;
+        }
+
+        function toggleVerified() {
+            markDirty();
+        }
+
+        function saveCurrentQuestion() {
+            const q = filteredQuestions[currentIndex];
+
+            // Update question data
+            q.text = document.getElementById('questionText').value;
+            q.correct_answer = document.getElementById('correctAnswer').value || null;
+            q.has_diagram = document.getElementById('hasDiagram').checked;
+            q.diagram_description = document.getElementById('diagramDesc').value;
+            q.verified = document.getElementById('verifiedCheckbox').checked;
+            q.page = parseInt(document.getElementById('pageNum').value) || null;
+
+            // Update choices
+            q.choices = {};
+            ['a', 'b', 'c', 'd', 'e', 'f'].forEach(letter => {
+                const input = document.getElementById(`choice_${letter}`);
+                if (input && input.value.trim()) {
+                    q.choices[letter] = input.value.trim();
+                }
+            });
+
+            // Update in main data array
+            const mainIdx = data.questions.findIndex(x => x.id === q.id);
+            if (mainIdx >= 0) {
+                data.questions[mainIdx] = q;
+            }
+
+            isDirty = false;
+            updateStats();
+            loadQuestion(currentIndex); // Refresh display
+            alert('Question saved!');
+        }
+
+        function revertChanges() {
+            if (confirm('Revert all changes to this question?')) {
+                isDirty = false;
+                loadQuestion(currentIndex);
+            }
+        }
+
+        function saveToFile() {
+            const blob = new Blob([JSON.stringify(data, null, 2)], {type: 'application/json'});
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'questions.json';
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+
+        let currentPageNum = 1;
+        let maxPages = 10;
+        const pageCountByYear = {
+            1994: 5, 1995: 5, 1996: 5, 1997: 5, 1998: 5, 1999: 5,
+            2000: 5, 2001: 5, 2002: 5, 2003: 6, 2004: 5, 2005: 5,
+            2006: 5, 2007: 5, 2008: 5, 2009: 6, 2010: 5, 2011: 6,
+            2012: 8, 2013: 7, 2014: 7, 2015: 10, 2016: 10, 2017: 12,
+            2018: 11, 2019: 11, 2022: 11, 2023: 11, 2024: 18, 2025: 17
+        };
+
+        function loadPageImages() {
+            const year = document.getElementById('pdfSelect').value;
+            const pageSelect = document.getElementById('pageSelect');
+
+            if (!year) {
+                pageSelect.innerHTML = '';
+                document.getElementById('pageImage').src = '';
+                return;
+            }
+
+            maxPages = pageCountByYear[year] || 10;
+            pageSelect.innerHTML = '';
+            for (let i = 1; i <= maxPages; i++) {
+                pageSelect.innerHTML += `<option value="${i}">Page ${i}</option>`;
+            }
+
+            currentPageNum = 1;
+            showPage();
+        }
+
+        function prevPage() {
+            if (currentPageNum > 1) {
+                currentPageNum--;
+                document.getElementById('pageSelect').value = currentPageNum;
+                showPage();
+            }
+        }
+
+        function nextPage() {
+            if (currentPageNum < maxPages) {
+                currentPageNum++;
+                document.getElementById('pageSelect').value = currentPageNum;
+                showPage();
+            }
+        }
+
+        function toggleZoom(img) {
+            if (img.style.maxWidth === '100%' || img.style.maxWidth === '') {
+                img.style.maxWidth = 'none';
+                img.style.cursor = 'zoom-out';
+            } else {
+                img.style.maxWidth = '100%';
+                img.style.cursor = 'zoom-in';
+            }
+        }
+
+        function copyCurrentPage() {
+            document.getElementById('pageNum').value = currentPageNum;
+            markDirty();
+        }
+
+        // Cropping functionality
+        let isDrawing = false;
+        let cropStart = null;
+        let cropEnd = null;
+        let currentImage = null;
+        let croppedDiagrams = {}; // Store cropped images by question ID
+        const canvas = document.getElementById('cropCanvas');
+        const ctx = canvas.getContext('2d');
+
+        function showPage() {
+            const year = document.getElementById('pdfSelect').value;
+            const page = document.getElementById('pageSelect').value;
+            if (year && page) {
+                currentPageNum = parseInt(page);
+                const imgPath = `../images/${year}/page_${page}.png`;
+
+                // Load image onto canvas
+                const img = new Image();
+                img.onload = function() {
+                    currentImage = img;
+                    canvas.width = img.width;
+                    canvas.height = img.height;
+                    ctx.drawImage(img, 0, 0);
+                    cropStart = null;
+                    cropEnd = null;
+                    document.getElementById('saveCropBtn').disabled = true;
+                    document.getElementById('cropStatus').textContent = 'Click and drag on image to select diagram region';
+                };
+                img.onerror = function() {
+                    ctx.clearRect(0, 0, canvas.width, canvas.height);
+                    canvas.width = 400;
+                    canvas.height = 200;
+                    ctx.fillStyle = '#f0f0f0';
+                    ctx.fillRect(0, 0, 400, 200);
+                    ctx.fillStyle = '#666';
+                    ctx.font = '16px sans-serif';
+                    ctx.textAlign = 'center';
+                    ctx.fillText('Image not found: ' + imgPath, 200, 100);
+                };
+                img.src = imgPath;
+            }
+        }
+
+        // Canvas mouse events for cropping
+        canvas.addEventListener('mousedown', (e) => {
+            if (!currentImage) return;
+            isDrawing = true;
+            const rect = canvas.getBoundingClientRect();
+            const scaleX = canvas.width / rect.width;
+            const scaleY = canvas.height / rect.height;
+            cropStart = {
+                x: (e.clientX - rect.left) * scaleX,
+                y: (e.clientY - rect.top) * scaleY
+            };
+            cropEnd = null;
+        });
+
+        canvas.addEventListener('mousemove', (e) => {
+            if (!isDrawing || !cropStart || !currentImage) return;
+            const rect = canvas.getBoundingClientRect();
+            const scaleX = canvas.width / rect.width;
+            const scaleY = canvas.height / rect.height;
+            cropEnd = {
+                x: (e.clientX - rect.left) * scaleX,
+                y: (e.clientY - rect.top) * scaleY
+            };
+
+            // Redraw image with selection rectangle
+            ctx.drawImage(currentImage, 0, 0);
+            ctx.strokeStyle = '#2563eb';
+            ctx.lineWidth = 3;
+            ctx.setLineDash([5, 5]);
+            ctx.strokeRect(
+                cropStart.x, cropStart.y,
+                cropEnd.x - cropStart.x, cropEnd.y - cropStart.y
+            );
+            ctx.setLineDash([]);
+
+            // Semi-transparent overlay outside selection
+            ctx.fillStyle = 'rgba(0,0,0,0.3)';
+            const x = Math.min(cropStart.x, cropEnd.x);
+            const y = Math.min(cropStart.y, cropEnd.y);
+            const w = Math.abs(cropEnd.x - cropStart.x);
+            const h = Math.abs(cropEnd.y - cropStart.y);
+
+            ctx.fillRect(0, 0, canvas.width, y);
+            ctx.fillRect(0, y + h, canvas.width, canvas.height - y - h);
+            ctx.fillRect(0, y, x, h);
+            ctx.fillRect(x + w, y, canvas.width - x - w, h);
+        });
+
+        canvas.addEventListener('mouseup', (e) => {
+            if (!isDrawing) return;
+            isDrawing = false;
+            if (cropStart && cropEnd && Math.abs(cropEnd.x - cropStart.x) > 10 && Math.abs(cropEnd.y - cropStart.y) > 10) {
+                document.getElementById('saveCropBtn').disabled = false;
+                document.getElementById('cropStatus').textContent = 'Region selected! Click "Save Diagram" to save.';
+            }
+        });
+
+        canvas.addEventListener('mouseleave', () => {
+            if (isDrawing) {
+                isDrawing = false;
+            }
+        });
+
+        function clearCrop() {
+            cropStart = null;
+            cropEnd = null;
+            isDrawing = false;
+            if (currentImage) {
+                ctx.drawImage(currentImage, 0, 0);
+            }
+            document.getElementById('saveCropBtn').disabled = true;
+            document.getElementById('cropStatus').textContent = 'Click and drag on image to select diagram region';
+            document.getElementById('croppedPreview').style.display = 'none';
+        }
+
+        function saveCrop() {
+            if (!cropStart || !cropEnd || !currentImage) return;
+
+            const x = Math.min(cropStart.x, cropEnd.x);
+            const y = Math.min(cropStart.y, cropEnd.y);
+            const w = Math.abs(cropEnd.x - cropStart.x);
+            const h = Math.abs(cropEnd.y - cropStart.y);
+
+            // Create cropped canvas
+            const cropCanvas = document.createElement('canvas');
+            cropCanvas.width = w;
+            cropCanvas.height = h;
+            const cropCtx = cropCanvas.getContext('2d');
+            cropCtx.drawImage(currentImage, x, y, w, h, 0, 0, w, h);
+
+            // Get data URL
+            const dataUrl = cropCanvas.toDataURL('image/png');
+
+            // Store for current question
+            const q = filteredQuestions[currentIndex];
+            croppedDiagrams[q.id] = dataUrl;
+            q.diagram_image = dataUrl;
+            q.has_diagram = true;
+            document.getElementById('hasDiagram').checked = true;
+
+            // Show preview
+            document.getElementById('croppedImage').src = dataUrl;
+            document.getElementById('croppedPreview').style.display = 'block';
+
+            // Update status
+            document.getElementById('cropStatus').textContent = 'Diagram saved for ' + q.id + '!';
+
+            // Set page number
+            document.getElementById('pageNum').value = currentPageNum;
+
+            // Clear selection but keep image
+            cropStart = null;
+            cropEnd = null;
+            ctx.drawImage(currentImage, 0, 0);
+            document.getElementById('saveCropBtn').disabled = true;
+
+            markDirty();
+        }
+
+        // Update loadQuestion to show existing diagram
+        const originalLoadQuestion = loadQuestion;
+        loadQuestion = function(index) {
+            originalLoadQuestion(index);
+
+            // Show cropped diagram if exists
+            const q = filteredQuestions[currentIndex];
+            if (q && (q.diagram_image || croppedDiagrams[q.id])) {
+                const imgSrc = q.diagram_image || croppedDiagrams[q.id];
+                document.getElementById('croppedImage').src = imgSrc;
+                document.getElementById('croppedPreview').style.display = 'block';
+            } else {
+                document.getElementById('croppedPreview').style.display = 'none';
+            }
+        };
+    </script>
+</body>
+</html>

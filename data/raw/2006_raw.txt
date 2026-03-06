@@ -1,0 +1,338 @@
+1
+CAP High School Prize Exam
+7 April 2006
+Competitor’s Information Sheet
+The following information will be used to inform competitors and schools of the exam results, to determine
+eligibility for some subsequent competitions, and for statistical purposes. Only the marking code, to be assigned
+by the local examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS.
+Family Name:________________________________Given Name:_______________________
+Home Address:_________________________________________________________________
+_________________________________ Postal Code:______________________
+Telephone: ( )____________________ E-mail: __________________________________
+School: ____________________________________________________________ Grade:_____
+Physics Teacher: _______________________________________________________________
+Date of Birth: ___________________________ Sex: Male Female
+Citizenship: ______________________________________________________
+For how many years have you studied in a Canadian school? ____________________________
+Would you prefer the further correspondence in French or English? _______________________
+Sponsored by:
+Canadian Association of Physicists
+Canadian Chemistry and Physics Olympiads
+
+2
+Canadian Association of Physicists
+2006 Prize Exam Question 4
+A bullet of mass m and speed v hits a pendulum bob of mass
+This is a three-hour exam. National ranking and prizes will
+M at time t , and passes completely through the bob. The
+be based on a student’s performance on sections A, B, and C 1
+bullet emerges at time t with a speed of v/2. The pendulum
+of the exam. Part A consists of twenty multiple-choice 2
+bob is suspended by a stiff rod of length l and negligible
+questions; part B consists of five questions that require
+mass. After the collision, the bob can barely swing through
+graphic solutions. The problems in part C can also require
+a complete vertical circle. At time t , the bob reaches the
+graphing. 3
+highest position.
+Performance on questions in parts A and B will be used to
+What quantities are conserved
+determine whose written work in part C will be marked for
+in this process?
+prize consideration by the CAP Exam National Committee.
+(a) Total kinetic energy
+The questions in part C have a range of difficulty. Do be
+of the bob and the
+careful to gather as many of the easier marks as possible
+bullet during the time
+before venturing into more difficult territory. If an answer to
+interval Δt = t – t . v v/2
+part (a) of a question is needed for part (b), and you are not 2 1
+(b) Total momentum of
+able to solve part (a), assume a likely solution and attempt
+the bob and the bullet
+the rest of the question anyway. No student is expected to
+complete this exam and parts of each problem may be very
+during the time interval Δt = t
+2
+- t
+1
+.
+challenging. (c) Total mechanical energy of the bob and the bullet
+Non-programmable calculators may be used. Please be during the time interval t 3 – t 1 . v v/2
+careful to answer the multiple-choice questions on the (d) Momentum of the bob after t 2 .
+answer card/sheet provided; most importantly, write your
+Question 5
+solutions to the three long problems on three separate
+The diagram shows a circuit with four identical light bulbs.
+sheets as they will be marked by people in different parts of
+Canada. Good luck!
+Data
+Speed of light c = 3.00x108 m/s
+Gravitational constant G = 6.67x1011 N·m2/kg2 A B 120 V AC
+Acceleration due to gravity g = 9.80 m/s2
+Fundamental charge e =1.60x10-19 C
+Mass of electron m = 9.11x10-31 kg
+e C D
+Mass of proton m = 1.67x 10-27 kg
+p
+Planck’s constant h = 6.63x10-34 J·s
+Coulomb’s constant 1/(4πε ) = 8.99x109 N·m2/C2 When we remove bulb A from the circuit, the light intensity
+0
+Boltzmann constant k = 1.38x10-23 J/K of bulb C:
+(a) remains the same;
+(b) increases;
+Part A: Multiple Choice
+(c) decreases;
+Question 1
+(d) becomes zero.
+A uniform meter stick is supported on a fulcrum at the 25-
+cm mark. A 0.50-kg object is hung from the 0-cm end of the
+Question 6
+meter stick, and the stick is balanced horizontally. The mass
+The amplitude of an electromagnetic wave in vacuum is
+of the meter stick is:
+doubled with no other changes made to the wave. As a
+(a) 0.25 kg; (b) 0.50 kg;
+result of this doubling of the amplitude, which of the
+(c) 0.75 kg; (d) 0.75 kg;
+following statements is correct?
+(a) The speed of propagation of the wave changes.
+Question 2
+The radius of the Earth is 6.37·106m. Approximately how (b) The frequency of the wave changes.
+(c) All of the above are true.
+fast is a person on the Equator moving due to the Earth
+(d) None of the above is true.
+rotation?
+(a) 5 m/s
+Question 7
+(b) 50 m/s
+Two objects are initially at rest on a frictionless surface.
+(c) 500 m/s
+Object 1 has a greater mass than object 2. The same
+(d) 5000 m/s
+constant force starts to act on each object. The force is
+removed from each object after it accelerates over a
+Question 3
+distance d. After the force is removed from both objects,
+In a certain region of space, the electric field is zero. From
+which statement is correct (p: momentum; K: kinetic
+this we can conclude that the electric potential in this region
+energy)?
+is:
+(a) p < p ; (b) p > p ; (c) K > K ; (d) K < K .
+(a) constant; (b) zero; 1 2 1 2 1 2 1 2
+(c) positive; (d) negative;
+
+3
+Question 8 and is a quadratic function of the speed of an object. Some
+A dart is loaded into a spring-loaded toy dart gun by time after the beginning of motion in the presence of air
+pushing the spring in by a distance d. For the next loading, resistance, the velocity of each sphere becomes constant. It
+the spring is compressed a distance 2d. How much faster is called the terminal velocity. The ratio of terminal
+does the second dart leave the gun compared to the first? velocities of the spheres v /v is:
+big small
+(a) four times as fast; 1 1
+(b) two times as fast; (a) 2; (b) 2 ; (c) ; (d)
+2 2
+(c) the same;
+(d) half as fast;
+(e) one-fourth as fast. Question 13
+Astronauts are weightless in orbit because:
+(a) they are beyond the pull of gravity;
+Question 9
+(b) they travel in the accelerated frame of reference
+One of two parallel metallic plates is uniformly charged
+where fictitious centrifugal force is equal to
+with charge + q, and the other one is charged with charge -q.
+centripetal force, and the net force on an
+In this case, the electric field between them is E. When the
+astronaut is zero;
+negatively charged plate is discharged then recharged with a
+(c) they are in free fall together with their spacecraft;
+positive charge 4q, the electric field between the plates
+(d) of another cause.
+becomes:
+(a) 0;
+Question 14
+(b) 1.5 E;
+Two solid objects of the same mass are supplied with heat at
+(c) 2.5 E;
+(d) 3E;
+the same rate ΔQ / Δt. The temperature of the first object
+(e) 5E. with latent heat L 1 and specific heat capacity c 1 changes
+according to graph 1 on the diagram. The temperature of the
+Question 10 second object with latent heat L 2 and specific heat capacity
+A uniform magnetic field B c 2 changes according to graph 2 on the diagram.
+is directed out of the page. A
+metallic wire has the shape
+of a square frame and is
+placed in the field as shown.
+While the shape of the wire
+is steadily transformed into a
+circle in the same plane, the
+current in the frame: B
+(a) is directed clockwise;
+(b) does not appear;
+(c) is directed counterclockwise. Based on what is shown on the graph, the latent heats L 1 and
+L , and the specific heat capacities c and c in solid state
+2 1 2
+obey which of the following relationships:
+Question 11
+(a) L > L ; c < c ;
+The drawing shows velocity (v) versus time (t) graphs for 1 2 1 2
+(b) L < L ; c < c ;
+two cyclists moving along the same straight segment of a 1 2 1 2
+highway from the same point. The second cyclist starts (c) There is not enough information to determine these
+moving at t = 3.0 min. relations;
+At what time do the two cyclists meet? (d) L 1 > L 2 ; c 1 > c 2 ;
+(a) 4.0 min; (e) L 1 < L 2 ; c 1 > c 2 .
+(b) 6.0 min;
+(c) 12 min. Question 15
+A light ray strikes a prism as
+v shown in the drawing. The
+angles of the prism are 90o,
+45o, and 45o. The critical
+angle of the prism material is
+49o. What rays are the
+0 3.0 4.0 t,min possible continuations of the
+incident ray?
+Question 12 (a) The ray 1 only.
+Two solid spheres manufactured of the same material freely (b) The ray 2 only.
+fall down in the air. One sphere has a diameter twice as (c) The ray 3 only.
+large as the other. The force due to air resistance is (d) Both rays 1 and 3.
+proportional to the cross-sectional area of a moving object (e) Both rays 2 and 3.
+erutarepmeT 1 2
+Time
+1
+Incident ray 1
+2
+Incident ray
+2
+3
+3
+
+4
+(a) zero force;
+Question 16 (b) an attractive force proportional to q/h2;
+You stand on a platform at a train station and listen to a train (c) an attractive force proportional to q2/h2;
+horn as the train approaches the station at a constant (d) an attractive force proportional to q2/ 4h2;
+velocity. While the train approaches, but before it arrives, (e) a repulsive force proportional to q2/ h2.
+you hear:
+(a) the intensity and the frequency of the sound both Part B: Problems that require graphic solutions
+increasing;
+(b) the intensity and the frequency of the sound both Question 21
+decreasing; A heavy pendulum bob is swinging back and forth when the
+(c) the intensity increasing and the frequency string, supporting it, suddenly breaks. Ignoring the mass of
+decreasing; the string and air resistance, draw the path of the subsequent
+(d) the intensity decreasing and the frequency motion of the bob if the string breaks when the bob is at its
+increasing; highest point.
+(e) the intensity increasing and the frequency
+remaining the same;
+Question 17
+A linear conductor with current I is placed along the axis of
+1
+a circular conductor, which carries current I .
+2
+The magnetic force acting on each of the conductors is:
+(a) zero;
+(b) directly proportional to the product of currents I
+1
+and I , and inversely proportional to the radius of
+2
+the circular conductor;
+(c) directly proportional to the product of currents I
+1
+and I , inversely proportional to the square of the
+2
+radius of the circular conductor;
+(d) directly proportional to the product of current I ,
+1
+current I , and the area of a circular conductor;
+2
+Question 18
+An aquarium is filled with water. The lateral wall of the Question 22
+aquarium is 40 cm long and 30 cm high. Using 10 m/s2 for A long vertical tube with a weightless movable piston inside
+the acceleration due to gravity, and 1 g/cm3 for the density has its lower end under water. The tube is motionless
+of water, the force on the lateral wall of the aquarium is: throughout the experiment. The cross-sectional area of the
+(a) 36 N; piston is A. The initial position of the piston is just over the
+(b) 90 N; surface of the water. Then it is slowly moved upwards.
+(c) 180 N; Sketch a graph of the force necessary to lift the piston as a
+(d) 1500 N. function of the height of the piston.
+Question 19
+A satellite is moved from one circular orbit around the earth,
+to another of lesser radius. Which of the following is true?
+(a) The kinetic energy increases and the potential
+energy increases;
+(b) The kinetic energy increases, and the potential
+energy decreases;
+(c) The kinetic energy decreases and the potential
+energy decreases;
+(d) The kinetic energy decreases and the potential
+energy increases.
+Question 20
+A point particle carries a positive charge +q and is
+maintained at an a distance h above a large conductive
+uncharged plate. The electric force of interaction between
+the charge and the plate is best described as:
+
+5
+Question 23 Part C: Problems
+On the same graph, draw the following two functions: 1) Problem 1
+kinetic energy versus speed of a particle according to
+classical mechanics and 2) the same function for Einstein’s
+relativistic theory.
+y
+F
+x ext
+Sand from a stationary hopper falls onto a moving conveyor
+belt at a rate of 5.00 kg/s as shown above. The conveyor belt
+is supported by frictionless rollers and moves at a constant
+speed of 0.75 m/s under the action of a constant horizontal
+Question 24 external force F supplied by the motor that drives the belt.
+ext
+An electron is moving at a constant velocity in a region of Find:
+space with a uniform electric field of 1.0·103 N/C and a 1) the force of friction exerted by the belt on the sand;
+uniform magnetic field of 1.0·10-3T. The electric field has 2) the external force F ; F
+ext ext
+only an x-component while the magnetic field has only a y- 3) the work done by F in 1 s;
+ext
+component. 4) the kinetic energy acquired by the falling sand each
+Sketch a vector diagram for the velocity of the electron, the second due to the change in its horizontal motion; Fig.1
+magnetic field, and the electric field in the Cartesian system 5) compare and analyse the answers to 3) and 4).
+of coordinates.
+Problem 2
+A source of electric power with electromotive force E and
+internal resistance r, is connected to a resistor.
+1) Find the power delivered to the resistor as a function of
+the resistance of the resistor.
+2) Find the power produced by the source as a function of
+the resistance of the resistor.
+3) Sketch graphs of these two functions.
+4) Treating the efficiency of the source as the ratio of
+power consumed to power produced by the source, find
+Question 25 the efficiency of the source of electric power as a
+A brick is on an incline whose angle of inclination can be function of the resistance of the resistor and sketch the
+changed from 0 to 90 degrees. graph of this function.
+Sketch a graph of the force of friction acting on the brick 5) Find the resistance of the resistor that corresponds to
+versus the angle of inclination in the given range. the maximum power delivered to the resistor, and
+calculate the efficiency for this resistance.
+Problem 3
+A point source of light is moving uniformly along a straight
+line, which intersects the optical axis of a converging lens
+under a small angle α at a distance 2F from the lens with a
+focal distance F. The speed of the source of light is v .
+0
+i. Draw the lens, the trajectory of the source of light,
+and the trajectory of its image produced by the
+lens.
+ii. Draw the vector diagram for the velocity of the
+source of light, the velocity of the image, and the
+relative velocity of the image with respect to the
+source.
+iii. Determine the minimum relative speed of the
+image of the source of light with respect to the
+source.
+

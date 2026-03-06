@@ -1,0 +1,352 @@
+Canadian Association of Physicists Part A: Multiple Choice
+2000 Prize Exam
+Question 1
+Thisisathreehourexam. Nationalrankingandprizes
+Two high performance bicycle wheels have the same
+willbebasedonastudent’sperformanceonbothsectionsA
+mass but one is a solid disk and the other is a hoop with
+and B of the exam. However, performance on the multiple
+very light (as compared to the mass of the rim) spokes.
+choice questions in part A will be used to determine whose
+Whichwheeltakesthemostenergytoacceleratetoaspeed
+written work in part B will be marked for prize consider-
+v? Ignore any air and rolling resistances.
+ation by the National Committee. The questions in part
+(a) The disk wheel requires more energy.
+B of the exam have a range of di–culty. Please be careful
+to gather as many of the easier marks as possible before (b) The spoked wheel requires more energy.
+venturingintomoredi–cultterritory. Insomecasesanan- (c) Both take the same amount of energy.
+swertopart(a)ofaquestionisneededforpart(b). Should
+(d) It depends on the radius of each wheel.
+you not be able to solve part (a), assume a likely solution
+andattempttherestofthequestionanyway. Nostudentis
+Question 2
+expected to completely flnish this exam and parts of each
+question are very challenging. An astronaut on a strange planet flnds that the accel-
+eration due to gravity is two times greater than that on
+Non-programmable calculators may be used. Please
+earth. Which of the following could explain this?
+be very careful to answer the multiple choice questions on
+the answer card/sheet provided to you and, most impor- (a) The mass of the planet is half that of the earth’s but
+tantly, write your solutions to the three written problems its radius is the same.
+on separate sheets as they will be marked by difierent peo-
+(b) The radius of the planet is half that of the earth’s but
+ple in difierent parts of Canada. Good luck.
+its mass is the same.
+(c) Both the mass and the radius are twice the earth’s
+Data
+values.
+Speed of light c=3:00£108 m/s
+(d) Both the mass and the radius are half the earth’s val-
+Gravitational constant G=6:67£10¡11 Nm2/kg2
+ues.
+Radius of Earth R =6:38£106 m
+E
+Radius of Moon R =1:70£106 m
+M
+Mass of Earth M =5:98£1024 kg Question 3
+E
+Mass of Moon M =7:35£1022 kg A ball of mass of 10 g is hung from the end of a
+M
+Mass of Sun M =1:99£1030 kg light vertical spring and set oscillating with an amplitude
+S
+Radius of Moon’s orbit R =3:84£108 m of 10 cm. The period of the oscillation is 1 s. If the ball
+EM
+Radius of Earth’s orbit R =1:50£1011 m is now replaced by another with a mass of 40 g and again
+ES
+Acceleration due to gravity g =9:81 m/s2 set oscillating with the same amplitude, its new period of
+Fundamental charge e=1:60£10¡19 C oscillation will be,
+Mass of electron m =9:11£10¡31 kg
+e (a) 1 s.
+Mass of proton m =1:673£10¡27 kg
+p
+Mass of neutron m =1:675£10¡27 kg (b) 2 s.
+n
+Planck’s constant h=6:63£10¡34 Js (c) 4 s.
+Coulomb’s constant 1=4…† o =8:99£109 Nm2/C2 (d) 8 s.
+Permeability of free space „ =4…£10¡7 N/A2
+o
+Speed of sound in air v =340 m/s
+s Question 4
+Density of air ‰=1:2 kg/m3
+Boltzmann constant k =1:38£10¡23 J/K Thehumanearcanal,whichisopentotheatmosphere
+Absolute zero T =0 K, T =¡273–C and ends at the ear drum, is about 3 cm long. Which of
+Energy Conversion 1 eV=1:6£10¡19 J the following is the best approximation to the fundemental
+Avogadro’s number N =6:02£1023 mol¡1 resonant frequency of the ear canal?
+A
+(a) 1,500 Hz
+(b) 3,000 Hz
+(c) 6,000 Hz
+(d) 11,000 Hz
+
+Canadian Association of Physicists Prize Exam 2000
+Question 5 Question 9
+A metal ball is connected to the ground with a wire In photographic darkrooms, the only source of light is
+via a switch. The switch is initally closed (i.e.the ball is usuallyaredlightbulb. Afterspendingtimeinadarkroom,
+connected to ground) while a charge +Q is brought close aperson’seyebecomesadjustedtothelightbuteverything
+to the ball (but not touching). While the charge is near appearstobeinblackandwhite. Sincearedsurfacere(cid:176)ects
+the ball, the switch is opened and then the charge is taken all red light, it will appear \white". Which of the following
+away. The charge on the ball is now, colours will appear to be the brightest?
+(a) zero. (a) Green
+(b) positive. (b) Blue
+(c) negative. (c) Purple
+(d) unchanged from its initial charge. (d) Black
+Question 6 Question 10
+In the light from a distant star, a particular spectral Millikan’soildropexperimentattemptstomeasurethe
+lineisobserved. Thewavelengthofthislinevariesbetween charge on a single electron, e, by measuring the charge on
+being about 2% shorter than the same line as observed in tiny oil drops suspended in an electrostatic fleld. It is as-
+an earth based laboratory, and about 2% longer. Which of sumedthatthechargeontheoildropsisduetojustasmall
+the following best describes the star. number of excess electrons. The charges 3:90£10¡19 C,
+6:50£10¡19 C, and 9:10£10¡19 C are measured on three
+(a) The star is moving away from the earth.
+drops of oil. The charge of an electron is deduced to be,
+(b) The star is moving towards the earth.
+(a) 1:3£10¡19 C.
+(c) The star is very, very massive as compared to the sun.
+(b) 1:6£10¡19 C.
+(d) Thestarisorbitingaboutsomemassivehiddenobject.
+(c) 2:6£10¡19 C.
+(d) 3:9£10¡19 C.
+Question 7
+A metal bar rotates about a vertical axis which passes
+Question 11
+through the center of the bar. The axis of rotation is per-
+Two mirrors are joined together so that they make an
+pendicular to the length of the bar. There is a uniform
+angle of 60– as shown.
+magnetic fleld in the vertical direction. The emf (or po-
+tential difierence) induced between the two ends of the bar
+is,
+(a) zero.
+P
+(b) a sinusoidally oscillating value. 60°(cid:13)
+(c) a non-zero positive value.
+(d) a non-zero negative value.
+Question 8
+ApersonstandsatapointP whichisonthelinewhich
+A projector shows an image which is in focus but too bisectsthe60– angle. Howmanyimagesofherselfdoesthe
+largeforthescreenonwhichitisshown. Sincetheprojector person see?
+and the screen are flxed in place, the projectionist must,
+(a) 1
+(a) adjust the projector’s lens by moving it closer to the
+(b) 3
+screen.
+(c) 6
+(b) adjust the projector’s lens by moving it farther from
+(d) inflnite number
+the screen.
+(c) replace the projector’s lens with one having a shorter
+focal length.
+(d) replace the projector’s lens with one having a longer
+focal length.
+2
+
+Canadian Association of Physicists Prize Exam 2000
+Question 12 (a) 0.01 s
+(b) 0.10 s
+Consider a roller coaster with a loop-the-loop. The
+loop is not circular (that would be too dangerous) but has (c) 0.50 s
+a radius of curvature which decreases with height. A roller (d) 1.00 s
+coaster car starts from rest from the top of a hill which is
+5 m higher than the top of the loop. It rolls down the hill Question 16
+and through the loop. What must the radius of curvature
+Acircuitiscomprisedof8identicalbatteriesconnected
+at the top of the loop be so that the passengers of the car
+in series as shown.
+willfeel, atthatpoint, asiftheyhavetheirnormalweight?
+(a) 5 m
+(b) 10 m V
+(c) 15 m
+(d) 20 m
+Each battery has an emf of 1.5 V and an internal
+Question 13 resistance of 0.2 ›. What is the reading on a voltmeter
+connected across any one of the batteries?.
+Two identical conducting balls have positive charges
+q 6=q respectively. Theballsarebroughttogethersothat (a) 0.0
+1 2
+they touch and then put back in their original positions. (b) 1.3 V
+The force between the balls is,
+(c) 1.5 V
+(a) The same as it was before the balls touched. (d) 12 V
+(b) Greater than before the balls touched.
+Question 17
+(c) Less than before the balls touched.
+EachbranchinthefollowingcircuithasaresistanceR.
+(d) Zero.
+Question 14
+A B
+Helium4Hebecomesasuper(cid:176)uidattemperaturesT <
+2
+2:18K.Asuper(cid:176)uid(cid:176)owswithnoviscosity. Thisbehaviour
+can only be explained using quantum physics and it can
+onlyhappenifthedeBrogliewavelengthofaheliumatom,
+Theequivalentresistanceofthethecircuitbetweenthe
+ofmassm,iscomparabletotheinter-atomicspacingofthe
+points A and B is,
+(cid:176)uid. Which of the following could be an expression for ‚,
+(a) R
+the de Broglie wavelength?
+p (b) 2R
+(a) ‚=h= 3mkT
+p (c) 4R
+(b) ‚= 3mkT=rh
+p (d) 8R
+(c) ‚= h=3mkT
+p
+Question 18
+(d) ‚=3mkT= h
+Which of the following statements is true concerning
+the elastic collision of two objects?
+Question 15
+(a) Noworkisdoneonanyofthetwoobjects,sincethere
+Inagameofegg-toss,twoplayerstossaneggbackand is no external force.
+forthbetweenthemwhilemovingfartherandfartherapart.
+(b) Theworkdonebytheflrstobjectonthesecondisequal
+Theloseristhepersonwhobreakstheeggwhencatchingit.
+to the work done on the second by the flrst.
+The force required to break an egg’s shell is about 5 N and
+a typical egg has a mass of about 50 g. If the players are (c) The work done by the flrst object on the second is
+10 m apart, and the eggs are thrown with initial velocities exactly the opposite of the work done on the second
+directed at 45– above the horizontal, what is the shortest by the flrst.
+time that a player can take to arrest the motion of the egg (d) The work done on the system depends on the angle of
+so as not to break it? collision.
+3
+
+Canadian Association of Physicists Prize Exam 2000
+Question 19 (a) Yes
+Which of the following statements is false? (b) Yes, but only if „ k mgcos(cid:181) <mgsin(cid:181)
+(a) The momentum of a heavy object is greater than that (c) Yes, but only if „ k mgcos(cid:181) >mgsin(cid:181)
+of a light object moving at the same speed. (d) No
+(b) In a perfectly inelastic collision, all the initial kinetic
+energy of the colliding bodies is dissipated. Question 23
+(c) The momentum of a system of colliding bodies may A proton is moving with a speed of u directly towards
+be conserved even though the total mechanical energy an alpha-particle (Helium nucleus) which, when the two
+may not. particleswereveryfarapartfromoneanother,wasinitially
+(d) The velocity of the center of mass of a system is the atrest. Whatistheseparationoftheparticlesattheirpoint
+system’s total momentum divided by its total mass. of closest approach? You may assume that m fi =4m p .
+(a) r =e2=…† m u2
+o p
+Question 20
+(b) r =e2=4…† m u2
+Which of the following statements is true? o p
+(c) r =5e2=4…† m u2
+(a) The observed doppler shift for sound waves depends o p
+(d) r =5e2=8…† m u2
+only on the relative motion of the source and the re- o p
+ceiver.
+Question 24
+(b) Only transverse waves can difiract.
+(c) Two wave sources that are out of phase by 180– are Red light from a HeNe laser has a wavelength of
+630 nm. If it is normally incident upon an optical difirac-
+incoherent.
+tiongratingwith2000linespercentimeter,howmanymax-
+(d) Interference patterns are only observed for coherent
+ima (including the central maximum) may be observed on
+sources.
+a screen which is far from the grating?
+Question 21 (a) 14
+An airplane circumnavigates the globe by (cid:176)ying above (b) 15
+the equator and at a constant altitude above sea level. If (c) 16
+the plane repeats the journey but (cid:176)ies at an altitude which
+(d) 17
+is 1000 m higher than before, how much larger a distance
+through the atmosphere does the plane travel as compared
+Question 25
+to the flrst time?
+(a) 6.283 km Which of the following statements is true?
+(b) 62.83 km (a) The capacitance of a capacitor is the total amount of
+(c) 628.3 km charge it can store.
+(d) 6283 km (b) The equivalent capacitance of two capacitors in series
+is the sum of the two capacitances.
+Question 22 (c) A dielectric material inserted between the conductors
+A block of mass m is at rest on an inclined plane. The of a capacitor increases its capacitance.
+coe–cients of static and kinetic friction between the block (d) The electrostatic energy stored by a capacitor is equal
+andtheplaneare„ s and„ k <„ s . Theanglethattheplane to the ratio of the charge on either conductor to the
+makes with the horizontal satisfles tan(cid:181) = „ s . A string is potential difierence between the conductors.
+attached to the block. Is it possible to pull on the string in
+such a way that the block will slide with constant velocity
+along a horizontal line? That is to say, can the block slide
+along a line of constant elevation?
+4
+
+Canadian Association of Physicists Prize Exam 2000
+Part B (b) If a wind v blows from the west (i.e.to the east), flnd
+w
+the time that the plane would take for a round trip
+Problem 1 from town A to B and back again. Show that it is
+greater than T.
+A mass spectrometer measures the mass of ions. An
+ionisacceleratedtoahighspeedandinjectedintoaregion (c) If a wind v blows from the south (i.e.to the north),
+w
+withauniformmagneticfleldwhichisperpendiculartothe sketch a diagram showing the heading that the plane
+ion’s velocity. The ion will follow a curved trajectory and must (cid:176)y so as to (cid:176)y in a straight line from town A to
+impact a photographic plate some distance away from the town B. Again, flnd the round trip time for (cid:176)ying in
+injection point. By measuring this distance, the ion’s mass such a cross wind.
+can be deduced.
+(d) Show that regardless of the wind direction, the round
+B triptimefora(cid:176)ightfromtownAtoB andbackagain
+O P
+is longer than if there was no wind whatsoever. Find
+film
+anexpressionfortheroundtriptimeifawindv blows
+w
+v
+in an arbitrary direction.
+m , q
+Problem 3
+Suppose singly charged (q = +e) ions of 39K and 41K
+19 19 Leonardo da Vinci was commissioned by the Duke of
+are accelerated to an energy of 500 eV and injected into a
+Milan to construct a Bronze statue as a tribute to his late
+magnetic fleld B = 0:7 T. The velocity of the ions upon
+father. The proposed size was to be twenty three feet tall
+enteringthemagneticfleldisperpendiculartothelineOP.
+and weigh 80 tons (73,000 kg). For this task Leonardo
+(a) Whatspeeddoeachoftheionshavewhentheyimpact had to develop new casting methods to construct this mas-
+the photographic plate at a point P? sive statue. By 1499 the French invaded Milan and he had
+onlycompleteda22-footclaymodelwhichwasusedbythe
+(b) What is the shape of the trajectory for the ions? Find
+French soldiers for target practice. The project was never
+the distance OP for each of the two ions.
+completed.
+(c) In reality, things are not quite so simple. Variations
+Heavystatuesneedtobeplaceduponverystrongcon-
+in the ions’ velocities can cause problems with the res-
+crete pedestals. The compressive strength of high strength
+olution of the machine. If the initial energy of the concrete ranges from 10 { 70 N/mm2. Lets take a typi-
+ions cannot be held precisely at 500 eV, there will be
+cal high-strength concrete with a compressive strength of
+a small variation in the distances OP. Suppose that s = 50 N/mm2 and a density of ‰ = 1250 kg/m3. This
+the energy of the ions is 500§5 eV. Can the two ions
+concrete will crumble if a pressure of greater than this is
+be distinguished from one another when they hit the
+applied.
+screen?
+(a) Suppose Leonardo’s statue (a horse with four feet
+(d) Suppose that the velocity of the ions when they enter
+touchingtheground)istobeplacedonsuchaconcrete
+themagneticfleldcannotbeheldperpendiculartothe
+pedestal. What must be the minimum area of each of
+line OP. If there is a small variation of §fi about a
+the horse’s feet so as not to damage the pedestal?
+perpendicular injection angle, flnd the variation in the
+length of OP. Can the two ions be distinguished from (b) Now, more generally, what is the maximum height of
+one another if fi=3–? a conical mountain made of high strength concrete?
+(c) Finally, outline the design constraints that go into
+Problem 2 making a free standing concrete structure with the
+A town B is directly east of a town A. The two towns maximum possible height.
+areadistanceLapart. Intheabsenceofanywind, aplane
+can (cid:176)y from town A to B in a time T. The speed of the
+airplane, v =L=T is called the plane’s air-speed. Assume
+o
+in all that follows that the plane always has the same air-
+speed. If the plane (cid:176)ys with a tail wind of speed v , then
+w
+itwillhaveaspeedwithrespecttotheground,v givenby
+g
+v =v +v . This is called the plane’s ground-speed.
+g o w
+(a) Explain how the plane could have a ground-speed of
+zero.
+5
+

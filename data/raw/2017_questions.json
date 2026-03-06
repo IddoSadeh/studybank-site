@@ -1,0 +1,438 @@
+{
+  "year": 2017,
+  "questions": [
+    {
+      "id": "2017_Q01",
+      "year": 2017,
+      "number": 1,
+      "text": "On a dry day you comb your hair. Afterwards you will be used to determine whose written work in part B notice that bringing the comb close to small bits of pa- will be marked for prize consideration by the CAP Exam per attracts the paper, causing it to jump off the table National Committee. Part A consists of 25 multiple- towards the comb. The correct explanation for this phe- choice questions. The questions in part B span a range nomena involves: of difficulties, and may require graphing. Be careful to",
+      "choices": {
+        "a": ", assume a likely solution and the paper is positively charged. attempt the rest of the question anyway. Non-programmable calculators may be used. Please be",
+        "b": "The comb is negatively charged after combing, and not able to solve part (",
+        "c": "The comb is charged and the paper has no net careful to answer the multiple-choice questions on the charge. answer sheet provided; most importantly, write your",
+        "d": "The comb has no net charge and the paper has no solutions to the three long problems on three separate net charge. sheets astheywill be markedbypeoplein differentparts of Canada. Good luck.",
+        "e": "Thecombhasnonetcharge,thepaperhaspositive Notice: Full marks will be given to students who pro- charge. vide full correct solutions to the long problems. Partial marks will be given for partial solutions. There are no"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q02",
+      "year": 2017,
+      "number": 2,
+      "text": "Ittakesarayoflightroughly2.5millionyearstotravel penalties for incorrect answers. The questions are not of from our galaxy to the Andromeda galaxy. In a new sci- equal difficulty. Remember we are challenging the best ence fiction film, travelers aboard a spaceship reach the physics students in Canada; it is possible that even the Andromeda galaxy by traveling at high speed. The trav- bestpapersmaynotachieveanoverallscoreof80%. This elers get about 15 years older during the journey. Which is meant to be tough! of the following statements is true? Data",
+      "choices": {
+        "a": "This is impossible, although an observer on Earth would see the travelers aging slowly, in fact the ob- Speed of light c=3.00×108m/s servers age more quickly. Gravitational constant G=6.67×10−11N ·m2kg2 Acceleration due to gravity g =9.81m/s2",
+        "b": "This is impossible, the travelers would need to live Normal atmospheric pressure P =1.01×105Pa foratleast2.5millionyearstoreachtheAndromeda 0 Density of fresh water ρ=1.00×103kg/m3 galaxy. Specific heat of water C =4186J/(kg·K) w",
+        "c": "This is a possible scenario. An observer in the An- Specific heat of ice C =2050J/(kg·K) i dromeda galaxy would measure the travel time to Latent heat of water L =2260kJ/kg w beover2.5millionyears,buttimerunsmoreslowly Latent heat of ice L =334kJ/kg i for the travelers. Density of ice ρ =916kg/m3 i Fundamental charge e=1.60×10−19C",
+        "d": "This is a possible scenario, but only if the travelers Mass of electron m =9.11×10−31kg go faster than the speed of light. e",
+        "e": "4d"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q03",
+      "year": 2017,
+      "number": 3,
+      "text": "Electrophorus electricus, commonlyknownastheelec- d) 50 cm tric eel, is capable of producing an 860 volt difference between its head and tail. When using this ability to e) 75 cm stun prey, the electric eel will sometimes form a U shape",
+      "choices": {
+        "d": "50 cm tric eel, is capable of producing an 860 volt difference between its head and tail. When using this ability to",
+        "e": "75 cm stun prey, the electric eel will sometimes form a U shape"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q04",
+      "year": 2017,
+      "number": 4,
+      "text": "H Molar mass 2.016g/mol 2 Canadian Association of Physicists 2017 O Molar mass 31.998g/mol 2 Prize Exam N Molar mass 28.013g/mol 2 Mass of the Earth 5.97×1024kg This is a three-hour exam. National ranking and prizes Mass of the Sun 1.99×1030kg willbebasedonstudents’performanceonsectionsAand B of the exam. Performance on the questions in part A",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q05",
+      "year": 2017,
+      "number": 5,
+      "text": "A tennis ball rolls along a rough surface. Initially the engines turn on for a time much shorter than the orbital ball has a speed v. After a distance d the speed has been period of the spaceship, and accelerate the spaceship in reduced to v/2. What total distance will the tennis ball the direction of its velocity vector. The new orbit of the travel? Assumethattheroughsurfaceappliesaconstant spaceship is most like: force to the tennis ball.",
+      "choices": {
+        "a": "Experiment1waswithlowenergyelectrons,exper- iment 2 with high energy.",
+        "b": "Experiment 1 was with high energy electrons, ex- periment 2 with low energy.",
+        "c": "7d",
+        "d": "It is not possible to say which experiment was with high energy and which with low energy based on the graphs shown.",
+        "e": "Which of the experiments was performed with the high energy electrons, and which with low energy?"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q06",
+      "year": 2017,
+      "number": 6,
+      "text": "You hold your arms outstretched and level in front of you. Yourestameterstickonyourhands,withthe0cm markonyourlefthandandthe75cmmarkonyourright hand. Slowly and keeping your hands level, you bring yourhandstogether. Whenyourhandstoucheachother, they will be at the mark for",
+      "choices": {
+        "a": "0 cm",
+        "b": "25 cm Figure",
+        "c": "37.5 cm"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q07",
+      "year": 2017,
+      "number": 7,
+      "text": "If a stationary object was released near to the surface asshowninFig. 1. Thishastheeffectthattheeel’sprey of the Sun, with approximately what acceleration would is more likely to be stunned. Why is this? it fall?",
+      "choices": {
+        "a": "5m/s2 creased.",
+        "b": "The electric field between the head and tail is in- creased.",
+        "c": "The electric field near the center of the eel is in-",
+        "d": "The voltage at the head and tail are increased by the same amount.",
+        "e": "1000m/s2"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q08",
+      "year": 2017,
+      "number": 8,
+      "text": "A spaceship moves around a planet in a circular or- e) 6 W π bit as shown in Fig. 2. At this instant, the spaceship’s",
+      "choices": {
+        "e": "6 W π bit as shown in Fig. 2. At this instant, the spaceship’s"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q09",
+      "year": 2017,
+      "number": 9,
+      "text": "Electrons are fired towards a screen with two slits cut P T n(P,T)=1+0.000293 0, into it. A particle detector is placed behind the slits; the P T 0 detector is moved to determine the number of electrons where T = 300K and P = 1 atm. Consider the im- passing at different angles. The experiment is repeated 0 0 age shown in Fig. 5. This is an image taken of a large twice, once with low energy electrons and once with high ship on Lake Superior. The correct explanation for this energy electrons. The density of electrons hitting the de- phenomena is tector as a function of angle is plotted for the two exper- iments in Fig. 3 and Fig. 4.",
+      "choices": {
+        "a": "100◦C",
+        "b": "120◦C",
+        "c": "70◦C",
+        "d": "360◦C",
+        "e": "210◦C"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q10",
+      "year": 2017,
+      "number": 10,
+      "text": "The dependence of the index of refraction of air on temperature and pressure is well approximated by",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q11",
+      "year": 2017,
+      "number": 11,
+      "text": "Newtons law of cooling can be used to show that erate. The material you are building your sail out of has the temperature as a function of time takes the form amassperunitareaof0.1g/m2, andyouhaveapayload T(t) = A(1−e−Bt). Measurements of the temperature of 25g. Approximately how large does your sail have to of an object which has been removed from a freezer and be to accelerate your ship at 2cm/s2? placedinawarmroomareshowninFig. 6. Whichofthe",
+      "choices": {
+        "a": "A=20◦C and B =1/5min−1",
+        "b": "A=20◦C and B =1/2min−1",
+        "c": "A=15◦C and B =5min−1",
+        "d": "200m2",
+        "e": "250m2"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q12",
+      "year": 2017,
+      "number": 12,
+      "text": "The expansion of a rod when heated is described by theequationL(T)=L (1+α∆T)whereL isthelength 0 0 oftherodataninitialtemperatureand∆T isthechange intemperature,andαisacoefficientthatdependsonthe",
+      "choices": {
+        "a": "b)",
+        "b": "g 1.5 sphere is of radius 10.005cm, the ring has an inner ra-",
+        "c": "1.5g diusof10.000cm,bothwhenmeasuredat20◦C. Atwhat temperature does the sphere just fit through the ring?",
+        "d": "g",
+        "e": "3g"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q13",
+      "year": 2017,
+      "number": 13,
+      "text": "Electromagnetic radiation with intensity (power per unit are",
+      "choices": {
+        "a": "I exerts a pressure on a surface perpendicular to the radiation given by I/c. The sun has a radiation intensity of 1.38kW/m2 from where you will be launch- ing. You are building a solar sail spaceship - a spaceship Figure 5 that uses a large thin sheet to use light pressure to accel-"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q14",
+      "year": 2017,
+      "number": 14,
+      "text": "The work in rotational motion is given by: d) A=15◦C and B =3min−1",
+      "choices": {
+        "d": "Torque times angular displacement in degrees",
+        "a": "Torque times angular frequency",
+        "e": "Torque per unit time",
+        "b": "Torque times frequency",
+        "c": "Torque times angular displacement in radians"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q15",
+      "year": 2017,
+      "number": 15,
+      "text": "Apassengerofacarisholdingacylindricalcupoftea (shownbelow). Thepassengerkeepsthecupheldupright. Neglectingthevibrationofthecar,whatisthemaximum accelerationthatthecarcangowithoutspillinganytea? Figure 6",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q16",
+      "year": 2017,
+      "number": 16,
+      "text": "The circuit shown below is connected and left un- touched until the current in the circuit become constant. You then insert an iron rod in the inductor shown below and take it out from the other end. Which graph best represents the current during this process? c) d)",
+      "choices": {
+        "c": "d)"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q17",
+      "year": 2017,
+      "number": 17,
+      "text": "A conical, metal beam is placed between two con- c) 0.33 rotations per sec in the same direction as the stant temperature surfaces. The surfaces are at 20 and actual rotation. 100 degrees, as shown in the picture. Which one of the graphs below best represents the temperature along the center of the beam at equilibrium? d) 0.5 rotations per sec in the same direction as the actual rotation. e) 0.5rotationspersecintheoppositedirectionasthe actual rotation.",
+      "choices": {
+        "c": "0.33 rotations per sec in the same direction as the stant temperature surfaces. The surfaces are at 20 and actual rotation. 100 degrees, as shown in the picture. Which one of the graphs below best represents the temperature along the center of the beam at equilibrium?",
+        "d": "0.5 rotations per sec in the same direction as the actual rotation.",
+        "e": "0.5rotationspersecintheoppositedirectionasthe actual rotation."
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q18",
+      "year": 2017,
+      "number": 18,
+      "text": "A video camera that takes 15 frames per second is filming the rotation of a bicycle wheel. If the bicycle wheel is rotating at 2 rotations per second and has 10 spokes,atwhatspeedwoulditseemtoberotatinginthe movie?",
+      "choices": {
+        "a": "0.25 rotations per sec in the same direction as the actual rotation.",
+        "c": "d)",
+        "b": "0.25 rotations per sec in the opposite direction as the actual rotation."
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q19",
+      "year": 2017,
+      "number": 19,
+      "text": "Assuming a constant temperature of the water in an ocean, which one of these graphs best represents the ab- solute pressure of the water as a function of depth below the water’s surface? Take into account that water will compress as the pressure is increased. 6",
+      "choices": {
+        "a": "b) A B",
+        "b": "L /L =25/16",
+        "c": "d) A B",
+        "d": "L /L =9/25 A B",
+        "e": "L /L =16/25"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q20",
+      "year": 2017,
+      "number": 20,
+      "text": "Consider motion in only one dimension. An object withmassm andinitialspeedv inthedirectionofthe 1 1,i c) T(cid:",
+      "choices": {
+        "c": "T(cid:"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q21",
+      "year": 2017,
+      "number": 21,
+      "text": "A solid ball of radius R has a mass of 2 kg and is initially stationary on a flat surface. It is then hit by a 5 g bullet initially traveling at 1000 m/s. In a one-in-a- millionshot,thebullethitstheballperfectlyhead-onand sticks inside it. Due to the high friction with the surface the ball eventually reaches the state of rolling with no slipping. Whatisthefinalspeedoftheballatthisstate? (The moment of inertia of a solid sphere is I = 2mR",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q22",
+      "year": 2017,
+      "number": 22,
+      "text": "Two objects, A and B, appear the same length when A is stationary and B is moving with speed (3/",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q23",
+      "year": 2017,
+      "number": 23,
+      "text": "An inflated balloon, filled with a gas of temperature T, is held in a room with the same temperature. If we make a small hole on the side of the balloon and let the gas escape, which statement is true about the tempera- ture T’ of the gas right after leaving the balloon? e)",
+      "choices": {
+        "e": "a) T(cid:"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q24",
+      "year": 2017,
+      "number": 24,
+      "text": "It is desired that a flexible copper wire passes in a v in the direction of the negative x axis. The second 1,f straight line between two supports. The wire has a mass objecthasafinalspeedv . Ifthecollisionwasperfectly 2,f M, a length L and carries a current I. However, due to elastic, which of the following must be true? theforceofgravityonthewireitwilltendtosagbetween",
+      "choices": {
+        "a": "m 1 =m 2 thetwosupports(Fig."
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2017_Q25",
+      "year": 2017,
+      "number": 25,
+      "text": "A rotating mirror is reflecting a laser light on a",
+      "choices": {
+        "a": "ωr(cid:"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    }
+  ]
+}

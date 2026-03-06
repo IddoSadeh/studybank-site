@@ -1,0 +1,363 @@
+CAP High School Prize Exam
+April 9th, 2013
+9:00 - 12:00
+Competitor’s Information Sheet
+The following information will be used to inform competitors and schools of the exam results, to determine
+eligibilityforsomesubsequentcompetitions,andforstatisticalpurposes. Onlythemarkingcode,tobeassigned
+by the local examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS
+Family Name: Given Name:
+Home Address:
+Postal Code:
+Telephone: ( ) Email:
+School: Grade:
+Physics Teacher:
+Date of Birth: Sex: Male Female
+Citizenship:
+If not a Canadian citizen, what is your Immigration Status?
+For how many years have you studied in a Canadian school?
+Would you prefer further correspondence in French or English?
+Sponsored by:
+Canadian Association of Physicists,
+Canadian Physics Olympiad,
+The University of British Columbia,
+Department of Physics and Astronomy.
+1
+
+Canadian Association of Physicists Part A: Multiple Choice
+2013 Prize Exam
+Each multiple choice question is worth 1 point.
+Thisisathree-hourexam. Nationalrankingandprizes Question 1
+will be based on students’ performance on sections A A small block of mass m1 is released from rest at the
+and B of the exam. Performance on the questions in top of a curve-shaped, frictionless wedge of mass m2
+part A will be used to determine whose written work whichsitsonafrictionlesshorizontalsurfaceasshown.
+inpartBwillbemarkedforprizeconsiderationbythe When the block leaves the wedge its velocity is mea-
+CAP Exam National Committee. Part A consists of sured to be 4.00 m/s to the right as shown in the fig-
+twenty-five multiple-choice questions. The questions ure. Ifthemassoftheblockisdoubledtobecome2m1,
+in part B span a range of difficulties, and may require what can be said about the speed with which it leaves
+graphing. Be careful to gather as many of the easier the wedge?
+marks as possible before venturing into more difficult
+territory. If an answer to part (a) of a question is
+needed forpart(b), andyouarenot able to solvepart
+(a), assume a likely solution and attempt the rest of
+the question anyway.
+Non-programmablecalculatorsmaybeused. Pleasebe
+carefultoanswerthemultiple-choicequestionson the
+answer sheet provided;mostimportantly,writeyour
+solutionstothethreelongproblemsonthreeseparate
+sheets as they will be marked by people in different
+parts of Canada. Good luck.
+a) Its speed is less than 4.00 m/s
+Notice: Full marks will be given to a student who
+b) Its speed is equal to 4.00 m/s
+providesanyfullcorrectsolutiontothelongproblems.
+c) Its speed is greater than 4.00 m/s
+Partialmarkswillbegivenforpartialsolutions. There
+d) Not enough information is given.
+are no penalties for incorrect answers. The questions
+are not of equaldifficulty. Remember we are challeng-
+ing the best physics students in Canada; it is possible
+Question 2
+that even the best papers may not achieve an overall
+Consider the electric charges A, B, C shown in the
+score of 80%. This is meant to be tough!
+figure below, where q is a positive number. Which an-
+swercorrectlydescribesthemagnitudeofthenetforce
+experienced by the charges?
+Data
+Speed of light c=3.00×10 8 m/s
+Gravitational constant G=6.67×10 −11N·m2/kg2
+Acceleration due to gravity g =9.80m/s2
+Normal atmospheric pressure P0 =1.01×105Pa
+Density of fresh water ρ=1.00×103kg/m3
+Specific heat of water C w =4186J/(kg·K) a) F A >F B >F C
+Specific heat of ice C i =2050J/(kg·K) b) F A >F C >F B
+Latent heat of water L w =2260kJ/kg c) F B >F A >F C
+Latent heat of ice L i =334kJ/kg d) F A =F B =F C
+Density of ice ρ i =916kg/m3 e) F A >F B =F C
+Fundamental charge e=1.60×10 −19C
+Mass of electron m =9.11×10 −31kg
+e
+Mass of proton m =1.67×10 −27kg Question 3
+p
+Planck’s constant h=6.63×10 −34Js A long, straight wire carries a current that decreases
+Coulomb’s constant 1/(4πǫ0)=8.99×109N·m2/C2 linearlywithtime. Whatisthedirectionoftheinduced
+Boltzmann’s constant k =1.38×10 −23J/K electric field outside the wire?
+A.U. Astronomical Unit = 1.49598×10 11 m: The ap-
+a) Parallel to the current in the wire, in the same di-
+proximate distance from the Sun to the Earth.
+rection.
+Radius of the Earth R =6.371×106m
+Radius of the Sun R = E 6.96×108m b) Parallel to the current in the wire, in the opposite
+S direction.
+c) Pointing radially outward from the wire.
+d) Pointing radially inward toward the wire.
+e) There is no induced electric field outside the wire.
+2
+
+Question 4 was elastic.
+A car driven at a constant speed turns left. Which e) No combination of speed values could have caused
+force makes the car turn? both balls to stop after the collision.
+a) The force of friction, directed towards the left.
+b) The force of friction, directed towards the right.
+Question 9
+c)Theforcewithwhichthedriveristurningthesteer-
+ing wheel, directed towards the left. A Ferris wheel is turning about a horizontal axis
+d)Theforcewithwhichthedriveristurningthesteer- through its center. The linear speed of a passenger
+ing wheel, directed towards the right. sitting on the rim is constant. Which one of the fol-
+lowing sentences about the passenger’s acceleration is
+correct?
+Question 5
+Acycliststopspedalingatavelocityv =36km/hand a)Its magnitude atthe highestpointis higherthanat
+notices that her bike keeps moving for d = 500 m be- the lowest point, and it is downwards at both points.
+foreit stops. The totalmassofthe bike, the bikerand b) Both its magnitude and direction are the same at
+her camping equipment is m = 100 kg. What is the the highest and at the lowest points.
+average combined force on the bicycle due to friction c) Its magnitude is the same at the highest and at the
+and drag? lowest points, but the directions are opposite.
+d) Its magnitude at the highest point is smaller than
+a) 10 N
+atthelowestpoint,anditisdownwardsatbothpoints.
+b) 20 N
+c) 130 N
+d) 260 N
+Question 10
+A uniform rod is suspended on two thin strings as
+Question 6 shownbelow. Which string has a largertension force?
+A child is swinging to and fro on a playground swing.
+Attheinstantthechainsoftheswingarevertical,what
+is the direction of the child’s acceleration?
+a) Downwards.
+b) Upwards.
+c) In the direction of motion.
+d) Opposite to the direction of motion.
+e) At that moment, the acceleration is zero.
+Question 7
+Abulletofmass5gisacceleratedinariflebarrelwith
+an approximately constant force of 2500 N. The mass
+of the rifle is 5 kg. What is the force pushing the rifle
+a) The right one
+back?
+b) The left one
+a) 2.5 N c) The tension force is the same on both
+b) 2 500 N d) It depends on the angle
+c) 2 500 000 N
+d) 0 N
+Question 11
+Question 8 Two point charges −2Q and +Q are placed on the x-
+axis with −2Q at x = 0 and +Q at x = a. Which of
+Two balls of different masses collide head-on. After
+the following statements is true?
+the collision, the balls remain at rest, and no external
+forcesactonthem. Whichstatementistrueaboutthe
+a) There is no point on the x-axis where the electric
+speeds of the balls before the collision?
+field is zero.
+a) They must have been different, and the collision b) There is a point on the x-axis, at x<0, where the
+was inelastic. electric field is zero.
+b) They must have been different, and the collision c) There is a point on the x-axis, between the charges
+was elastic. (0<x<a), where the electric field is zero.
+c) They must have been identical, and the collision d) There is a point on the x-axis, at x>a, where the
+was inelastic. electric field is zero.
+d) They must have been identical, and the collision
+3
+
+Question 12 Question 16
+In a lab experiment, a laser beam hits a semicircular A girl sitting on a floating mattress in a small pool
+glassobjectoffthecentreaxis. Therayentersperpen- holds a model ofa motorboatin her hands. When she
+dicularly to the surface, and the environment is air. puts it inthe waterto startdrivingit with herremote
+Which ray diagram is correct? control, what happens to the water level in the pool?
+a) It rises by a small amount.
+b) It drops by a small amount.
+c) It stays the same.
+d) The qualitative resultdepends on the weightof the
+a) b)
+model boat.
+Question 17
+c) d)
+WhichoftheaccompanyingP−V diagramsbestrepre-
+sentsanisothermalprocess,thatisaprocessoccurring
+at constant temperature?
+e) f)
+Question 13
+You put two identical ice cubes on plates of different
+materials. Onecube isputonanaluminumplate,and
+a) b)
+theotheronaglassplate. Bothplateshavebeeninthe
+roomfor a long time priorto the experiment. Youno-
+ticethattheicemeltsfasteronthemetalplate. Why?
+a) The ice is in thermal equilibrium with the plastic
+plate, but not with the metal plate.
+b) The metal plate conducts heat to the ice more
+rapidly than the plastic plate. c) d)
+c) The metal plate holds more heat than the plastic
+plate.
+d) The metal plate was warmer than the plastic plate
+initially.
+Question 14
+e)
+Two black objects of the same diameter, a sphere and
+a flat disk, are placed in a parallel beam of light. The Question 18
+plane of the disk is perpendicular to the beam. What
+Two identical objects of mass m are connected to a
+can be said about the force acting on them?
+masslessstringwhichishungovertwofrictionlesspul-
+leys as shown below. If everything is at rest, what is
+a) The force is zero.
+the tension in the cord?
+b) The force is larger on the disk than on the sphere.
+c) The force is larger on the sphere than on the disk.
+d) The force is the same on both objects.
+Question 15
+Adriannehasadevicethatemitsphotonswithawave-
+lengthofλ=1.498km. Kwanhasasimilardevicethat
+emits photons at a frequency of f = 201 kHz. Whose
+device emits photons in air at the highest frequency?
+a) Less than mg.
+a) Adrianne’s b) Exactly mg.
+b) Kwan’s c) More than mg, but less than 2mg.
+c) The frequencies are the same. d) Exactly 2mg.
+d) There is not enough information to compare. e) More than 2mg.
+4
+
+Question 19 Question 23
+Car A and car B are both traveling down a straight Ahypotheticalplanethasdensityρ,radiusR,andsur-
+highway at 90 km/h. Car A is only 6.0 meters behind face gravitational acceleration g. What would be the
+car B. The driver of car B brakes, slowing down with acceleration due to gravity at the surface of a planet
+a constantdecelerationof 2.0m/s2. After 1.2 seconds, with double the radius, and the same planetary den-
+the driver of car A begins to brake, also at 2.0m/s2, sity?
+but this is insufficient and the cars eventually collide,
+bothstillmovingforward. Whatistherelativevelocity a) 4g
+of the two cars at the moment of the collision? b) 2g
+c) g
+a) 2.4 m/s d) g/2
+b) 5.0 m/s e) g/4
+c) 9.5 m/s
+d) 21 m/s
+e) 24 m/s Question 24
+You are given two lenses placed close together: a con-
+verginglenswithfocallength+10cm,andadiverging
+Question 20
+lens with focal length −20 cm. Which of the following
+Two interfering waves have the same wavelength, fre- would produce a virtual image that is larger than the
+quency,andamplitude. Theyaretravelinginthesame object?
+direction but are 90 degrees out of phase. Compared
+to the individual waves, what can be said about the a) Placing the object 5 cm from the converging lens.
+resultant wave? b) Placing the object 15 cm from the converging lens.
+c) Placing the object 25 cm from the converging lens.
+a) It will have the same amplitude and velocity, but a d) Placing the object 15 cm from the diverging lens.
+different wavelength. e) Placing the object 25 cm from the diverging lens.
+b) It will have the same amplitude and wavelength,
+but a different velocity.
+c) It will have the same wavelength and velocity, but Question 25
+a different amplitude.
+An electromagnetic wave is propagating in vacuum in
+d) It will have the same amplitude and frequency, but
+the positive z direction. At an instant when its mag-
+a different velocity.
+netic field B at a certain position is in the positive
+e) It will have the same frequency and velocity, but a
+x direction and getting stronger, what happens to its
+different wavelength.
+electric field E at that same position?
+a) E is in the positive x direction and getting weaker.
+Question 21
+b)E isinthenegativexdirectionandgettingstronger.
+Aspinningiceskaterhasaninitialkineticenergy 1 Iω2. c) E is in the positive y direction and getting weaker.
+2
+She pullsinheroutstretchedarms,decreasinghermo- d)Eisinthenegativeydirectionandgettingstronger.
+1
+mentofinertiato I. Whatishernewangularspeed? e) E is zero.
+4
+a) ω/4
+b) ω/2
+c) ω
+d) 2ω
+e) 4ω
+Question 22
+A ball of mass m is thrownvertically upward. Instead
+ofneglectingairresistance,assumethattheforceofair
+resistance has a magnitude proportional to the ball’s
+velocity, but pointing in the opposite direction. What
+is the ball’s acceleration at the highest point?
+a) 0
+b) Less than g.
+c) g
+d) Greater than g.
+5
+
+Part B: Problems Problem 3
+The luminosity of a star is defined as the energy it
+Problem 1
+emits per unit time. We know from astronomical ob-
+A light emitting diode (LED) is connected in series
+servationsthatthe luminosity L ofthe starsthat have
+with asuper capacitorofcapacity3000F andinternal
+a mass M < 10M is approximately related to their
+resistance ∼ 1 mΩ, and a microprocessor-controlled S
+mass as:
+resistor. The capacitor is charged to 5 V. The LED L M
+requires constant current of 800 mA. At this current, =( )
+3.5
+(1)
+L M
+S S
+the voltage drop over the LED is 2.7 V.
+where L and M are the luminosity and mass of the
+S S
+a) What should be the dependence of the variable re- Sun.
+sistor on time for the current to remain constant? Furthermore, we know from Einstein’s theory of rela-
+tivity that the energyreleasedfrom convertinga mass
+b) What should be the initial value of the resistor? M into energy is given by E =Mc2. In this problem,
+Doesthevalueoftheresistorstabilizeaftersometime,
+weassumethatallstarsburnalmostthesamefraction
+and if so, to which resistance?
+of their mass during their active life.
+c) How long can the LED operate at full brightness
+a) If the fraction of the mass converted into energy is
+before the capacitor needs to be recharged?
+α ≪ 1, first find an expression for the lifetime of a
+star in terms of its mass, luminosity, α and physical
+Problem 2
+constants.
+A light spring with a force constant of 3.85 N/m is
+compressed by 8.00 cm and held between two blocks. b) Using the luminosity-mass equation, find the life-
+The block on the left has a mass of 250 g, while the time of a star as a function of its mass.
+blockontherighthasamassof500g. Bothblocksare
+initially held at rest on a horizontal surface, and are c) If we know that the lifetime of our Sun is about 10
+thenreleasedsimultaneouslysothatthe springpushes billionyears,whatis the lifetime ofa starwith amass
+them apart. M =5M S ?
+What is the maximum velocity each block attains if
+the coefficient of kinetic friction between each block
+and the surface is 0.100 and the coefficient of static
+friction is 0.120?
+6
+
+Question 1 a b c d e f
+Question 2 a b c d e f
+Question 3 a b c d e f
+Question 4 a b c d e f
+Question 5 a b c d e f
+Question 6 a b c d e f
+Question 7 a b c d e f
+Question 8 a b c d e f
+Question 9 a b c d e f
+Question 10 a b c d e f
+Question 11 a b c d e f
+Question 12 a b c d e f
+Question 13 a b c d e f
+Question 14 a b c d e f
+Question 15 a b c d e f
+Question 16 a b c d e f
+Question 17 a b c d e f
+Question 18 a b c d e f
+Question 19 a b c d e f
+Question 20 a b c d e f
+Question 21 a b c d e f
+Question 22 a b c d e f
+Question 23 a b c d e f
+Question 24 a b c d e f
+Question 25 a b c d e f
+7
+

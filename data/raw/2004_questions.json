@@ -1,0 +1,530 @@
+{
+  "year": 2004,
+  "questions": [
+    {
+      "id": "2004_Q01",
+      "year": 2004,
+      "number": 1,
+      "text": "You are standing upright in a room in front of a vertical mirror. In this mirror, you can see from your position only the upper two-thirds of your body. You wish to see the entire length of your body reflected in the mirror. Which combination of the following three courses of action will achieve this?\n(I) Move away from the mirror;\n(II) move toward the mirror;\n(III) use a mirror whose height will allow you to see your whole image when you are at your initial position.",
+      "choices": {
+        "a": "(I) only;",
+        "b": "(II) only;",
+        "c": "(III) only;",
+        "d": "either (I) or (III)."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q02",
+      "year": 2004,
+      "number": 2,
+      "text": "A 5 kg cart collides on a horizontal surface with a 20 kg cart. Which cart experiences the smaller force because of the collision?",
+      "choices": {
+        "a": "The 5 kg cart;",
+        "b": "the forces are equal;",
+        "c": "the 20 kg cart;",
+        "d": "it depends if the collision is elastic."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q03",
+      "year": 2004,
+      "number": 3,
+      "text": "Two monkeys with the same mass stand on a branch at height h above the horizontal jungle floor. Monkey A steps off the branch holding the end of an inextensible rope of length L whose other end is tied to another branch at height H, lets go at the bottom of the swing, and falls freely to the floor, as shown below. Monkey B steps off and falls straight downward. Then, neglecting air resistance but not the tension in the rope, the total work W done on each monkey and the speed v with which each hits the floor are as follows:",
+      "choices": {
+        "a": "$W_A < W_B, v_A < v_B$;",
+        "b": "$W_A = W_B, v_A < v_B$;",
+        "c": "$W_A = W_B, v_A = v_B$;",
+        "d": "$W_A < W_B, v_A = v_B$."
+      },
+      "has_diagram": true,
+      "diagram_description": "Diagram shows two monkeys A and B on a branch at height h. Monkey A swings on a rope of length L attached to a higher branch at height H. Monkey B falls straight down. The ground level is shown below.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q04",
+      "year": 2004,
+      "number": 4,
+      "text": "A person, standing on a train that is accelerating forward at 3.5 m/s², throws a ball vertically upward. Neglecting air resistance, the magnitude of the ball's acceleration relative to the train is",
+      "choices": {
+        "a": "9.8 m/s²;",
+        "b": "10.3 m/s²;",
+        "c": "7.0 m/s²;",
+        "d": "13.1 m/s²."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q05",
+      "year": 2004,
+      "number": 5,
+      "text": "I must cross a river in the shortest possible time. Water flows downstream at a constant 5.0 m/s between the two parallel shores. Taking the direction of the flow as reference, if my boat has a maximum speed of 10 m/s, it should head at",
+      "choices": {
+        "a": "90°;",
+        "b": "120°;",
+        "c": "150°;",
+        "d": "27°."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q06",
+      "year": 2004,
+      "number": 6,
+      "text": "A hoop and a solid cylinder have the same mass and radius. They both roll, without slipping, on a horizontal surface. If their kinetic energies are equal,",
+      "choices": {
+        "a": "the hoop has a greater translational speed than the cylinder;",
+        "b": "the cylinder has a greater translational speed than the hoop;",
+        "c": "the hoop and the cylinder have the same translational speed;",
+        "d": "the hoop has a greater rotational speed than the cylinder."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q07",
+      "year": 2004,
+      "number": 7,
+      "text": "A string clamped at both ends is vibrating. At the moment the string looks flat, the instantaneous transverse velocity of points along the string, excluding its end-points, must be",
+      "choices": {
+        "a": "zero everywhere.",
+        "b": "dependent on the location along the string.",
+        "c": "not zero anywhere.",
+        "d": "non-zero and in the same direction everywhere."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q08",
+      "year": 2004,
+      "number": 8,
+      "text": "In vacuum, a potential difference $V$ is maintained between points a distance $d$ apart. The corresponding electric field $E$ accelerates an electron from rest to a speed $v$ over that distance. Which one of the following statements is true?",
+      "choices": {
+        "a": "$E$ does not depend on $d$;",
+        "b": "$E$ depends on $V$, not on $d$;",
+        "c": "$E$ depends only on $d$:",
+        "d": "$v$ depends on $V$, not on $d$."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q09",
+      "year": 2004,
+      "number": 9,
+      "text": "Light waves propagate along the length of a pipe containing a perfect vacuum and whose end caps are perfect reflectors. A standing-wave pattern is formed with frequency $f$ and wavelength $\\lambda$. When a gas with index of refraction $n$, is introduced into the pipe, which of the following changes occurs?",
+      "choices": {
+        "a": "$\\lambda$ increases;",
+        "b": "$f$ increases;",
+        "c": "$\\lambda$ decreases;",
+        "d": "$f$ decreases."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q10",
+      "year": 2004,
+      "number": 10,
+      "text": "Students claim that in a lab experiment they witnessed a head-on elastic collision between two balls on a horizontal surface which resulted in the balls being both at rest. No external horizontal force was acting at any time on the masses. Which of these comments is the most appropriate about this process?",
+      "choices": {
+        "a": "Initial speeds and masses must have been different;",
+        "b": "initial speeds and masses must have been identical;",
+        "c": "initial speeds, but not necessarily masses, were identical;",
+        "d": "the process cannot have occurred as claimed."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q11",
+      "year": 2004,
+      "number": 11,
+      "text": "The potential across a 3 μF capacitor is 12 V when it is not connected to anything. It is then connected in parallel with an uncharged 6 μF capacitor. At equilibrium, the charge $q$ on the 3 μF capacitor and the potential difference $V$ across it are",
+      "choices": {
+        "a": "$q = 12$ μC, $V = 4$ V;",
+        "b": "$q = 24$ μC, $V = 8$ V;",
+        "c": "$q = 36$ μC, $V = 12$ V;",
+        "d": "$q = 12$ μC, $V = 6$ V;"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q12",
+      "year": 2004,
+      "number": 12,
+      "text": "In subatomic physics, one often associates a characteristic wavelength $\\lambda$ with a particle of mass $m$. If $h = h/2\\pi$ ($h$ being Planck's constant) and $c$ the speed of light, which of the following expressions is most likely to be the correct one?",
+      "choices": {
+        "a": "$\\lambda = hc/m$;",
+        "b": "$\\lambda = h/mc^2$;",
+        "c": "$\\lambda = hm/c$;",
+        "d": "$\\lambda = h/mc$;"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q13",
+      "year": 2004,
+      "number": 13,
+      "text": "At equilibrium, the electric field at a point on a closed conducting surface, whether the surface is charged or neutral, can never be",
+      "choices": {
+        "a": "tangent to the surface;",
+        "b": "perpendicular to the surface;",
+        "c": "zero;",
+        "d": "directed inward since it must vanish inside."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q14",
+      "year": 2004,
+      "number": 14,
+      "text": "A uniform cubical box of mass $M$ rests on a horizontal floor with one edge against a small obstruction fixed to the floor. Can a horizontal force of magnitude $F$ applied on the box at the centre of the side opposite the obstruction tip the box?",
+      "choices": {
+        "a": "No, never;",
+        "b": "yes, only if $F > mg$;",
+        "c": "yes, $F > mg/2$ is sufficient;",
+        "d": "yes, only if $F > 2mg$."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q15",
+      "year": 2004,
+      "number": 15,
+      "text": "A circuit consists of a battery, a resistor R, and two light bulbs A and B as shown below: If the filament in lightbulb A burns out, then the following is true for light bulb B:",
+      "choices": {
+        "a": "It is turned off;",
+        "b": "its brightness does not change;",
+        "c": "it gets dimmer;",
+        "d": "it gets brighter."
+      },
+      "has_diagram": true,
+      "diagram_description": "Circuit diagram showing a battery connected to a resistor R in series, with two light bulbs A and B connected in parallel to each other, and this parallel combination is in series with the resistor and battery.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q16",
+      "year": 2004,
+      "number": 16,
+      "text": "An observer at O views two closely spaced lines on the bottom sheet through an angled slab of plastic with parallel faces, exactly as shown in the figure below. Compared to when there is no plastic, the lines appear to the observer:",
+      "choices": {
+        "a": "the same but shifted to the right;",
+        "b": "shifted to the left and spaced further apart;",
+        "c": "shifted to the right and spaced closer together;",
+        "d": "exactly as they do without the plastic slab."
+      },
+      "has_diagram": true,
+      "diagram_description": "Diagram showing an observer O viewing two parallel lines on a bottom sheet through an angled plastic slab. The plastic slab is positioned at an angle between the observer and the sheet, with parallel top and bottom faces. An arrow indicates 'right' direction.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q17",
+      "year": 2004,
+      "number": 17,
+      "text": "If all of Earth's polar ice were suddenly to melt into the oceans, in the short term the length of the day would",
+      "choices": {
+        "a": "increase",
+        "b": "remain the same",
+        "c": "decrease",
+        "d": "first decrease, then increase"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q18",
+      "year": 2004,
+      "number": 18,
+      "text": "Two identical balls, A and B, of uniform composition and initially at the same temperature, each absorb exactly the same amount of heat. A is hanging down from the ceiling while B rests on the horizontal floor in the same room. Assuming no subsequent heat loss by the balls, which of the following statements is correct about their final temperatures, $T_A$ and $T_B$, once the balls have reached their final dimension?",
+      "choices": {
+        "a": "$T_A < T_B$",
+        "b": "$T_A > T_B$",
+        "c": "$T_A = T_B$",
+        "d": "$T_A ≤ T_B$"
+      },
+      "has_diagram": true,
+      "diagram_description": "Shows ball A hanging from ceiling and ball B resting on horizontal floor",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q19",
+      "year": 2004,
+      "number": 19,
+      "text": "Two uncharged balls A and B, each very light and coated with a conducting material, hang vertically side by side just touching each other. A positively-charged glass rod is brought near ball A without touching it. Now A and B are separated and then the glass rod is removed. If $Q_A$ and $Q_B$ represent the electric charges on A and B, respectively, you conclude that",
+      "choices": {
+        "a": "$Q_A < 0$ and $Q_B < 0$",
+        "b": "$Q_A < 0$ and $Q_B > 0$",
+        "c": "$Q_A > 0$ and $Q_B < 0$",
+        "d": "$Q_A > 0$ and $Q_B > 0$"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q20",
+      "year": 2004,
+      "number": 20,
+      "text": "You are traveling at constant speed in an airtight car with a balloon floating motionless next to you. Suddenly, you slam on the brakes so as to stop the car quickly. During deceleration, with respect to the car the balloon",
+      "choices": {
+        "a": "moves forward",
+        "b": "remains motionless",
+        "c": "moves backward",
+        "d": "can move forward or backward"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q21",
+      "year": 2004,
+      "number": 21,
+      "text": "Due to tidal friction on Earth, the radius R of the Moon's orbit is increasing at the rate of a few centimetres per year. During this process, the Moon's angular momentum",
+      "choices": {
+        "a": "remains constant since its speed decreases",
+        "b": "remains constant but its total energy increases",
+        "c": "increases as $\\sqrt{R}$ while its total energy increases",
+        "d": "decreases as $\\sqrt{R}$ while its kinetic energy decreases"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q22",
+      "year": 2004,
+      "number": 22,
+      "text": "In order to measure the speed v of blood flowing through an artery, a uniform magnetic field B is applied in a direction perpendicular to the flow and a voltmeter measures the voltage across the diameter D of the artery, at right angles to B. If positive and negative ions in the blood are longitudinally at rest with respect to the flow, the speed of the flow is closest to",
+      "choices": {
+        "a": "$v = V/BD$",
+        "b": "$v = BD/V$",
+        "c": "$v = VD/B$",
+        "d": "$v = B/VD$"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q23",
+      "year": 2004,
+      "number": 23,
+      "text": "A bar magnet with its north (N) and south (S) poles as shown below is initially moving to the left, along the axis of, and away from a circular conducting loop. A current I is induced in the loop, with a the acceleration of the magnet due to this current. As seen from the magnet looking in the direction of the loop,",
+      "choices": {
+        "a": "I runs clockwise and a points to the left",
+        "b": "I runs counterclockwise and a points to the right",
+        "c": "I runs clockwise and a points to the right",
+        "d": "I runs counterclockwise and a points to the left"
+      },
+      "has_diagram": true,
+      "diagram_description": "Shows a bar magnet with S and N poles moving left, away from a circular conducting loop",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q24",
+      "year": 2004,
+      "number": 24,
+      "text": "You are moving a negative charge q < 0 at a small constant speed away from a conducting spherical shell on which resides a negative charge Q < 0. The electrostatic field of Q is E. Let U be the total energy of q, $W_s$ the work done by the force $F_s$ you exert on q, and $W_E$ the work done by the electrostatic force $F_E$ on q. Then, as q is being moved,",
+      "choices": {
+        "a": "$W_s = -W_E$, and therefore U remains constant",
+        "b": "$F_s = -F_E$, and therefore U remains constant",
+        "c": "U increases",
+        "d": "U decreases"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2004_Q25",
+      "year": 2004,
+      "number": 25,
+      "text": "An ice cube of pure fresh water floats on pure fresh water in a glass. A huge ice shelf, also of pure fresh water, floats on the ocean away from Antarctica. Neglecting the contribution due to the density of air, as the ice cube and the iceberg melt,",
+      "choices": {
+        "a": "the water level rises both in the glass and in the ocean",
+        "b": "the water level does not change in either case",
+        "c": "the water level stays the same in the glass but rises in the ocean",
+        "d": "the water level decreases in the glass but stays the same in the ocean"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    }
+  ]
+}

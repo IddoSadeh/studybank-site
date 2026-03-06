@@ -1,0 +1,125 @@
+{
+  "year": 2018,
+  "questions": [
+    {
+      "id": "2018_FR1",
+      "year": 2018,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A closed 5-litre cylinder containing 0.25 g of a substance in solid and liquid forms was slowly heated using a constant power. A graph of the temperature as a function of time is shown below. The heat capacity of the liquid is 2.43 J/(g · K), the latent heat of melting is 105 J/g, and the molar density is 46 g/mol.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "What is the melting point of the substance?"
+        },
+        {
+          "label": "b",
+          "text": "What is the boiling point of the substance?"
+        },
+        {
+          "label": "c",
+          "text": "How much of the substance was solid at the beginning?"
+        },
+        {
+          "label": "d",
+          "text": "What is the latent heat of evaporation of the substance?"
+        },
+        {
+          "label": "e",
+          "text": "What is the specific heat of the gaseous state of the substance?"
+        },
+        {
+          "label": "f",
+          "text": "What is the pressure in the container at 200°C?"
+        }
+      ],
+      "given_data": "Heat capacity of liquid: 2.43 J/(g · K), Latent heat of melting: 105 J/g, Molar density: 46 g/mol, Mass: 0.25 g, Container volume: 5 litres",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "A temperature vs time graph showing heating curve with multiple phases including solid-liquid melting plateau around 75°C and liquid-gas boiling plateau around 100°C, with time ranging from 0 to 900 seconds and temperature from -150°C to 250°C",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2018_FR2",
+      "year": 2018,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A ball of mass m = 200 g is hung in the middle of horizontal elastic cord of length L = 1.5 m, attached to the ceiling, as shown in figure below. The elastic constant of the cord is k = 300 N/m.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "What is the distance from the ceiling to the center of the ball, assuming that the cord was not stretched when it was horizontal?"
+        },
+        {
+          "label": "b",
+          "text": "Calculate the period of very small oscillations from the equilibrium point."
+        },
+        {
+          "label": "c",
+          "text": "Prove or disprove: when we pull the ball up to the ceiling and let it go, the resulting oscillations will be exactly described by simple harmonic motion."
+        }
+      ],
+      "given_data": "Mass m = 200 g, Cord length L = 1.5 m, Elastic constant k = 300 N/m",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "A diagram showing a ball suspended from the ceiling by an elastic cord in a V-shape configuration, with the ball hanging at the lowest point",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2018_FR3",
+      "year": 2018,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "The charge distribution shown below has three regions with charge densities of ρ₀, 0, and -ρ₀. The system can be thought of as the superposition of two spheres of the same radius R₁ = R₂ = R and opposite charge density ρ₀ and -ρ₀, with their centers placed at a distance D from each other, with D < 2R.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "What is the electric field in the overlapping region?"
+        },
+        {
+          "label": "b",
+          "text": "Assume that D ≪ R. We can approximate the charge distribution by a surface charge density σ(θ) distributed on the surface of the sphere at radius r=R. Find σ(θ) as a function of ρ, D, ε₀, and θ."
+        },
+        {
+          "label": "c",
+          "text": "Using the charge distribution found in part b and the corresponding electric field from part a, find the surface charge distribution σₛ(θ) of a neutral conducting sphere in a constant electric field E₀."
+        }
+      ],
+      "given_data": "Sphere radii R₁ = R₂ = R, charge densities ρ₀ and -ρ₀, center separation distance D < 2R",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Two overlapping circles representing spheres with charge densities ρ = -ρ₀ (left), ρ = 0 (overlapping region), and ρ = -ρ₀ (right), with centers separated by distance D and radii R₁ = R and R₂ = R. Below is a separate diagram of a single sphere showing surface charge density σ = σ(θ) with angle θ marked.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

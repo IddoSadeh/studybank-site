@@ -1,0 +1,109 @@
+{
+  "year": 2004,
+  "questions": [
+    {
+      "id": "2004_FR1",
+      "year": 2004,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A uniform ball of mass $M = 1.00$ kg is released from rest at the surface of a pond and sinks vertically into the water. An observer, wishing to determine the density of this ball, measures the time-dependence of the angle $\\alpha$ between the vertical at his position, a distance $h$ above the surface, and the direction of the ball's apparent instantaneous position (see figure). The horizontal distance between the observer and the initial position of the ball is $d$. The drag force acting on the ball as it sinks is well approximated at low speed $v$ by $F_{drag} = -bv$, where $b$ is a constant. We also take the density of water to be $\\rho_w = 1000$ kg/m³ and its refraction index as $n_w = 1.33$.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Derive an expression for the instantaneous depth $y$ of the ball as a function of $\\alpha$, $h$, and $d$."
+        },
+        {
+          "label": "b",
+          "text": "Having calculated the depth of the ball as a function of time, the observer can then construct the following table for the speed of the ball as a function of time: [Table with Time [s], Speed [m/s] data provided]. From these data, find the initial acceleration of the ball and estimate at which value its speed will stabilise. Then calculate the density of the ball and obtain a value for the drag coefficient $b$."
+        }
+      ],
+      "given_data": "M = 1.00 kg, ρ_w = 1000 kg/m³, n_w = 1.33, F_drag = -bv, Table of time vs speed data provided",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Shows an observer at height h above water surface, with a ball sinking into water at angle α from vertical, horizontal distance d from observer",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2004_FR2",
+      "year": 2004,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Bicycle headlights are often powered by a generator, with the rim of the generator's shaft rolling against the tire's rim due to the rotation of the wheel. The shaft is rigidly connected to a coil within the generator which rotates in a magnetic field $\\vec{B}$. In one such generator, the coil has 125 turns of wire and a cross-sectional area of 0.0010 m², immersed in a field of magnitude 0.080 T. At the area of contact with the tire, the rim of the generator's shaft has a radius of 1.25 cm. The tire's diameter is 66 cm.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "If the lightbulb in the headlight needs 5.0 W of average electrical power, corresponding to a voltage amplitude of 4.0 V, to produce a decent amount of light, calculate the linear speed of the bicycle needed, assuming no slipping anywhere in the problem."
+        },
+        {
+          "label": "b",
+          "text": "Calculate the torque that must be supplied by the bicycle wheel to produce the required average electrical power for the bulb. State briefly two other simplifying assumptions that must be made."
+        },
+        {
+          "label": "c",
+          "text": "What is the amplitude of the current induced in the coil under these conditions?"
+        },
+        {
+          "label": "d",
+          "text": "To the extent that the lightbulb obeys Ohm's Law, and that its resistance is constant, by what factor would the power delivered to the bulb increase if the cyclist tripled the bicycle's speed (presumably downhill or at the Tour de France)?"
+        }
+      ],
+      "given_data": "125 turns, cross-sectional area = 0.0010 m², B = 0.080 T, generator shaft radius = 1.25 cm, tire diameter = 66 cm, required power = 5.0 W, voltage amplitude = 4.0 V",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2004_FR3",
+      "year": 2004,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "The long jump as an Olympic sport dates back at least as far as 700 BC. Unlike in the modern Olympics, it was practised not only from a running start, but also from a standing start. The length of a jump was measured (as it still is) from the point where the back of the feet touched the ground on landing. Paintings on ancient Greek vases depict athletes jumping from a standing start while holding compact weights in both hands. Examples of these have been dug up by archaeologists, and typical ones, made of stone or lead, each have a mass of around 3 kg.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Write a short paragraph explaining qualitatively how athletes could boost their performance, ie. jump further from a standing start, by carrying such weights. More precisely, describe what they would have done with the weights during the jump. You can accept that, as biomechanics research has shown, a loaded body could take off at the same speed and angle as an unloaded one."
+        },
+        {
+          "label": "b",
+          "text": "Estimate by how much the length of a 3 m jump could be increased for a 65 kg athlete jumping at an angle of 50°. Remember that this takes place from a standing start, not a running start like today's long jump. You can take the centre of mass of the body to be at a height of 1 m above ground and the length of the arms to be 65 cm. Also, at the moment of take-off, the athlete is leaning forward so that his shoulders are about 15 cm in front of the centre of mass of his body."
+        }
+      ],
+      "given_data": "Weight mass = 3 kg each, athlete mass = 65 kg, jump angle = 50°, centre of mass height = 1 m, arm length = 65 cm, shoulder offset = 15 cm forward",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

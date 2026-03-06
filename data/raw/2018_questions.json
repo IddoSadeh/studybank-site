@@ -1,0 +1,506 @@
+{
+  "year": 2018,
+  "questions": [
+    {
+      "id": "2018_Q00",
+      "year": 2018,
+      "number": 0,
+      "text": ". The radius of the ball of yarn is 10 cm after 5 hours (t = 5 h) of knitting. What is the radius of the ball of yarn at time t = 7 h, assuming that the person is knitting at a constant rate?",
+      "choices": {
+        "a": "8 cm",
+        "b": "d)",
+        "c": "6.16 cm",
+        "d": "3.68 cm",
+        "e": "0 cm (the yarn would run out)"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q01",
+      "year": 2018,
+      "number": 1,
+      "text": "Aballisattachedtoacylinderbyastringandisgiven tion A will be used to determine whose written work in an initial speed V 1 at time t 1 . The ball moves along a section B will be marked for prize consideration by the frictionless surface and the cylinder is fixed and cannot CAP Exam National Committee. Section A consists of rotate. What is the speed of the ball at a later time t 2 ? 25 multiple-choice questions. The questions in section B span a range of difficulty, and may require graphing. Be careful to gather as many of the easier marks as possible before venturing into more difficult territory. When you are unable to solve any part of a question, you may as- sumealikelyanswertothatpartandattempttherestof the question anyway. Non-programmable calculators may be used. Answer the multiple-choice questions on the answer sheet pro- vided. Most importantly: write your solutions to the three long problems on three separate sheets as they will be marked by people in different parts of Canada.",
+      "choices": {
+        "a": "V 2 = L L 1 2 V 1 Good luck. Notice: Fullmarkswillbegiventostudentswhoprovide",
+        "b": "V 2 = L L 1 2 + + R R V 1 full correct solutions to problems in"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q02",
+      "year": 2018,
+      "number": 2,
+      "text": "In the previous question, at t = t , at what rate does 1 Data the string wind around the cylinder (i.e. at what speed does L1 get shorted)? Speed of light c=3.00×108 m/s A G c ra ce v l i e t r a a t t io io n n al d c u o e n t s o ta g n r t a G vit = y g 6. = 67 9 × .8 1 1 0 m −1 / 1 s2 N·m2/kg2",
+      "choices": {
+        "d": "R L2 2V 1 1 Latent heat of ice L =334 kJ/kg i Density of ice ρ i =916 kg/m3",
+        "a": "L R 1V 1 Standard atmospheric pressure P 0 =1.01×105Pa",
+        "b": "L1 R +RV 1 Density of fresh water ρ=1.00×103 kg/m3 Specific heat of water C w =4186 J/(kg·K)",
+        "c": "L R 1 V 1 Specific heat of ice C =2050 J/(kg·K) i Latent heat of water L w =2260 kJ/kg",
+        "e": "R L2 1 2 V 1 Fundamental charge e=1.60×10−19 C Mass of an electron m =9.11×10−31 kg"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q03",
+      "year": 2018,
+      "number": 3,
+      "text": "Three planets, each with same mass, orbit in different e Mass of a proton m =1.67×10−27 kg orbits around the same star. Which statement is true p Planck’s constant h=6.63×10−34 J·s about the total energy of the three orbits? Assume that Electrostatic constant k =8.99×109 N·m2/C2 m (cid:",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q04",
+      "year": 2018,
+      "number": 4,
+      "text": "University of British Columbia. H Molar mass 2.016 g/mol 2 O Molar mass 31.998 g/mol 2 N Molar mass 28.013 g/mol 2 Mass of the Earth 5.97×1024 kg 2018 Canadian Association of Physicists Mass of the Sun 1.99×1030 kg Highschool/Cegep Prize Exam Section A This is a three-hour exam. National ranking and prizes will be based on students’ performance on sections A and B of the exam. Performance on questions in sec-",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q05",
+      "year": 2018,
+      "number": 5,
+      "text": "In the cube shown below, each edge is a wire with move left if the temperature of the system is increased? resistance R. What is the equivalent resistance between (Assumethatbothrodspreservetheircylindricalshapes) points A and B?",
+      "choices": {
+        "a": "α l >α l",
+        "b": "E α l >E α l 1 1 1 2 2",
+        "c": "E1α1l1 > E2α2l2 A1 A2",
+        "d": "E1α1 > E2α2 A1 A2",
+        "e": "5R"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q06",
+      "year": 2018,
+      "number": 6,
+      "text": "Considerthearrangementofspringsshownbelow. All springs shown have a spring constant k. The first layer e) E1 > E2 l1A1 l2A2 contains 1 spring, the next 2 springs, the next 4, and so on, with the nth layer containing 2n−1 springs. What is",
+      "choices": {
+        "e": "E1 > E2 l1A1 l2A2 contains 1 spring, the next 2 springs, the next 4, and so on, with the nth layer containing 2n−1 springs. What is"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q07",
+      "year": 2018,
+      "number": 7,
+      "text": "Knowing that Toronto’s coordinates are 43.6532◦N, d) E <E <E 79.3832◦W,whatistheratioofthesolarpowerthrougha 3 1 2 horizontalsurfaceatnoonontheshortestdayoftheyear",
+      "choices": {
+        "d": "E <E <E 79.3832◦W,whatistheratioofthesolarpowerthrougha 3 1 2 horizontalsurfaceatnoonontheshortestdayoftheyear"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q08",
+      "year": 2018,
+      "number": 8,
+      "text": "Two rods of the length l and l are held between two 1 2 rigid walls l +l apart. Let α ,E ,A and α ,E ,A be d) 2T 1 2 1 1 1 2 2 2 thethermalcoefficientofexpansion,Youngmodulus,and the area of each rod respectively. Which of the following e) T/3 conditionsguaranteesthatthejointbetweentherodswill",
+      "choices": {
+        "d": "2T 1 2 1 1 1 2 2 2 thethermalcoefficientofexpansion,Youngmodulus,and the area of each rod respectively. Which of the following",
+        "e": "T/3 conditionsguaranteesthatthejointbetweentherodswill"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q09",
+      "year": 2018,
+      "number": 9,
+      "text": "A positive charge q is placed in front two semi- the value of the spring constant of the entire assembly in infinite conducting walls as shown below. The walls are the limit where the number of layers n goes to infinity grounded. Which arrow best represents the direction (n→∞) force on the charge q, if d <d ? 1 2 3",
+      "choices": {
+        "a": "F",
+        "b": "F 2 Which of the figures below best represents the P − V diagram of the air in the pump as the ball is inflated?",
+        "c": "F",
+        "d": "F",
+        "e": "F"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q10",
+      "year": 2018,
+      "number": 10,
+      "text": "A person is knitting a sweater using a spherical ball of yarn with an initial radius of 15 cm (at t =",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q11",
+      "year": 2018,
+      "number": 11,
+      "text": "The pump shown below is used to inflate a ball and ismadeoftwocompartmentwithvolumesV andV and 1 2 twoone-wayvalvesshownasA andA . Aone-wayvalve 1 2 is valve with two modes of operation: Mode 1: the valve is open and there is a flow in the direction shown in the figure. For this mode",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q12",
+      "year": 2018,
+      "number": 12,
+      "text": "Asshowninthefigurebelow,twoballsofradiiR =2 1 Pressure(inflow) = Pressure(outflow). cm and R (cid:",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q13",
+      "year": 2018,
+      "number": 13,
+      "text": "A ball is dropped from the top of a building with no",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q14",
+      "year": 2018,
+      "number": 14,
+      "text": "A current of 12 mA passes through a red LED diode b) 300 m/s withaforwardvoltageof3V.Whichofthefollowingisa good estimate for the number of photons per second this c) 450 m/s LED produces? d) 400 m/s",
+      "choices": {
+        "b": "300 m/s withaforwardvoltageof3V.Whichofthefollowingisa good estimate for the number of photons per second this",
+        "c": "450 m/s LED produces?",
+        "d": "400 m/s",
+        "a": "1×1012"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q15",
+      "year": 2018,
+      "number": 15,
+      "text": "Aballisthrownupwards. Whichofthefollowingfree bodydiagramsbestdescribestheforcesactingontheball",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q16",
+      "year": 2018,
+      "number": 16,
+      "text": "While the ball in the previous question is still going initialspeed. After1s,asecondballisthrowndownward upwards, the magnitude of the net force acting on the withaninitialverticalspeedof26m/s. Whatisthemin- ball in the previous problem is: imum height of the building if the second ball hits the ground earlier than the first ball?",
+      "choices": {
+        "a": "0.45 m",
+        "b": "4.91 m",
+        "c": "Remains constant with the height of the ball"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q17",
+      "year": 2018,
+      "number": 17,
+      "text": "Relativetoaninertialframeatthecentreoftheearth, c) 6.93 m approximatelyhowfastisapersoninVancouver(latitude d) 8.33 m 49.3◦ N) moving due to the Earth’s rotation around its axis? e) 12.65 m",
+      "choices": {
+        "c": "6.93 m approximatelyhowfastisapersoninVancouver(latitude",
+        "d": "8.33 m 49.3◦ N) moving due to the Earth’s rotation around its axis?",
+        "e": "12.65 m",
+        "a": "700 m/s"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q18",
+      "year": 2018,
+      "number": 18,
+      "text": "Whichismorelikely: thatasinglethrowofadiewill b) 3×1014 result in ‘1’, or that three throws of a die will each result in an odd number? c) 1×1017",
+      "choices": {
+        "b": "Three throws each resulting in an odd number is",
+        "c": "These two events have the same probability",
+        "a": "Single die throw resulting in ‘1’ is more likely",
+        "d": "3×1019",
+        "e": "1×1022 more likely"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q19",
+      "year": 2018,
+      "number": 19,
+      "text": "Collision of cosmic-rays entering the upper atmo- when it is in the air moving upwards. Assume that air sphere of the Earth produce large numbers of particles drag (friction) is proportional to speed. called muons. These muons move vertically through the atmosphere at very high speed (comparable to the speed oflight,c),formingabeamoffluxI.Becausemuonsdecay intootherparticles, thefluxchangeswithtimeaccording to the exponential decay law I = I 0 e− τ t, where τ = 2.2 µs is the avarage lifetime in the rest frame of the muon, I is the muon flux at time t = 0, and t is measured in 0",
+      "choices": {
+        "c": ",formingabeamoffluxI.Becausemuonsdecay intootherparticles, thefluxchangeswithtimeaccording to the exponential decay law I = I 0 e− τ t, where τ = 2.2 µs is the avarage lifetime in the rest frame of the muon, I is the muon flux at time t = 0, and t is measured in",
+        "a": "the rest frame of the muon. If we place a detector at a 5 heighton10kmabovetheground,wedetectamuonflux",
+        "d": "Light bulb 4 of I =1000 part/(s· m"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q20",
+      "year": 2018,
+      "number": 20,
+      "text": "You want to launch a projectile from a cannon into c) ρ=6.1×1010 kg/m3 deep space from the Moon, and are able to launch at dif- ferent angles with respect to the ground. At what angle d) ρ=2.2×108 kg/m3 wouldyouneedthelowestvelocitytomaketheprojectile escape Moon’s gravity? (Neglect the rotational speed of e) ρ=1.7×1013 kg/m3 the moon.)",
+      "choices": {
+        "c": "ρ=6.1×1010 kg/m3 deep space from the Moon, and are able to launch at dif- ferent angles with respect to the ground. At what angle",
+        "d": "ρ=2.2×108 kg/m3 wouldyouneedthelowestvelocitytomaketheprojectile escape Moon’s gravity? (Neglect the rotational speed of",
+        "e": "ρ=1.7×1013 kg/m3 the moon.)"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q21",
+      "year": 2018,
+      "number": 21,
+      "text": "Giventhecircuitbelow,whichlightbulbdoyouhave to unplug so that V = 1V ? The four light bulbs are 2 3 1 identical.",
+      "choices": {
+        "a": "1=alpha; 2=beta; 3=gamma",
+        "b": "1=alpha; 3=beta; 2=gamma",
+        "c": "2=alpha; 1=beta; 3=gamma",
+        "d": "2=alpha; 3=beta; 1=gamma",
+        "e": "3=alpha; 1=beta; 2=gamma"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q22",
+      "year": 2018,
+      "number": 22,
+      "text": "Apulsarisahighlymagnetized,rotatingneutronstar (orwhitedwarf),withhighdensityandshort,regularro-",
+      "choices": {
+        "f": ",withhighdensityandshort,regularro-",
+        "a": "ρ=5.6×1013 kg/m3",
+        "b": "ρ=7.4×108 kg/m3",
+        "c": "v =0.90 c",
+        "d": "v =0.98 c",
+        "e": "v = c"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q23",
+      "year": 2018,
+      "number": 23,
+      "text": "Aradioactivesubstancedecays,andanemittedparti-",
+      "choices": {
+        "a": "θ =0◦ cle passes through a uniform magnetic field pointing into",
+        "b": "θ =45◦ page, as shown. Which labeling is correct?",
+        "c": "θ =60◦",
+        "d": "θ =90◦",
+        "e": "Minimum velocity does not depend on θ"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q24",
+      "year": 2018,
+      "number": 24,
+      "text": "If you push with force F on either the heavy box",
+      "choices": {
+        "a": "Light bulb 1 (m ) or the light box (m ), in which of these two cases is 1 2 the contact force between the two boxes smaller? Ignore",
+        "b": "Light bulb 2 friction.",
+        "c": "Light bulb 3"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q25",
+      "year": 2018,
+      "number": 25,
+      "text": "Consider an infinite wave moving to the right on a non-stretchy string, as shown below. What is the direc- tion of the velocity of a particle at the point labeled B? End of Section A a)",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q26",
+      "year": 2018,
+      "number": 26,
+      "text": "A person is moving away from two speakers S and S’ along the y direction as shown in the figure below. The speakers are in phase with each other and emit a sound wave with wavelength 6 cm. As the person moves away fromspeakerS’,theymarkthepointsontheyaxiswhere there is no sound. Which of the plots below shows the position of the marked points correctly?",
+      "choices": {
+        "a": "a) case A",
+        "b": "b) case B",
+        "c": "c) same in both cases"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q28",
+      "year": 2018,
+      "number": 28,
+      "text": "M . planets star 2",
+      "choices": {
+        "a": "E <E <E 1 2",
+        "b": "E <E <E",
+        "c": "E <E <E 3 2",
+        "d": "3k",
+        "e": "4k 2 1"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2018_Q29",
+      "year": 2018,
+      "number": 29,
+      "text": "R , and with masses m (cid:",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    }
+  ]
+}

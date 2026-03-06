@@ -1,0 +1,350 @@
+CAP High School Prize Exam
+April 20, 2016
+9:00 - 12:00
+Competitor’s Information Sheet
+Thefollowinginformationwillbeusedtoinformcompetitorsandschoolsoftheexamresults,todetermineeligibility
+for some subsequent competitions, and for statistical purposes. Only the marking code, to be assigned by the local
+examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS
+Family Name: Given Name:
+Home Address:
+Postal Code:
+Telephone: ( ) Email:
+School: Grade:
+Physics Teacher:
+Date of Birth: Sex: Male Female
+Citizenship:
+If you are not a Canadian citizen, what is your Immigration Status?
+For how many years have you studied in a Canadian school?
+Would you prefer further correspondence in French or English?
+Sponsored by:
+Canadian Association of Physicists (CAP),
+CAP Foundation,
+Canadian Physics Olympiad,
+The University of British Columbia,
+Department of Physics and Astronomy.
+1
+
+Canadian Association of Physicists 2016 Part A: Multiple Choice
+Prize Exam
+This is a three-hour exam. National ranking and prizes Each multiple choice question is worth 1 point.
+willbebasedonstudents’performanceonsectionsAand
+B of the exam. Performance on the questions in part A Question 1
+will be used to determine whose written work in part Agrandfatherclockmeasurestimebycountingthenum-
+B will be marked for prize consideration by the CAP ber of oscillations of a small-angle pendulum. You take
+Exam National Committee. Part A consists of twenty- a grandfather clock that gives the correct time at sea
+five multiple-choice questions. The questions in part B level (where g = 9.81m/s2) up a mountain and notice
+span a range of difficulties, and may require graphing. that after two days it is running five minutes behind.
+Be careful to gather as many of the easier marks as pos- What is the value of the gravitational acceleration up
+sible before venturing into more difficult territory. If an that mountain?
+answer to part (a) of a question is needed for part (b),
+and you are not able to solve part (a), assume a likely a) 9.74m/s2
+solution and attempt the rest of the question anyway. b) 9.78m/s2
+Non-programmable calculators may be used. Please be c) 9.84m/s2
+careful to answer the multiple-choice questions on the d) 9.81m/s2
+answer sheet provided; most importantly, write your e) There is not enough information to answer the ques-
+solutions to the three long problems on three separate tion
+sheetsastheywillbemarkedbypeopleindifferentparts
+of Canada. Good luck. Question 2
+Notice: Full marks will be given to students who pro- TheHubblespacetelescope,havingamassof11110kg,
+vide full correct solutions to the long problems. Partial isinlow-Earthorbitwithasemi-majoraxisof6924km.
+marks will be given for partial solutions. There are no What is its orbital period?
+penaltiesforincorrectanswers. Thequestionsarenotof
+a) 95.6 minutes
+equal difficulty. Remember we are challenging the best
+b) 3.02×10−3 minutes
+physics students in Canada; it is possible that even the
+c) 2.22×1012 minutes
+best papers may not achieve an overall score of 80%.
+d) 136 minutes
+This is meant to be tough!
+e) 15.2 minutes
+Data
+Speed of light c=3.00×108m/s
+Question 3
+Gravitational constant G=6.67×10−11N·m2/kg2
+A 75 kg person gets in an elevator. How much more
+Acceleration due to gravity g =9.81m/s2
+power must the elevator’s motor supply if the elevator
+Normal atmospheric pressure P =1.01×105Pa
+0 is to go up at the same constant speed of 0.5 m/s as it
+Density of fresh water ρ=1.00×103kg/m3
+goes up when empty?
+Specific heat of water C =4186J/(kg·K)
+w
+Specific heat of ice C i =2050J/(kg·K) a) 221 W
+Latent heat of water L w =2260kJ/kg b) 552 W
+Latent heat of ice L i =334kJ/kg c) 1470 W
+Density of ice ρ i =916kg/m3 d) 368 W
+Fundamental charge e=1.60×10−19C e) 92.0 W
+Mass of electron m =9.11×10−31kg
+e
+Mass of proton m =1.67×10−27kg
+p
+Planck’s constant h=6.63×10−34Js Question 4
+Electrostatic constant k =8.99×109N·m2/C2 A 2 kg ball is initially stationary on a flat, frictionless
+Boltzmann’s constant k B =1.38×10−23J/K surface. It is then hit by a 0.25 kg piece of putty travel-
+A.U. Astronomical Unit = 1.49598×1011m: The ap- ingat25m/s. Afterthecollision,theputtystickstothe
+proximate distance from the Sun to the Earth. ball. At what speed will the putty-covered ball travel?
+Radius of the Earth R =6.371×106m
+E
+Mass of the Earth M =5.972×1024kg a) 8.83 m/s
+E
+Radius of the Sun R =6.96×108m b) 2.78 m/s
+S
+Mass of the Sun M =1.989×1030kg c) 22.2 m/s
+S
+Stefan’s constant σ =5.6704×10−8W/(m2·K4) d) 3.13 m/s
+Avogadro’s number N =6.02×1023mol−1 e) 8.33 m/s
+A
+2
+
+Question 5 Question 9
+You are holding a bottle of pop in your hands on a bus. AnFMradiostationbroadcastssignalsatafrequencyof
+The bubbles in the pop are going straight up. Suddenly, about 100 MHz. What is approximately the wavelength
+the bus brakes hard to avoid a road hazard. How is the of such a signal?
+motion of the bubbles in the pop affected?
+a) 3m
+a) The bubbles will gain some motion towards the front b) 3×106 m
+of the bus. c) 0.3m
+b) The answer depends on the initial speed of the bus. d) 0.33×10−8 m
+c) The motion of the bubbles will not change. e) More information is needed to answer this question
+d) The bubbles will gain some motion towards the back
+of the bus.
+Question 10
+A bright flash of light has a measured intensity of
+Question 6
+800W/m2 at a distance of 1 m from the source. What
+Consider an open circuit consisting of a battery with
+will be the measured intensity 10 m away from the
+voltage V, a resistor of resistance R and a capacitor of
+source, treating the source as point-like?
+capacitance C, all in series. Before closing the circuit,
+the capacitor carries no charge. After how long does the
+a) 80W/m2
+current running through the circuit drop by half com-
+b) 8W/m2
+pared to the moment it is closed?
+c) 800W/m2
+d) 0.8W/m2
+a) RC/V
+e) 8000W/m2
+b) RC ln2
+c) 1
+RC
+d) RC
+e) 2 RCV Question 11
+Unstable elementary particles are produced traveling at
+v = 0.6c with respect to an observer in a laboratory.
+These particles have a typical intrinsic lifetime of 100
+Question 7
+ns. In the frame of the observer, how long will the par-
+Which value is closest to the average net speed of elec-
+ticles typically last before decaying?
+trons(“driftspeed”)inacopperwireofradius1mmfor
+a current of 3 Amperes? The density of copper at room
+temperatureis about 9g/cm3 andits molarmassis 63.5 a) 125 ns
+g/mol. b) 80 ns
+c) 100 ns
+a) 6×10−5 m/s d) They won’t decay while moving.
+b) 2×10−3 m/s e) 175 ns
+c) 3×108 m/s
+d) 5×100 m/s
+e) 8×104 m/s
+Question 12
+A red beam of light is made up of a stream of photons.
+If we double the frequency of the beam, keeping the in-
+Question 8 tensity constant, what will happen to the stream?
+Considerthreechargeslocatedatthethreeverticesofan
+equilateral triangle of edge length L. Two of the charges
+a) The number of photons will stay the same and the
+have a value of +Q and the third one has a value of
+energy of each photon will stay the same.
+−2Q. What is the magnitude of the net electric field at
+b) The number of photons will stay the same and the
+the centre of the triangle?
+energy of each photon will increase.
+c) The number of photons will decrease and the energy
+a) 0
+√ of each photon will increase.
+b) 4 3kQL2
+d) The number of photons will increase and the energy
+c) 12kQ
+L2 of each photon will stay the same.
+d) 9kQ e) The number of photons will increase and the energy
+L2
+e) 8kQ of each photon will increase.
+L2
+3
+
+Question 13 Question 16
+A beam of electrons is sent through a small hole in a Two projectiles, K and Z, are launched from the top of
+pieceoffoil. Theplaceswheretheelectronshitadistant a building with the same initial speed. Their launch an-
+screen are recorded. If we make the hole smaller, the gles(relativetothehorizontalground)areθ =45o and
+K
+region where the electrons are hitting the screen will be: θ = −45o. Which projectile will hit the ground with
+Z
+greater speed (neglecting air resistance)?
+a) K
+b) Z
+c) Both will have the same speed
+d) K will never hit the ground
+e) There is not enough information to tell
+a) bigger Question 17
+b) the same size A ray of light passes through three media as shown in
+c) smaller the figure. How are the speeds of light in these media
+d) there is not enough information to answer. related?
+Question 14
+The magnitude of the gravitational force with which a
+ping pong ball attracts the Earth is:
+a)equaltothemagnitudeofthegravitationalforcewith
+which the Earth attracts that ping pong ball.
+b) greater than the magnitude of the gravitational force
+with which the Earth attracts that ping pong ball.
+c)lessthanthemagnitudeofthegravitationalforcewith
+which the Earth attracts that ping pong ball.
+d) zero.
+a) v >v >v
+3 2 1
+e) unknowable.
+b) v >v >v
+1 2 3
+c) v >v >v
+2 1 3
+Question 15
+d) v >v >v
+3 1 2
+e) v >v >v
+1 3 2
+Question 18
+Two space heaters are made to output their nominal
+power of 1000W and 500W respectively when they are
+supplied with 120V. If they are connected in series to a
+normal(120V)walloutlet,comparedtoonlythe1000W
+An object is released from rest at a height h. For the heater how much heat will be produced?
+object to go around the loop (of radius r) what is the
+smallest possible value of h?
+a) 0.5r
+b) r a) More
+c) 2r b) Less
+d) 2.5r c) The same amount
+e) 3r
+4
+
+Question 19 Question 21
+A magnet is held between two conductive rings that are
+attached to a frictionless rail by two insulators (They
+can move freely to the left and right). If we move the
+magnet to the left what will happen to the rings?
+A square hole is cut out from a rectangular sheet of
+metal. What would the shape of the hole be after heat-
+ing the piece up? The pictures are focused on the hole
+and do not show the whole sheet.
+a)
+b)
+a) A will move right and B will move left
+b) A will move left and B will move right
+c)
+c) They will both move left
+d) They will both move right
+d)
+Question 22
+The lens shown below constructs a real image (B) of
+Question 20
+the arrow (A) on the screen (S). What will happen to
+Considertwoidenticalhomogeneousballs,AandB,with
+the image if we paint the upper half of the lens black?
+the same initial temperatures. One of them is at rest
+on a horizontal plane, while the second one hangs on a
+thread. The same quantity of heat has been supplied
+to both balls. Which of the following statements is true
+about the temperatures of A and B?
+a) The image will get inverted.
+b) The upper half of the image will disappear.
+a) T =T c) The lower half of the image will disappear.
+A B
+b) T >T d)Theshapeoftheimagewillremainthesameandwill
+A B
+c) T <T only get dimmer.
+A B
+5
+
+Question 23 Question 24
+A ring is placed at a distance 2F on the left side of a While on a long plane ride over the equator (where the
+lensoffocaldistanceF,alongtheopticalaxis. Whichof Earth’s radius is 6 378 km), the captain announces that
+these pictures best shows the shape of the image? the local gravitational acceleration is 9.75m/s2. At ap-
+proximately what altitude is the plane flying?
+a)
+a) 5 500 m
+b) 11 000 m
+c) 16 000 m
+d) 1 100 m
+e) 22 000 m
+b)
+c)
+d)
+6
+
+Part B: Problems
+Problem 1
+A railway car wheel is made by getting a solid steel wheel of diameter d=75cm and covering the rim of the wheel
+with a thin (0.5 cm) ring of hard steel. To do so, the ring is heated to 400oC. At that temperature it has an inner
+diameter identical to that of the cold wheel (75 cm). After putting the ring on the wheel, it was cooled back down
+toroomtemperature. Thecoefficientoflinearexpansionofthesteelisα=1.2×10−5K−1 andtheelasticconstant
+of a strip of steel with the same cross section and length as the ring is k =2.1×107N/m. What force one would
+needtoslidetheringoffthewheel(inthedirectionparalleltotheaxis)? Thecoefficientoffrictionofsteelonsteel
+is µ=0.8.
+7
+
+Problem 2
+Some people are not satisfied with just driving snowmobiles on snow and try high jumps on them, as seen on these
+pictures. Inflight,theangleθ whichthesnowmobilemakeswiththehorizontalcanbechangedbyusingthebrakes
+or accelerator. Shortly explain how this is done, quoting the appropriate physics laws. Assuming that the mass of
+the snowmobile with the rider is about 250 kg and the mass of the rotating parts is about 20 kg, calculate what
+he has to do to tilt the snowmobile by θ =5o down (to lower the front) and then maintain the snowmobile at that
+angle. State any approximations and size estimates that you make.
+8
+
+Problem 3
+A Reuleaux triangle is a two-dimensional figure defined as the intersection of three identical disks placed so that
+the center of each disk lies on the boundary of the other two (see diagram).
+The moment of inertia of a Reuleaux triangle rotating about its centre of mass is given by
+I =CMR2 ,
+where M is its mass, R the radius of the circles and C is a numerical constant.
+a) Consider a “wheel” in the shape of a Reuleaux triangle with uniform density, resting on a flat surface. What is
+the frequency of small oscillations of this wheel? Neglect any slipping.
+b)ConsidertwologswithReuleauxtrianglecross-sectionsplacedonaflathorizontalsurfaceandsupportingalong
+flat plank of wood, as shown. Assume no slipping and consider only the time period before one of the logs reaches
+the end of the plank. Sketch the height of the center of mass of the plank as a function of horizontal displacement.
+c) Is there a configuration in part (b) for which the center of mass of the whole system (logs + plank) remains at
+constant height as the plank moves? Justify your answer.
+9
+
+Question 1 a b c d e f
+Question 2 a b c d e f
+Question 3 a b c d e f
+Question 4 a b c d e f
+Question 5 a b c d e f
+Question 6 a b c d e f
+Question 7 a b c d e f
+Question 8 a b c d e f
+Question 9 a b c d e f
+Question 10 a b c d e f
+Question 11 a b c d e f
+Question 12 a b c d e f
+Question 13 a b c d e f
+Question 14 a b c d e f
+Question 15 a b c d e f
+Question 16 a b c d e f
+Question 17 a b c d e f
+Question 18 a b c d e f
+Question 19 a b c d e f
+Question 20 a b c d e f
+Question 21 a b c d e f
+Question 22 a b c d e f
+Question 23 a b c d e f
+Question 24 a b c d e f
+10
+

@@ -1,0 +1,430 @@
+1
+CAP High School Prize Exam
+6 April 2009
+9:00 – 12:00
+Competitor’s Information Sheet
+The following information will be used to inform competitors and schools of the exam results, to
+determine eligibility for some subsequent competitions, and for statistical purposes. Only the marking
+code, to be assigned by the local examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS.
+Family Name:________________________________Given Name:_______________________
+Home Address:_________________________________________________________________
+_________________________________________ Postal Code:______________
+Telephone: ( )____________________ E-mail: __________________________________
+School: ____________________________________________________________ Grade:_____
+Physics Teacher: _______________________________________________________________
+Date of Birth: ___________________________ Sex: Male Female
+Citizenship: ______________________________________________________ or
+Immigration Status:_____________________________________________________________
+For how many years have you studied in a Canadian school? ____________________________
+Would you prefer the further correspondence in French or English? _______________________
+Sponsored by:
+Canadian Association of Physicists
+Canadian Chemistry and Physics Olympiads
+
+2
+Canadian Association of Physicists
+2009 Prize Exam Question 2
+A tap water
+pipe is bent P
+as shown in
+the diagram.
+This is a three-hour exam. National ranking and prizes will
+Sections 1
+be based on a student’s performance on sections A, B, and C
+and 2 of the
+of the exam. Performance on the questions in part A will be H
+pipe are P
+used to determine whose written work in parts B and C will
+horizontal
+be marked for prize consideration by the CAP Exam
+but section 2
+National Committee. The marking scheme is: 40% for part
+is placed
+A, 10% for part B, and 50% for part C. Part A consists of
+higher at a height of H. The diameter of the pipe of section 1 is
+twenty multiple-choice questions; part B consists of five
+1.5 times larger than the diameter of section 2. Indicate which
+questions that require graphic solution. The problems in part
+of the following is the most complete answer for the
+C can also require graphing. The questions in part C have a
+relationship between the hydrostatic pressures measured by
+range of difficulty. Do be careful to gather as many of the
+the gauges in sections 1 and 2:
+easier marks as possible before venturing into more difficult
+(a) P < P because water flows slower in section 1.
+territory. If an answer to part (a) of a question is needed for 1 2
+(b) P > P because water flows slower in section 1.
+part (b), and you are not able to solve part (a), assume a 1 2
+(c) P > P because section 1 is lower than section 2.
+likely solution and attempt the rest of the question anyway. 1 2
+(d) P > P because water flows slower in section 1, and
+No student is expected to complete this exam and parts of 1 2
+section 1 is lower than section 2.
+each problem may be very challenging.
+(e) For some value of H, P = P because the lower speed
+1 2
+of the flowing water in section 1 is compensated by the
+Non-programmable calculators may be used. Please be
+hydrostatic pressure due to the difference H in the
+careful to answer the multiple-choice questions on the
+height of the two sections.
+answer card/sheet provided; most importantly, write your
+________________________________________________
+solutions to the three long problems on three separate
+sheets as they will be marked by people in different parts of
+Question 3
+Canada. Good luck.
+We know that a person emits about 500 W of radiation. We
+also know that a person sitting still uses about 100W of
+chemical energy. Where is the rest of the energy mainly
+Data
+coming from?
+(a) Heat conducted from the air into our body.
+Speed of light c = 3.00x108 m/s (b) Convection of the heat.
+Gravitational constant G = 6.67x10-11 N·m2/kg2 (c) Radiation from objects around us.
+Acceleration due to gravity g = 9.80 m/s2 (d) The energy, emitted by the body does not have to have
+Density of fresh water ρ = 1.00x103 kg/m3 a source.
+Specific heat capacity for water c = 4.19x103J/(kg·K) (e) Burning fat that we have accumulated previously.
+T
+Fu
+h
+n
+e
+d
+n
+a
+o
+m
+rm
+en
+a
+t
+l
+a
+a
+l
+t
+c
+m
+h
+o
+ar
+s
+g
+p
+e
+h e
+e
+r i
+=
+c
+1
+p
+.6
+re
+0
+s
+x
+s
+1
+u
+0
+r
+-
+e
+1 9
+P
+C 0
+= 1.01x105Pa _
+Q
+_
+u
+_
+e
+_
+s
+_
+t
+_
+io
+_
+n
+_ _
+4
+_ ______________________________________
+Mass of electron m = 9.11x10-31 kg
+e
+Mass of proton m = 1.67x 10-27 kg
+p
+Part A: Multiple Choice
+Question 1
+A ball falls to the earth from a height h and bounces to a
+height h′. Momentum is conserved in the ball-earth system:
+(a) no matter what height h′ the ball reaches.
+In the two circuits shown above, the batteries are identical
+(b) only if h′ < h.
+and maintain constant voltage. The light bulbs A, B, C and D,
+(c) only if h′ = h.
+are identical and have resistance R. Assume that the bulbs are
+(d) only if h′ > h.
+brighter when there is more current flowing through them.
+(e) only if h′ ≥ h. Which of the following relationships correctly describe the
+brightness of the bulbs?
+(a) A = B > C = D
+(b) C = D > A = B
+(c) A = B = C = D
+(d) A = C > B = D
+______________________________________________ ________________________________________________
+
+3
+Question 8
+Question 5 An astronaut lifts off from planet Zuton in a spaceship. The
+The figure shows an free-fall acceleration on Zuton is four times less than on the
+accelerometer: a Earth. At the moment of liftoff the acceleration of the
+device for measuring spaceship is 2.45 m/s2 (up). The weight of the astronaut at
+the horizontal that instant is more than her weight on the surface of the
+acceleration of cars earth by the factor of:
+and airplanes. The (a) 4 (b) 2
+device consists of a (c) 1 (d) 0.5
+ball that is free to roll (e) 0.25
+on a parabolic track. ______________________________________
+A scale along the bottom is used to measure the ball’s Question 9
+horizontal position x. A 0.50-kg mass attached to the end of a string swings in a
+What is the acceleration of the car in m/s2 when the vertical circle with a radius of 2.0 m. When the string is
+displacement of the ball in the accelerometer equals 0.20 m? horizontal, the speed of the mass is 8.0 m/s. What is the
+magnitude of the force of the string on the mass at this
+(a) 3.9 position?
+(b) 3.6 (a) 16 N
+(c) 26.5 (b) 17 N
+(d) 24.5 (c) 21 N
+(e) 9.1 (d) 11 N
+(e) 25 N
+________________________________________________ _____________________________________________
+Question 10
+Question 6 What is the velocity of an electron that passes without being
+Objects A and B that are initially separated from each other deviated through perpendicular electric and magnetic fields
+and well isolated from if E = 4.0 kV/m and B = 8.0 mT?
+their surroundings are (a) 32 m/s
+then brought into (b) 500 km/s
+thermal contact. Initially (c) 2x10-6 m/s
+T A = 0C and T B = 100C. (d) 500 m/s
+The specific heat of A is (e) 2 km/s
+less than the specific heat of B. After some time, the system _______________________________________________
+comes to an equilibrium state. The final temperatures are: Question 11
+A body that is oscillating harmonically in the vertical
+direction is suspended from two identical springs connected
+(a) T A = T B > 50oC in series. The frequency of oscillation is f 1 . After the springs
+(b) T A > T B > 50oC are disconnected and attached to the body in parallel, the
+(c) T A = T B < 50oC frequency of the vertical oscillation of the body is equal to:
+(d) T B > T A > 50oC (a) f 1
+(e) T A = T B = 50oC (b) 2 f 1
+_______________________________________________ (c) f /4
+1
+(d) 4 f
+1
+Question 7 (e) f / 2
+1
+An object is moving at a constant speed v 0 towards a source ________________________________________________
+that is at rest and that is emitting sound waves of frequency Question 12
+f 0 . The frequency of the echo that returns to the source after A piece of aluminum wire shown on the I
+being reflected from the object is given by: drawing is connected to a circuit with a
+v source of constant current. Choose the
+(a) f = f 1
+echo 0 v−v correct conclusion on the values of the 1
+0 current (I), the amount of heat (P) emitted
+v−v
+(b) f = f 0 per second by a unit of length, and the 2
+echo 0v+v electric field strength (E) inside the
+0
+segments of the wire:
+v+v 3
+(c) f = f 0 (a) I 1 = I 2 = I 3 ; P 1 = P 2 = P 3 ; E 1 = E 2 = E 3 .
+echo 0 v−v (b) I = I = ½ I ; P = P = 1/16 P ;
+0 1 3 2 1 3 2
+E = E = E .
+v+v 1 2 3
+(d) f = f 0 (c) I = I = ½ I ; P = P = 1/16 P ; E = E = ½ E .
+echo 0 v (d) I 1 = I 3 = I ; P 2 = 1 P = 3 ¼ P ; E 2 = E 1 = E 3 . 2
+1 2 3 1 3 2 1 2 3
+________________________________________________ (e) I = I = I ; P = P = ¼ P ; E = E = ¼ E .
+1 2 3 1 3 2 1 3 2
+_______________________________________________
+
+4
+Question 13 Question 16
+A spacecraft of mass m orbits a planet of mass M in a
+circular orbit of radius R. What is the minimum energy
+required to send this spacecraft to a distant point in space A star undergoes a supernova explosion. Just after the
+where the gravitational force of the planet on the spacecraft explosion, the material left behind forms a uniform sphere
+is negligible? of radius 8.0x106 m with a rotation period of 15 hours. This
+remaining material eventually collapses into a neutron star
+(a) GmM/(4R) of radius 4.0 km with a period of rotation T of:
+(b) GmM/R
+(c) GmM/(2R)
+(d) GmM/(3R) (a) 14 s
+(e) 2GmM/(5R) (b) 3.8 h
+(c) 0.021 s
+________________________________________________ (d) 0.014 s
+(e) 0.0075 h
+Question 14 _______________________________________________
+Two identical thermally 1 2 Question 17
+isolated containers are
+separated by a valve.
+Initially, there is an ideal gas in container 1, and there is a An impulse laser may be treated as a
+vacuum in container 2. Some time after the valve is opened, source of photons that are emitted during
+the gas in the two containers comes to an equilibrium state. the time interval of the pulse which is
+Which of the following statements about the gas during this followed by a time interval when no
+process is true? photons are produced. Pulses are
+periodically repeated. A laser beam of
+diameter d = 10 microns is directed Laser
+(a) The molar mass of the gas decreases. upward and is perpendicular to the thin
+(b) The work produced by the gas is zero. foil surface which has an index of reflection ρ = 0.50 (see
+(c) The temperature of the gas drops. the sketch of the experiment). The index of reflection of the
+(d) The work produced by the gas is positive and is equal to surface is the ratio of the reflected energy to the impact
+the absolute value of the change of the internal energy of the energy. A pulse with duration of 0.13 ms has a total energy
+gas. of 10 J. What is the mass of the piece of foil that can be
+________________________________________________ supported in the air solely by the light pressure of the laser
+beam?
+Question 15
+(a) < 39 g
+During the winter vacation, children use snow and water to (b) < 3.1 x 10-12 g
+build frictionless slides of different shapes in order to (c) < 39 mg
+conduct various experiments. The side view of one of them (d) < 3.7 g
+is shown in the figure: (e) < 0.38 g
+the linear segment of the ________________________________________________
+slide is smoothly
+transferred to a circle Question 18
+with a circumference of
+radius R. A puck starts
+sliding down from rest at an initial height of 2R. The Two sinusoidal waves traveling at the same speed in
+acceleration of the puck at the lowest point of its trajectory opposite directions interfere to produce a standing wave
+is: with the wave function y = (1.50 m) sin(0.400x) cos(200t),
+where x is in meters and t is in seconds. The speed of
+(a) g propagation of each of the interfering waves is
+(b) 2g
+(c) 3g
+(d) 4g (a) 159 m/s
+(e) 0 (b) 200 m/s
+________________________________________________ (c) 300 m/s
+(d) 47.7 m/s
+(e) 500 m/s
+________________________________________________
+
+5
+Question 19 Question 2
+A bar magnet is dropped from above and A diagram below shows the potential energy of an object in
+falls through a loop of wire as shown. A an isolated mechanical system with total energy E and with
+student measures the current in the loop conservative forces only. In the space below the given
+between a time when the north pole of the diagram, sketch a diagram for the x-component of the net
+magnet is above the plane of the loop and force on the object as a function of x. Your diagram must
+another time when the south pole of the show the correct trend of the function, zeros and vertex
+magnet is below the plane of the loop. points.
+Which statement is correct about the result
+of the student’s measurement?
+(a) The current in the loop flows in one direction
+increasing steadily to its maximum value when the
+centre of the bar crosses the centre of the loop plane,
+E
+after which the current begins to steadily decrease.
+(b) The current in the loop undergoes harmonic oscillations
+because the magnetic flux through the loop is changing.
+(c) The current in the loop flows first in one direction, then,
+after the centre of the bar crosses the centre of the loop
+plane, the current begins to flow in the opposite
+direction.
+(d) No current flows in the loop because both ends of the
+magnet move through the loop.
+________________________________________
+Question 20
+Unpolarized light goes through three successive Polaroid
+filters, each with its transmission axis at 45° relative to the
+preceding filter. What percentage of the light gets through?
+(a) 0%
+(b) 12.5%
+(c) 25%
+(d) 50%
+(e) 33%
+________________________________________
+Part B: Questions that require graphical solutions
+Question 1
+The drag force due to air resistance on a falling object
+depends on the instantaneous velocity of the object as:
+D = -1/4 Av2. Sketch a diagram of height vs. distance for the
+_______________________________________________
+trajectory of two projectile objects launched from the same
+point at ground level with the same angle to the horizontal:
+Question 3
+a) the projectile for which the air resistance is negligible,
+A very thin stick is placed on the optical axis of a thin
+and b) the projectile that is experiencing a drag force in the
+convex lens as shown in the diagram. Draw the image of the
+air.
+object. Show all rays used for the image construction.
+f f
+______________________________________________
+________________________________________________
+
+6
+air and ρ = 1.2 kg/m3, A is the area of the cross-section of
+Question 4 the parachute perpendicular to the motion and v is the
+Monochromatic light is produced by a laser and propagates velocity.
+through vacuum from left to right until it strikes normally
+the surface of a glass brick, as shown. The direction of the What should the diameter of the parachute be so that the
+wave propagation coincides with the x-axis. ambulance can land safely?
+On the system of coordinates “amplitude vs. position”,
+sketch the wave before it enters the glass brick, inside the Notice that you have to make
+glass brick, and after it exits the brick. assumptions on what is
+approximately a safe landing
+velocity and what is a weight of a
+typical ambulance.
+Make sure you justify all your
+assumptions.
+x
+x
+_______________________________________________
+_______________________________________________
+Problem 2
+Question 5 A very thin beam of protons is injected at non-relativistic
+An object, shown in the figure below, is made out of velocities in a circular particle accelerator of radius R. The
+conducting material and has a hole completely hidden inside mass m and the charge e of the proton are known. The initial
+its body. A point charge +Q is kept motionless in the hole current in the accelerator is I and the total number of
+by some external force. Sketch the electric field lines inside particles is n. The magnetic flux through the beam circuit
+the hole, inside the conductor, and outside the conductor as changes at a rate of ρ Wb/s, while the radius of the beam
+close to reality as it is necessary to be consistent with the track remains unaltered. What is the value of the current
+laws of electromagnetism. after one turn of the particles?
+_______________________________________________
+Problem 3
+Very cold fresh water fills a vessel with a depth of 3.00 m
+and a diameter of 1.00 m. A vertically maintained ice
+cylinder with diameter d =30.0 cm and length l = 30.0 cm is
+carefully moved downwards and submerged in the water
+perpendicular to its surface and in the centre of the vessel.
+When ¾ of the cylinder is submerged, it is released. The
+density of the ice is ρ = 917 kg/m3; the density of the water
+i
+is ρ = 1.00x103 kg/m3. For the following questions, you
+w
+can neglect the melting of the ice.
+1) Describe the behaviour of the cylinder after it is
+released.
+2) Calculate the position of the centre of mass of the
+cylinder in equilibrium, taking the level of the water
+surface as zero and the vertical axis aimed upwards.
+3) Write and solve the equation of motion for the cylinder
+_______________________________________________ valid during the first few seconds after it is released.
+Part C: Open-Ended Problems The equation must have a solution in the form y(t)
+where y is the displacement; and t is time.
+Problem 1 4) Explain the physical significance of all parameters of
+An ambulance needs to be delivered to a remote town the function y(t) and give the numerical values for the
+devastated by a major earthquake. All roads leading into the parameters.
+town are blocked due to the earthquake and the ambulance
+can only be rushed to the area by airlift. The ambulance _______________ END OF EXAM___________________
+will be pushed out of a military cargo jet at 3000 m altitude
+and rescue staff need to find out what kind of parachute is
+needed for this mission. The drag force is given by the
+approximate formula: F = ¼ ρAv2, where ρ is the density of
+edutilpmA
+

@@ -1,0 +1,315 @@
+CAP High School Prize Exam
+8 April 2004
+9:00 – 12:00
+Competitor’s Information Sheet
+The following information will be used to inform competitors and schools of the exam results, to deter-
+mine eligibility for some subsequent competitions, and for statistical purposes. Only the marking code,
+tobeassignedbythelocalexaminationcommittee,willbeusedtoidentifypapersformarking.
+MarkingCode:
+Thisboxmustbeleftempty.
+PLEASEPRINTCLEARLYINBLOCKLETTERS.
+FamilyName: GivenName:
+HomeAddress:
+PostalCode:
+Telephone:( ) E-mail:
+School: Grade:
+PhysicsTeacher:
+DateofBirth: Sex:
+Citizenship:
+ForhowmanyyearshaveyoustudiedinaCanadianschool?
+WouldyoupreferfurthercorrespondenceinFrenchorEnglish?
+Sponsored by:
+Canadian Association of Physicists
+Canadian Chemistry and Physics Olympiads
+
+Canadian Association of Physicists Question3
+2004 Prize Exam Twomonkeyswiththesamemassstandonabranchatheight
+h above the horizontaljungle floor. Monkey A steps off the
+This is a three-hour exam. National ranking and prizes will
+branch holding the end of an inextensible rope of length L
+bebasedonastudent’sperformanceonbothsectionsAandB
+whose other end is tied to another branch at height H, lets
+oftheexam.Performanceonthemultiple-choicequestionsin
+go at the bottom of the swing, and falls freely to the floor,
+partAwillbeusedtodeterminewhosewrittenworkinpart
+asshownbelow. MonkeyBstepsoffandfallsstraightdown-
+B will be marked for prize consideration by the CAP Exam
+ward.Then,neglectingairresistancebutnotthetensioninthe
+NationalCommittee. ThequestionsinpartBhavearangeof
+rope,thetotalworkW doneoneachmonkeyandthespeedv
+difficulty.Dobecarefultogatherasmanyoftheeasiermarks
+withwhicheachhitsthefloorareasfollows:
+aspossiblebeforeventuringintomoredifficultterritory.Ifan
+answertopart(a)ofaquestionisneededforpart(b),andyou
+arenotabletosolvepart(a),assumealikelysolutionandat-
+tempttherestofthequestionanyway. Nostudentisexpected L
+tocompletethisexamandpartsofeachproblemmaybevery
+A B
+challenging.
+Non-programmablecalculatorsmaybeused. Pleasebecare- H
+ful to answer the multiple-choice questions on the answer
+card/sheet provided; most importantly, write your solutions
+to the three long problems on three separate sheets as they h
+willbemarkedbypeopleindifferentpartsofCanada. Good
+luck.
+Data
+Speedoflight c=3:00 108m/s (a)W A <W B ,v A <v B ; (b)W A =W B ,v A <v B ;
+Gravitationalconstant G=6:67(cid:2) 10(cid:0)11Nm2/kg2 (c)W =W ,v =v ; (d)W <W ,v =v .
+A B A B A B A B
+Accelerationduetogravity g =9:80m (cid:2) /s2 (cid:1)
+Question4
+Fundamentalcharge e=1:60 10(cid:0)19C
+Massofelectron m =9:1(cid:2)1 10(cid:0)31kg A person, standing on a train that is accelerating forward at
+Massofproton m e =1:673(cid:2) 10(cid:0)27kg 3.3m/s2, throws a ball vertically upward. Neglecting air re-
+p
+Planck’sconstant h=6:63 1(cid:2)0(cid:0)34Js sistance, the magnitude of the ball’s acceleration relative to
+Coulomb’sconstant 1=4(cid:25)(cid:15)o =(cid:2)8:99 10(cid:1)9Jm/C2 thetrainis
+Boltzmannconstant k =1:38 10(cid:0)(cid:2)23J/K (cid:1) (a)9.8m/s2; (b)10.3m/s2;
+(cid:2)
+(c)7.0m/s2; (d)13.1m/s2.
+PartA:MultipleChoice
+Question5
+Question1
+Imustcrossariverintheshortestpossibletime. Waterflows
+Youarestandinguprightinaroominfrontofaverticalmir- downstream at a constant 5.0m/s between the two parallel
+ror. In this mirror, you can see from your position only the shores. Taking the direction of the flow as reference, if my
+upper two-thirds of your body. You wish to see the entire boathasamaximumspeedof10m/s,itshouldheadat
+length of your body reflected in the mirror. Which combi- (a)90(cid:14); (b)120(cid:14);
+nation of the following three courses of action will achieve
+this?
+(c)150(cid:14); (d)27(cid:14).
+(I) Moveawayfromthemirror;
+Question6
+(II) movetowardthethemirror;
+Ahoopandasolidcylinderhave thesamemassandradius.
+(III) use a mirror whose height will allow you to see your They both roll, without slipping, on a horizontal surface. If
+wholeimagewhenyouareatyourinitialposition. theirkineticenergiesareequal,
+(a)(I)only; (b)(II)only;
+(a) thehoophasagreatertranslationalspeedthanthecylin-
+(c)(III)only; (d)either(I)or(III). der;
+Question2 (b) the cylinder has a greater translational speed than the
+A5kgcartcollidesonahorizontalsurfacewitha20kgcart. hoop;
+Whichcartexperiencesthesmallerforcebecauseofthecol- (c) the hoop and the cylinder have the same translational
+lision? speed;
+(a)The5kgcart; (b)theforcesareequal; (d) the hoop has a greater rotational speed than the cylin-
+(c)the20kgcart; (d)itdependsifthecollisioniselastic. der.
+
+CanadianAssociationofPhysicistsPrizeExam 2004
+Question7 Question13
+A string clamped at both ends is vibrating. At the moment At equilibrium, the electric field at a point on a closed con-
+the string looks flat, the instantaneoustransverse velocity of ductingsurface,whetherthesurfaceischargedorneutral,can
+pointsalongthestring,excludingitsend-points,mustbe neverbe
+(a) zeroeverywhere. (a) tangenttothesurface;
+(b) dependentonthelocationalongthestring.
+(b) perpendiculartothesurface;
+(c) notzeroanywhere.
+(c) zero;
+(d) non-zeroandinthesamedirectioneverywhere.
+(d) directedinwardsinceitmustvanishinside.
+Question8
+Question14
+In vacuum, a potential difference V is maintained between
+pointsadistancedapart. ThecorrespondingelectricfieldE AuniformcubicalboxofmassM restsonahorizontalfloor
+accelerates an electron from rest to a speed v over that dis- with one edge against a small obstruction fixed to the floor.
+tance. Whichoneofthefollowingstatementsistrue? CanahorizontalforceofmagnitudeF appliedontheboxat
+thecentreofthesideoppositetheobstructiontipthebox?
+(a)E doesnotdependond; (b)E dependsonV,notond;
+(c)E dependsonlyond: (d)vdependsonV,notond. (a)No,never; (b)yes,onlyifF >mg;
+(c)yes,F >mg=2issufficient; (d)yes,onlyifF >2mg.
+Question9
+Lightwavespropagatealongthelengthofapipecontaininga Question15
+perfectvacuumandwhoseendcapsareperfectreflectors. A A circuit consists of a battery, a resistor R , and two light
+standing-wavepatternisformedwithfrequencyf andwave- bulbsAandBasshownbelow:
+length (cid:21). When a gas, with index of refraction n, is intro-
+R
+ducedintothepipe,whichofthefollowingchangesoccurs?
+(a)(cid:21)increases; (b)f increases;
+(c)(cid:21)decreases; (d)f decreases. A B
+Question10
+Studentsclaimthatinalabexperimenttheywitnessedahead-
+onelasticcollisionbetweentwoballsonahorizontalsurface
+whichresultedintheballsbeingbothatrest.Noexternalhor-
+IfthefilamentinlightbulbAburnsout,thenthefollowingis
+izontalforcewasactingatanytimeonthemasses. Whichof
+trueforlightbulbB:
+thesecommentsisthemostappropriateaboutthisprocess?
+(a)Itisturnedoff; (b)itsbrightnessdoesnotchange;
+(a) Initialspeedsandmassesmusthavebeendifferent;
+(c)itgetsdimmer; (d)itgetsbrighter.
+(b) initialspeedsandmassesmusthavebeenidentical;
+(c) initialspeeds, butnotnecessarilymasses, wereidenti- Question16
+cal; AnobserveratOviewstwocloselyspacedlinesonthebot-
+(d) theprocesscannothaveoccurredasclaimed. tomsheetthroughanangledslabofplasticwithparallelfaces,
+exactlyasshowninthefigurebelow.
+Question11 O
+The potential across a 3(cid:22)F capacitor is 12V when it is not
+connected to anything. It is then connected in parallel with
+(cid:0)!
+anuncharged6(cid:22)Fcapacitor. Atequilibrium,thechargeqon
+plastic right
+the3(cid:22)FcapacitorandthepotentialdifferenceV acrossitare
+(a)q =12(cid:22)C,V =4V; (b)q =24(cid:22)C,V =8V;
+(c)q =36(cid:22)C,V =12V; (d)q =12(cid:22)C,V =6V; sheet
+Question12
+Comparedtowhenthereisnoplastic,thelinesappeartothe
+In subatomic physics, one often associates a characteristic
+observer
+wavelength(cid:21)withaparticleofmassm. Ifh(cid:22) = h=2(cid:25) (hbe-
+(a) thesamebutshiftedtotheright;
+ingPlanck’sconstant)andcthespeedoflight, whichofthe
+followingexpressionsismostlikelytobethecorrectone? (b) shiftedtotheleftandspacedfurtherapart;
+(a)(cid:21)=h(cid:22)c=m; (b)(cid:21)=h(cid:22)=mc2; (c) shiftedtotherightandspacedclosertogether;
+(c)(cid:21)=h(cid:22)m=c; (d)(cid:21)=h(cid:22)=mc; (d) exactlyastheydowithouttheplasticslab.
+2
+
+CanadianAssociationofPhysicistsPrizeExam 2004
+Question17 Question22
+If all of Earth’s polar ice were suddenly to melt into the Inordertomeasurethespeedv ofbloodflowingthroughan
+oceans,intheshorttermthelengthofthedaywould artery, a uniform magnetic field B is applied in a direction
+perpendiculartotheflowandavoltmetermeasuresthevolt-
+(a)increase; (b)remainthesame; ageacrossthediameterDoftheartery,atrightanglestoB.
+(c)decrease; (d)firstdecrease,thenincrease. Ifpositiveandnegativeionsinthebloodarelongitudinallyat
+restwithrespecttotheflow,thespeedoftheflowisclosestto
+Question18
+(a)v =V=BD; (b)v =BD=V;
+Twoidenticalballs,AandB,ofuniformcompositionandini-
+tiallyatthesametemperature,eachabsorbexactlythesame (c)v =VD=B; (d)v =B=VD.
+amount of heat. A is hanging down from the ceiling while Question23
+B rests on the horizontal floor in the same room. Assuming
+Abarmagnetwithitsnorth(N)andsouth(S)polesasshown
+nosubsequentheatlossbytheballs, whichofthefollowing
+below is initially moving to the left, along the axis of, and
+statements is correct about their final temperatures, T and
+A awayfromacircularconductingloop. AcurrentI isinduced
+T ,oncetheballshavereachedtheirfinaldimension?
+B intheloop,withatheaccelerationofthemagnetduetothis
+current. Asseenfromthemagnetlookinginthedirectionof
+theloop,
+A
+B S N
+(a) I runsclockwiseandapointstotheleft;
+(a)T < T ; (b)T > T ;
+A B A B (b) I runscounterclockwiseandapointstotheright;
+(c)T = T ; (d)T T .
+A B A (cid:20) B (c) I runsclockwiseandapointstotheright;
+Question19
+(d) I runscounterclockwiseandapointstotheleft.
+TwounchargedballsAandB,eachverylightandcoatedwith
+aconductingmaterial,hangverticallysidebysidejusttouch-
+Question24
+ingeachother. Apositively-chargedglassrodisbroughtnear
+ball A without touching it. Now A and B are separated and Youaremovinganegativechargeq < 0atasmallconstant
+then the glass rod is removed. If Q and Q represent the speed away from a conducting spherical shell on which re-
+A B
+electricchargesonAandB,respectively,youconcludethat sides a negative charge Q < 0. The electrostatic field of Q
+is E. Let U be the total energy of q, W the work done by
+(a)Q <0andQ <0; (b)Q <0andQ >0; a
+A B A B the force F you exert on q, and W the work done by the
+a E
+(c)Q A >0andQ B <0; (d)Q A >0andQ B >0; electrostaticforceF E onq. Then,asqisbeingmoved,
+Question20
+(a) W = W ,andthereforeU remainsconstant;
+a E
+You are travelling at constant speed in an airtight car with a (cid:0)
+(b) F = F ,andthereforeU remainsconstant;
+balloonfloatingmotionlessnexttoyou. Suddenly,youslam a (cid:0) E
+onthebrakessoastostopthecarquickly. Duringdeccelera- (c) U increases;
+tion,withrespecttothecartheballoon (d) U decreases;
+(a)movesforward; (b)remainsmotionless;
+Question25
+(c)movesbackward; (d)canmoveforwardorbackward.
+Anicecubeofpurefreshwaterfloatsonpurefreshwaterin
+Question21 a glass. A huge ice shelf, also of pure fresh water, floats on
+theoceanawayfromAntarctica. Neglectingthecontribution
+DuetotidalfrictiononEarth,theradiusRoftheMoon’sorbit
+duetothedensityofair,astheicecubeandtheicebergmelt,
+isincreasingattherateofafewcentimetresperyear. During
+thisprocess,theMoon’sangularmomentum (a) thewaterlevelrisesbothintheglassandintheocean;
+(b) thewaterleveldoesnotchangeineithercase;
+(a) remainsconstantsinceitsspeeddecreases;
+(c) the water level stays the same in the glass but rises in
+(b) remainsconstantbutitstotalenergyincreases;
+theocean;
+(c) increasesaspRwhileitstotalenergyincreases;
+(d) thewaterleveldecreasesintheglassbutstaysthesame
+(d) decreasesaspRwhileitskineticenergydecreases. intheocean.
+3
+
+CanadianAssociationofPhysicistsPrizeExam 2004
+PartB
+Problem1
+AuniformballofmassM = 1:00kgisreleasedfromrestat
+thesurfaceofapondandsinksverticallyintothewater. An
+observer, wishingtodeterminethedensityofthisball, mea-
+suresthetime-dependenceoftheangle(cid:11)betweenthevertical
+athisposition,adistancehabovethesurface,andthedirec-
+tionoftheball’sapparentinstantaneousposition(seefigure).
+The horizontal distance between the observer and the initial
+positionoftheballisd.
+ball
+(cid:0)
+In one such generator, the coil has 125 turns of wire and a
+cross-sectionalareaof0.0010m2,immersedinafieldofmag-
+nitude0.080T.Attheareaofcontactwiththetire,therimof
+thegenerator’sshafthasaradiusof1.25cm. Thetire’sdiam-
+eteris66 cm.
+(a) If the lightbulb in the headlight needs 5.0W of average
+electricalpower,correspondingtoavoltageamplitudeof
+4.0V, toproduceadecentamountoflight, calculatethe
+linearspeedofthebicycleneeded,assumingnoslipping
+anywhereintheproblem.
+(b) Calculatethetorquethatmustbesuppliedbythebicycle
+wheel to produce the required average electrical power
+(cid:11) h forthebulb. Statebrieflytwoothersimplifyingassump-
+tionsthatmustbemade.
+d surface
+(c) What is the amplitude of the current induced in the coil
+undertheseconditions?
+(d) To the extent that the lightbulb obeys Ohm’s Law, and
+that its resistance is constant, by what factor would the
+Thedragforceactingontheballasit sinksiswellapproxi-
+powerdeliveredtothebulbincreaseifthecyclisttripled
+matedatlowspeedv byF = bv,wherebisaconstant.
+Wealsotakethedensityof d w rag atert (cid:0) obe(cid:26) =1000kg/m3and the bicycle’s speed (presumably downhill or at the Tour
+w deFrance)?
+itsrefractionindexasn =1:33.
+w
+(a) Deriveanexpressionfortheinstantaneousdepthy ofthe
+Problem3
+ballasafunctionof(cid:11),h,andd.
+ThelongjumpasanOlympicsportdatesbackatleastasfar
+(b) Having calculated the depth of the ball as a function of as700BC.UnlikeinthemodernOlympics,itwaspractised
+time,theobservercanthenconstructthefollowingtable notonlyfromarunningstart, butalsofromastandingstart.
+forthespeedoftheballasafunctionoftime: The length of a jump was measured (as it still is) from the
+pointwherethebackofthefeettouchedthegroundonland-
+Time[s] Speed[m/s] Time[s] Speed[m/s] ing.PaintingsonancientGreekvasesdepictathletesjumping
+fromastandingstartwhileholdingcompactweightsinboth
+0.000 0.000 0.225 0.8425
+hands. Examples of these have been dug up by archaeolo-
+0.010 0.0910 0.275 0.8767 gists, and typical ones, made of stone or lead, each have a
+0.025 0.2086 0.325 0.8966 massofaround3kg.
+0.075 0.5081 0.375 0.9082
+(a) Writeashortparagraphexplainingqualitativelyhowath-
+0.125 0.6823 0.425 0.9145
+letescouldboosttheirperformance,ie.jumpfurtherfrom
+0.175 0.7836 0.475 0.9155 a standing start, by carrying such weights. More pre-
+cisely, describe what they would have done with the
+From these data, find the initial acceleration of the ball weights during the jump.You can accept that, as biome-
+andestimateatwhichvalueitsspeedwillstabilise. Then chanicsresearchhasshown,aloadedbodycouldtakeoff
+calculatethedensityoftheballandobtainavalueforthe atthesamespeedandangleasanunloadedone.
+dragcoefficientb. (b) Estimatebyhowmuchthelengthofa3mjumpcouldbe
+increasedfora65kgathletejumpingatanangleof50(cid:14).
+Problem2 Rememberthatthistakesplacefromastandingstart,not
+arunningstartliketoday’slongjump. Youcantakethe
+Bicycleheadlightsareoftenpoweredbyagenerator,withthe
+centreofmassofthebodytobeataheightof1mabove
+rimofthegenerator’s shaftrollingagainstthetire’srimdue
+groundand the lengthof the armsto be 65cm. Also, at
+totherotationofthewheel. Theshaftisrigidlyconnectedto
+themomentoftake-off,theathleteisleaningforwardso
+a coil within the generator which rotates in a magnetic field
+B. that his shoulders are about 15cm in front of the centre
+ofmassofhisbody.
+(cid:3) (cid:3) (cid:3) (cid:3)
+4
+

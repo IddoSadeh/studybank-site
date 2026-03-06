@@ -1,0 +1,728 @@
+CAP High School/CEGEP Prize Exam
+April 09, 2025
+9:00 - 12:00
+Student Information Sheet
+The following information will be used to inform students and schools of the exam results, to determine
+eligibility for some subsequent competitions and for statistical purposes. Only the marking code, to be
+assigned by the local examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS
+Student First Name
+Student Last Name
+Teacher Name
+Address: (StreetnumberandApt)
+(CityandProvince) (PostalCode)
+Telephone: ( ) Email:
+School: Grade:
+Date of Birth:
+Gender: Citizenship:
+If you are not a Canadian citizen, what is your Immigration Status?
+For how many years have you studied in a Canadian school?
+Would you prefer further correspondence in French or English?
+By signing this page I agree that, if my score on this Exam is in the top 20 nationally or in the top 6 in my
+
+province, my name, my school’s name, and my ranking can be published.
+Student’s signature:
+Page 2
+
+Sponsored by:
+Data
+Speed of light c=3.00 108 m/s
+Canadian Association of Physicists; →
+Speed of sound in air = 343 m/s
+Canadian Physics Olympiad; Gravitational constant G=6.67 10 11 Nm2/kg2
+→
+→ ·
+Department of Physics and Acceleration due to gravity g =9.81 m/s2
+Astronomy, University of British Standard atmospheric pressure P 0 =1.01 105Pa
+→
+Density of fresh water ω=1.00 103 kg/m3
+Columbia. →
+Density of air at 20 C and standard pressure ω=1.2
+↑
+kg/m3
+Density of ice ω =916 kg/m3
+i
+Specific heat of water C =4186 J/(kgK)
+2025 Canadian Association of w ·
+Specific heat of ice C =2050 J/(kgK)
+Physicists Highschool/Cegep Prize i ·
+Latent heat of water L =2260 kJ/kg
+Exam w
+Latent heat of ice L =334 kJ/kg
+i
+Fundamental charge e=1.60 10 19 C
+This is a three-hour exam. National ranking and →
+→
+Mass of an electron m =9.11 10 31 kg
+prizeswillbebasedonstudents’performanceonsec- e →
+→
+Mass of a proton m =1.67 10 27 kg
+tionsAandBoftheexam. Performanceonquestions p →
+→
+Planck’s constant h=6.63 10 34 Js
+in section A will be used to determine whose written →
+→ ·
+1 eV 1.602 10 19 J
+work in section B will be marked for prize considera- →
+↑ →
+Electrostatic constant k = 1/4εϑ = 8.99 109N
+tionbytheCAPExamNationalCommittee. Section 0
+→ ·
+m2/C2
+Aconsistsof25multiple-choicequestions. Theques-
+Permittivityoffreespaceϑ =8.854 10 12C2/Nm2
+tions in section B span a range of di!culty, and may 0 →
+→ ·
+Boltzmann’s constant k =1.38 10 23 J/K
+require graphing and/or measurement on the graph. B →
+→
+Stefan–Boltzmann constant ϖ = 5.67 10 8 W/m2
+Be careful to gather as many of the easier marks as →
+→ ·
+K4
+possiblebeforeventuringintomoredi!cultterritory.
+Astronomical Unit (approximate distance from the
+Whenyouareunabletosolveanypartofaquestion,
+Sun to the Earth) 1 AU =1.49598 1011 m
+you may assume a likely answer to that part and at-
+→
+Radius of the Earth R =6.371 106 m
+tempt the rest of the question anyway. E
+→
+Radius of the Sun R =6.96 108 m
+Non-programmablecalculatorsmaybeused. Answer S
+→
+Mass of the Earth 5.97 1024 kg
+the multiple-choice questions on the answer sheet
+→
+Mass of the Sun 1.99 1030 kg
+provided. Most importantly: write your solutions to
+→
+H Molar mass 2.016 g/mol
+the three long problems on three separate sheets 2
+O Molar mass 31.998 g/mol
+as they will be marked by people in di”erent parts of 2
+N Molar mass 28.013 g/mol
+Canada. Good luck. 2
+Notice: Full marks will be given to students who
+provide full correct solutions to problems in Sec-
+tion B. Partial marks will be given for partial solu-
+tions. There are no penalties for incorrect answers.
+The questions are not of equal di!culty. Remember
+that we are challenging the best physics students in
+Canada; it is possible that even the best papers may
+not achieve an overall score of 80%. This Exam is
+meant to be challenging!
+Page 3
+
+Section A
+Solution: B.
+1. LEDsred,greenandblue(allofthesamepower) 10Hz LED is a diode, so only current in one
+are connected in parallel to a variable voltage directioncreatesthecurrent,whichproduces
+source. The voltage is slowly increased from 0. the light.
+Which diode will light up first?
+A. Red
+4. A thin lens of focal length f =10 cm is cut into
+B. Green
+two equal halves. What is the new focal length
+C. Blue of each half?
+D. All will light up at the same voltage.
+Solution: A.
+Red LED will light up first as the energy
+of the red photons is lowest and the volt-
+age needed to deliver su!cient energy will
+be lowest.
+A. 2.5 cm
+B. 5 cm
+2. Asinusoidalvoltagewaveformwithfrequencyof C. 10 cm
+10 Hz is delivered to a small incandescent bulb.
+D. 20 cm
+The light coming from the bulb will be:
+E. 40 cm
+A. Steady
+B. Flickering at 10 Hz
+C. Flickering at 5 Hz Solution: C.
+Cuttingthelensinthespecifiedmanneronly
+D. Flickering at 20 Hz
+changes the amount of incident light that
+Noticethatwecanperceiveflickeringonlyatfre- goes through the lens. It does not change
+quency less than than 30 Hz. the focal length.
+Solution: D. 5. When we see a half moon (first or third quarter
+The intensity of incandescent light depends moon), the amount of energy reaching the moon
+only on the magnitude of the current. Su!- from the Sun is:
+cientcurrentinpositiveornegativedirection
+A. about half of the energy reaching the moon
+will light it up. So it will light up twice per
+from the Sun compared to when we see full
+sinusoidal period.
+moon
+B. about the same energy reaching the moon
+3. The same sinusoidal voltage wave form with fre- from the Sun compared to when we see full
+quencyof10HzisdeliveredtoanLED.Thelight moon.
+coming from the LED will be: C. about a quarter of the energy reaching the
+A. Steady moon from the Sun when we see a full moon
+B. Flickering at 10 Hz D. depends on the season.
+C. Flickering at 5 Hz
+D. Flickering at 20 Hz Solution: B.
+Noticethatwecanperceiveflickeringonlyatfre- The way we see the moon does not change
+quency less than 30 Hz. the way it is illuminated by the Sun.
+Page 4
+
+6. The internal surface of a semi-cylinder shown in F. A and D are true
+the diagram is a mirror. A narrow beam of light
+propagating in a plane perpendicular to the axis
+of the semi-cylinder hits the upper edge at point Solution: F.
+I, at an angle of 65 to the line I C. Point C The light turns on immediately because the
+↑
+↓
+in the figure is located on the axis of the semi- electric field propagates through the wire at
+cylinder. Afterhowmanyreflectionswillthisray nearly the speed of light, causing electrons
+leave the semi-cylinder? throughout the circuit to start drifting al-
+most simultaneously. This rapid response to
+the field powers the bulb, even though indi-
+vidualelectronsmoveveryslowly. Thusboth
+statements A and D are true.
+8. A person is floating on an inflatable mattress in
+the pool and drinking water from a metal cup.
+At some point this person drops the cup into the
+pool and the cup sinks. The level of the water in
+A. 1
+the pool:
+B. 2
+A. stays the same
+C. 3
+B. goes up
+D. 4
+C. goes down
+D. goes up or down depending how much water
+Solution: D. is in the cup.
+The beam TI reflects at an angle of 65 to
+↑
+the normal CI. Thus the light ray deflects
+fromitsoriginaldirectionby2 (90 ↑ 65 ↑ )= Solution: C.
+→ ↓
+50 ↑ . Using the geometry of the circular re- The di”erence in the volume of water dis-
+flecting surface, we see that the reflected ray placed in each case is due to the metal cup
+strikesthesurfaceagainatanangleof65 ↑ to only as all the other parameters (such as
+thenormalandtheabovecalculationapplies. weight of the person and the volume of wa-
+Thus a ray is deflected by 50 ↑ every time it ter in the cup) stay the same. The volume
+strikesthemirror. Therayexitsthecylinder displaced by the cup is m /ω while it is
+cup w
+once the total deflection angle exceeds 180 ↑ , being held by the person, whereas the vol-
+which happens after 4 reflections. ume displaced is m /ω when it sinks.
+cup cup
+As density of metal is higher than density of
+water the cup will displace less water than
+7. Speed of electrons in an electrical wire is of the the volume of the water.
+order of mm per second. The light goes on im-
+mediately when we close the switch because:
+9. Two identical truck tires are deformed by the
+A. All electrons start moving and doing work at
+sameamount: oneveryquicklywhenthecarhits
+the same time after we close the switch
+a curb, and the other very slowly when the truck
+B. We are using AC voltage so electrons only
+bed is filled with snow. The ambient tempera-
+have to move forth and back by a very short
+ture is 0 C in both cases. Which deformation
+↑
+distance.
+required a larger force to occur?
+C. Emitting light from any bulb has nothing to
+A. The fast one
+do with movement of electrons.
+B. The slow one
+D. Electric field, which forces the electrons to
+C. Both needed the same force
+start moving, propagates with speed close to
+the speed of light. D. Not enough information to decide
+E. A and B are true
+Page 5
+
+C. About 24 cm
+Solution: A.
+D. About 48 cm
+The fast deformation is an adiabatic pro-
+cess with increasing temparature, whereas
+the slow deformation is an isothermal pro- Solution: A.
+cess. The final volume is the same in each Wavelength is about 3 106/2.4 107 =
+→ →
+case. Thusthefastprocessneedsmorework. 12cm. Thedistancebetweennodesofstand-
+ing wave is half of the wavelength so about
+6cm.
+10. Ontheblankcomputerscreen18cmhigh,thefol-
+lowing picture of the cursor was observed when
+12. Onedaywhenthetemperatureis20→C andpres-
+the mouse was moved. What was the speed of
+sure is close to the standard pressure, a hot air
+the mouse? The typical computer display works
+balloon with the air heated to 70→C and vol-
+with 60 frames per second.
+ume of 1000 m3 can lift about (including its own
+weight):
+A. 1200 kg
+B. 1020 kg
+C. 170 kg
+D. 340 kg
+E. 860 kg
+A. About 1 m/s
+B. About 2 m/s Solution: C.
+Density of gas at constant pressure is
+C. About 4 m/s
+inversely proportional to temperature in
+D. About 1 cm/s
+Kelvin. So the density of air at 70 C will
+↑
+E. About 2 cm/s be 1.2 293/343 = 1.03. Buoyant force will
+→
+be about 1200 1030=170kg.
+F. About 4 cm/s ↓
+13. Four equal charges of Q are placed at the four
+Solution: B. ↓
+corners of a square with side length a. At which
+Onecanmeasureonthepicturetheheightof
+point is the magnitude of the electric field the
+the screen and the distance between the im-
+greatest?
+agesofthepointer. Knowingthattheheight
+of the screen is 18cm one can calculate that
+distance between the images of the pointer
+is about 4 cm and this distance is covered
+in 1/60s. This gives us the speed of about
+2m/s.
+11. A microwave oven works at the frequency of 2.4 A. In the centre of the square
+GHz. Alargesheetofchocolatewasplacedinthe B. In the middle of each side
+working microwave (without the rotating plate).
+C. Close to one of the corners
+Afteritwasremoved,therewasadistinctpattern
+D. Far from the charges
+of partly melted chocolate. The areas of melted
+chocolate were separated by area of non melted
+ones. Whatwasthedistancebetweenthemelted Solution: C.
+regions? Using inverse square law, we see the magni-
+A. About 6 cm tude of the field is the largest close to each
+charge.
+B. About 12 cm
+Page 6
+
+14. A beam of light is directed towards an 8-sided
+rotating mirror. After getting reflected by one of
+the sides, light travels to a fixed mirror 60 km
+away, and reflects back to the rotating mirror.
+What is the minimum frequency of rotation of
+the mirror at which the light beam reflects along
+the original direction and reaches the detector?
+A.
+A. 300000 rpm
+B. 75000 rpm
+C. 37500 rpm
+D. 18750 rpm
+B.
+Solution: D.
+The beam of light will be reflected along the
+original direction only if mirror rotates by
+1/8 of the period during which light travels
+forth and back to the fixed mirror which is a
+distance L from the rotating mirror.
+1 2L 8 2L
+T = T = →
+8 c c
+60 c
+v = → rpm C.
+8 2L
+→
+60 3 108
+v = → → rpm=18750rpm
+8 2 60 103
+→ → →
+15. AnRCcircuitconsistsoftwoidenticalcapacitors
+C andC ,inseries,aresistorR,abatterywith
+1 2
+voltage V , and two switches S and S initially
+b 1 2
+open, as shown in the diagram. Initially switch
+D.
+S1issettoposition”B”andthenattime0theit
+ismovedtopositionA.Attime0.4sswitchS is
+1
+moved back to position B and at the same time
+the switch S is closed. Which of the following
+2
+graphs correctly represents the measured voltage
+as a function of time?
+E.
+Page 7
+
+Solution: C.
+2i=90, i=45 , 90 i=45, a=csin(45)+
+↑
+↓
+dsin(45),b=ccos(45)+dcos(45)soa/b=1
+17. Youareshowingthetrickofpullingasheetofpa-
+per from under a glass of water without moving
+the glass much or spilling the water.
+A. You should pull the paper fast to reduce the
+F.
+friction force between the paper and glass.
+B. You have to pull paper very slowly to keep
+the glass from moving.
+C. You are pulling the paper fast so the force of
+frictionactsontheglassforaveryshorttime.
+D. The glass does not move at all if you are fast
+enough.
+Solution: The friction force between the
+Solution: D. glass and the paper is independent of the
+Closing switch S 2 discharges capacitor C 2 . speed at which you pull the paper. By
+With only C 1 remaining in the circuit. The pulling the paper fast you reduce the time
+equivalentcapacitancedecreases,andasare- over which this force acts, ensuring that the
+sult the time constant increases. Addition- glass moves very little. Thus C is true.
+ally, since V =V +V and now V =0 and
+c 1 2 2
+V are unchanged, V will drop.
+1 c
+18. The graph of the magnetic flux passing through
+a loop as a function of time is a parabolic curve.
+16. Thefigurebelowshowsthecross-sectionofarect- The axis of symmetry of the parabola is parallel
+angular mirror with dimensions a and b. A light to the ϱ axis. What is the magnitude of the in-
+rayreflectsbetweenthemirrorssuchthatitstra- duced electromotive force (emf) at the moment
+jectory traces out a single rectangle with dimen- t=0?
+sions c and d. What is the ratio a?
+b
+A. c
+d
+B.
+c2d2 A. 0 µV
+c2+d2
+B. 1 µV
+C. 1
+D. c C. 2 µV
+↓d
+D. 3 µV
+E. ↓d
+c
+Page 8
+
+A. 9,000 10,000
+↓
+Solution: C.
+B. 10,000 11,000
+Since # is a quadratic function of time, it ↓
+must be of the form #=at2+bt+c. From C. 11,000 12,000
+↓
+the two data points in the graph, we deduce D. 12,000 13,000
+↓
+that#=t2+2t+6. Takingatimederivative E. It can be any random number.
+d#/dt gives us magnitude of the emf.
+Solution: None of the above options give
+19. In old times, to start a delayed explosion, for ex- the correct answer.
+ample in mining, one would set fire to one end Denote the dead time by ς. If the counter
+of a rope, which would burn slowly along its records N = 10000 counts per second, then
+length,withtheotherendattheexplosivemate- it was inactive for Nς seconds within the 1-
+rial. Suppose you have two non-identical ropes, second duration. Therefore, in 1 Nς sec-
+↓
+each of which takes one hour to burn its entire onds it registered N counts which implies
+length. The ropes have varying thicknesses, so it should record n = N/(1 Nς) = 12500
+↓
+di”erentsectionsburnatdi”erentrates. Whatis counts per second taking into account the
+theminimumtimeintervalyoucanmeasurewith dead time. Since the radioactive decay is a
+the two ropes? probabilistic event, the actual count can be
+A. 1 hour any number between 10000 12500.
+↓
+B. 45 minutes
+C. 30 minutes 21. Ahorizontalstringisattachedtoanoscillatorat
+one end and a hanging mass at the other. The
+D. 15 minutes
+oscillator’s frequency is adjusted such that the
+string is vibrating in the second harmonic mode,
+Solution: D. forming a standing wave. Now, imagine immers-
+The key is to realize that if a rope is set on ing the hanging mass in water. Which of the
+fire from both ends, it takes 30 minutes to following options is correct?
+burneachrope(thisistrueirrespectiveofthe
+A. The second harmonic mode will no longer be
+natureofthecross-sectionsoftheropes). So,
+excited. It can be restored by increasing the
+thisishowonecanmeasure15minuteswith
+oscillator’s frequency.
+thesystem. Oneropeissetonfirefromboth
+B. The second harmonic mode will no longer be
+ends and the other rope is set on fire from
+excited. It can be restored by decreasing the
+one end. After the first rope is completely
+oscillator’s frequency.
+burnt, it means 30 minutes have passed. At
+this instant, the second rope is to be set on C. The second harmonic mode will no longer be
+firefromtheotherend. Thetimeittakesfor excited. It cannot be restored by adjusting
+the second rope to burn from this instant is the frequency.
+15 minutes. D. The second harmonic mode will not be af-
+fected.
+20. A Geiger-Muller counter is used to detect par-
+ticles created during a radioactive atom’s decay. Solution: B.
+The dead time of a Geiger-Muller counter is the Immersing the mass in water will reduce the
+intervalbetweentwodetectionswithinwhichthe tensioninthestringandthisinturnwillde-
+counter is unresponsive. That is right after a de- crease the speed of the wave in the string.
+tection, the counter does not register a particle Standingwavecanberestoredbydecreasing
+if it arrives within the dead time. Consider a the frequency of the oscillator.
+counter recording 10,000 counts per second. If
+the resolving time for the counter is 2 10 5 s,
+→
+→
+what is the best estimate of the actual count per 22. A horizontal string is attached to an oscillator
+second taking into account that the decay of a that oscillates vertically at one end, and a hang-
+radioactive atom is a probabilistic event? ingobjectwithuniformdensityattheother. The
+Page 9
+
+oscillator’s frequency is adjusted such that the 24. A raindrop begins to fall from rest at time t=0
+string is vibrating in the second harmonic mode, inthepresenceofresistiveforceF = φv, where
+↓
+formingastandingwave. Youimmersethehang- v isthespeedoftheraindropandφ isaconstant.
+ing mass in water and observe that the string Which graph represents the velocity of the drop
+is now vibrating in the fourth harmonic mode. over time?
+What is the density of the hanging mass?
+A. 4/3 of the density of water
+B. 2 times of the density of water
+C. 3/4 of the density of water
+D. 1/2 of the density of water
+Solution: A.
+The fact that the string is oscillating in
+the 4th harmonic after the mass is im-
+mersed in water suggests that the tension
+in the string is dropped to a quarter of
+the initial value, T=mg. This means the
+buoyant force on the mass must be ¾ mg:
+F = 3mg ω Vg = 3ω Vg
+b 4 ↔ water 4 object ↔
+ω = 4ω
+object 3 water
+23. Weknowthattheelectricfieldgeneratedbyasin-
+gleinfiniteflatsheetwithauniformchargedistri-
+bution has a constant magnitude and is perpen-
+diculartothesurface. Now, considertwoinfinite Solution: B.
+non-conducting flat sheets with uniform but op- As v = 0 initially, the only force acting on
+positechargedistributions,perpendiculartoeach the raindrop is gravity, giving it an acceler-
+other. Which figure correctly shows the shape of ation of g. After a very long time, the drop
+the electric field lines between the sheets? reaches terminal velocity and its net acceler-
+ation is zero. Thus the v t graph should
+↓
+have a positive slope g near t = 0, with the
+slope decreasing monotonically, approaching
+zeroafteralongtime. OptionBisconsistent
+with the above description.
+25. The following diagram shows two coils of a con-
+ducting wire wrapped around a core. The elec-
+tric current running through coil 1 changes with
+Solution: A.
+timeasshowninthepictureontherightdiagram.
+Let E be the constant magnitude of elec-
+0
+Whichgraphcorrectlydescribestheinducedcur-
+tric field produced by either of the charged
+rent in coil 2?
+sheets. In the first quadrant, the horizontal
+sheet produces an electric field E yˆ whereas
+0
+the vertical sheet produces a field E xˆ,
+0
+↓
+which when superposed give an electric field
+atanangleof3ε/4withthex axis. Follow-
+↓
+ing a similar logic in the other quadrants we
+get a field configuration shown in option A.
+Page 10
+
+A. 1 only
+B. 2 only
+C. 3 only
+D. 4 only
+E. 1 or 4
+F. 2 or 3
+Solution: E.
+According to Faraday’s law and Lens’s law,
+the current I induced in the inner solenoid
+1
+isproportionaltothenegativeoftheslopeof
+I . Both figures 1 and 4 are consistent with
+2
+thisexplanation. Theydi”eronlyinthesign
+of I which in turn depends on the direction
+2
+of current I , and can not be deduced based
+1
+on the information given in the question.
+Page 11
+
+Section B
+1. Two eggs, one hard boiled, the other raw were rotating for a long time at 20 rotations per second. At
+somepointthetorqueforcingthemtorotatewasremoved. Whichonewillstopfirst? Whichonewillbe
+warmer after it stops? Estimate how much warmer. This will be just an order of magnitude calculation
+-you are not expected to give an accurate value, just an estimate. The rotational kinetic energy of the
+sphere is 1I↼2, where I is the moment of inertia of the sphere about the center of mass, and ↼ is the
+2
+angular speed. The moment of inertia of a solid sphere is given by the formula I = 2MR2, where R is
+5
+the radius and M is the mass of the sphere.
+Solution: All the kinetic energy of the egg has to be converted to heat when the egg stops. The
+stopping of the hard boiled egg is mainly due to air resistance and friction between the egg and the
+surface, on which it rotates, so only fraction of it is dissipated in the egg. For the raw egg faster
+stopping is due to the drag of the liquid sloshing inside, so more of the kinetic energy heats the
+inside of the egg. So the raw egg stops first and is warmer after stopping. Assuming that more of
+the kinetic energy goes into heating the raw egg, and assuming that the egg is a ball of radius 15
+mm filled with water we get:
+1 1 2
+mC $T = I↼2 = mR2 ↼2
+w
+2 2 → 5 →
+$T =1/5 0.0152 (2ε 20)/4186=0.00017 0.2mK
+→ → → ↗
+Page 12
+
+2. A circular copper coil consisting of 90 loops of radius r = 0.35m, and a total resistance R = 4.2%,is
+c
+attached to a plastic pulley with radius r = 0.4m, as shown in the figure below. A non-elastic rope of
+p
+negligiblemassiswrappedaroundthepulleyandattachedtoahangingmassm=2.0kg. Whenreleased,
+the rope unwinds without slipping as the hanging mass drops. A uniform magnetic field B = 0.1T is
+initially perpendicular to the plane of the coil.
+a. Derive an expression and calculate the numerical value of the average terminal speed (the terminal
+speed might vary slightly during each revolution of the coil).
+b. Sketch a graph of velocity of the hanging mass as a function of time. You don’t need to include
+any numerical values.
+Solution: Because of the oscillatory nature of the force acting on the loop, there will be never a
+constantterminalvelocity-itwillalwaysoscillatearoundsomeaverageconstantvalue. Thisaverage
+will be achieved when the power lost as heat in the resistance of the coil V2/R will be equal to the
+power of the gravitational force of the weight (mgv).
+The voltage induced in the coil is:
+d d d vt v vt
+V =N (A B)=N εr2Bcos↼t =N εr2Bcos =Nεr2B sin
+dt · dt c dt c r c r r
+# p$ p p
+! "
+Average over a revolution gives:
+2
+1 v
+V2 = Nεr2B
+2 c r
+# p$
+Page 13
+
+Setting V2/R=mgv, we get
+2mgRr2
+1/2(Nεr2Bv/r )2 =mgvR = v = p =2.21m/s
+c p ↘ (Nεr2B)2
+c
+Alternatively;
+For the hanging mass mg T =ma. For the pulley, Tr ς = Ipulleya. This gives us
+↓ p ↓ counter rp
+ς =µ B=NiABsin↽
+counter
+→
+dϱ/dt 1 d(NA.B) Nεr2Bsin↽d↽
+i= = = c
+R R dt R dt
+(Nεr2Bsin↽)2 v
+= ς = c
+counter
+↘ R r
+p
+When approaching the terminal speed T =mg and ς =Tr . This gives us
+counter p
+(Nεr2Bsin↽)2 v
+c =mgr .
+p
+R r
+p
+Solving the above equation for v and using that average of sin2↽ over a period is 1/2, we get
+2mgRr2
+v = p =2.21m/s.
+(Nωr2B)2
+c
+Page 14
+
+3. The blue color of Morpho butterfly’s wings is not due to pigment molecules but is instead caused by the
+lightinterference. Thisinterferenceoccurswhenlightreflectso”thenano-size, tree-shapedstructureon
+the wing’s surface called lamellae (See the picture below). These lamellae consist of thin, transparent
+layers (54nm thick) with a refractive index of 1.56, separated by air gaps.
+a. Considering the perpendicular reflections from only the top two transparent layers, calculate the
+size of the air gap between the layers. (⇀ =452nm)
+blue
+b. Calculate the wavelength of the light reflected by the wing if it were dipped in liquid nitrogen.
+Assume that liquid nitrogen would replace the air gaps and would not change the dimensions of
+the wing. The index of refraction of liquid nitrogen is 1.20.
+c. As the butterfly flies, an observer will see the reflections of light incident on the wings at di”erent
+angles. Considering the reflection from only the top two layers, calculate the wavelengths of the
+observed light for the angles of incidence of 5 ,10 ,20 ,30 ,40 , and 45 ? What is the color of the
+↑ ↑ ↑ ↑ ↑ ↑
+observed light during flight?
+Solution:
+a)
+ε n d 452 1.56 54
+2(n d +n d )=⇀ d = 2 ↓ layer layer = 2 ↓ → =142 nm
+layer layer air air air
+↔ n 1
+air
+b) The air gap would be filled with liquid nitrogen:
+⇀=2(n d +n d )=2(1.56 54+1.20 142)=509 nm
+layer layer nitrogen nitrogen
+→ →
+The wing would appear green.
+Page 15
+
+c) The wavelength ⇀ is given by:
+⇀=2(n d cos↽ +n d cos↽ )=2(1.56 54 +cos↽ +142cos↽ )
+layer layer layer air air air layer air
+→ →
+Snell’s law relates the angles:
+2
+n
+air
+n sin↽ =n sin↽ cos↽ = 1 sin↽
+layer layer air air layer air
+↘ % ↓ # n layer $
+The following data points show the variation of the perceived color with the incidence angle:
+↽ cos↽ cos↽ ⇀ (nm)
+air air layer
+5 0.9962 0.9984 451
+↑
+10 0.9848 0.9938 447
+↑
+20 0.9397 0.9757 431
+↑
+30 0.8660 0.9472 405
+↑
+40 0.7660 0.9112 371
+↑
+45 0.7071 0.8914 351
+↑
+Astheangleincreases,thereflectedlightshiftstowardshorterwavelengths,resultingindarker
+blue, violet, and eventually ultraviolet hues.
+Page 16
+
+Question 1 a b c d e f
+Question 2 a b c d e f
+Question 3 a b c d e f
+Question 4 a b c d e f
+Question 5 a b c d e f
+Question 6 a b c d e f
+Question 7 a b c d e f
+Question 8 a b c d e f
+Question 9 a b c d e f
+Question 10 a b c d e f
+Question 11 a b c d e f
+Question 12 a b c d e f
+Question 13 a b c d e f
+Question 14 a b c d e f
+Question 15 a b c d e f
+Question 16 a b c d e f
+Question 17 a b c d e f
+Question 18 a b c d e f
+Question 19 a b c d e f
+Question 20 a b c d e f
+Question 21 a b c d e f
+Question 22 a b c d e f
+Question 23 a b c d e f
+Question 24 a b c d e f
+Question 25 a b c d e f
+Page 11
+

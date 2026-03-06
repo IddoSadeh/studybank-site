@@ -1,0 +1,104 @@
+{
+  "year": 2024,
+  "questions": [
+    {
+      "id": "2024_FR1",
+      "year": 2024,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "The juggler in the photograph rotates the umbrella in such a way that the disk rolling on the umbrella stays in the same place in the room reference frame, as shown: The coefficient of a rolling friction C is a property of a rolling object and the surface on which it rolls. It is defined by the equation F = CN, where F is the magnitude of the applied force required for the object to roll at a constant velocity, and N is the magnitude of the normal force of the object relative to the surface.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Make appropriate measurements on the photo and some approximations to figure out what is the coefficient of rolling friction of the disk over the umbrella material."
+        },
+        {
+          "label": "b",
+          "text": "Using the photo can you determine the angular velocity of the rotation of the umbrella?"
+        }
+      ],
+      "given_data": "F = CN (coefficient of rolling friction equation)",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Two photographs showing a juggler rotating an umbrella with a disk rolling on it. The right image shows the path of the disk in the umbrella frame of reference, depicted as a circular path on the umbrella surface.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2024_FR2",
+      "year": 2024,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Birefringence is an optical phenomena where a birefringent crystal refracts light in two different directions, resulting in the separation of a single incident light beam into two polarized rays with different refractive indices (no and ne). These two rays are often called the ordinary ray (o-ray) and the extraordinary ray (e-ray). Each ray travels through the crystal at a different speed. When an electromagnetic wave propagates in a medium with a refractive index n, the change in oscillation phase after going through a distance d can be expressed as follows: φ = 2πnd/λ",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Suppose we have a birefringent crystal with thickness d. If a beam of light with a wavelength of λ propagates through the crystal, express the phase difference between the ordinary and extraordinary ray, φ, in terms of λ, ne, no, and d."
+        },
+        {
+          "label": "b",
+          "text": "Write down the conditions for the phase difference, φ, that causes the transmitted light to have: i. Maximum intensity ii. Minimum intensity"
+        },
+        {
+          "label": "c",
+          "text": "It is known that the wavelengths for three primary colors are: – λred = 680 nm – λgreen = 530 nm – λblue = 470 nm Find the minimum thickness of the crystal, so that the transmitted light: i. Appears blue. ii. Appears yellow."
+        },
+        {
+          "label": "d",
+          "text": "Write down the conditions for the phase difference, φ, that causes the transmitted light to have: i. Maximum intensity ii. Minimum intensity"
+        },
+        {
+          "label": "e",
+          "text": "Find the minimum thickness of the crystal, so that the transmitted light: i. Appears blue. ii. Appears yellow."
+        }
+      ],
+      "given_data": "φ = 2πnd/λ; A beam of linearly polarized polychromatic light, whose electric field's vector makes an angle θ = 45° with the x-axis, falls normally on a crystal. The refractive index for the electric field component in the x-direction is no = 2.647, and the refractive index for the electric field component in the y-direction is ne = 2.693.",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Multiple diagrams showing: 1) A birefringent crystal with optical axis, showing incident light splitting into o-ray and e-ray, 2) Crystal setup with coordinate axes and polarization components, 3) Polarizer arrangement diagrams showing incident light, crystal, and polarizers with various orientations",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2024_FR3",
+      "year": 2024,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Two uncharged 10cm × 10cm metal plates, separated by a distance d = 1 mm are just touching the surface of water as shown in the figure. The electric permittivity of water is 10 times than that of the air. If a constant voltage difference of V = 600V is applied to the plates, determine how much the water rises inside the plates.",
+      "parts": [],
+      "given_data": "d = 1 mm, V = 600V, εwater = 10εair, plate dimensions: 10cm × 10cm",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Diagram showing two parallel metal plates separated by distance d, with voltage V applied between them. The plates are positioned just touching the surface of water, with water level indicated.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

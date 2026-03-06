@@ -1,0 +1,530 @@
+{
+  "year": 1995,
+  "questions": [
+    {
+      "id": "1995_Q01",
+      "year": 1995,
+      "number": 1,
+      "text": "A salvage ship tries to raise a sunken miniature submarine from the bottom of Lake Superior. The submarine and its contents have a mass of 72,000 kg and a volume of 18.9 m³. What upwards force must be applied to raise the submarine? The density of water is 1000 kg/m³.",
+      "choices": {
+        "a": "1.8 × 10⁵ N",
+        "b": "2.0 × 10⁵ N",
+        "c": "4.8 × 10⁵ N",
+        "d": "5.2 × 10⁵ N"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q02",
+      "year": 1995,
+      "number": 2,
+      "text": "A little girl is playing with a toy pendulum while riding in an elevator. Being an astute and educated young lass, she notes that the period of the pendulum is T = 0.5 s. Suddenly the cables supporting the elevator break and all of the brakes and safety features fail simultaneously. The elevator plunges into free fall. The young girl is astonished to discover that the pendulum has,",
+      "choices": {
+        "a": "continued oscillating with a period of 0.5 s.",
+        "b": "stopped oscillating entirely.",
+        "c": "decreased its rate of oscillation to have a greater period.",
+        "d": "increased its rate of oscillation to have a lesser period."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q03",
+      "year": 1995,
+      "number": 3,
+      "text": "Two identical spring loaded, toy guns shoot projectiles straight upwards. The projectile in gun B has twice the mass as that in gun A. The projectile launched by gun A reaches a height H. Ignoring air resistance, the projectile launched by gun B would reach a height of,",
+      "choices": {
+        "a": "H/4",
+        "b": "H/2",
+        "c": "H/√2",
+        "d": "H"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q04",
+      "year": 1995,
+      "number": 4,
+      "text": "An athlete of mass 75 kg runs at 10 m/s. What is his kinetic energy?",
+      "choices": {
+        "a": "3750 J",
+        "b": "7500 J",
+        "c": "375 J",
+        "d": "750 J"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q05",
+      "year": 1995,
+      "number": 5,
+      "text": "The moon is about 60 earth radii from the centre of the earth and completes one orbit in about 28 days. Assuming that the moon executes a circular orbit about the centre of the earth, the acceleration of the moon (in units of g, the acceleration due to gravity at the earth's surface) is closest to,",
+      "choices": {
+        "a": "g/30",
+        "b": "g/60",
+        "c": "g/3600",
+        "d": "g"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q06",
+      "year": 1995,
+      "number": 6,
+      "text": "A survey crew sights the top of a radio tower with a small telescope. The angle that the telescope makes with the horizontal is measured to be 53°. The crew moves the telescope 25 m closer to the base of the tower and repeats the process. The new angle that the telescope makes with the horizontal is 60°. What is the height of the tower assuming that the base of the tower is on the same level as the areas where the telescope measurements were made?",
+      "choices": {
+        "a": "33 m",
+        "b": "43 m",
+        "c": "142 m",
+        "d": "286 m"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q07",
+      "year": 1995,
+      "number": 7,
+      "text": "Which of the following is not true for electromagnetic waves;",
+      "choices": {
+        "a": "they consist of oscillating electric and magnetic fields.",
+        "b": "they travel at different speeds in air depending on their frequency.",
+        "c": "they transport energy.",
+        "d": "they have no momentum."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q08",
+      "year": 1995,
+      "number": 8,
+      "text": "Two long parallel wires are placed side-by-side on a level table. The two wires carry equal currents in the same direction. Which of the following is true of the magnetic forces exerted on each wire by the other?",
+      "choices": {
+        "a": "One wire experiences a force upwards while the other experiences a downwards force.",
+        "b": "Both wires experience an upwards force.",
+        "c": "The two wires are attracted to one another.",
+        "d": "The two wires repel one another."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q09",
+      "year": 1995,
+      "number": 9,
+      "text": "A piano tuner uses a tuning fork which oscillates with a frequency of 440 Hz (middle A). Middle A on a piano is out of tune, producing a note of frequency f. The piano note and the tuning fork are heard to beat with a frequency of 3 Hz. When the tension in the piano string is decreased, the beat frequency also decreases. The out-of-tune frequency f must have been,",
+      "choices": {
+        "a": "446 Hz",
+        "b": "443 Hz",
+        "c": "437 Hz",
+        "d": "434 Hz"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q10",
+      "year": 1995,
+      "number": 10,
+      "text": "Sudbury's Creighton mine is one of the deepest in the world (2.07 km). In this mine the conditions as compared to those at the surface area,",
+      "choices": {
+        "a": "lower air pressure, higher acceleration due to gravity.",
+        "b": "higher air pressure, lower acceleration due to gravity.",
+        "c": "higher air pressure, higher acceleration due to gravity.",
+        "d": "lower air pressure, lower acceleration due to gravity."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q11",
+      "year": 1995,
+      "number": 11,
+      "text": "A parallel network of resistors consists of a 1 Ω resistor placed in parallel with a 2 Ω resistor. This combination is, in turn, placed in parallel with a 4 Ω resistor. Further 8 Ω, 16 Ω, 32 Ω ... resistors are placed in parallel with the network one by one. To what value does equivalent resistance of the network converge upon?",
+      "choices": {
+        "a": "0.5 Ω",
+        "b": "2.0 Ω",
+        "c": "0.0 Ω",
+        "d": "Does not converge to a finite value."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q12",
+      "year": 1995,
+      "number": 12,
+      "text": "A simple pendulum has a bob of mass 2 kg hanging on a cord of length 1 m. Suppose the pendulum is raised until it is horizontal (an angular displacement of 90°) and then released. What is the speed of the bob at the bottom of its swing?",
+      "choices": {
+        "a": "9.91 m/s",
+        "b": "19.6 m/s",
+        "c": "3.13 m/s",
+        "d": "4.43 m/s"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q13",
+      "year": 1995,
+      "number": 13,
+      "text": "An organ pipe of length L is open at one end and closed at the other. What are the wavelengths of the three lowest frequencies that can be produced with this pipe?",
+      "choices": {
+        "a": "4L, 2L, L",
+        "b": "2L, L, L/2",
+        "c": "2L, L, 2L/3",
+        "d": "4L, 4L/3, 4L/5"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q14",
+      "year": 1995,
+      "number": 14,
+      "text": "A satellite is in orbit at an altitude of one earth radius. What is the orbital speed of this satellite?",
+      "choices": {
+        "a": "1.56 × 10⁷ m/s",
+        "b": "3.95 × 10³ m/s",
+        "c": "7.91 × 10³ m/s",
+        "d": "5.59 × 10³ m/s"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q15",
+      "year": 1995,
+      "number": 15,
+      "text": "A steady non-turbulent stream of water comes out of a tap and falls vertically downward. As it does so, the diameter of the stream appears to get smaller. What is the primary reason?",
+      "choices": {
+        "a": "The water's surface tension constricts the stream.",
+        "b": "Air pressure, which decreases with altitude, squeezes the stream.",
+        "c": "The water is accelerating under gravity and so the stream must get thinner as the flow rate (velocity times cross-sectional area) must be constant.",
+        "d": "The flow does not constrict; it is an optical illusion."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q16",
+      "year": 1995,
+      "number": 16,
+      "text": "A roller coaster car is on a track that forms a circular loop, of radius $R$, in the vertical plane. If the car is to maintain contact with the track at the top of the loop (generally considered to be a good thing), what is the minimum speed that the car must have at the bottom of the loop. Ignore air resistance and rolling friction.",
+      "choices": {
+        "a": "$\\sqrt{2gR}$",
+        "b": "$\\sqrt{3gR}$",
+        "c": "$\\sqrt{4gR}$",
+        "d": "$\\sqrt{5gR}$"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q17",
+      "year": 1995,
+      "number": 17,
+      "text": "An object is placed 30 cm in front of a thin, spherical lens. An upright image, twice the size of the object, is formed by the lens. Which of the following attributes best describes the lens.",
+      "choices": {
+        "a": "diverging, focal length 20 cm",
+        "b": "converging, focal length 20 cm",
+        "c": "diverging, focal length 60 cm",
+        "d": "converging, focal length 60 cm"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q18",
+      "year": 1995,
+      "number": 18,
+      "text": "A point charge $+Q$ is placed at the centroid of an equilateral triangle. When a second charge $+Q$ is placed at a vertex of the triangle, the magnitude of the electrostatic force on the central charge is 4 N. What is the magnitude of the net force on the central charge when a third charge $+Q$ is placed at another vertex of the triangle?",
+      "choices": {
+        "a": "zero",
+        "b": "4 N",
+        "c": "$4\\sqrt{2}$ N",
+        "d": "8 N"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q19",
+      "year": 1995,
+      "number": 19,
+      "text": "Greenhouse \"warming\" is caused by an atmosphere which is",
+      "choices": {
+        "a": "transparent to visible light but opaque to I.R. light.",
+        "b": "transparent to both visible and I.R. light.",
+        "c": "opaque to both visible and I.R. light.",
+        "d": "warming due to the hot air from the world's increasing population."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q20",
+      "year": 1995,
+      "number": 20,
+      "text": "A particle of mass $m$ and charge $q$ is accelerated through a potential difference $V$ to a velocity $v$ towards the south. The particle enters a region with both a magnetic field $\\vec{B}$ (pointing eastwards) and electric field $\\vec{E}$ (pointing down). The particle travels at constant velocity through this region. The potential difference $V$ must satisfy,",
+      "choices": {
+        "a": "$V = mE^2/2qB^2$",
+        "b": "$V = 2mE/qB$",
+        "c": "$V = E/qB$",
+        "d": "It is not possible for the particle to be undeflected by these fields."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q21",
+      "year": 1995,
+      "number": 21,
+      "text": "A space craft orbiting the moon with an orbital radius of $10^6$ m has an orbital period of 45 minutes. When it drops down to a lower orbit of radius $10^5$ m, its period has become,",
+      "choices": {
+        "a": "36 minutes",
+        "b": "85 seconds",
+        "c": "54 minutes",
+        "d": "Need to know the mass of the moon for this problem."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q22",
+      "year": 1995,
+      "number": 22,
+      "text": "A simple pendulum is made from a 2 kg block of wood suspended from a light cord of length 1 m. When the pendulum is hanging in such a way that it is stationary and vertical, a bullet shot horizontally into the block of wood where it sticks. The bullet has a mass of $10^{-2}$ kg and has a speed of 500 m/s just before its head-on collision with the block. The pendulum will swing to a maximum angle with the vertical of,",
+      "choices": {
+        "a": "71.3°",
+        "b": "23.4°",
+        "c": "35.7°",
+        "d": "46.8°"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q23",
+      "year": 1995,
+      "number": 23,
+      "text": "Electronic components are tested for durability by subjecting them to high accelerations. This is achieved by placing them on a platform attached to a vertically hanging spring. The platform (and the component being tested) oscillate up and down with a frequency of 10 Hz when the spring is stretched by 10 cm and released. What is the maximum acceleration experienced by the electronic component?",
+      "choices": {
+        "a": "10.0 m/s²",
+        "b": "2.00 m/s²",
+        "c": "395 m/s²",
+        "d": "158 m/s²"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q24",
+      "year": 1995,
+      "number": 24,
+      "text": "A real battery can be considered to be an ideal battery of potential $r$ in series with an internal resistance $r$. Suppose that the battery is connected to a single \"load\" resistance $R$. For what value of $R$ will the power dissipated by the load be a maximum?",
+      "choices": {
+        "a": "$r$",
+        "b": "$r/2$",
+        "c": "$2r$",
+        "d": "$10r$"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "1995_Q25",
+      "year": 1995,
+      "number": 25,
+      "text": "Two trucks pull on either end of a rope, each with a force of 10,000 N. In the centre of the rope, a ball of mass 20 kg is hanging. The angle $θ$ that the rope makes with the horizontal is,",
+      "choices": {
+        "a": "56°",
+        "b": "5.6°",
+        "c": "0.56°",
+        "d": "0°; the rope will obviously be horizontal in this situation."
+      },
+      "has_diagram": true,
+      "diagram_description": "Shows a horizontal rope with forces F pointing left and right at each end, and a mass M hanging from the center, creating two angles θ with the horizontal",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    }
+  ]
+}

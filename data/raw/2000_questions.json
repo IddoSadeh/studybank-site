@@ -1,0 +1,530 @@
+{
+  "year": 2000,
+  "questions": [
+    {
+      "id": "2000_Q01",
+      "year": 2000,
+      "number": 1,
+      "text": "Two high performance bicycle wheels have the same mass but one is a solid disk and the other is a hoop with very light (as compared to the mass of the rim) spokes. Which wheel takes the most energy to accelerate to a speed v? Ignore any air and rolling resistances.",
+      "choices": {
+        "a": "The disk wheel requires more energy.",
+        "b": "The spoked wheel requires more energy.",
+        "c": "Both take the same amount of energy.",
+        "d": "It depends on the radius of each wheel."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q02",
+      "year": 2000,
+      "number": 2,
+      "text": "An astronaut on a strange planet finds that the acceleration due to gravity is two times greater than that on earth. Which of the following could explain this?",
+      "choices": {
+        "a": "The mass of the planet is half that of the earth's but its radius is the same.",
+        "b": "The radius of the planet is half that of the earth's but its mass is the same.",
+        "c": "Both the mass and the radius are twice the earth's values.",
+        "d": "Both the mass and the radius are half the earth's values."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q03",
+      "year": 2000,
+      "number": 3,
+      "text": "A ball of mass of 10 g is hung from the end of a light vertical spring and set oscillating with an amplitude of 10 cm. The period of the oscillation is 1 s. If the ball is now replaced by another with a mass of 40 g and again set oscillating with the same amplitude, its new period of oscillation will be,",
+      "choices": {
+        "a": "1 s.",
+        "b": "2 s.",
+        "c": "4 s.",
+        "d": "8 s."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q04",
+      "year": 2000,
+      "number": 4,
+      "text": "The human ear canal, which is open to the atmosphere and ends at the ear drum, is about 3 cm long. Which of the following is the best approximation to the fundamental resonant frequency of the ear canal?",
+      "choices": {
+        "a": "1,500 Hz",
+        "b": "3,000 Hz",
+        "c": "6,000 Hz",
+        "d": "11,000 Hz"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q05",
+      "year": 2000,
+      "number": 5,
+      "text": "A metal ball is connected to the ground with a wire via a switch. The switch is initially closed (i.e.the ball is connected to ground) while a charge +Q is brought close to the ball (but not touching). While the charge is near the ball, the switch is opened and then the charge is taken away. The charge on the ball is now,",
+      "choices": {
+        "a": "zero.",
+        "b": "positive.",
+        "c": "negative.",
+        "d": "unchanged from its initial charge."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q06",
+      "year": 2000,
+      "number": 6,
+      "text": "In the light from a distant star, a particular spectral line is observed. The wavelength of this line varies between being about 2% shorter than the same line as observed in an earth based laboratory, and about 2% longer. Which of the following best describes the star.",
+      "choices": {
+        "a": "The star is moving away from the earth.",
+        "b": "The star is moving towards the earth.",
+        "c": "The star is very, very massive as compared to the sun.",
+        "d": "The star is orbiting about some massive hidden object."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q07",
+      "year": 2000,
+      "number": 7,
+      "text": "A metal bar rotates about a vertical axis which passes through the center of the bar. The axis of rotation is perpendicular to the length of the bar. There is a uniform magnetic field in the vertical direction. The emf (or potential difference) induced between the two ends of the bar is,",
+      "choices": {
+        "a": "zero.",
+        "b": "a sinusoidally oscillating value.",
+        "c": "a non-zero positive value.",
+        "d": "a non-zero negative value."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q08",
+      "year": 2000,
+      "number": 8,
+      "text": "A projector shows an image which is in focus but too large for the screen on which it is shown. Since the projector and the screen are fixed in place, the projectionist must,",
+      "choices": {
+        "a": "adjust the projector's lens by moving it closer to the screen.",
+        "b": "adjust the projector's lens by moving it farther from the screen.",
+        "c": "replace the projector's lens with one having a shorter focal length.",
+        "d": "replace the projector's lens with one having a longer focal length."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q09",
+      "year": 2000,
+      "number": 9,
+      "text": "In photographic darkrooms, the only source of light is usually a red light bulb. After spending time in a darkroom, a person's eye becomes adjusted to the light but everything appears to be in black and white. Since a red surface reflects all red light, it will appear \"white\". Which of the following colours will appear to be the brightest?",
+      "choices": {
+        "a": "Green",
+        "b": "Blue",
+        "c": "Purple",
+        "d": "Black"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q10",
+      "year": 2000,
+      "number": 10,
+      "text": "Millikan's oil drop experiment attempts to measure the charge on a single electron, e, by measuring the charge on tiny oil drops suspended in an electrostatic field. It is assumed that the charge on the oil drops is due to just a small number of excess electrons. The charges $3.90 \\times 10^{-19}$ C, $6.50 \\times 10^{-19}$ C, and $9.10 \\times 10^{-19}$ C are measured on three drops of oil. The charge of an electron is deduced to be,",
+      "choices": {
+        "a": "$1.3 \\times 10^{-19}$ C.",
+        "b": "$1.6 \\times 10^{-19}$ C.",
+        "c": "$2.6 \\times 10^{-19}$ C.",
+        "d": "$3.9 \\times 10^{-19}$ C."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q11",
+      "year": 2000,
+      "number": 11,
+      "text": "Two mirrors are joined together so that they make an angle of 60° as shown. A person stands at a point P which is on the line which bisects the 60° angle. How many images of herself does the person see?",
+      "choices": {
+        "a": "1",
+        "b": "3",
+        "c": "6",
+        "d": "infinite number"
+      },
+      "has_diagram": true,
+      "diagram_description": "Diagram shows two mirrors joined at a 60-degree angle with point P marked on the angle bisector line",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q12",
+      "year": 2000,
+      "number": 12,
+      "text": "Consider a roller coaster with a loop-the-loop. The loop is not circular (that would be too dangerous) but has a radius of curvature which decreases with height. A roller coaster car starts from rest from the top of a hill which is 5 m higher than the top of the loop. It rolls down the hill and through the loop. What must the radius of curvature at the top of the loop be so that the passengers of the car will feel, at that point, as if they have their normal weight?",
+      "choices": {
+        "a": "5 m",
+        "b": "10 m",
+        "c": "15 m",
+        "d": "20 m"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q13",
+      "year": 2000,
+      "number": 13,
+      "text": "Two identical conducting balls have positive charges $q_1 \\neq q_2$ respectively. The balls are brought together so that they touch and then put back in their original positions. The force between the balls is,",
+      "choices": {
+        "a": "The same as it was before the balls touched.",
+        "b": "Greater than before the balls touched.",
+        "c": "Less than before the balls touched.",
+        "d": "Zero."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q14",
+      "year": 2000,
+      "number": 14,
+      "text": "Helium $^4He$ becomes a superfluid at temperatures $T < 2.18$ K. A superfluid flows with no viscosity. This behaviour can only be explained using quantum physics and it can only happen if the de Broglie wavelength of a helium atom, of mass $m$, is comparable to the inter-atomic spacing of the fluid. Which of the following could be an expression for $\\lambda$, the de Broglie wavelength?",
+      "choices": {
+        "a": "$\\lambda = h/\\sqrt{3mkT}$",
+        "b": "$\\lambda = \\sqrt{3mkT}/h$",
+        "c": "$\\lambda = \\sqrt{h/3mkT}$",
+        "d": "$\\lambda = 3mkT/\\sqrt{h}$"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q15",
+      "year": 2000,
+      "number": 15,
+      "text": "In a game of egg-toss, two players toss an egg back and forth between them while farther and farther apart. The loser is the person who breaks the egg when catching it. The force required to break an egg's shell is about 5 N and a typical egg has a mass of about 50 g. If the players are 10 m apart, and the eggs are thrown with initial velocities directed at 45° above the horizontal, what is the shortest time that a player must take to arrest the motion of the egg so as not to break it?",
+      "choices": {
+        "a": "0.01 s",
+        "b": "0.10 s",
+        "c": "0.50 s",
+        "d": "1.00 s"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q16",
+      "year": 2000,
+      "number": 16,
+      "text": "A circuit is comprised of 8 identical batteries connected in series as shown. Each battery has an $emf$ of 1.5 V and an internal resistance of 0.2 Ω. What is the reading on a voltmeter connected across any one of the batteries?.",
+      "choices": {
+        "a": "0.0",
+        "b": "1.3 V",
+        "c": "1.5 V",
+        "d": "12 V"
+      },
+      "has_diagram": true,
+      "diagram_description": "Circuit diagram showing 8 batteries connected in series with a resistor r on the right side",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q17",
+      "year": 2000,
+      "number": 17,
+      "text": "Each branch in the following circuit has a resistance $R$. The equivalent resistance of the circuit between the points $A$ and $B$ is,",
+      "choices": {
+        "a": "$R$",
+        "b": "$2R$",
+        "c": "$4R$",
+        "d": "$8R$"
+      },
+      "has_diagram": true,
+      "diagram_description": "Diamond-shaped network of resistors with points A and B at opposite corners, showing a symmetric arrangement of resistors",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q18",
+      "year": 2000,
+      "number": 18,
+      "text": "Which of the following statements is true concerning the elastic collision of two objects?",
+      "choices": {
+        "a": "No work is done on any of the two objects, since there is no external force.",
+        "b": "The work done by the first object on the second is equal to the work done on the first by the first.",
+        "c": "The work done by the first object on the second is exactly the opposite of the work done on the second by the first.",
+        "d": "The work done on the system depends on the angle of collision."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q19",
+      "year": 2000,
+      "number": 19,
+      "text": "Which of the following statements is false?",
+      "choices": {
+        "a": "The momentum of a heavy object is greater than that of a light object moving at the same speed.",
+        "b": "In a perfectly inelastic collision, all the initial kinetic energy of the colliding bodies is dissipated.",
+        "c": "The momentum of a system of colliding bodies may be conserved even though the total mechanical energy may not.",
+        "d": "The velocity of the center of mass of a system is the system's total momentum divided by its total mass."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q20",
+      "year": 2000,
+      "number": 20,
+      "text": "Which of the following statements is true?",
+      "choices": {
+        "a": "The observed doppler shift for sound waves depends only on the relative motion of the source and the receiver.",
+        "b": "Only transverse waves can diffract.",
+        "c": "Two wave sources that are out of phase by 180° are incoherent.",
+        "d": "Interference patterns are only observed for coherent sources."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q21",
+      "year": 2000,
+      "number": 21,
+      "text": "An airplane circumnavigates the globe by flying above the equator and at a constant altitude above sea level. If the plane repeats the journey but flies at an altitude which is 1000 m higher than before, how much larger a distance through the atmosphere does the plane travel as compared to the first time?",
+      "choices": {
+        "a": "6.283 km",
+        "b": "62.83 km",
+        "c": "628.3 km",
+        "d": "6283 km"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q22",
+      "year": 2000,
+      "number": 22,
+      "text": "A block of mass m is at rest on an inclined plane. The coefficients of static and kinetic friction between the block and the plane are $\\mu_s$ and $\\mu_k < \\mu_s$. The angle that the plane makes with the horizontal satisfies $\\tan \\theta = \\mu_s$. A string is attached to the block. Is it possible to pull on the string in such a way that the block will slide with constant velocity along a horizontal line? That is to say, can the block slide along a line of constant elevation?",
+      "choices": {
+        "a": "Yes",
+        "b": "Yes, but only if $\\mu_k mg \\cos \\theta < mg \\sin \\theta$",
+        "c": "Yes, but only if $\\mu_k mg \\cos \\theta > mg \\sin \\theta$",
+        "d": "No"
+      },
+      "has_diagram": true,
+      "diagram_description": "Shows an inclined plane with a block on it and a string attached to the block",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q23",
+      "year": 2000,
+      "number": 23,
+      "text": "A proton is moving with a speed of u directly towards an alpha-particle (helium nucleus) which, when the two particles were very far apart from one another, was initially at rest. What is the separation of the particles at their point of closest approach? You may assume that $m_\\alpha = 4m_p$.",
+      "choices": {
+        "a": "$r = e^2/\\pi \\epsilon_0 m_p u^2$",
+        "b": "$r = e^2/4\\pi \\epsilon_0 m_p u^2$",
+        "c": "$r = 5e^2/4\\pi \\epsilon_0 m_p u^2$",
+        "d": "$r = 5e^2/8\\pi \\epsilon_0 m_p u^2$"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q24",
+      "year": 2000,
+      "number": 24,
+      "text": "Red light from a HeNe laser has a wavelength of 630 nm. If it is normally incident upon an optical diffraction grating with 2000 lines per centimeter, how many maxima (including the central maximum) may be observed on a screen which is far from the grating?",
+      "choices": {
+        "a": "14",
+        "b": "15",
+        "c": "16",
+        "d": "17"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2000_Q25",
+      "year": 2000,
+      "number": 25,
+      "text": "Which of the following statements is true?",
+      "choices": {
+        "a": "The capacitance of a capacitor is the total amount of charge it can store.",
+        "b": "The equivalent capacitance of two capacitors in series is the sum of the two capacitances.",
+        "c": "A dielectric material inserted between the conductors of a capacitor increases its capacitance.",
+        "d": "The electrostatic energy stored by a capacitor is equal to the ratio of the charge on either conductor to the potential difference between the conductors."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    }
+  ]
+}

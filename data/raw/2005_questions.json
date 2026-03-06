@@ -1,0 +1,530 @@
+{
+  "year": 2005,
+  "questions": [
+    {
+      "id": "2005_Q01",
+      "year": 2005,
+      "number": 1,
+      "text": "A child throws a ball toward the front end of an approaching train. The collision between the ball and the train is perfectly elastic. Let $v$ be the speed of the ball with respect to the train and $V$ the speed with respect to the ground. If the labels 'i' and 'f' refer to those speeds just before and just after, respectively, the ball hits the train, then",
+      "choices": {
+        "a": "$v_i = v_f$ and $V_i < V_f$",
+        "b": "$v_i < v_f$ and $V_i < V_f$",
+        "c": "$v_i > v_f$ and $V_i < V_f$",
+        "d": "$v_i = v_f$ and $V_i > V_f$"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q02",
+      "year": 2005,
+      "number": 2,
+      "text": "A physics textbook of mass $m$ rests flat on a horizontal table of mass $M$ placed on the ground. Let $N_{x→y}$ be the contact force exerted by body '$x$' on body '$y$'. According to Newton's 3rd Law, which of the following is an action-reaction pair of forces?",
+      "choices": {
+        "a": "$mg$ and $N_{table→book}$",
+        "b": "$(m + M)g$ and $N_{table→book}$",
+        "c": "$N_{ground→table}$ and $Mg + N_{book→table}$",
+        "d": "$N_{ground→table}$ and $N_{table→ground}$"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q03",
+      "year": 2005,
+      "number": 3,
+      "text": "At some time $t$, two identical balls, A and B, are set rolling without slipping at the same speed from one end of two tracks which are identical with the same horizontal length, except that track B has a dip in the path of ball B, as shown in the figure. The straight portions of the tracks are horizontal. Gravity is uniform throughout. Which ball reaches the other end first?",
+      "choices": {
+        "a": "Ball A",
+        "b": "neither, since both arrive at the same time",
+        "c": "ball B",
+        "d": "ball A, but only if the dip is deep enough"
+      },
+      "has_diagram": true,
+      "diagram_description": "Two parallel tracks labeled A and B. Track A is straight and horizontal. Track B is identical except it has a dip (depression) in the middle portion of the track.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q04",
+      "year": 2005,
+      "number": 4,
+      "text": "To a good approximation, Earth and Jupiter move around the Sun in circular orbits of $1.49 \\times 10^8$ km and $7.79 \\times 10^8$ km radius, respectively. What is the maximum error that can arise in the prediction of solar eclipse times (as observed from Earth) on Jupiter caused by one of its moons if we do not take into account the variation of the relative position of the two planets?",
+      "choices": {
+        "a": "$2.6 \\times 10^3$ s",
+        "b": "$3.1 \\times 10^3$ s",
+        "c": "$5.0 \\times 10^2$ s",
+        "d": "$9.9 \\times 10^2$ s"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q05",
+      "year": 2005,
+      "number": 5,
+      "text": "Experiment shows that two perfectly neutral parallel metal plates separated by a small distance $d$, attract each other via a very weak force, known as the Casimir force. The force per unit area of the plates, $\\mathcal{F}$, depends only on the Planck constant $h$, on the speed of light $c$, and on $d$. Which of the following has the best chance of being correct for $\\mathcal{F}$?",
+      "choices": {
+        "a": "$\\mathcal{F} = hc/d^2$",
+        "b": "$\\mathcal{F} = hc/d^4$",
+        "c": "$\\mathcal{F} = hd^2/c$",
+        "d": "$\\mathcal{F} = d^4/hc$"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q06",
+      "year": 2005,
+      "number": 6,
+      "text": "A simple pendulum of length $L$ with a bob of mass $m$ is taken into Earth orbit on the International Space Station. Its frequency of oscillation with respect to that on the ground is",
+      "choices": {
+        "a": "greater",
+        "b": "smaller but non-zero",
+        "c": "the same",
+        "d": "zero"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q07",
+      "year": 2005,
+      "number": 7,
+      "text": "When you turn on a battery-operated portable music-playing device, how long must you leave it on for electrons leaving the negative terminal of the battery to reach the positive terminal if their path lies within good conductors?",
+      "choices": {
+        "a": "A few milliseconds",
+        "b": "a few tenths of a second",
+        "c": "a few microseconds",
+        "d": "a few minutes"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q08",
+      "year": 2005,
+      "number": 8,
+      "text": "Circuit A is made of resistors connected in series to a battery; circuit B is made of resistors connected in parallel to a battery. Let P be the power drawn from the batteries. As the number of resistors in each circuit is increased,",
+      "choices": {
+        "a": "$P_A$ increases and $P_B$ decreases;",
+        "b": "both $P_A$ and $P_B$ increase;",
+        "c": "$P_A$ decreases and $P_B$ increases;",
+        "d": "$P_A$ and $P_B$ remain the same."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q09",
+      "year": 2005,
+      "number": 9,
+      "text": "According to a simplified but still useful model, the drag force due to air resistance on a moving car goes like the square of the car's speed v. Suppose that the maximum speed of a car is limited only by this drag force. If the power of the car's engine were increased by 50%, the top speed of the car would increase by about",
+      "choices": {
+        "a": "50%;",
+        "b": "15%;",
+        "c": "22%;",
+        "d": "30%."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q10",
+      "year": 2005,
+      "number": 10,
+      "text": "A projectile is launched with an initial velocity $v_i$, with $v_{ix}$ and $v_{iy}$ the horizontal and vertical velocity components, respectively. When is there a point on its trajectory after launch where its velocity is perpendicular to its acceleration?",
+      "choices": {
+        "a": "Always;",
+        "b": "only if $v_{ix} ≠ 0$ and $v_{iy}$ points upward;",
+        "c": "only if $v_{ix} ≠ 0$;",
+        "d": "always, except if $v_{ix} = 0$."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q11",
+      "year": 2005,
+      "number": 11,
+      "text": "Three charged conducting metal spheres, of radius $R_1$, $R_2$, and $R_3$, are connected together by wires. Let $R_1 < R_2 < R_3$. At equilibrium, which of the following sets of relations involving the electric field strength E generated by a sphere, its potential V, and its charge Q, must hold between the spheres?",
+      "choices": {
+        "a": "$V_1 = V_2 = V_3$, $E_1 < E_2 < E_3$, $Q_1 < Q_2 < Q_3$;",
+        "b": "$V_1 = V_2 = V_3$, $E_1 > E_2 > E_3$, $Q_1 < Q_2 < Q_3$;",
+        "c": "$V_1 < V_2 < V_3$, $E_1 < E_2 < E_3$, $Q_1 = Q_2 = Q_3$;",
+        "d": "$V_1 > V_2 > V_3$, $E_1 < E_2 < E_3$, $Q_1 > Q_2 > Q_3$;"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q12",
+      "year": 2005,
+      "number": 12,
+      "text": "A ball of mass m attached to an inextensible string of length R in swung around a vertical circle just fast enough so that the string is always fully stretched. Let $\\Delta T$ denote the difference between the tension in the string at the bottom and at the top of the circle, $v_b$ and $v_t$ the speed of the ball at the bottom and at the top, respectively. Then, taking \"dependence\" to be with respect to a set of independent variables,",
+      "choices": {
+        "a": "$\\Delta T$ is independent of R, $v_b$ and $v_t$;",
+        "b": "$\\Delta T$ is independent of R, but depends on $v_b^2 - v_t^2$;",
+        "c": "$\\Delta T$ depends on R, but on neither $v_b$ nor $v_t$;",
+        "d": "$\\Delta T$ depends on R and $v_b^2 - v_t^2$."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q13",
+      "year": 2005,
+      "number": 13,
+      "text": "An object of mass m hangs motionless from a vertical spring. When the object is pulled down to a new rest position, the total mechanical energy of the system",
+      "choices": {
+        "a": "increases;",
+        "b": "remains the same;",
+        "c": "decreases;",
+        "d": "may increase or decrease depending on the new position."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q14",
+      "year": 2005,
+      "number": 14,
+      "text": "As more and more negative electric charge is being brought to a conducting sphere, inside the sphere",
+      "choices": {
+        "a": "the electric field and potential increase;",
+        "b": "the electric field stays constant and the potential increases;",
+        "c": "the electric field stays constant and the potential decreases;",
+        "d": "the electric field increases and the potential decreases."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q15",
+      "year": 2005,
+      "number": 15,
+      "text": "A static magnetic field of about 0.01 T in strength can erase data on the magnetic strip of a credit card. What would be roughly the minimum diameter of a long wire loop carrying a 100 A current for which your card would be safe no matter how close you take it to the wire?",
+      "choices": {
+        "a": "0.2 mm;",
+        "b": "1 mm;",
+        "c": "2 mm;",
+        "d": "4 mm."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q16",
+      "year": 2005,
+      "number": 16,
+      "text": "A string of length L is composed of two segments of equal length. One segment has linear mass density $\\mu_1$ and the other has $\\mu_2 > \\mu_1$. One segment is tied to a wall, and the string is stretched by a force, applied to the other segment, which is much greater than the total weight of the string. If T is the tension in the i-th segment, and $v_i$ the speed of a transverse wave propagating along that segment,",
+      "choices": {
+        "a": "$v_1 = v_2$ and $T_1 = T_2$;",
+        "b": "$v_1 < v_2$ and $T_1 = T_2$;",
+        "c": "$v_1 = v_2$ and $T_1 ≠ T_2$;",
+        "d": "$v_1 ≠ v_2$ and $T_1 ≠ T_2$."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q17",
+      "year": 2005,
+      "number": 17,
+      "text": "A perfectly straight portion of a uniform rope has mass M and length L. At end A of the segment, the tension in the rope is $T_A$; at end B it is $T_B > T_A$. The tension in the rope at a distance L/5 from end A is",
+      "choices": {
+        "a": "$T_B - T_A$;",
+        "b": "$(T_A + T_B)/5$;",
+        "c": "$(4T_A + T_B)/5$;",
+        "d": "$(T_A - T_B)/5$."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q18",
+      "year": 2005,
+      "number": 18,
+      "text": "Two spheres are identical except that sphere A is white whereas sphere B is black. After they have been in thermal contact long enough with each other and their surroundings, in the visible range,",
+      "choices": {
+        "a": "A radiates less than B;",
+        "b": "both emit the same amount of radiation;",
+        "c": "A radiates more than B;",
+        "d": "A radiates more than B only if its temperature is high enough."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q19",
+      "year": 2005,
+      "number": 19,
+      "text": "An aircraft bound for Vancouver and coming from Montréal is flying due west. Its body and wings are covered in aluminum. At some point on its flight path, the Earth's magnetic field points north and downward. The point on the plane's exterior which is then at the highest potential is",
+      "choices": {
+        "a": "the nose (front)",
+        "b": "the tail (back)",
+        "c": "the tip of the right wing",
+        "d": "the tip of the left wing"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q20",
+      "year": 2005,
+      "number": 20,
+      "text": "You are on the shore of a canal of uniform width $d$ and want to reach a point a distance $L > d$ away along the other shore as quickly as possible. To achieve this, you first run along the shore at constant speed $v_1$, then jump in the canal and swim directly toward your target at constant speed $v_2 < v_1$, both being your maximum speeds. The water in the canal is motionless. The angle of your trajectory in the water with respect to the shore must obey:",
+      "choices": {
+        "a": "$\\cos\\theta = v_1/v_2$",
+        "b": "$\\cos\\theta = \\sqrt{v_1^2/v_2^2 - 1}$",
+        "c": "$\\cos\\theta = 1 - d/L$",
+        "d": "$\\cos\\theta = v_2/v_1$"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q21",
+      "year": 2005,
+      "number": 21,
+      "text": "Exactly half of a rectangular conducting loop lies in a uniform magnetic field perpendicular to the plane of the loop. At some point in time, the magnitude of the magnetic field starts rapidly decreasing. While this is happening, which of the following statements most accurately describes the effect on the loop?",
+      "choices": {
+        "a": "The loop is pulled into the magnetic field",
+        "b": "the loop is pushed out of the magnetic field",
+        "c": "the loop starts rotating",
+        "d": "the behaviour of the loop cannot be determined unless the direction of the magnetic field is completely specified"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q22",
+      "year": 2005,
+      "number": 22,
+      "text": "Two otherwise identical spaceships have different solar sails: sail A is a perfect reflector, sail B is a perfect absorber. Each starts at the same distance from the Sun and travels radially outward. Let $\\Delta p_A$ and $\\Delta p_B$ be the momentum gained by the ships after travelling equal distances. Then",
+      "choices": {
+        "a": "$\\Delta p_A = \\Delta p_B$",
+        "b": "$\\Delta p_A > \\Delta p_B$",
+        "c": "$\\Delta p_A < \\Delta p_B$",
+        "d": "$\\Delta p_A = \\Delta p_B = 0$"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q23",
+      "year": 2005,
+      "number": 23,
+      "text": "If there were only one transmitter, and you were separated from this transmitter by the many tall buildings to be found in downtown Toronto, spaced about 30 m apart on average, with which of the following would you be most likely to experience dead spots (places with very poor or no reception)?",
+      "choices": {
+        "a": "AM radio stations (frequency 1 MHz)",
+        "b": "FM radio stations (frequency 100 MHz)",
+        "c": "cell phones (frequency 1000 MHz)",
+        "d": "all of the previous equally"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q24",
+      "year": 2005,
+      "number": 24,
+      "text": "A horizontal cathode ray tube (CRT) is set so that its electron beam produces a spot of light at the centre of the screen when no external electromagnetic field is present. When you look straight at the screen, however, you discover that the spot, instead of being at the centre as if should, is shifted a bit to the right. Suspecting what the cause of this deflection may be, you rotate the CRT by 180° around its vertical axis. Facing the screen, you find that the spot of light is still shifted to the right of centre by the same distance as before. You conclude that the CRT is immersed in",
+      "choices": {
+        "a": "an electric field directed horizontally to the left with respect to the screen's initial position",
+        "b": "an electric field directed horizontally to the right with respect to the screen's initial position",
+        "c": "a magnetic field directed vertically upward with respect to the screen's initial position",
+        "d": "a magnetic field directed vertically downward with respect to the screen's initial position"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2005_Q25",
+      "year": 2005,
+      "number": 25,
+      "text": "Light rays from a very distant source travel along the $+x$ direction. Two identical thin lenses with focal length $f > 0$ and with optical axis along $x$, sit, one at $x = 0$, and the other at $x = d < f$. Where do the rays focus?",
+      "choices": {
+        "a": "$d + \\frac{f(f-d)}{2f-d}$",
+        "b": "$d - \\frac{f(f-d)}{d}$",
+        "c": "$d + \\frac{f(f-d)}{2(f+d)}$",
+        "d": "$d + \\frac{f^2}{2f-d}$"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    }
+  ]
+}

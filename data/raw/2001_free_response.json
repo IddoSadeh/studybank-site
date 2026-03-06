@@ -1,0 +1,117 @@
+{
+  "year": 2001,
+  "questions": [
+    {
+      "id": "2001_FR1",
+      "year": 2001,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Suppose that initially the system of masses shown below is held motionless. All surfaces are frictionless, and the pulley is fixed to mass $M$. The string is completely inextensible; its length is constant. We are interested in the acceleration of each mass at the instant right after they are released. Note that at this instant the string holding $m_2$ is still vertical.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Draw free-body diagrams showing and labelling all forces that act on the three masses at the instant right after they are released."
+        },
+        {
+          "label": "b",
+          "text": "Write Newton's second law as it applies to each mass. Explain briefly why $M$ accelerates."
+        },
+        {
+          "label": "c",
+          "text": "Let $A$ be the acceleration of mass $M$, $a_1$ that of $m_1$, and $a_2$ that of $m_2$. Find a relation between the accelerations of the three masses."
+        },
+        {
+          "label": "d",
+          "text": "Determine the tension $T$ in the string and the three accelerations in terms of the masses and of the gravitational acceleration $g$."
+        },
+        {
+          "label": "e",
+          "text": "Take the limits of your results in part (d) as $M \\to \\infty$. What do they become if instead you take $m_1 \\to 0$, or if you take $m_2 \\to 0$ (not both at the same time)? Do your results make sense in all those limits?"
+        }
+      ],
+      "given_data": "System has masses $m_1$, $m_2$, and $M$ connected by an inextensible string over a pulley fixed to mass $M$",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Shows mass $m_1$ on the left connected by string over a pulley to mass $m_2$ hanging vertically on the right, with the pulley attached to mass $M$ in the center",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2001_FR2",
+      "year": 2001,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A 100 kg (when empty) cylindrical bottle of gas, containing 100 l of air at a pressure of 100 atmospheres, falls over on the lab floor, breaking the valve. It leaves a circular hole of radius 2.0 cm at the end of the bottle, through which the air escapes in a direction parallel to the long axis of the bottle.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Let $u$ be the exhaust speed of the air relative to the lab, assumed to be constant, and $M_i$, $M_f$ the initial and final mass of the bottle, respectively. The bottle slides across a floor with a kinetic coefficient of friction $\\mu = 0.15$. Calculate $\\Delta M/\\Delta t$, the maximum rate at which the mass of the bottle changes if $u$ is limited by the speed of sound, approximately equal to 343 m/s. HINT: under our assumptions, $\\Delta M/\\Delta t$ is constant, and the escaping air (as opposed to the air still in the bottle) has a density of 1.2 kg/m³. Write down the fundamental conservation law which governs the motion of the bottle. Calculate its acceleration as the air starts escaping."
+        },
+        {
+          "label": "b",
+          "text": "Suppose that the acceleration imparted to the bottle by the escaping gas and that you calculated in part (a) remains the same until the air has finished escaping at the constant rate $\\Delta M/\\Delta t$. What would be the total distance covered by the bottle when it finally comes to a stop?"
+        },
+        {
+          "label": "c",
+          "text": "NOTE: BONUS marks will be awarded if you can derive the following expression for the maximum speed the bottle can ever attain once all the air has escaped, and which does not assume that the acceleration of the bottle is constant while the air is escaping: $v_f = \\frac{m}{M_f}u - \\frac{\\mu g/2M_f}{(\\Delta M/\\Delta t)}(M_f^2 - M_i^2)$ where $m$ is the mass of the escaped air, neglecting the air left in the bottle at the end."
+        }
+      ],
+      "given_data": "100 kg empty bottle, 100 l air at 100 atm, circular hole radius 2.0 cm, kinetic friction coefficient μ = 0.15, speed of sound ≈ 343 m/s, escaping air density = 1.2 kg/m³",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2001_FR3",
+      "year": 2001,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Consider a long horizontal cylindrical shell, of length $l$, radius $R$ which can rotate freely about its longitudinal axis with a moment of inertia $I$. The material that composes it is electrically insulating and non-magnetic. A massive string attached to a vertically hanging mass $m$ is then wound around the cylinder drum. The mass is released from rest at time $t = 0$.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Determine the angular acceleration and kinetic energy of the system after the hanging mass has fallen a distance $h$."
+        },
+        {
+          "label": "b",
+          "text": "A net amount of positive charge $Q$, of negligible mass, is deposited uniformly on the outside drum surface of the shell before the mass is released. Redo part (a) under these conditions. Calculate the difference in kinetic energy between the two cases $Q = 0$ and $Q \\neq 0$. Do you have any idea as to where the \"missing\" kinetic energy went?"
+        }
+      ],
+      "given_data": "HINT: The magnetic field due to a very long solenoid of length $l$ and $N$ turns carrying a current $I$ produces no net magnetic field outside the solenoid, but a net uniform magnetic field $\\mu_0 NI/l$ inside the solenoid. The field is directed along the solenoid axis.",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "year": 2000,
+  "questions": [
+    {
+      "id": "2000_FR1",
+      "year": 2000,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A mass spectrometer measures the mass of ions. An ion is accelerated to a high speed and injected into a region with a uniform magnetic field which is perpendicular to the ion's velocity. The ion will follow a curved trajectory and impact a photographic plate some distance away from the injection point. By measuring this distance, the ion's mass can be deduced. Suppose singly charged ($q = +e$) ions of $^{39}K$ and $^{41}K$ are accelerated to an energy of 500 eV and injected into a magnetic field $B = 0.7$ T. The velocity of the ions upon entering the magnetic field is perpendicular to the line $OP$.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "What speed do each of the ions have when they impact the photographic plate at a point $P$?"
+        },
+        {
+          "label": "b",
+          "text": "What is the shape of the trajectory for the ions? Find the distance $OP$ for each of the two ions."
+        },
+        {
+          "label": "c",
+          "text": "In reality, things are not quite so simple. Variations in the ions' velocities can cause problems with the resolution of the machine. If the initial energy of the ions cannot be held precisely at 500 eV, there will be a small variation in the distance $OP$. Suppose that the energy of the ions is $500 \\pm 5$ eV. Can the two ions be distinguished from one another when they hit the screen?"
+        },
+        {
+          "label": "d",
+          "text": "Suppose that the velocity of the ions when they enter the magnetic field cannot be held perpendicular to the line $OP$. If there is a small variation of $\\pm \\alpha$ about a perpendicular injection angle, find the variation in the length of $OP$. Can the two ions be distinguished from one another if $\\alpha = 3°$?"
+        }
+      ],
+      "given_data": "Singly charged ions (q = +e), ^39K and ^41K, energy = 500 eV, magnetic field B = 0.7 T",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Diagram showing point O (injection point), point P (impact point on photographic plate), with a film screen and trajectory path. Shows variables v, m, q for the ion.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2000_FR2",
+      "year": 2000,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A town $B$ is directly east of a town $A$. The two towns are a distance $L$ apart. In the absence of any wind, a plane can fly from town $A$ to $B$ in a time $T$. The speed of the airplane, $v_a = L/T$ is called the plane's air-speed. Assume in all that follows that the plane always has the same air-speed. If the plane flies with a tail wind of speed $v_w$, then it will have a speed with respect to the ground, $v_g$ given by $v_g = v_a + v_w$. This is called the plane's ground-speed.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Explain how the plane could have a ground-speed of zero."
+        },
+        {
+          "label": "b",
+          "text": "If a wind $v_w$ blows from the west (i.e.to the east), find the time that the plane would take for a round trip from town $A$ to $B$ and back again. Show that it is greater than $T$."
+        },
+        {
+          "label": "c",
+          "text": "If a wind $v_w$ blows from the south (i.e.to the north), sketch a diagram showing the heading that the plane must fly so as to fly in a straight line from town $A$ to town $B$. Again, find the round trip time for flying in such a cross wind."
+        },
+        {
+          "label": "d",
+          "text": "Show that regardless of the wind direction, the round trip time for a flight from town $A$ to $B$ and back again is longer than if there was no wind whatsoever. Find an expression for the round trip time if a wind $v_w$ blows in an arbitrary direction."
+        }
+      ],
+      "given_data": "Distance between towns L, time without wind T, air-speed v_a = L/T, ground-speed v_g = v_a + v_w",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2000_FR3",
+      "year": 2000,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Leonardo da Vinci was commissioned by the Duke of Milan to construct a Bronze statue as a tribute to his late father. The proposed size was to be twenty three feet tall and weigh 80 tons (73,000 kg). For this task Leonardo had to develop new casting methods to construct this massive statue. By 1499 the French invaded Milan and he had only completed a 22-foot clay model which was used by the French soldiers for target practice. The project was never completed. Heavy statues need to be placed upon very strong concrete pedestals. The compressive strength of high strength concrete ranges from 10 – 70 N/mm². Lets take a typical high-strength concrete with a compressive strength of $s = 50$ N/mm² and a density of $\\rho = 1250$ kg/m³. This concrete will crumble if a pressure of greater than this is applied.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Suppose Leonardo's statue (a horse with four feet touching the ground) is to be placed upon such a concrete pedestal. What must be the minimum area of each of the horse's feet so as not to damage the pedestal?"
+        },
+        {
+          "label": "b",
+          "text": "Now, more generally, what is the maximum height of a conical mountain made of high strength concrete?"
+        },
+        {
+          "label": "c",
+          "text": "Finally, outline the design constraints that go into making a free standing concrete structure with the maximum possible height."
+        }
+      ],
+      "given_data": "Statue mass = 80 tons (73,000 kg), concrete compressive strength s = 50 N/mm², concrete density ρ = 1250 kg/m³",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

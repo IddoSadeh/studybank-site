@@ -1,0 +1,460 @@
+CAP High School/CEGEP Prize Exam
+April 5, 2023
+9:00 - 12:00
+Student Information Sheet
+The following information will be used to inform students and schools of the exam results, to determine eligibility
+for some subsequent competitions and for statistical purposes. Only the marking code, to be assigned by the local
+examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS
+Student First Name
+Student Last Name
+Teacher Name
+Address: (StreetnumberandApt)
+(CityandProvince) (PostalCode)
+Telephone: ( ) Email:
+School: Grade:
+Date of Birth:
+Gender: Citizenship:
+If you are not a Canadian citizen, what is your Immigration Status?
+For how many years have you studied in a Canadian school?
+Would you prefer further correspondence in French or English?
+By signing this page I agree that, if my score on this Exam is in the top 20 nationally or in the top 6 in my province,
+my name, my school’s name, and my ranking can be published.
+Student’s signature:
+1
+
+Sponsored by: 1 eV ≈ 1.602×10−19 J
+Electrostaticconstantk =1/4πϵ =8.99×109N·m2/C2
+0
+Permittivity of free space ϵ =8.854×10−12 C2/N·m2
+Canadian Association of Physicists; 0
+Boltzmann’s constant k =1.38×10−23 J/K
+Canadian Physics Olympiad; B
+Stefan–Boltzmann constant σ =5.67×10−8 W/m2· K4
+Department of Physics and Astronomy,
+Astronomical Unit (approximate distance from the Sun
+University of British Columbia. to the Earth) 1 AU =1.49598×1011 m
+Radius of the Earth R =6.371×106 m
+E
+Radius of the Sun R =6.96×108 m
+S
+Mass of the Earth 5.97×1024 kg
+2023 Canadian Association of Physicists Mass of the Sun 1.99×1030 kg
+Highschool/Cegep Prize Exam H Molar mass 2.016 g/mol
+2
+O Molar mass 31.998 g/mol
+2
+This is a three-hour exam. National ranking and prizes N Molar mass 28.013 g/mol
+2
+willbebasedonstudents’performanceonsectionsAand
+B of the exam. Performance on questions in section A
+willbeusedtodeterminewhosewrittenworkinsectionB
+will be marked for prize consideration by the CAP Exam Section A
+National Committee. Section A consists of 25 multiple-
+choicequestions. ThequestionsinsectionBspanarange
+1) An aluminum wire of varying thickness is pulled at
+of difficulty, and may require graphing and/or measure-
+each end with a force of 30 N. Which of the following
+ment on the graph. Be careful to gather as many of the
+statements is true? Note: tension is a force that tends to
+easier marks as possible before venturing into more diffi-
+stretch something, and stress is the force per unit area.
+cult territory. When you are unable to solve any part of
+a question, you may assume a likely answer to that part
+a) The tension is 60 N all along the wire, and stress is
+and attempt the rest of the question anyway.
+constant along the wire
+Non-programmable calculators may be used. Answer the
+multiple-choice questions on the answer sheet pro-
+vided. Most importantly: write your solutions to the b) The tension is 60 N all along the wire, and stress
+three long problems on three separate sheets as they varies along the wire
+will be marked by people in different parts of Canada.
+Good luck. c) The tension is 30 N all along the wire, and stress is
+Notice: Fullmarkswillbegiventostudentswhoprovide constant along the wire
+full correct solutions to problems in Section B. Partial
+marks will be given for partial solutions. There are no d) The tension is 30 N all along the wire, and stress
+penalties for incorrect answers. The questions are not of varies along the wire
+equal difficulty. Remember that we are challenging the
+best physics students in Canada; it is possible that even 2) A 1kg object slides 3.6 m down a ramp with a 35◦
+the best papers may not achieve an overall score of 80%. slope. It has an initial speed of 2 m/s and a final speed
+This Exam is meant to be challenging! of 1.06 m/s when it reaches the bottom. What was the
+work done by kinetic friction (µ =0.3) when the object
+k
+Data
+has slid to the bottom of the ramp?
+Speed of light c=3.00×108 m/s
+a) 10.6 Nm
+Speed of sound in air = 343 m/s
+Gravitational constant G=6.67×10−11 N·m2/kg2
+Acceleration due to gravity g =9.81 m/s2 b) 21.7 Nm
+Standard atmospheric pressure P =1.01×105Pa
+0
+Density of fresh water ρ=1.00×103 kg/m3 c) 0 Nm
+Density of ice ρ =916 kg/m3
+i
+Specific heat of water C =4186 J/(kg·K) d) 19.6 Nm
+w
+Specific heat of ice C =2050 J/(kg·K)
+i
+Latent heat of water L =2260 kJ/kg 3) After swinging on a vine in the jungle, monkey A
+w
+Latent heat of ice L =334 kJ/kg releases the vine and simultaneously drops his banana.
+i
+Fundamental charge e=1.60×10−19 C Monkey B is stationary on the ground below, watching
+Mass of an electron m =9.11×10−31 kg intently. Immediately after the banana is dropped, what
+e
+Mass of a proton m =1.67×10−27 kg is the direction of the velocity of the banana from each
+p
+Planck’s constant h=6.63×10−34 J·s monkey’s frame of reference?
+2
+
+a) Throw it upwards (v )
+A
+b) Throw it horizontally (v )
+B
+c) Throw it downwards (v )
+C
+d) A and C produce a faster final speed than B
+e) A, B, and C all produce the same final speed
+5)AveryheavyboxofmassM isbeingliftedupwardsby
+a crane at a constant velocity u. A ball of mass m≪M
+is thrown at the box with velocity v at angle α.
+a)
+b)
+If the ball hits the box at some time t, what are the x
+c)
+andy componentsofthevelocityoftheball(v (t),v (t))
+x y
+after the collision? Assume a perfectly elastic collision.
+a) (−vcosα, |vsinα−gt|)
+b) (−vcosα,−|vsinα−gt|)
+c) (−vcosα, 2u+|vsinα−gt|)
+d) d) (−vcosα, 2u−|vsinα−gt|)
+e) Either a or b.
+f) Either c or d.
+4) A very smart bird is sitting on a roof holding a shell
+6) A sphere of mass 0.2 kg is suspended from the ceiling
+in its beak. It wants to throw the shell so that it hits the
+by a light spring whose force constant is 3.2 N/m. It is
+ground with the highest speed possible. Assuming air re-
+projected vertically downwards with a speed of 0.5 m/s
+sistance is negligible, and initial speed is constant in all
+from its equilibrium position. What would be its maxi-
+scenarios (v =v =v ), how should the bird throw the
+A B c
+mum acceleration in subsequent motion?
+shell so that its final speed before hitting the ground is
+greatest? a) 2.0 m/s
+3
+
+b) 8.0 m/s d) Depends on the radius of the circle
+c) 10.0 m/s e) Both c and d.
+d) 12.0 m/s
+10) Negative charge is uniformly distributed on a semi-
+circular plastic rod. What is the direction of the electric
+7)
+field strength at point S?
+A B C
+AblockacceleratesuniformlyalongastraightlinefromA
+toC asshownabove. ItsspeedatpointAisv andthat
+A
+at point C is v . What is its speed at point B, which is
+C
+the mid-point between point A and C?
+a) 2vAvC
+vA+vC
+a) A
+b) vA+vC
+2
+b) B
+(cid:113)
+v2+v2
+c) A C
+2 c) C
+√
+d) v v
+A C d) D
+8) Two charged spheres X and Y are suspended from the
+11)Supposethatapositron(charge+e,massm )isfired
+e
+ceiling by identical strings as shown below. When the
+at a non-relativistic velocity v towards a proton (charge
+0
+system is in equilibrium, the angles between string OX
++e, mass m ) at rest. What is the minimum separation
+p
+and the vertical is i and that between OY and the verti-
+between the two particles as they approach each other?
+cal is j. If i > j, which of the following statement must
+be correct? a) e2
+2πϵ0mev
+0
+2
+O b) e
+2πϵ0mev
+0
+2
+(cid:16) (cid:17)1/2
+c) e2
+i 2πϵ0mev 0 2
+j d) e2 me+mp
+2πϵ0v
+0
+2 memp
+X
+12)Anelectronentersthespaceinsideaninfinitecurrent-
+carrying solenoid. The velocity of the electron is parallel
+Y
+to the solenoid’s axis. The electron will:
+a) Deflect outwards
+a) Both X and Y carry positive charges.
+b) Slow down
+b) The charges on X and Y are opposite.
+c) Speed up
+c) ThemagnitudeofchargesonYisgreaterthanthat
+d) Stay parallel to the axis of the solenoid
+on X.
+d) The mass of Y is larger than that of X. 13) An ion follows a circular path in a uniform magnetic
+field. Which single change increases the radius of the
+9) When two ends of a circular uniform wire are joined path?
+to the terminals of a battery, what is the strength of the
+magnetic field at the center of the circle? a) Decrease the mass of the ion
+a) Zero b) Decrease the charge of the ion
+b) Infinite c) Decrease the speed of the ion
+c) Depends on the amount of e.m.f. applied d) Increase the magnetic flux density of the field
+4
+
+14)Thenumberoffieldlinescrossingagivenareaisgiven
+by the electric flux. For a closed surface (like a cube or
+sphere) the total electric flux is given by Gauss’s law:
+Electric flux through a closed surface=Q/ϵ , (1)
+0
+where Q is the net charge inside the closed surface. A
+What is the output voltage V ?
+point charge Q=24q is placed somewhere inside a cube. out
+The electric flux through the bottom surface of the cube
+is measured to be ϕ = 3.98q. What is the approximate
+ε0
+location of the charge?
+a) Slightly off center.
+b) Slightly off center, towards the top surface.
+c) Slightly off center, towards the bottom surface.
+d) Far from the center, closer to the bottom surface.
+e) At the center of the cube.
+15)
+a) a
+b) b
+c) c
+d) d
+17) One mole of an ideal gas (C = 5R/2) in a closed
+p
+cylindrical piston is expanded from T =300 K, P =0.5
+i i
+MPa to P =0.1 MPa by an adiabatic pathway. The en-
+f
+ergysuppliedtothesystem∆Q,changeininternalenergy
+∆U, and work done by the gas ∆W are:
+Consider an infinite grid made of identical wires of resis-
+tance 1 Ω. The equivalent resistance between two adja-
+a) ∆U=0 J, ∆Q=4014 J, ∆W =-4014 J
+cent points A and B is R . If the wire connecting A
+AB
+and B (marked with x) is cut, R : b) ∆U=-4270 J, ∆Q=0 J, ∆W =4270 J
+AB
+a) will increase. c) ∆U=4270 J, ∆Q=0 J, ∆W =-4270 J
+b) will decrease. d) ∆U=-5487 J, ∆Q=0 J, ∆W =-5487 J
+c) will not change. e) ∆U=-5487 J, ∆Q=-5487 J, ∆W =0 J
+d) will become zero. 18) A plate is filled with a layer of water and a lit candle
+is placed in the centre. A cup is overturned and placed
+e) will become infinity.
+to fully cover the candle. The flame is extinguished, and
+f) can not be determined. the cup seems to ‘drink the liquid’ — the water is sucked
+from the plate into the cup.
+16) A diode conducts current only when the potential of
+pointAishigherthanthepotentialofpointB,otherwise
+it doesn’t allow the current to pass. When it conducts,
+the voltage drop across an ideal diode is zero.
+Consider a circuit with an ideal diode as shown below. Recall that PV =nRT. Which of the following explains
+The input voltage V is shown on the left. why the cup sucks up the liquid?
+in
+5
+
+a) T decreases so V decreases a) 0.47 g/cm3
+b) P decreases so V decreases
+b) 0.94 g/cm3
+c) n decreases so V decreases
+d) n decreases so P decreases c) 1.41 g/cm3
+e) T decreases so P decreases
+d) 4.23 g/cm3
+19) An ideal gas goes through a process such that
+PV3 =const. 22) A light beam with two monochromatic components
+X and Y passes into a glass block and splits into two
+If the volume doubles during this process the tempera- monochromatic beams when it comes out of the glass
+ture: block. If the frequency of component X is smaller than
+that of Y, which of the following ray diagrams is correct?
+a) remains constant.
+b) increases four-fold.
+c) decreases four-fold.
+d) increases eight-fold.
+e) decreases eight-fold.
+20) The temperature of a gas is increased by the same
+a)
+amount in two difference processes.
+glass
+Process A: The volume is kept constant.
+Process B: The pressure is kept constant. Y
+X
+Which of the following is correct?
+a) The heat required in process A is greater.
+b) The heat required in process B is greater.
+c) The same heat is required in both cases.
+d) The change in entropy is the same for both pro-
+cesses.
+e) The change in internal energy is the same for both b)
+processes.
+glass
+f) c, d and e.
+X
+21) Sodium has a crystal structure (right) which can be
+Y
+thought of as a repetition of a unit cell shown on the
+left. The different colors just represent different relative
+positions in the unit cell.
+c)
+glass
+Y
+Given that sodium’s unit cell is a cube with edge a =
+X
+0.428 nm and its atomic weight is 23 g/mol, what is the
+density of sodium?
+6
+
+d)
+glass
+X
+Y
+23) A photocell emits electrons when it is illuminated
+with green light. We are uncertain whether it emits elec-
+trons when it is illuminated with:
+a) ultra-violet radiation
+b) X-rays
+c) red light
+d) blue light
+24)OneofthetwoslitsinaYoung’sexperimentispainted
+oversothatittransmitsonlyone-halftheintensityofthe
+other slit. As a result:
+a) The fringe system disappears
+b) The bright fringes get brighter and the dark ones
+get darker
+c) The bright fringes get dimmer
+d) The dark fringes get brighter
+e) The dark fringes get brighter and the bright ones
+get darker
+25) A double slit system is located in water (n =1.33).
+w
+What is the approximate spacing between two bright
+fringes? Assume that R ≫ d and that λ is the wave-
+length in vacuum.
+a) λd
+Rnw
+b) λRnw
+d
+c) λR
+dnw
+d) λR
+d
+End of Section A
+Section B starts on next page
+7
+
+1)
+m
+a
+m
+b
+A turtle is pulling two stacked boxes as shown in the above figure. The string attached to the bottom box is parallel
+to the ground. The mass of the bottom box is m and that of the top box is m . The tension in the string is T.
+b a
+The coefficient of static friction between the bottom box and the ground is µ and that between the two boxes is µ .
+b a
+Find the range of T with sufficient justification and mathematical reasoning when:
+a) two boxes are static
+b) the bottom box is moving relative to the ground with the box on top resting on it
+c) the bottom box is moving relative to the ground but there is also relative motion between the top and the
+bottom box
+8
+
+2)
+A linear accelerator is a machine used to deliver radiation therapy to cancer patients. It shoots very precise beams
+of high energy photons into the patient’s body, and those photons interact with electrons and atoms in the cancer
+cells to kill it. There are several different ways a photon can interact with electrons and atoms. In this question,
+we’re going to explore a Compton interaction between a photon and an electron. Historically accepted relativistic
+equations are provided1.
+The electron is originally at rest, has a mass m and energy m c2. An incoming photon with energy hc and
+o o λ
+momentum h, where λ is the wavelength of the photon, collides with this electron and transfers some of its energy,
+λ
+which causes the electron and the photon to scatter in different directions. The ejected electron is now travelling at
+speed v and has a mass m= mo and energy mc2.
+(cid:113) 1−v2
+c2
+Derive an equation that relates the wavelength (λ) of the incoming photon with the wavelength (λ’) of the out-
+going scattered photon and its scattering angle (θ).
+Hint: sin2θ+cos2θ =1
+Before collision After collision
+Scattered photon
+Incoming photon
+θ
+Electron (at rest)
+φ
+Scattered electron
+1Itisimportanttonotethatthehistoricallyacceptedequationsfortherelativisticmassofanelectronthatareprovidedherearenot
+properlycorrect. Theyimplythatmasschangeswithvelocity,wheninfactmassisinvariant. Theproperequationsofrelativisticmass
+aremuchmorecomplexandarenotneededtosolvethisproblem;thecorrectsolutioncanbefoundwiththeequationsprovided.
+9
+
+3)
+Onewayofmeasuringdistanceusingopticsistosendalaserbeamtotheobjectandmeasuretheanglethescattered
+light makes with the original beam as shown below:
+The components inside the dashed line box form the optical distance sensor. The vertical rectangle represents a
+linear light sensor, which measures the point of impact of the returning beam. The three lines indicate light rays
+reflected from objects at different distances.
+The linear sensor is 9 mm long and consists of one line of 600 pixels spaced 15 µm apart.
+The slit for the returning beam is 20 µm wide and is located 5 mm above the laser beam and 2 mm away from the
+linear sensor. The last pixel of the linear light sensor, the one closest to the laser beam is 15 µm above the slit.
+What is the shortest and longest distance this sensor can measure in air?
+If we want to measure the distance to an object underwater, two pixels of the linear sensor will be activated: one
+correspondingtothelaserscatteringoffthewatersurfaceandonecorrespondingtothelaserscatteringofftheobject.
+Explain how one can use these two readings to get the proper distance to the object underwater.
+Start with the case when the laser beam is perpendicular to the water surface:
+10
+
+Question 1 a b c d e f
+Question 2 a b c d e f
+Question 3 a b c d e f
+Question 4 a b c d e f
+Question 5 a b c d e f
+Question 6 a b c d e f
+Question 7 a b c d e f
+Question 8 a b c d e f
+Question 9 a b c d e f
+Question 10 a b c d e f
+Question 11 a b c d e f
+Question 12 a b c d e f
+Question 13 a b c d e f
+Question 14 a b c d e f
+Question 15 a b c d e f
+Question 16 a b c d e f
+Question 17 a b c d e f
+Question 18 a b c d e f
+Question 19 a b c d e f
+Question 20 a b c d e f
+Question 21 a b c d e f
+Question 22 a b c d e f
+Question 23 a b c d e f
+Question 24 a b c d e f
+Question 25 a b c d e f
+11
+

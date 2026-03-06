@@ -1,0 +1,380 @@
+CAP High School Prize Exam
+12 April 2010
+9:00 – 12:00
+Competitor’s Information Sheet
+The following information will be used to inform competitors and schools of the exam results, to determine
+eligibility for some subsequent competitions, and for statistical purposes. Only the marking code, to be assigned
+by the local examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS.
+Family Name:________________________________Given Name:_______________________
+Home Address:_________________________________________________________________
+_________________________________________ Postal Code:______________
+Telephone: ( )____________________ E-mail: __________________________________
+School: ____________________________________________________________ Grade:_____
+Physics Teacher: _______________________________________________________________
+Date of Birth: ___________________________ Sex: Male Female
+Citizenship: ______________________________________________________ or
+Immigration Status:_____________________________________________________________
+For how many years have you studied in a Canadian school? ____________________________
+Would you prefer the further correspondence in French or English? _______________________
+Sponsored by:
+Canadian Association of Physicists
+Canadian Chemistry and Physics Olympiads
+University of Toronto, Department of Physics
+
+Canadian Association of Physicists
+Question 3
+2010 Prize Exam
+The system in question 2 is attached to a spring of spring
+This is a three-hour exam. National ranking and prizes will
+constant k which in turn is attached
+be based on a student’s performance on sections A and B of
+to a vertical wall, as shown to the
+the exam. Performance on the questions in parts A will be
+right. The spring is neither
+used to determine whose written work in part B will be
+stretched nor compressed. The
+marked for prize consideration by the CAP Exam National system is released from rest. The
+Committee. Part A consists of twenty-two multiple-choice
+mass m falls and then oscillates
+2
+questions. The questions in part C span a range of
+about a mean displacement x from
+difficulties, and may require graphing. Do be careful to
+its original position before release given by
+gather as many of the easier marks as possible before
+venturing into more difficult territory. If an answer to part m g m g
+a) x= 2 ; b) x= 1 ;
+(a) of a question is needed for part (b), and you are not able
+k k
+to solve part (a), assume a likely solution and attempt the
+rest of the question anyway. No student is expected to (m +m )g k
+c) x= 1 2 ; d) x= .
+complete this exam and parts of each problem may be very k m g
+challenging. 2
+Non-programmable calculators may be used. Please be Question 4
+careful to answer the multiple-choice questions on the Four 100 ohm resistors and a 1 V
+answer card/sheet provided; most importantly, write your battery are connected as shown in
+solutions to the three long problems on three separate the circuit diagram. The potential
+sheets as they will be marked by people in different parts of difference between points P1 and
+Canada. Good luck. P2 is given by
+Data
+Speed of light c = 3.00x108 m/s a) 0.250 V; b) 0.333 V; c) .500 V; d) 0.667 V.
+Gravitational constant G = 6.67x10-11 N·m2/kg2
+Acceleration due to gravity g = 9.80 m/s2 Question 5
+Density of fresh water ρ = 1.00x103 kg/m3 A heavy plate is held horizontal resting on two frictionless
+The normal atmospheric pressure P = 1.01x105Pa pistons, each of which is placed in the opening of an
+The specific heat of water c = 4,186 0 x103J/(kg·K) asymmetric U tube filled with an incompressible fluid, as
+Fundamental charge e =1.60x10-19 C shown in the figure. Once the restraints on the plate are
+Mass of electron m = 9.11x10-31 kg released, then
+e
+Mass of proton m = 1.67x 10-27 kg
+p a) piston A1 will rise and A2
+Planck’s constant h = 6.63x10-34 J·s
+will fall;
+Coulomb’s constant 1/(4πε
+0
+) = 8.99x109 N·m2/C2
+b) piston A2 will rise and A1
+Boltzmann constant k = 1.38x10-23 J/K
+will fall;
+c) the plate will remain level
+Part A: Multiple Choice
+and not move;
+Question 1
+d) the plate will remain level
+A ball is dropped from a height h. It hits the ground and
+and both pistons will sink a
+bounces back up with a momentum loss of 10% due to the
+similar small distance.
+impact. The maximum height it will reach is
+Question 6
+a) 0.90 h; b) 0.81 h; c) 0.949 h; d) 0.3 h.
+Two identical glasses, one completely filled with water, and
+Question 2 the other filled with vodka, are viewed directly from above.
+A mass m rests on a frictionless The refractive index of vodka is slightly greater than the
+1
+surface. It is attached to mass m refractive index of water. Which glass appears to have a
+2
+by a light string which passes greater depth of fluid?
+over a massless, frictionless
+a) the water glass;
+pulley, as shown in the figure.
+b) the vodka glass;
+The system is released from rest.
+c) neither glass because the apparent depth is the same as
+The initial acceleration a of m is
+2 the real depth in both glasses;
+given by
+d) neither glass, because the effect of the clear fluid is to
+m reduce the apparent depth by the same factor in both
+a) a=g; b) a = 2 g;
+glasses.
+(m +m )
+1 2
+m Question 7
+c) a=(m −m )g; d) a= 1 g.
+2 1 The drawing shows a crown glass slab of refractive index
+(m +m )
+1 2 1.5 with a rectangular cross section. As illustrated, a laser
+
+beam strikes the upper surface at an angle of 60°. After where θ is the contact angle
+reflecting from between the surface of the liquid
+the upper surface, and the tube, g is the acceleration
+the beam reflects due to gravity, and γ is a constant
+from the side and that depends on a number of
+bottom surfaces. parameters. The dimensions of γ
+If the glass is are given by
+surrounded by
+air, determine at a) ML-2; b) MLT-2; c) M-1LT-2
+which point part d) MT-2; e) none of the above.
+of the beam first exits the glass.
+Question 13
+a) A; b) B; c) C; d) none of the above. If the Earth’s polar land-based glaciers melted, water would
+be redistributed on the planet, and the depression in the
+Question 8 earth’s crust made by the weight of the ice would rebound,
+A block of mass m is sandwiched between a rough vertical as the land rises when the weight of the glaciers is removed
+wall and a horizontally (an effect known as Post-Glacial Rebound or Glacial
+oriented spring with spring Isostatic Adjustment). Following post-glacial rebound, the
+constant k. If the spring is length of day would
+compressed a distance x
+beyond its uncompressed a) increase;
+length, then the minimum b) decrease;
+coefficient of static friction for c) remain the same as the present length of day;
+which the block does not fall is d) at first increase but then shortly return to the present
+length of day;
+mg kx kx mg e) at first decrease but then shortly return to the present
+a) ; b) ; c) ; d) .
+length of day.
+kx mg mg +kx mg+kx
+Question 14
+Question 9
+Eight identical negative
+A light wave has a high enough frequency to ionize an
+charges -q are arranged
+atom. If the amplitude of the light wave is tripled, the
+symmetrically on a circle of
+chance of an atom being ionized by the light wave increases
+radius r, each equidistant
+by a factor of
+from the next. Assume the
+point charges have zero
+a) 1; b) 3; c) 3; d) 9.
+potential at infinity. If the
+constant of proportionality
+Question 10
+in Coulomb’s law is k, then
+A 100-kg student eats a 200-calorie doughnut. To ‘burn off
+the magnitude of the electric
+the sugar high’, he decides to climb the steps of a tall
+field and the electrostatic
+building. How high would he have to climb to expend an
+equivalent amount of work? (1 food calorie = 103 calories ~ potential at the centre of the circle are given by
+4200 J).
+a)E= 8kq , V = −8kq ; b) E = 8kq , V = −8kq ;
+a) 273 m; b) 428 m; c) 857 m; d) 8400 m. r2 r (2πr)2 (2πr)
+8kq
+Question 11 c) E= , V =0; d) E =0,V =0;
+r2
+In an insulated vessel, 250 g of ice at 0°C is added to 600 g
+of water at 18°C. The latent heat of fusion is ~ 3.33×105 e) E =0, V = −8kq .
+J/kg. The amount of ice remaining when the system reaches r
+thermal equilibrium is
+Question 15
+a) 0 g; b) 114 g; c) 136 g; d) 45.2 g. Three of the negative
+charges in the previous
+Question 12 questions are replaced with
+A liquid will rise in a narrow tube (capillary action) if the positive charges with the
+adhesive forces between the molecules of the liquid and the same magnitude, and are
+molecules of the tube are greater than the cohesive forces arranged as in the figure.
+between the molecules of the liquid. The height of a column The magnitude of the
+of liquid of density ρ drawn up a tube of radius r is given by electric field and the
+electrostatic potential at the centre of the circle are given by
+h=
+2γ
+cosθ
+ρgr
+
+2kq( ) c) The answer depends on the material of which the object
+a) E= 1+2 2 ,V =0;
+r2 is made;
+2kq( ) −2qk d) The answer depends on how much the temperature
+b) E = 1+ 2 , V = ; increases;
+r2 r
+e) Both c) and d) are correct.
+2kq( ) −2qk
+c) E= 1+2 2 , V = ;
+r2 r Question 20
+d) E =0, V = −2qk . Two gear wheels of the same thickness, but with one twice
+r the diameter of the other, are mounted on parallel light axles
+e) None of the above. far enough apart not to mesh the teeth of the wheels. The
+larger wheel is spun with angular velocity Ω and the wheels
+Question 16
+are then moved together so they mesh. What is the
+An electric dipole consists of
+subsequent angular velocity of the larger wheel?
+two small particles. Each has
+mass m but opposite electric Ω Ω 2Ω 4Ω
+a) ; b) ; c) ; d) .
+charge±q. They are 2 5 5 5
+separated by a light, non-
+Question 21
+conducting rod of length l.
+For the meshed rotating gears of the previous question, what
+The dipole is placed in a
+fraction of the original energy is lost?
+uniform electric field E such that it forms an angle θ to the
+field, then is released. Its initial angular acceleration about a) 1/4; b) 1/8; c) 1/5; d) 2/5.
+its centre of mass is given by
+Question 22
+2qEcosθ 2qEsinθ qElcosθ The drawing shows
+a) ; b) ; c) ;
+a copper wire (of
+ml ml m
+negligible
+qElsinθ qEsinθ
+d) ; e) . resistance) bent into
+m ml2
+a circular shape
+with a radius of r.
+Question 17
+The radial section
+At time t = 0 a block of mass m moves with momentum p
+BC is fixed in
+along a rough horizontal surface. If it comes to a complete
+place, while the
+stop in time t, then the coefficient of kinetic friction µ is
+k
+copper bar AC
+given by
+sweeps around at an
+a) p ; b) pg ; c) ptg ; d) pt ; angular speed of ω.
+mgt mt m mg The bar makes
+electrical contact with the wire at all times. The wire and the
+e) None of the above.
+bar have negligible resistance. A uniform magnetic field
+Question 18 exists everywhere, is perpendicular to the plane of the circle,
+A fish swimming in water with constant velocity v and has a magnitude of B. Which of the following shows the
+0
+experiences a viscous drag force that is proportional to the magnitude of the current as a function of θ?
+square of its velocity (i.e.F ∝v2). If the fish doubles
+drag a) b)
+its velocity, then the thrust force F that it must generate to
+maintain this new velocity is related to the fish’s original
+thrust force F via
+0
+a) F =2F ; b) F = 2F ; c) F =4F ; d) F =F 2;
+0 0 0 0
+e) None of the above. c) d)
+Question 19
+A solid object has a hole
+in it. Which of these
+illustrations more
+correctly shows how the
+size of the object and
+the hole change as the
+temperature increases?
+a) illustration #1;
+b) illustration #2;
+
+Part B: Problems where λ is called the decay constant. We can integrate this
+expression to get the relationship
+Problem 1 N(t)=N e−λt
+0
+A double inclined plane is in the form of a wedge of weight
+where N represents the number of radioactive nuclei at time
+10 g, held on the ground with its base horizontal and rough 0
+t = 0.
+faces inclined at 30° and 45° respectively to the horizontal.
+A 5 g particle on the face inclined at 30° is connected by a
+a) Show that the time taken for N(t) = N /2 (known as the
+mass less, flexible, inextensible string over a smooth mass 0
+half-life), is given by T = (ln 2)/ λ.
+less pulley at the ridge of the wedge to a 7 g particle on the 1/2
+other face. If the coefficient of friction between each of the
+Potassium-argon (K-Ar) dating is used in earth science to
+particles and the wedge
+determine the age of a rock sample. The potassium isotope
+is 1/5, find the
+accelerations of the 4 1 0 9 K is radioactive and decays over time to the argon
+particles and the
+isotope
+40Ar.
+When a rock is molten the argon gas is
+magnitude of the 18
+vertical force between released into the atmosphere but as the rock cools and
+the wedge and the crystallizes, the daughter argon atoms are trapped within the
+ground. rock matrix. Time since crystallization is calculated by
+measuring the ratio of the amount of
+40Ar
+accumulated to
+18
+the amount of 4
+1
+0
+9
+K remaining.
+Problem 2
+The two possible nuclear reaction for
+40K
+to change to
+Oceanographers have deployed an array of instruments off 19
+the west coast of Vancouver Island, connected together by 40Arare:
+18
+cables carrying power and communication. The power is
+supplied through a single DC line. The return path is
+through the sea water. The grounds at each end of the line 4 1 0 9 K+0 −1 e→4 1 0 8 Ar+ a neutrino
+are large metal spheres. 40K→40Ar+0 e+ a neutrino
+19 18 +1
+Consider two copper spheres, radii a, buried in an infinite
+b) Describe the physical process that is occurring in these
+medium of resistivity ρ. Current flows out of one sphere and
+reactions.
+is collected by the second sphere. The current flow in
+c) Which of the two is the more likely to occur?
+vicinity of each sphere can be considered radially uniform
+as the distance between the spheres is large compared with d) Most of the potassium 40K (89.1%) decays to 40Ca .
+19 20
+a.
+What is the equation for this reaction?
+a) By considering the series resistance of many thin
+The approximate ratio of the amount of
+40Ar
+to that of
+spherical shells around a sphere show graphically (or by 18
+direct integration) that much of the resistance between 40K
+is directly related to the time elapsed since the rock
+the spheres is due to material within a radius 2a of each 19
+was cool enough to trap the argon by the following
+sphere and thereby estimate the total resistance between
+equation:
+the spheres.
+b) If the current flow between the spheres is 1 A, calculate ⎛ Ar ⎞
+⎜K + f ⎟
+the charge in coulombs on each one. t= t 1/2 log ⎜ f 0.109⎟
+log (2) e⎜ K ⎟
+e ⎜ f ⎟
+⎝ ⎠
+Problem 3
+Where T is the half-life of
+40K,
+K is the amount of
+40K
+Sir Ernest Rutherford, a very famous New Zealander who 1/2 19 f 19
+worked at McGill University in Montreal and the Cavendish remaining in the sample, and Ar is the amount of 40Ar
+f 18
+Laboratory in Cambridge, won the Nobel Prize for his
+found in the sample.
+studies of the disintegration of nuclei. He established an
+important relationship for a nuclear reaction, in which a
+e) If a rock sample has remained undisturbed for 50
+parent atom disintegrates into a daughter atom, which is
+called the Rutherford – Soddy law of radioactive million years and the half-life of 40K is 1.248 x109
+19
+disintegration. This law states that if N is the number of years, what ratio of Ar/K should be measured in the
+radioactive nuclei present at some instant, the number of sample?
+nuclei ∆N that decay in a time ∆t is given by:
+∆N =−λN∆t
+

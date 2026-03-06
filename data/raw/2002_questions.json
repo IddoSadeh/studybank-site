@@ -1,0 +1,530 @@
+{
+  "year": 2002,
+  "questions": [
+    {
+      "id": "2002_Q01",
+      "year": 2002,
+      "number": 1,
+      "text": "A little girl is holding a helium-filled balloon on a string while riding in a closed elevator going down a very tall building at constant speed. The elevator shaft is maintained under vacuum. Suddenly the elevator cable breaks, sending the elevator into free fall. In her surprise the girl lets go of the string. She is even more surprised to see",
+      "choices": {
+        "a": "the balloon rising.",
+        "b": "the balloon floating downward.",
+        "c": "the balloon remaining stationary.",
+        "d": "the balloon bouncing slowly between the floor and the ceiling."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q02",
+      "year": 2002,
+      "number": 2,
+      "text": "A demonstration apparatus sits on a table in the lab. It consists of a metal track (shown as a thick solid line in the figure below) along which a perfectly spherical marble can roll without slipping. In one run, the marble is released from rest at a height $h$ above the table on the left section, rolls down one side and then up the other side without slipping, briefly stopping when it has reached $h_1$. Assuming the table to be horizontal and neglecting air drag as well as any energy loss due to rolling.",
+      "choices": {
+        "a": "$h_1 < h$ always, because the friction that keeps the ball rolling must dissipate energy.",
+        "b": "$h_1 = h$, since total mechanical energy is conserved.",
+        "c": "$h_1 = h$ only if tilt angles $\\phi$ and $\\theta$ are equal.",
+        "d": "$h_1 = h$ only if tilt angle $\\phi$ is larger than $\\theta$."
+      },
+      "has_diagram": true,
+      "diagram_description": "Shows a U-shaped track with angles φ and θ on each side, with heights h and h₁ marked, and a ball rolling on the track",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q03",
+      "year": 2002,
+      "number": 3,
+      "text": "In the movie Jurassic Park, as a jeep is being pursued by a dinosaur, one can see the animal in the jeep's side rear-view mirror on which is printed: \"Objects in mirror are closer than they appear.\" Then,",
+      "choices": {
+        "a": "the mirror is flat.",
+        "b": "the mirror is concave.",
+        "c": "the mirror is convex.",
+        "d": "the mirror could be either convex or concave."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q04",
+      "year": 2002,
+      "number": 4,
+      "text": "A lump of sticky chewing-gum with mass $m$ moves at speed $v$ toward another lump of mass $M$ at rest. They bump and stick together, both moving at speed $V$. Nothing else is known about the conditions under which the collision takes place. Which of the following statements is the most correct?",
+      "choices": {
+        "a": "Neither total kinetic energy nor total linear momentum can be conserved.",
+        "b": "This is an elastic collision in which both total kinetic energy and total linear momentum are conserved; the final speed is $V = v/2$.",
+        "c": "This is an inelastic collision, and in such collisions, total linear momentum is always conserved; the final speed is $V = v/4$.",
+        "d": "This is an inelastic collision in which total linear momentum is conserved, provided no external force can deliver an impulse to the system during the collision."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q05",
+      "year": 2002,
+      "number": 5,
+      "text": "According to the Archimedes principle,",
+      "choices": {
+        "a": "a body immersed in a fluid experiences an upward force equal to the weight of the fluid it displaces.",
+        "b": "a body immersed in a fluid experiences an upward force equal to the weight of the object.",
+        "c": "a body immersed in a fluid displaces an amount of fluid equal to the volume of the body.",
+        "d": "a body immersed in a liquid floats only if its density is smaller than that of the liquid."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q06",
+      "year": 2002,
+      "number": 6,
+      "text": "A guitar string of length $L$, with both of its ends fixed, is vibrating, producing a sound composed of a fundamental frequency and its integer multiples (harmonics). To emphasize all the even-numbered harmonics at the expense of the odd-numbered ones, the furthest distance away from either end where one should hold down the string is",
+      "choices": {
+        "a": "$L/2$.",
+        "b": "$L/3$.",
+        "c": "$L/4$.",
+        "d": "$L/5$."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q07",
+      "year": 2002,
+      "number": 7,
+      "text": "A sinusoidal wave is moving along a string of uniform density. If you double the frequency of the wave,",
+      "choices": {
+        "a": "the wavelength of the wave doubles.",
+        "b": "the speed of the wave doubles.",
+        "c": "the speed of the wave remains about the same.",
+        "d": "the period of the wave doubles."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q08",
+      "year": 2002,
+      "number": 8,
+      "text": "Two point-charges, each with a charge of +1 μC, lie some finite distance apart. On which of the segments of an infinite line going through the charges is there a point, a finite distance away from the charges, where the electric potential is zero, assuming that it vanishes at infinity?",
+      "choices": {
+        "a": "Between the charges only.",
+        "b": "On either side outside the system.",
+        "c": "Impossible to tell without knowing the distance between the charges.",
+        "d": "Nowhere."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q09",
+      "year": 2002,
+      "number": 9,
+      "text": "Standing on the ground, you are holding with your hand a string from which is suspended a stone. The reaction force, associated—in terms of Newton's 3rd law—with the force of Earth's gravity on the stone, is the force exerted by",
+      "choices": {
+        "a": "the string on your hand.",
+        "b": "the stone on the string.",
+        "c": "your body on the Earth.",
+        "d": "the stone on the Earth."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q10",
+      "year": 2002,
+      "number": 10,
+      "text": "At the shallow end of a swimming pool, the water is 70.0 cm deep. The diameter of the cone of light emerging from the water into the air above, emitted by a light source 10.0 cm in diameter at the bottom of the pool and measured by an observer on the edge of the pool 2.50 m away, is",
+      "choices": {
+        "a": "1.60 m.",
+        "b": "1.70 m.",
+        "c": "1.75 m.",
+        "d": "1.80 m."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q11",
+      "year": 2002,
+      "number": 11,
+      "text": "Of two quantities of water and steam, both at 100°C and having the same mass, in immediate contact with the surface of your skin, which is likeliest to cause a more severe burn?",
+      "choices": {
+        "a": "The steam.",
+        "b": "There is no difference.",
+        "c": "The water.",
+        "d": "It depends on the steam's pressure."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q12",
+      "year": 2002,
+      "number": 12,
+      "text": "A varying electric current running through a coiled wire induces an emf across the coil. The voltage measured by a voltmeter across the terminals of the coil",
+      "choices": {
+        "a": "is smaller or larger than the emf, depending on how fast the current changes.",
+        "b": "is larger than the emf.",
+        "c": "is equal to the emf.",
+        "d": "is smaller than the emf."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q13",
+      "year": 2002,
+      "number": 13,
+      "text": "Three blocks of identical mass are connected by strings as shown below. The whole system is accelerated to the right along a frictionless, horizontal surface by a force $F$. The net force acting on the middle block is",
+      "choices": {
+        "a": "zero.",
+        "b": "$F$.",
+        "c": "$2F/3$.",
+        "d": "$F/3$."
+      },
+      "has_diagram": true,
+      "diagram_description": "Three identical rectangular blocks connected in a line by strings, with force F pointing to the right acting on the rightmost block",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q14",
+      "year": 2002,
+      "number": 14,
+      "text": "A spaceship is moving straight toward Earth with its engine turned off. Let $M$ and $m$ be the masses of the Earth and of the spaceship, respectively, with $R$ the distance from the spaceship to the center of the Earth. As a result of the gravitational force of the Earth, in moving from position 1 to position 2, the kinetic energy of the spaceship increases by",
+      "choices": {
+        "a": "$\\frac{GMm(R_2 - R_1)}{R_1R_2}$",
+        "b": "$\\frac{GMm(R_1 - R_2)}{R_1R_2}$",
+        "c": "$\\frac{GMm(R_2 - R_1)}{R_1^2}$",
+        "d": "$\\frac{GMm(R_1 - R_2)}{R_1^2R_2^2}$"
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q15",
+      "year": 2002,
+      "number": 15,
+      "text": "Two masses, $M_a$ and $M_b$, attached to the end of springs a and b, respectively, undergo simple harmonic motion on a horizontal, frictionless surface. If the periods of motion are identical, and if $M_b = 2M_a$, the amplitudes $A$ of oscillation of the two masses are related by",
+      "choices": {
+        "a": "$A_b = A_a/\\sqrt{2}$",
+        "b": "$A_a = A_b/4$",
+        "c": "$A_a = A_b$",
+        "d": "none of the above"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q16",
+      "year": 2002,
+      "number": 16,
+      "text": "Consider a circuit which contains a battery and a single resistance R. If a second resistance is added in parallel with R,",
+      "choices": {
+        "a": "the voltage across R will decrease",
+        "b": "the current through R will increase",
+        "c": "the total current drawn from the battery will increase",
+        "d": "the power dissipated in R will decrease"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q17",
+      "year": 2002,
+      "number": 17,
+      "text": "Starship Enterprise is in a circular orbit of period 300 minutes around planet Thera at an altitude of 1000 km. A Klingon spaceship then enters another circular orbit around Thera at an altitude of 19000 km. Thera has a radius of 5000 km. The Klingon spaceship circles Thera in",
+      "choices": {
+        "a": "600 minutes",
+        "b": "1200 minutes",
+        "c": "1800 minutes",
+        "d": "2400 minutes"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q18",
+      "year": 2002,
+      "number": 18,
+      "text": "A simplified bola consists of two (instead of the usual three) small but heavy balls connected to a common point by identical lengths of string. To launch it, you hold one of the balls overhead and swing the other ball in a horizontal circle about your wrist. You then let go of the bola which very soon starts rotating around its centre of mass, as shown below. Which one of the following statements holds true when the rotation axis changes from (1) to (2)?",
+      "choices": {
+        "a": "Angular momentum is the same, but angular speed increases",
+        "b": "Angular momentum and angular speed remain the same",
+        "c": "Angular momentum is the same, but angular speed decreases",
+        "d": "Angular momentum and angular speed both increase"
+      },
+      "has_diagram": true,
+      "diagram_description": "Two diagrams showing a bola system: (1) shows two balls connected by strings in a stretched configuration, (2) shows the same system in a more compact circular configuration",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q19",
+      "year": 2002,
+      "number": 19,
+      "text": "In an ink-jet printer, an ink droplet of mass $m$ is given a negative charge $q$ by a computer-controlled charging unit, and then enters at speed $v$ the region between two deflecting parallel plates of length $L$ separated by distance $d$ (see figure below). All over this region exists a downward electric field which you can assume to be uniform. Neglecting the gravitational force on the droplet, the maximum charge that it can be given so that it will not hit a plate is most closely approximated by",
+      "choices": {
+        "a": "$\\frac{mv^2E}{dL^2}$",
+        "b": "$\\frac{mv^2d}{EL^2}$",
+        "c": "$\\frac{md}{E(vL)^2}$",
+        "d": "$\\frac{m(vL)^2}{Ed}$"
+      },
+      "has_diagram": true,
+      "diagram_description": "Diagram shows parallel plates of length L separated by distance d, with downward electric field E between them. A charged particle enters horizontally with velocity v.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q20",
+      "year": 2002,
+      "number": 20,
+      "text": "Four very long straight wires carry equal electric currents in the $+z$ direction. They intersect the $x-y$ plane at $(x,y) = (-a,0)$, $(0,a)$, $(a,0)$, and $(0,-a)$. The magnetic force exerted on the wire at position $(-a,0)$ is along",
+      "choices": {
+        "a": "$+y$",
+        "b": "$-y$",
+        "c": "$+x$",
+        "d": "$-x$"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q21",
+      "year": 2002,
+      "number": 21,
+      "text": "Two masses, both equal to 100 g, are suspended at the ends of identical light strings of length $l = 1.0$ m attached to the same point on the ceiling (see figure). At time $t = 0$, they are simultaneously released from rest, one at angle $\\theta_1 = 10°$, the other at angle $\\theta_2 = 20°$ from the vertical. The masses will collide",
+      "choices": {
+        "a": "at $\\theta = 0.0°$, 0.50 s later",
+        "b": "at $\\theta = 5.0°$ to the right of the vertical, 0.16 s later",
+        "c": "at $\\theta = 0.0°$, 0.13 s later",
+        "d": "at $\\theta = 5.0°$ to the right of the vertical, 0.10 s later"
+      },
+      "has_diagram": true,
+      "diagram_description": "Two pendulums of equal length suspended from the same point, with masses labeled 1 and 2, showing their initial positions at different angles from vertical",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q22",
+      "year": 2002,
+      "number": 22,
+      "text": "Two trains are moving toward each other on two parallel tracks at the same speed with respect to the ground. When the whistle of one train blows, the frequency of the sound heard by a passenger on the other train will be",
+      "choices": {
+        "a": "greatest if the air is still.",
+        "b": "greatest if a wind blows in the same direction and at the same speed as the other train.",
+        "c": "greatest if a wind blows in the opposite direction and at the same speed as the other train.",
+        "d": "will not depend on whether there is a wind blowing."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q23",
+      "year": 2002,
+      "number": 23,
+      "text": "In an African wildlife reserve your jeep is travelling at a constant speed of 105 km/hr alongside a cheetah running at full speed. The animal, frightened by the jeep's noise, keeps at a constant distance of 60 m from the vehicle. Not having paid much attention to the surrounding landscape, you suddenly realize that your jeep is passing the very same spot where it was 60 seconds before. The speed of the cheetah is",
+      "choices": {
+        "a": "105 km/hr.",
+        "b": "94 km/hr.",
+        "c": "99 km/hr.",
+        "d": "82 km/hr."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q24",
+      "year": 2002,
+      "number": 24,
+      "text": "A jet-fighter pilot, wishing to experience weightlessness conditions, enters a parabolic trajectory closely approximating that of a projectile in free-fall. His aircraft must fly at a minimum speed of 400 km/hr to keep control, and he should not exceed 600 km/hr so as not to suffer a black-out when he pulls out of the trajectory at the end. There is no wind and air resistance can be compensated by the engine. In order to be weightless as long as possible, he should enter the parabola at an upward angle (with respect to the horizontal ground) of",
+      "choices": {
+        "a": "33.7°.",
+        "b": "41.8°.",
+        "c": "56.3°.",
+        "d": "48.2°."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2002_Q25",
+      "year": 2002,
+      "number": 25,
+      "text": "Which one of the following statements is not true? The phase difference between two light waves can change",
+      "choices": {
+        "a": "by reflection.",
+        "b": "by the waves travelling along paths of different lengths.",
+        "c": "by the waves travelling through media that have a different refraction index.",
+        "d": "by being transmitted through a boundary between two media with different refraction indices."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    }
+  ]
+}

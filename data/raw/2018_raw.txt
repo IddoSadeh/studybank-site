@@ -1,0 +1,461 @@
+CAP High School/CEGEP Prize Exam
+April 11, 2018
+9:00 - 12:00
+Student Information Sheet
+The following information will be used to inform students and schools of the exam results, to determine eligibility
+for some subsequent competitions and for statistical purposes. Only the marking code, to be assigned by the local
+examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS
+Student First Name
+Student Last Name
+Teacher Name
+Home Address:
+Postal Code:
+Telephone: ( ) Email:
+School: Grade:
+Date of Birth:
+Gender: Citizenship:
+If you are not a Canadian citizen, what is your Immigration Status?
+For how many years have you studied in a Canadian school?
+Would you prefer further correspondence in French or English?
+By signing this page I agree that, if my score on this Exam is in the top 20 nationally or in the top 6 in my province,
+my name, my school’s name, and my ranking can be published.
+Student’s signature:
+1
+
+Sponsored by: Boltzmann’s constant k =1.38×10−23 J/K
+B
+Astronomical Unit (approximate distance from the Sun
+to the Earth) 1 au =1.49598×1011 m
+Canadian Association of Physicists;
+Radius of the Earth R =6.371×106 m
+Canadian Physics Olympiad; E
+Radius of the Sun R =6.96×108 m
+S
+Department of Physics and Astronomy, Stefan’s constant σ =5.6704×10−8 W/(m2· K4)
+University of British Columbia. H Molar mass 2.016 g/mol
+2
+O Molar mass 31.998 g/mol
+2
+N Molar mass 28.013 g/mol
+2
+Mass of the Earth 5.97×1024 kg
+2018 Canadian Association of Physicists Mass of the Sun 1.99×1030 kg
+Highschool/Cegep Prize Exam
+Section A
+This is a three-hour exam. National ranking and prizes
+will be based on students’ performance on sections A
+and B of the exam. Performance on questions in sec- 1)Aballisattachedtoacylinderbyastringandisgiven
+tion A will be used to determine whose written work in an initial speed V 1 at time t 1 . The ball moves along a
+section B will be marked for prize consideration by the frictionless surface and the cylinder is fixed and cannot
+CAP Exam National Committee. Section A consists of rotate. What is the speed of the ball at a later time t 2 ?
+25 multiple-choice questions. The questions in section B
+span a range of difficulty, and may require graphing. Be
+careful to gather as many of the easier marks as possible
+before venturing into more difficult territory. When you
+are unable to solve any part of a question, you may as-
+sumealikelyanswertothatpartandattempttherestof
+the question anyway.
+Non-programmable calculators may be used. Answer the
+multiple-choice questions on the answer sheet pro-
+vided. Most importantly: write your solutions to the
+three long problems on three separate sheets as they
+will be marked by people in different parts of Canada. a) V 2 = L L 1 2 V 1
+Good luck.
+Notice: Fullmarkswillbegiventostudentswhoprovide b) V 2 = L L 1 2 + + R R V 1
+full correct solutions to problems in Section B. Partial
+marks will be given for partial solutions. There are no c) V 2 = L L 2 1 2 + + R R 2 2 V 1
+2
+penalties for incorrect answers. The questions are not of √
+equal difficulty. Remember that we are challenging the d) V
+=√L2
+1
++R2
+V
+2 1
+L2+R2
+best physics students in Canada; it is possible that even 2
+the best papers may not achieve an overall score of 80%. e) V =V
+2 1
+This Exam is meant to be tough!
+2) In the previous question, at t = t , at what rate does
+1
+Data the string wind around the cylinder (i.e. at what speed
+does L1 get shorted)?
+Speed of light c=3.00×108 m/s
+A
+G
+c
+ra
+ce
+v
+l
+i
+e
+t
+r
+a
+a
+t
+t
+io
+io
+n
+n
+al
+d
+c
+u
+o
+e
+n
+t
+s
+o
+ta
+g
+n
+r
+t
+a
+G
+vit
+=
+y g
+6.
+=
+67
+9
+×
+.8
+1
+1
+0
+m
+−1
+/
+1
+s2
+N·m2/kg2 a) L
+R
+1V
+1
+Standard atmospheric pressure P 0 =1.01×105Pa b) L1 R +RV 1
+Density of fresh water ρ=1.00×103 kg/m3
+Specific heat of water C w =4186 J/(kg·K) c) L R 1 V 1
+Specific heat of ice C =2050 J/(kg·K)
+i
+Latent heat of water L w =2260 kJ/kg d) R L2 2V 1
+1
+Latent heat of ice L =334 kJ/kg
+i
+Density of ice ρ i =916 kg/m3 e) R L2 1 2 V 1
+Fundamental charge e=1.60×10−19 C
+Mass of an electron m =9.11×10−31 kg 3) Three planets, each with same mass, orbit in different
+e
+Mass of a proton m =1.67×10−27 kg orbits around the same star. Which statement is true
+p
+Planck’s constant h=6.63×10−34 J·s about the total energy of the three orbits? Assume that
+Electrostatic constant k =8.99×109 N·m2/C2 m (cid:28) M .
+planets star
+2
+
+a) k/2
+b) k/3
+c) 2k
+d) 3k
+a) E <E <E
+1 2 3
+b) E <E <E e) 4k
+2 1 3
+c) E <E <E
+3 2 1 7) Knowing that Toronto’s coordinates are 43.6532◦N,
+d) E <E <E
+79.3832◦W,whatistheratioofthesolarpowerthrougha
+3 1 2
+horizontalsurfaceatnoonontheshortestdayoftheyear
+4) Charged particles with mass m and charge Q are in- to the solar power through the same horizontal surface
+jectedwithspeedvintoaregionwithaconstantmagnetic at noon on the longest day of the year? (The tilt of the
+field. The particles are injected in a direction perpendic- Earth is about 23.4◦)
+ular to the magnetic field lines and are found to move
+in circular orbits with period T. If the experiment is a) 0.21
+repeated for particles with mass 2m, charge Q/4, while
+the magnetic field strength is tripled, what is the orbital b) 0.33
+period of the particles in the new experiment?
+c) 0.42
+a) 8T/3
+d) 0.62
+b) 3T/2
+c) 4T/3 8) Two rods of the length l and l are held between two
+1 2
+rigid walls l +l apart. Let α ,E ,A and α ,E ,A be
+d) 2T 1 2 1 1 1 2 2 2
+thethermalcoefficientofexpansion,Youngmodulus,and
+the area of each rod respectively. Which of the following
+e) T/3
+conditionsguaranteesthatthejointbetweentherodswill
+5) In the cube shown below, each edge is a wire with move left if the temperature of the system is increased?
+resistance R. What is the equivalent resistance between (Assumethatbothrodspreservetheircylindricalshapes)
+points A and B?
+a) R
+b) 1R
+3
+a) α l >α l
+c) 2R 1 1 2 2
+3
+b) E α l >E α l
+1 1 1 2 2 2
+d) 1R
+2
+c) E1α1l1 > E2α2l2
+A1 A2
+e) 5R
+6 d) E1α1 > E2α2
+A1 A2
+6)Considerthearrangementofspringsshownbelow. All
+springs shown have a spring constant k. The first layer e) E1 > E2
+l1A1 l2A2
+contains 1 spring, the next 2 springs, the next 4, and so
+on, with the nth layer containing 2n−1 springs. What is 9) A positive charge q is placed in front two semi-
+the value of the spring constant of the entire assembly in infinite conducting walls as shown below. The walls are
+the limit where the number of layers n goes to infinity grounded. Which arrow best represents the direction
+(n→∞) force on the charge q, if d <d ?
+1 2
+3
+
+a) F
+1
+b) F 2 Which of the figures below best represents the P − V
+diagram of the air in the pump as the ball is inflated?
+c) F
+3
+d) F
+4
+e) F
+5
+10) A person is knitting a sweater using a spherical ball
+of yarn with an initial radius of 15 cm (at t = 0). The
+radius of the ball of yarn is 10 cm after 5 hours (t = 5
+h) of knitting. What is the radius of the ball of yarn at
+time t = 7 h, assuming that the person is knitting at a
+constant rate?
+a)
+c)
+a) 8 cm
+b) 7.07 cm
+c) 6.16 cm
+d) 3.68 cm
+b) d)
+e) 0 cm (the yarn would run out)
+11) The pump shown below is used to inflate a ball and
+ismadeoftwocompartmentwithvolumesV andV and
+1 2
+twoone-wayvalvesshownasA andA . Aone-wayvalve
+1 2
+is valve with two modes of operation:
+Mode 1: the valve is open and there is a flow in the
+direction shown in the figure. For this mode 12)Asshowninthefigurebelow,twoballsofradiiR =2
+1
+Pressure(inflow) = Pressure(outflow). cm and R (cid:29) R , and with masses m (cid:29) m fall from
+2 1 2 1
+Mode 2: the valve is closed and flow is stopped since a height h = 1 m. Ignoring friction, assuming that all
+Pressure(inflow) < Pressure(outflow). impacts are perfectly elastic and that the initial distance
+Note: the one-way valve assures that between the balls is small, which of the choices below is
+Pressure(inflow) ≤ Pressure(outflow). closesttothemaximumheightofball2afteronebounce?
+4
+
+a) 1 m
+b) 2 m b)
+c) 3 m
+c)
+d) 4 m
+e) 9 m
+d)
+13) A ball is dropped from the top of a building with no
+16) While the ball in the previous question is still going
+initialspeed. After1s,asecondballisthrowndownward
+upwards, the magnitude of the net force acting on the
+withaninitialverticalspeedof26m/s. Whatisthemin-
+ball in the previous problem is:
+imum height of the building if the second ball hits the
+ground earlier than the first ball? a) Increasing
+a) 0.45 m b) Decreasing
+c) Remains constant with the height of the ball
+b) 4.91 m
+17)Relativetoaninertialframeatthecentreoftheearth,
+c) 6.93 m
+approximatelyhowfastisapersoninVancouver(latitude
+d) 8.33 m 49.3◦ N) moving due to the Earth’s rotation around its
+axis?
+e) 12.65 m
+a) 700 m/s
+14) A current of 12 mA passes through a red LED diode
+b) 300 m/s
+withaforwardvoltageof3V.Whichofthefollowingisa
+good estimate for the number of photons per second this c) 450 m/s
+LED produces?
+d) 400 m/s
+a) 1×1012
+18)Whichismorelikely: thatasinglethrowofadiewill
+b) 3×1014 result in ‘1’, or that three throws of a die will each result
+in an odd number?
+c) 1×1017
+a) Single die throw resulting in ‘1’ is more likely
+d) 3×1019
+b) Three throws each resulting in an odd number is
+e) 1×1022 more likely
+c) These two events have the same probability
+15)Aballisthrownupwards. Whichofthefollowingfree
+bodydiagramsbestdescribestheforcesactingontheball 19) Collision of cosmic-rays entering the upper atmo-
+when it is in the air moving upwards. Assume that air sphere of the Earth produce large numbers of particles
+drag (friction) is proportional to speed. called muons. These muons move vertically through the
+atmosphere at very high speed (comparable to the speed
+oflight,c),formingabeamoffluxI.Becausemuonsdecay
+intootherparticles, thefluxchangeswithtimeaccording
+to the exponential decay law I = I 0 e− τ t, where τ = 2.2
+µs is the avarage lifetime in the rest frame of the muon,
+I is the muon flux at time t = 0, and t is measured in
+0
+a) the rest frame of the muon. If we place a detector at a
+5
+
+heighton10kmabovetheground,wedetectamuonflux d) Light bulb 4
+of I =1000 part/(s· m2). If we place the same detector
+0
+on the ground, we detect a muon flux of I =49 part/(s· e) None of the above
+g
+m2). Assuming that the muons in the beam are all mov-
+ing at the same relativistic speed, what is that speed? 22)Apulsarisahighlymagnetized,rotatingneutronstar
+(orwhitedwarf),withhighdensityandshort,regularro-
+a) v =0.81 c
+tatingperiod. Youhavejustdiscoveredanewpulsarthat
+spinsarounditsaxis20timespersecond. Assumingthat
+b) v =0.85 c
+the object is spherical, what is its minimum density?
+c) v =0.90 c
+a) ρ=5.6×1013 kg/m3
+d) v =0.98 c
+e) v = c b) ρ=7.4×108 kg/m3
+20) You want to launch a projectile from a cannon into c) ρ=6.1×1010 kg/m3
+deep space from the Moon, and are able to launch at dif-
+ferent angles with respect to the ground. At what angle d) ρ=2.2×108 kg/m3
+wouldyouneedthelowestvelocitytomaketheprojectile
+escape Moon’s gravity? (Neglect the rotational speed of e) ρ=1.7×1013 kg/m3
+the moon.)
+23)Aradioactivesubstancedecays,andanemittedparti-
+a) θ =0◦
+cle passes through a uniform magnetic field pointing into
+b) θ =45◦ page, as shown. Which labeling is correct?
+c) θ =60◦
+d) θ =90◦
+e) Minimum velocity does not depend on θ
+21)Giventhecircuitbelow,whichlightbulbdoyouhave
+to unplug so that V = 1V ? The four light bulbs are
+2 3 1
+identical.
+a) 1=alpha; 2=beta; 3=gamma
+b) 1=alpha; 3=beta; 2=gamma
+c) 2=alpha; 1=beta; 3=gamma
+d) 2=alpha; 3=beta; 1=gamma
+e) 3=alpha; 1=beta; 2=gamma
+24) If you push with force F on either the heavy box
+a) Light bulb 1
+(m ) or the light box (m ), in which of these two cases is
+1 2
+the contact force between the two boxes smaller? Ignore
+b) Light bulb 2
+friction.
+c) Light bulb 3
+6
+
+26) A person is moving away from two speakers S and S’
+along the y direction as shown in the figure below. The
+speakers are in phase with each other and emit a sound
+wave with wavelength 6 cm. As the person moves away
+fromspeakerS’,theymarkthepointsontheyaxiswhere
+there is no sound. Which of the plots below shows the
+position of the marked points correctly?
+a)
+a) case A
+b)
+b) case B
+c)
+c) same in both cases
+d)
+25) Consider an infinite wave moving to the right on a
+non-stretchy string, as shown below. What is the direc-
+tion of the velocity of a particle at the point labeled B?
+End of Section A
+a)
+Section B starts on next page
+b)
+c)
+d)
+e) velocity is zero
+7
+
+1) A closed 5-litre cylinder containing 0.25 g of a substance in solid and liquid forms was slowly heated using a
+constant power. A graph of the temperature as a function of time is shown below. The heat capacity of the liquid
+is 2.43 J/(g · K), the latent heat of melting is 105 J/g, and the molar density is 46 g/mol.
+a) What is the melting point of the substance?
+b) What is the boiling point of the substance?
+c) How much of the substance was solid at the beginning?
+d) What is the latent heat of evaporation of the substance?
+e) What is the specific heat of the gaseous state of the substance?
+f) What is the pressure in the container at 200◦C?
+8
+
+2) A ball of mass m = 200 g is hung in the middle of horizontal elastic cord of length L = 1.5 m, attached to the
+ceiling, as shown in figure below.
+The elastic constant of the cord is k =300 N/m.
+a) What is the distance from the ceiling to the center of the ball, assuming that the cord was not stretched when it
+was horizontal?
+b) Calculate the period of very small oscillations from the equilibrium point.
+c) Prove or disprove: when we pull the ball up to the ceiling and let it go, the resulting oscillations will be exactly
+described by simple harmonic motion.
+9
+
+3) The charge distribution shown below has three regions with charge densities of ρ , 0, and −ρ . The system can
+0 0
+be thought of as the superposition of two spheres of the same radius R = R = R and opposite charge density ρ
+1 2 0
+and −ρ , with their centers placed at a distance D from each other, with D <2R.
+0
+a) What is the electric field in the overlapping region?
+b) Assume that D (cid:28) R. We can approximate the charge distribution by a surface charge density σ(θ) distributed
+on the surface of the sphere at radius r=R. Find σ(θ) as a function of ρ, D, (cid:15) , and θ .
+0
+c) Using the charge distribution found in part b and the corresponding electric field from part a, find the surface
+charge distribution σ (θ) of a neutral conducting sphere in a constant electric field E .
+c 0
+10
+
+Question 1 a b c d e f
+Question 2 a b c d e f
+Question 3 a b c d e f
+Question 4 a b c d e f
+Question 5 a b c d e f
+Question 6 a b c d e f
+Question 7 a b c d e f
+Question 8 a b c d e f
+Question 9 a b c d e f
+Question 10 a b c d e f
+Question 11 a b c d e f
+Question 12 a b c d e f
+Question 13 a b c d e f
+Question 14 a b c d e f
+Question 15 a b c d e f
+Question 16 a b c d e f
+Question 17 a b c d e f
+Question 18 a b c d e f
+Question 19 a b c d e f
+Question 20 a b c d e f
+Question 21 a b c d e f
+Question 22 a b c d e f
+Question 23 a b c d e f
+Question 24 a b c d e f
+Question 25 a b c d e f
+11
+

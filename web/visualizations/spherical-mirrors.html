@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Spherical Mirrors Tutor</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.2/p5.min.js"></script>
+    <style>
+        body { margin: 0; display: flex; font-family: sans-serif; background: #121212; color: #eee; overflow: hidden; }
+        #sidebar { width: 360px; height: 100vh; background: #1e1e1e; padding: 20px; box-sizing: border-box; display: flex; flex-direction: column; border-right: 1px solid #333; z-index: 10; overflow-y: auto; }
+        #canvas-container { flex-grow: 1; display: flex; justify-content: center; align-items: center; background: #000; position: relative; }
+        h2 { margin-top: 0; color: #4dabf7; font-size: 1.2rem; }
+        h3 { color: #69db7c; font-size: 1rem; margin-bottom: 5px; }
+        p { line-height: 1.4; font-size: 0.9rem; color: #bbb; min-height: 60px; }
+        
+        .tabs { display: flex; margin-bottom: 15px; border-bottom: 2px solid #333; }
+        .tab { flex: 1; padding: 10px 5px; cursor: pointer; text-align: center; background: #2a2a2a; font-size: 0.9rem; color: #888; }
+        .tab.active { background: #4dabf7; color: #000; font-weight: bold; }
+
+        .controls { display: flex; gap: 10px; margin-top: 15px; }
+        button { flex: 1; padding: 10px; cursor: pointer; border: none; border-radius: 4px; font-weight: bold; }
+        .next-btn { background: #4dabf7; color: #000; }
+        .prev-btn { background: #444; color: white; }
+        button:disabled { background: #222; color: #555; cursor: not-allowed; }
+        
+        .slider-group { margin-top: 15px; background: #252525; padding: 10px; border-radius: 6px; }
+        .slider-group label { display: flex; justify-content: space-between; font-size: 0.85rem; margin-bottom: 5px; }
+        input[type=range] { width: 100%; }
+        
+        .info-box { background: #2a2a2a; padding: 12px; border-radius: 6px; margin-top: 15px; border-left: 4px solid #fcc419; font-size: 0.85rem; color: #ddd; }
+        .real-life { border-left-color: #69db7c; }
+    </style>
+</head>
+<body>
+
+<div id="sidebar">
+    <h2>Spherical Mirrors</h2>
+    
+    <div class="tabs">
+        <div class="tab active" onclick="setMode('concave')">Concave Mirror</div>
+        <div class="tab" onclick="setMode('convex')">Convex Mirror</div>
+    </div>
+
+    <div class="slider-group">
+        <label>Object Distance (u) <span id="val-u">200</span></label>
+        <input type="range" id="slider-u" min="30" max="350" step="5" value="200" oninput="runCalc()">
+    </div>
+
+    <hr style="border-color: #333; margin: 20px 0;">
+
+    <h3 id="step-title">Step 0: Setup</h3>
+    <p id="step-desc">Loading...</p>
+    
+    <div class="controls">
+        <button class="prev-btn" id="btn-prev" onclick="changeStep(-1)">Previous</button>
+        <button class="next-btn" id="btn-next" onclick="changeStep(1)">Next</button>
+    </div>
+
+    <div id="dynamic-info" class="info-box"></div>
+</div>
+
+<div id="canvas-container"></div>
+
+<script>
+let mode = 'concave'; 
+let step = 0;
+let scene = {};
+let f_val = -100; // Left is negative, Right is positive
+
+const explanations = {
+    concave: [
+        { title: "Geometry Setup", desc: "A concave mirror curves inward. The focal point (F) is in front of the mirror." },
+        { title: "Parallel Ray", desc: "A ray entering parallel to the principal axis reflects directly through the focal point (F)." },
+        { title: "Focal Ray", desc: "A ray passing through (or aimed from) the focal point (F) reflects parallel to the principal axis." },
+        { title: "Image Formation", desc: "The image forms where the rays intersect. Move the object inside and outside F to observe the changes." }
+    ],
+    convex: [
+        { title: "Geometry Setup", desc: "A convex mirror curves outward. The focal point (F) is virtual and located behind the mirror." },
+        { title: "Parallel Ray", desc: "A ray entering parallel to the axis reflects as if it originated FROM the virtual focal point (F)." },
+        { title: "Focal Ray", desc: "A ray heading directly TOWARDS the virtual focal point (F) reflects parallel to the principal axis." },
+        { title: "Image Formation", desc: "The reflected rays always diverge. Their virtual extensions cross behind the mirror." }
+    ]
+};
+
+function getContextualInfo(u, f, currentMode) {
+    if (currentMode === 'concave') {
+        if (abs(u) > abs(f)) {
+            return `<b>Current State: Real Image</b><br><br>Because the object is outside the focal length (u > f), actual light rays intersect. The image is inverted.<br><br><span style="color:#69db7c;"><b>Real Life:</b> Used in telescopes and projectors to focus light onto a physical sensor or screen.</span>`;
+        } else {
+            return `<b>Current State: Virtual Image</b><br><br>Because the object is inside the focal length (u < f), the rays diverge. Your brain extends them backward to form an upright, magnified image.<br><br><span style="color:#69db7c;"><b>Real Life:</b> Used as makeup or shaving mirrors to see a magnified reflection of your face.</span>`;
+        }
+    } else {
+        return `<b>Current State: Virtual Image</b><br><br>Convex mirrors ALWAYS produce virtual, upright, and diminished (smaller) images regardless of object distance.<br><br><span style="color:#69db7c;"><b>Real Life:</b> Used for security mirrors in stores and passenger-side mirrors on cars ("objects in mirror are closer than they appear") because they provide a wider field of view.</span>`;
+    }
+}
+
+function setMode(newMode) {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    event.target.classList.add('active');
+    
+    mode = newMode;
+    f_val = (mode === 'concave') ? -100 : 100;
+    step = 0;
+    document.getElementById('slider-u').value = (mode === 'concave') ? 200 : 150;
+    
+    runCalc();
+    updateUI();
+}
+
+function calculatePhysics() {
+    let u_val = parseFloat(document.getElementById('slider-u').value);
+    
+    let f = f_val;
+    let u = -u_val; 
+    let v = 1 / (1/f - 1/u);
+    let m = -v/u;
+    
+    let h = 60; 
+    let imgH = h * m;
+
+    scene = {
+        C: createVector(f * 2, 0),
+        F: createVector(f, 0),
+        ObjTop: createVector(u, -h),
+        ObjBase: createVector(u, 0),
+        ImgTop: createVector(v, -imgH),
+        ImgBase: createVector(v, 0),
+        isReal: v < 0,
+        f: f,
+        rays: []
+    };
+
+    // Helper to log rays
+    let pushRay = (start, hit, reflectDir) => {
+        scene.rays.push({
+            start: start,
+            hit: hit,
+            realEnd: p5.Vector.add(hit, p5.Vector.mult(reflectDir, 800)),
+            virtEnd: p5.Vector.sub(hit, p5.Vector.mult(reflectDir, 800))
+        });
+    }
+
+    // RAY 1: Parallel Ray
+    let r1Hit = createVector(0, -h);
+    let r1Dir;
+    if (f < 0) { // Concave: through F
+        r1Dir = p5.Vector.sub(scene.F, r1Hit).normalize();
+        if (r1Dir.x > 0) r1Dir.mult(-1);
+    } else { // Convex: away from F
+        r1Dir = p5.Vector.sub(r1Hit, scene.F).normalize();
+        if (r1Dir.x > 0) r1Dir.mult(-1);
+    }
+    pushRay(scene.ObjTop.copy(), r1Hit, r1Dir);
+
+    // RAY 2: Focal Ray
+    // Line from Obj to F
+    let slope = (-h - 0) / (u - scene.F.x);
+    let hitY = slope * (0 - scene.F.x);
+    let r2Hit = createVector(0, hitY);
+    let r2Dir = createVector(-1, 0); // Reflects parallel
+    pushRay(scene.ObjTop.copy(), r2Hit, r2Dir);
+
+    document.getElementById('val-u').innerText = u_val;
+    document.getElementById('dynamic-info').innerHTML = getContextualInfo(u_val, f, mode);
+}
+
+function setup() {
+    let canvas = createCanvas(windowWidth - 360, windowHeight);
+    canvas.parent('canvas-container');
+    runCalc();
+    updateUI();
+}
+
+function draw() {
+    background(15);
+    push();
+    translate(width / 2 + 50, height / 2); 
+
+    drawGuides();
+    if (step >= 0) drawObject();
+    if (step >= 1) drawRayTrace(0);
+    if (step >= 2) drawRayTrace(1);
+    if (step >= 3) drawImage();
+
+    pop();
+}
+
+function drawGuides() {
+    stroke(80); strokeWeight(1); drawingContext.setLineDash([]);
+    line(-width, 0, width, 0); 
+
+    noFill(); stroke(100, 200, 255); strokeWeight(3);
+    let r = abs(scene.f * 2);
+    let startAngle = scene.f < 0 ? -PI/5 : PI - PI/5;
+    let endAngle = scene.f < 0 ? PI/5 : PI + PI/5;
+    arc(scene.f < 0 ? scene.C.x : scene.C.x, 0, r*2, r*2, startAngle, endAngle);
+
+    fill(255); noStroke();
+    circle(scene.F.x, scene.F.y, 6); text("F", scene.F.x, 15);
+    circle(scene.C.x, scene.C.y, 6); text("C", scene.C.x, 15);
+}
+
+function drawObject() {
+    stroke(105, 219, 124); strokeWeight(3);
+    line(scene.ObjBase.x, scene.ObjBase.y, scene.ObjTop.x, scene.ObjTop.y);
+    drawArrowHead(scene.ObjTop, scene.ObjBase, [105, 219, 124]);
+}
+
+function drawImage() {
+    let col = scene.isReal ? [252, 196, 25] : [255, 135, 135];
+    stroke(col); strokeWeight(3);
+    if (!scene.isReal) drawingContext.setLineDash([5, 5]);
+    line(scene.ImgBase.x, scene.ImgBase.y, scene.ImgTop.x, scene.ImgTop.y);
+    drawingContext.setLineDash([]);
+    drawArrowHead(scene.ImgTop, scene.ImgBase, col);
+}
+
+function drawRayTrace(idx) {
+    let r = scene.rays[idx];
+    
+    // Incident
+    stroke(252, 196, 25); strokeWeight(2); drawingContext.setLineDash([]);
+    line(r.start.x, r.start.y, r.hit.x, r.hit.y);
+    drawMidArrow(r.start, r.hit, [252, 196, 25]);
+
+    // Reflected
+    line(r.hit.x, r.hit.y, r.realEnd.x, r.realEnd.y);
+    drawMidArrow(r.hit, r.realEnd, [252, 196, 25]);
+
+    // Virtual
+    stroke(255, 135, 135, 150); drawingContext.setLineDash([4, 4]);
+    line(r.hit.x, r.hit.y, r.virtEnd.x, r.virtEnd.y);
+    drawingContext.setLineDash([]);
+}
+
+function drawArrowHead(tip, base, col) {
+    let angle = atan2(base.y - tip.y, base.x - tip.x);
+    push(); translate(tip.x, tip.y); rotate(angle);
+    fill(col); noStroke(); triangle(0, 0, 10, 5, 10, -5); pop();
+}
+
+function drawMidArrow(p1, p2, col) {
+    let angle = atan2(p2.y - p1.y, p2.x - p1.x);
+    let mid = p5.Vector.lerp(p1, p2, 0.5);
+    push(); translate(mid.x, mid.y); rotate(angle);
+    fill(col); noStroke(); triangle(-6, -4, -6, 4, 2, 0); pop();
+}
+
+function changeStep(dir) {
+    let maxSteps = explanations[mode].length - 1;
+    step = constrain(step + dir, 0, maxSteps);
+    updateUI();
+    redraw();
+}
+
+function updateUI() {
+    let data = explanations[mode][step];
+    document.getElementById('step-title').innerText = `Step ${step}: ${data.title}`;
+    document.getElementById('step-desc').innerText = data.desc;
+    document.getElementById('btn-prev').disabled = step === 0;
+    document.getElementById('btn-next').disabled = step === explanations[mode].length - 1;
+    
+    // Show contextual info only on the final step
+    document.getElementById('dynamic-info').style.display = (step === 3) ? 'block' : 'none';
+}
+
+function runCalc() {
+    calculatePhysics();
+    redraw();
+}
+
+function windowResized() {
+    resizeCanvas(windowWidth - 360, windowHeight);
+    redraw();
+}
+</script>
+</body>
+</html>

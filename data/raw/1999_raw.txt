@@ -1,0 +1,320 @@
+Canadian Association of Physicists Part A: Multiple Choice
+1999 Prize Exam
+Question 1
+Thisisathreehourexam. Nationalrankingandprizes The time dependence of the acceleration of a car is as
+willbebasedonastudent’sperformanceonbothsectionsA shown. Which time corresponds to the maximum speed of
+and B of the exam. However, performance on the multiple the car?
+choice questions in part A will be used to determine whose a
+written work in part B will be marked for prize consider-
+ation by the National Committee. The questions in part
+B of the exam have a range of di–culty. Please be careful t t
+3 4
+to gather as many of the easier marks as possible before t t t
+1 2
+venturingintomoredi–cultterritory. Insomecasesanan-
+swertopart(a)ofaquestionisneededforpart(b). Should
+you not be able to solve part (a), assume a likely solution
+andattempttherestofthequestionanyway. Nostudentis
+expected to completely flnish this exam and parts of each
+(a) t
+question are very challenging. 1
+(b) t
+Non-programmable calculators may be used. Please 2
+(c) t
+be very careful to answer the multiple choice questions on 3
+the answer card/sheet provided to you and, most impor- (d) t
+4
+tantly, write your solutions to the three written problems
+on separate sheets as they will be marked by difierent peo- Question 2
+ple in difierent parts of Canada. Good luck. Two identical loudspeakers are supplied with identical
+sinusoidalsignals. Theyareplacedclosetooneanotherina
+Data roomanditisnotedthatthereareregionsofincreasedand
+decreased sound intensity in the vicinity of the speakers.
+Speed of light c=3:00£108 m/s
+Gravitational constant G=6:67£10¡11 Nm2/kg2 Whichofthefollowingactionswillnotchangethispattern?
+Radius of Earth R =6:38£106 m (a) Moving one of the speakers.
+E
+Radius of Moon R =1:70£106 m (b) Changing the amplitude of the signal.
+M
+Mass of Earth M =5:98£1024 kg
+E (c) Changing the frequency of the signal.
+Mass of Moon M =7:35£1022 kg
+M (d) Replacing the air in the room with Helium gas.
+Mass of Sun M =1:99£1030 kg
+S
+Radius of Moon’s orbit R =3:84£108 m
+EM Question 3
+Radius of Earth’s orbit R =1:50£1011 m
+ES
+Acceleration due to gravity g =9:81 m/s2 Two black objects of the same diameter, a sphere and
+Fundamental charge e=1:60£10¡19 C a disc, are placed in front of a uniform beam of light. The
+Mass of electron m =9:11£10¡31 kg plane of the disc is perpendicular to the light rays. The
+e
+Mass of proton m =1:673£10¡27 kg force acting upon them by the light is:
+p
+Mass of neutron m =1:675£10¡27 kg (a) zero
+n
+Planck’s constant h=6:63£10¡34 Js (b) bigger on the disc.
+Coulomb’s constant 1=4…† =8:99£109 Nm2/C2
+o (c) bigger on the sphere.
+Permeability of free space „ =4…£10¡7 N/A2
+o
+(d) the same on both.
+Speed of sound in air v =340 m/s
+s
+Density of air ‰=1:2 kg/m3
+Boltzmann constant k =1:38£10¡23 J/K Question 4
+Absolute zero T =0 K, T =¡273–C A 1 kg mass rests on the ground, at sea-level and at
+Energy Conversion 1 cal=4.184 J the equator. What would its weight be if the earth were
+Avogadro’s number N =6:02£1023 mol¡1 spinning ten times faster than is presently the case?
+A
+(a) 9.80 N
+(b) 3.37 N
+(c) 6.43 N
+(d) 9.76 N
+
+Canadian Association of Physicists Prize Exam 1999
+Question 5 (a) remains less than g at all times.
+An ideal Ammeter|a device to measure current in an (b) exceeds g at some point.
+electrical circuit|should have an internal resistance which (c) becomes g just before hitting the table.
+is,
+(d) is constant.
+(a) zero.
+Question 10
+(b) inflnite.
+Two 20 g worms climb over a 10 cm high, very thin,
+(c) equal to the resistance of the circuit’s load.
+wall. One worm is thin and 20 cm long. The other is fat
+(d) equal to the internal resistance of the circuit’s power
+(butstillthincomparedtoitslength)andonly10cmlong.
+source.
+What is the ratio of the potential energy of the thin worm
+as compared to that of the fat worm when each is half way
+Question 6 over the top of the wall?
+A 100,000 kg aircraft drops a 1000 kg package of sup- (a) 1:1
+plies over an arctic research station. What approximate
+(b) 2:1
+forceisfeltbythe100kgpilotattheinstantoftherelease?
+(c) 2:3
+(a) 1 N
+(d) 1:2
+(b) 10 N
+(c) 100 N Question 11
+(d) zero Suppose that the \Man Who Skied Down Everest"
+went straight down an incline of 40– to the horizontal and
+Question 7 subject to a coe–cient of kinetic friction of 0.10. Starting
+from rest, how long did it take him to reach a speed of
+A converging lens forms an image of an object on a
+50 km/hr (Ignore air resistance)?
+screen. The image is real and has twice the size of the
+object. If the positions of the screen and the object are (a) 2.5 s
+interchanged, leaving the lens in its original position, what (b) 9.0 s
+is the new image size on the screen?
+(c) 1:5£102 s
+(a) Twice the object size.
+(d) 2.0 s
+(b) Same as the object size.
+(c) Half the object size. Question 12
+A stone is thrown vertically downward from the edge
+(d) Can’t say as it depends on the focal length of the lens.
+ofaclifiwithaninitialspeedof10m/s. Justbeforehitting
+the ground, it has a flnal speed of 30 m/s. If instead, the
+Question 8
+stonewerethrownhorizontallyoutwardsfromthetopofthe
+A bucket full of water is attached to the end of a rope
+clifi with the same initial speed as before, what flnal speed
+and allowed to swing back and forth as a pendulum from
+would it have immediately before hitting the ground?
+a flxed support. The bucket has a hole in its bottom that
+(a) 10 m/s
+allows water to leak out. How does the period of motion
+change with the loss of water? (b) 20 m/s
+(a) The period does not change. (c) 30 m/s
+(b) The period continuously decreases. (d) 40 m/s
+(c) The period continuously increases.
+Question 13
+(d) The period increases to some maximum and then de-
+Two objects of equal mass, and heading towards each
+creases again.
+otherwithequalspeeds,undergoahead-oncollision.Which
+of the following statements is correct?
+Question 9
+(a) Their flnal velocities must be zero.
+A pencil is placed vertically on a table top with its
+(b) Their flnal velocities may be zero.
+pointyendupanditsstickyeraserenddown. Asitfallsover
+(c) Each must have a flnal velocity equal to the other’s
+from this unstable position, its point of contact with the
+initial velocity.
+table remains stationary. During its fall, the acceleration
+of its tip, (d) Their velocities must be reduced in magnitude.
+2
+
+Canadian Association of Physicists Prize Exam 1999
+Question 14 Question 18
+A positive point charge +Q is placed at x = 0 and a A spherical capacitor is formed by two metallic and
+negative point charge ¡Q is placed at x = a. The mag- concentric spherical shells. The capacitor is then charged
+nitude of the electrostatic force between the two is F. If so that the outer shell carries a positive charge and the
+another point charge +Q is paced at x=¡a, the net force innershellcarriesanequalbutnegativecharge. Evenifthe
+on the charge at the origin (x=0) is, capacitor is not connected to any circuit, the charge will
+eventually leak away due to the small conductivity of the
+(a) 2F in the negative x-direction.
+material between the shells. What is the character of the
+(b) F in the positive x-direction. magnetic fleld induced by this leakage current?
+(c) 5F=4 in the positive x-direction. (a) Radially outwards from the inner shell to the outer
+(d) 2F in the positive x-direction. shell.
+(b) Radiallyinwardsfromtheoutershelltotheinnershell.
+Question 15 (c) Circular fleld lines between the shells and perpendicu-
+lar to the radial direction.
+A simple circuit contains an ideal battery and a resis-
+tance R. If a second resistor is placed in parallel with the (d) No magnetic fleld is induced.
+flrst,
+Question 19
+(a) the potential across R will decrease.
+Which of the following has units of magnetic fleld?
+(b) the current through R will decrease.
+(a) kg C¡1 s¡1
+(c) the current delivered by the battery will increase.
+(b) kg A¡1 s¡1
+(d) the power dissipated by R will increase.
+(c) N C¡1 m¡1
+(d) J A¡1 m¡1
+Question 16
+A positively charged insulator is brought near (but
+Question 20
+does not touch) two metallic spheres that are in contact.
+Near the geographic north pole is the magnetic north
+Themetallicspheresarethenseparated. Thespherewhich
+polewhichis, infact, asouthmagneticpole. Atthispoint,
+was initially farthest from the insulator will have,
+theearth’smagneticfleldpointsstraightdown. Anelectron
+(a) no net charge. isprojectedsouthwardsandhorizontallyfromthemagnetic
+(b) a negative charge. north pole. The magnetic force on the electron will cause
+it to be de(cid:176)ected to the,
+(c) a positive charge.
+(a) Up
+(d) either a positive or negative charge.
+(b) Down
+(c) East
+Question 17
+(d) West
+A uniform electric fleld is as shown. How many of
+the labelled points have the same electric potential as the
+Question 21
+shaded point?
+A difiraction grating has 300 \lines" per mm etched
+E
+upon it. When light of wavelength 550 nm is normally
+incident upon the grating, how many bright spots appear
+on a screen a short distance away?
+(a) 1
+(b) 6
+(c) 12
+(d) 13
+(a) 2
+(b) 3
+Question 22
+(c) 4 A drop of oil (n = 1:4) is on a glass (n = 1:5) sheet
+(d) 8 andisobservedfromdirectlyabovebyre(cid:176)ectedwhitelight.
+3
+
+Canadian Association of Physicists Prize Exam 1999
+A number of circular constructive interference bands are Question 25
+observed for each colour in the visible spectrum. Approx- In the fllm Armageddon, astronauts land on an aster-
+imately how thick is the oil fllm where one observes the oid and are able to walk around \normally" due to the
+third blue band from the outside edge of the drop. The gravitation of the large rock. Suppose that a spherical as-
+wavelength of blue light may be taken to be ‚ b =450 nm. teroid has a mass M and a radius R. A spherical hole of
+observer radius R=2 is excavated from the asteriod as shown. What
+isthegravitationalaccelerationatapointonthesurfaceof
+the asteroid at a point just above the excavation?
+air
+oil
+R
+(a) 482 nm
+(b) 675 nm
+(c) 1125 nm
+(d) 1350 nm
+Question 23 (a) GM
+R2
+A uniform, horizontal beam of light is incident upon (b) GM
+2R2
+a prism as shown. The prism is in the shape of a quarter- (c) GM
+8R2
+cylinder,ofradiusR=5cm,andhastheindexofrefraction
+(d) 7GM
+n=1:5. Apatchonthetabletopforadistancexfromthe 8R2
+cylinder is unilluminated. The value of x is,
+x
+R
+(a) 1.71 cm
+(b) 2.24 cm
+(c) 2.50 cm
+(d) 5.00 cm
+Question 24
+Consider the following types of electromagnetic radi-
+ation: radio waves, infra-red, visible light. Which of the
+following statements are true?
+(i) only radio waves can be used to transmit audio infor-
+mation.
+(ii) onlyinfra-redradiationisemittedbyveryhotobjects.
+(iii) only visible light can be detected by humans.
+(a) only i is true.
+(b) only ii is true.
+(c) only iii is true.
+(d) None of the statements are true.
+4
+
+Canadian Association of Physicists Prize Exam 1999
+Part B (c) Remember that the constant force is always acting
+upon the flrst bead. What is the time interval be-
+tween subsequent collisions between the flrst and sec-
+Question 1
+ondbeads? Whatthenistheaveragespeedoftheflrst
+Fourcharges,eachofcharge+e,areatthefourcorners
+bead? What is the speed of the \shock wave" that
+of a square of side a=1 cm. The four charges are flxed in
+travels down the wire?
+place and are considered to be of point-size. Gravity plays
+no role in this question. (d) If the whole process is repeated, but with collisions
+whichareperfectlyinelastic,whatistheterminalspeed
+e+ p+
+a of the shock wave formed?
+a Question 3
+From everyday experience and observations, estimate
+the brightness of a full moon as compared to the noon day
+p+ e+
+sun. Brightnessisdeflnedastheluminousintensityasmea-
+sured in units of power per unit area. To arrive at a rea-
+(a) Sketchadiagramoftheelectricfleldduetothischarge sonablenumericalestimate, youwillneedtoestimatesome
+system. physicalparameters. Itisessentialthatyouexplaintherea-
+soningbehindyourestimatesandincludedetaileddrawings
+(b) What is the net force acting upon one of the charges? and explanations to support your arguments.
+(c) Whatistheelectrostaticpotentialenergyofthischarge
+system?
+(d) Now suppose that two of the charges are protons and
+theothertwoarepositrons. Apositronistheelectron’s
+anti-particle. Ithasthesamemassasanelectronbuta
+charge of +e. The four charges are suddenly released.
+What are their speeds when they are a signiflcant dis-
+tance apart from one another?
+Question 2
+Suppose that we have a string of equally spaced beads
+of mass m, their surfaces being separated by a distance
+d, that are free to slide without friction on a thin wire.
+Suppose that a constant force F acts on the flrst bead,
+initially at rest, causing it to accelerate along the wire as
+shown. This force acts only on the flrst bead and might be
+created by a well directed, steady stream of air. The flrst
+bead will collide with the second, which will in turn collide
+with the third, and so on. Suppose that all collisions are
+elastic.
+F
+1 d 2 3 4
+(a) What is the speed of the flrst bead immediately be-
+foreandimmediatelyafteritscollisionwiththesecond
+bead?
+(b) What is the speed of the second bead immediately be-
+fore and immediately after its collision with the third
+bead?
+5
+

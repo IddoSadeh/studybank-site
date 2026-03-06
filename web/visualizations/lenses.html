@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Thin Lenses Tutor</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.2/p5.min.js"></script>
+    <style>
+        body { margin: 0; display: flex; font-family: sans-serif; background: #121212; color: #eee; overflow: hidden; }
+        #sidebar { width: 380px; height: 100vh; background: #1e1e1e; padding: 20px; box-sizing: border-box; display: flex; flex-direction: column; border-right: 1px solid #333; z-index: 10; overflow-y: auto; }
+        #canvas-container { flex-grow: 1; display: flex; justify-content: center; align-items: center; background: #000; position: relative; }
+        h2 { margin-top: 0; color: #4dabf7; font-size: 1.2rem; }
+        h3 { color: #69db7c; font-size: 1rem; margin-bottom: 5px; }
+        p { line-height: 1.4; font-size: 0.9rem; color: #bbb; min-height: 60px; }
+        
+        .tabs { display: flex; margin-bottom: 15px; border-bottom: 2px solid #333; }
+        .tab { flex: 1; padding: 10px 5px; cursor: pointer; text-align: center; background: #2a2a2a; font-size: 0.85rem; color: #888; }
+        .tab.active { background: #4dabf7; color: #000; font-weight: bold; }
+
+        .controls { display: flex; gap: 10px; margin-top: 15px; }
+        button { flex: 1; padding: 10px; cursor: pointer; border: none; border-radius: 4px; font-weight: bold; }
+        .next-btn { background: #4dabf7; color: #000; }
+        .prev-btn { background: #444; color: white; }
+        button:disabled { background: #222; color: #555; cursor: not-allowed; }
+        
+        .slider-group { margin-top: 15px; background: #252525; padding: 10px; border-radius: 6px; }
+        .slider-group label { display: flex; justify-content: space-between; font-size: 0.85rem; margin-bottom: 5px; }
+        input[type=range] { width: 100%; }
+        
+        .info-box { background: #2a2a2a; padding: 12px; border-radius: 6px; margin-top: 15px; border-left: 4px solid #fcc419; font-size: 0.85rem; color: #ddd; }
+        
+        .section { display: none; }
+        .section.active { display: block; }
+        
+        .concept-card { background: #252525; padding: 15px; border-radius: 6px; margin-bottom: 15px; border-left: 4px solid #4dabf7; }
+        .concept-card h4 { margin: 0 0 8px 0; color: #4dabf7; }
+        .concept-card p { min-height: auto; margin-bottom: 0; }
+        .concept-card.real { border-left-color: #fcc419; }
+        .concept-card.real h4 { color: #fcc419; }
+        .concept-card.virt { border-left-color: #ff8787; }
+        .concept-card.virt h4 { color: #ff8787; }
+    </style>
+</head>
+<body>
+
+<div id="sidebar">
+    <h2>Thin Lenses</h2>
+    
+    <div class="tabs">
+        <div class="tab active" onclick="setMode('converging')">Converging</div>
+        <div class="tab" onclick="setMode('diverging')">Diverging</div>
+        <div class="tab" onclick="setMode('info')">Concepts</div>
+    </div>
+
+    <div id="interactive-ui" class="section active">
+        <div class="slider-group">
+            <label>Object Distance (u) <span id="val-u">200</span></label>
+            <input type="range" id="slider-u" min="30" max="350" step="5" value="200" oninput="runCalc()">
+        </div>
+
+        <hr style="border-color: #333; margin: 20px 0;">
+
+        <h3 id="step-title">Step 0: Setup</h3>
+        <p id="step-desc">Loading...</p>
+        
+        <div class="controls">
+            <button class="prev-btn" id="btn-prev" onclick="changeStep(-1)">Previous</button>
+            <button class="next-btn" id="btn-next" onclick="changeStep(1)">Next</button>
+        </div>
+
+        <div id="dynamic-info" class="info-box"></div>
+    </div>
+
+    <div id="info-ui" class="section">
+        <div class="concept-card">
+            <h4>Mirrors vs. Lenses</h4>
+            <p><b>Mirrors</b> reflect light. <b>Lenses</b> are transparent and refract (bend) light. The terms <i>Convex</i> (bulging out) and <i>Concave</i> (caving in) describe their geometric shapes, not their material. A lens is NOT made of mirrors.</p>
+        </div>
+        <div class="concept-card real">
+            <h4>Real Images</h4>
+            <p>Formed when light rays physically cross in space. They are always inverted.<br><br><b>Real Life:</b> Used whenever an image must be captured on a physical surface, such as a cinema screen, a digital camera sensor, or the retina of your eye.</p>
+        </div>
+        <div class="concept-card virt">
+            <h4>Virtual Images</h4>
+            <p>Formed when light rays diverge. Your brain traces them backward to an illusionary point of origin. They are always upright and cannot be projected.<br><br><b>Real Life:</b> Used when you look <i>into</i> an optic to see a modified view, such as bathroom mirrors, magnifying glasses, or corrective eyeglasses.</p>
+        </div>
+    </div>
+</div>
+
+<div id="canvas-container"></div>
+
+<script>
+let mode = 'converging'; 
+let step = 0;
+let scene = {};
+let f_val = 100;
+
+const explanations = {
+    converging: [
+        { title: "Geometry Setup", desc: "A converging (convex) lens is thicker in the middle. It bends light towards the principal axis." },
+        { title: "Parallel Ray", desc: "A ray entering parallel to the principal axis refracts through the focal point (F) on the far side." },
+        { title: "Center Ray", desc: "A ray passing exactly through the optical center (origin) travels straight through without bending." },
+        { title: "Image Formation", desc: "The image forms where the rays intersect. Move the object inside the focal length to see a magnifying glass effect." }
+    ],
+    diverging: [
+        { title: "Geometry Setup", desc: "A diverging (concave) lens is thinner in the middle. It spreads light away from the principal axis." },
+        { title: "Parallel Ray", desc: "A ray entering parallel refracts outward, as if it originated FROM the focal point (F') on the near side." },
+        { title: "Center Ray", desc: "A ray passing exactly through the optical center travels straight through without bending." },
+        { title: "Image Formation", desc: "The refracted rays always diverge. Their virtual extensions cross on the near side, creating a smaller, virtual image." }
+    ]
+};
+
+function getContextualInfo(u, f, currentMode) {
+    if (currentMode === 'converging') {
+        if (abs(u) > f) {
+            return `<b>Current State: Real Image</b><br><br>The actual refracted light rays cross on the opposite side of the lens. The image is inverted.`;
+        } else {
+            return `<b>Current State: Virtual Image</b><br><br>The object is too close to the lens (inside F). The rays diverge, and your brain traces them back to form an upright, magnified image.`;
+        }
+    } else {
+        return `<b>Current State: Virtual Image</b><br><br>Diverging lenses ALWAYS produce virtual, upright, and diminished (smaller) images on the same side as the object.`;
+    }
+}
+
+function setMode(newMode) {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    event.target.classList.add('active');
+    
+    if (newMode === 'info') {
+        document.getElementById('interactive-ui').classList.remove('active');
+        document.getElementById('info-ui').classList.add('active');
+        mode = 'info';
+    } else {
+        document.getElementById('interactive-ui').classList.add('active');
+        document.getElementById('info-ui').classList.remove('active');
+        mode = newMode;
+        f_val = (mode === 'converging') ? 100 : -100;
+        step = 0;
+        document.getElementById('slider-u').value = (mode === 'converging') ? 200 : 150;
+        runCalc();
+        updateUI();
+    }
+    redraw();
+}
+
+function calculatePhysics() {
+    let u_val = parseFloat(document.getElementById('slider-u').value);
+    
+    let f = f_val;
+    let u = -u_val; 
+    let v = 1 / (1/f + 1/u); 
+    let m = v / u;
+    
+    let h = 60; 
+    let imgH = h * m;
+
+    scene = {
+        O: createVector(0, 0),
+        F1: createVector(-abs(f), 0),
+        F2: createVector(abs(f), 0),
+        ObjTop: createVector(u, -h),
+        ObjBase: createVector(u, 0),
+        ImgTop: createVector(v, -imgH), 
+        ImgBase: createVector(v, 0),
+        isReal: v > 0,
+        f: f,
+        rays: []
+    };
+
+    let pushRay = (start, hit, refractDir) => {
+        scene.rays.push({
+            start: start,
+            hit: hit,
+            realEnd: p5.Vector.add(hit, p5.Vector.mult(refractDir, 800)),
+            virtEnd: p5.Vector.sub(hit, p5.Vector.mult(refractDir, 800))
+        });
+    }
+
+    // RAY 1: Parallel Ray
+    let r1Hit = createVector(0, -h);
+    let r1Target = (f > 0) ? scene.F2 : scene.F1;
+    let r1Dir = p5.Vector.sub(r1Target, r1Hit).normalize();
+    if (r1Dir.x < 0) r1Dir.mult(-1); 
+    pushRay(scene.ObjTop.copy(), r1Hit, r1Dir);
+
+    // RAY 2: Center Ray
+    let r2Hit = createVector(0, 0);
+    let r2Dir = p5.Vector.sub(r2Hit, scene.ObjTop).normalize();
+    pushRay(scene.ObjTop.copy(), r2Hit, r2Dir);
+
+    document.getElementById('val-u').innerText = u_val;
+    document.getElementById('dynamic-info').innerHTML = getContextualInfo(u_val, f, mode);
+}
+
+function setup() {
+    let canvas = createCanvas(windowWidth - 380, windowHeight);
+    canvas.parent('canvas-container');
+    runCalc();
+    updateUI();
+}
+
+function draw() {
+    background(15);
+    if (mode === 'info') return; 
+
+    push();
+    translate(width / 2, height / 2); 
+
+    drawGuides();
+    if (step >= 0) drawObject();
+    if (step >= 1) drawRayTrace(0);
+    if (step >= 2) drawRayTrace(1);
+    if (step >= 3) drawImage();
+
+    pop();
+}
+
+function drawGuides() {
+    stroke(80); strokeWeight(1); drawingContext.setLineDash([]);
+    line(-width, 0, width, 0); 
+
+    stroke(100, 200, 255); strokeWeight(3);
+    line(0, -150, 0, 150);
+    if (scene.f > 0) {
+        fill(100, 200, 255); noStroke();
+        triangle(0, -155, -8, -145, 8, -145);
+        triangle(0, 155, -8, 145, 8, 145);
+    } else {
+        fill(100, 200, 255); noStroke();
+        triangle(0, -145, -8, -155, 8, -155);
+        triangle(0, 145, -8, 155, 8, 155);
+    }
+
+    fill(255); noStroke();
+    circle(scene.F1.x, scene.F1.y, 6); text("F'", scene.F1.x, 15);
+    circle(scene.F2.x, scene.F2.y, 6); text("F", scene.F2.x, 15);
+}
+
+function drawObject() {
+    stroke(105, 219, 124); strokeWeight(3);
+    line(scene.ObjBase.x, scene.ObjBase.y, scene.ObjTop.x, scene.ObjTop.y);
+    drawArrowHead(scene.ObjTop, scene.ObjBase, [105, 219, 124]);
+}
+
+function drawImage() {
+    let col = scene.isReal ? [252, 196, 25] : [255, 135, 135];
+    stroke(col); strokeWeight(3);
+    if (!scene.isReal) drawingContext.setLineDash([5, 5]);
+    line(scene.ImgBase.x, scene.ImgBase.y, scene.ImgTop.x, scene.ImgTop.y);
+    drawingContext.setLineDash([]);
+    drawArrowHead(scene.ImgTop, scene.ImgBase, col);
+}
+
+function drawRayTrace(idx) {
+    let r = scene.rays[idx];
+    
+    stroke(252, 196, 25); strokeWeight(2); drawingContext.setLineDash([]);
+    line(r.start.x, r.start.y, r.hit.x, r.hit.y);
+    drawMidArrow(r.start, r.hit, [252, 196, 25]);
+
+    line(r.hit.x, r.hit.y, r.realEnd.x, r.realEnd.y);
+    drawMidArrow(r.hit, r.realEnd, [252, 196, 25]);
+
+    if (!scene.isReal) {
+        stroke(255, 135, 135, 150); drawingContext.setLineDash([4, 4]);
+        line(r.hit.x, r.hit.y, r.virtEnd.x, r.virtEnd.y);
+        drawingContext.setLineDash([]);
+    }
+}
+
+function drawArrowHead(tip, base, col) {
+    let angle = atan2(base.y - tip.y, base.x - tip.x);
+    push(); translate(tip.x, tip.y); rotate(angle);
+    fill(col); noStroke(); triangle(0, 0, 10, 5, 10, -5); pop();
+}
+
+function drawMidArrow(p1, p2, col) {
+    let angle = atan2(p2.y - p1.y, p2.x - p1.x);
+    let mid = p5.Vector.lerp(p1, p2, 0.5);
+    push(); translate(mid.x, mid.y); rotate(angle);
+    fill(col); noStroke(); triangle(-6, -4, -6, 4, 2, 0); pop();
+}
+
+function changeStep(dir) {
+    let maxSteps = explanations[mode].length - 1;
+    step = constrain(step + dir, 0, maxSteps);
+    updateUI();
+    redraw();
+}
+
+function updateUI() {
+    if (mode === 'info') return;
+    let data = explanations[mode][step];
+    document.getElementById('step-title').innerText = `Step ${step}: ${data.title}`;
+    document.getElementById('step-desc').innerText = data.desc;
+    document.getElementById('btn-prev').disabled = step === 0;
+    document.getElementById('btn-next').disabled = step === explanations[mode].length - 1;
+    document.getElementById('dynamic-info').style.display = (step === 3) ? 'block' : 'none';
+}
+
+function runCalc() {
+    if (mode !== 'info') calculatePhysics();
+    redraw();
+}
+
+function windowResized() {
+    resizeCanvas(windowWidth - 380, windowHeight);
+    redraw();
+}
+</script>
+</body>
+</html>

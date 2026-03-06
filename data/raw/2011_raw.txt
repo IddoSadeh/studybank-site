@@ -1,0 +1,426 @@
+CAP High School Prize Exam
+10 March 2011
+9:00 - 12:00
+Competitor’s Information Sheet
+The following information will be used to inform competitors and schools of the exam results, to determine
+eligibilityforsomesubsequentcompetitions,andforstatisticalpurposes. Onlythemarkingcode,tobeassigned
+by the local examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS
+Family Name: Given Name:
+HomeAddress:
+Postal Code:
+Telephone: ( ) Email:
+School: Grade:
+Physics Teacher:
+Date of Birth: Sex: Male Female
+Citizenship: or
+ImmigrationStatus:
+For how many yearshave youstudied in a Canadianschool?
+WouldyoupreferthefurthercorrespondenceinFrenchorEnglish?
+Sponsored by:
+Canadian Association of Physicists,
+Canadian Physics Olympiad,
+University of British Columbia,
+Department of Physics and Astronomy.
+1
+
+Canadian Association of Physicists approximately 3000 K and the emission spectrum is
+2011 Prize Exam very similar to that of a blackbody. The efficiency is
+so low because
+Thisisathree-hourexam. Nationalrankingandprizes
+a) Most of the electrons are absorbed in the tungsten
+will be based on students performance on sections A
+wire.
+and B of the exam. Performance on the questions in
+b) Most of the power is lost due to the resistance of
+parts A will be used to determine whose written work
+the bulb.
+inpartBwillbemarkedforprizeconsiderationbythe
+c)Theelectricpoweractuallyisefficientlytransformed
+CAP Exam National Committee. Part A consists of
+into radiation but at 3000 K, most of it is infrared.
+twenty-three multiple-choice questions. The questions
+d)Ablackbodyabsorbsmorelightthanitemits,hence
+in part B span a range of difficulties, and may require
+it appears black.
+graphing. Be careful to gather as many of the easier
+marks as possible before venturing into more difficult
+Question 2
+territory. If an answer to part (a) of a question is
+A solarpanel installed ona spaceshiphas a maximum
+needed forpart(b), andyouarenot able to solvepart
+energy output of 5 kW near the Earth. What is the
+(a), assume a likely solution and attempt the rest of
+maximum energy output of the solar panel when the
+the question anyway.
+spaceshipis near Mars? (The distance fromthe Earth
+Non-programmable calculators may be used. Please
+to the Sun is 1 A.U. and from Mars to the Sun is
+be careful to answer the multiple-choice questions on
+1.5 A.U.)
+the answer card/sheetprovided;mostimportantly,
+write your solutions to the three long problems on (a) 3.3 kW; (b) 2.2 kW; (c) 1.0 kW;
+three separatesheetsastheywillbemarkedbypeo- (d) 0.55 kW; (e) 0.20 kW.
+ple in different parts of Canada. Good luck.
+Notice: Full marks will be given to a student who Question 3
+providesanyfullcorrectsolutiontothelongproblems. Ascientistmeasureda1µAcurrentinanareaofahu-
+Partialmarkswillbegivenforpartialsolutions. There man brain. Unlike current in metals which is carried
+are no penalties for incorrect answers. The questions byfreeelectrons,thecurrentinthebrainismainlycar-
+are not of equaldifficulty. Remember we are challeng- ried by potassium ions. Each potassium ion has one
+ing the best physics students in Canada; it is possible unit of charge e. This current corresponds to the flow
+that even the best papers may not achieve an overall of how many potassium ions per second?
+score of 80%. This is meant to be tough!
+(a) 6×105; (b) 6×106; (c) 6×108;
+(d) 6×1012; (e) 6×1018.
+Data
+Speed of light c=3.00×108m/s Question 4
+Gravitational constant G=6.67×10 −11Nm2/kg2 The gas supply to your physics professor’s house sud-
+Acceleration due to gravity g =9.80m/s2 denly stops due to a gas line failure. It is winter and
+Density of fresh water ρ=1.00×103kg/m3 the temperature outside is −5 ◦ C and constant. As-
+The normal atmospheric pressure P =1.01×105Pa sumingallthedoorsandwindowsremainclosed,which
+0
+The specific heat of water c=4.186×103J/kgK of these graphs best describes how the temperature in
+Fundamental charge e=1.60×10 −19C thehousechangeswithtimeafterthegassupplystops?
+Mass of electron m =9.11×10 −31kg
+e
+Mass of proton m =1.67×10 −27kg 6 p
+Planck’s constant h=6.63×10 −34Js
+Coulomb’s constant 1/(4πǫ )=8.99×109Nm2/C2
+0
+Boltzmann’s constant k =1.38×10 −23J/K
+A.U. Astronomical Unit = 1.49598×1011m The ap-
+- proximate distance from the Sun to the Earth. (a)
+Time(hours)
+Radius of the Earth = 6.371×106m
+Linear expansion coefficient of iron
+α =1.1×10 −5K −1
+Fe
+Linear expansion coefficient of zinc
+α =3.0×10 −5K −1
+Zn
+1 US mile = 1609 meters
+1 US gallon = 3.785 liters
+Part A: Multiple Choice
+Question 1
+Incandescent light bulbs are notorious for being rela-
+tively inefficient in producing visible light. The tung-
+sten wire inside such a bulb is at a temperature of
+C◦erutarepmeT
+30 6
+0
+1
+2
+0
+0.....................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+-10 0 10 20 30 (b) -
+Time(hours)
+C◦erutarepmeT
+30
+0
+1
+2
+0
+0 .................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+-10 0 10 20 30
+6
+- (c)
+Time(hours)
+C◦erutarepmeT
+30 6
+0
+1
+2
+0
+0 ...................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+-10 0 10 20 30 (d) -
+Time(hours)
+C◦erutarepmeT
+30
+0
+1
+2
+0
+0 ................................................................................................................................................................................................................................................................................................................................................................................................
+-10 0 10 20 30
+2
+
+Question 5 as shown in the top figure. Which of the other fig-
+The ray of light travelling in air hits the parallel glass ures represents a possible observation of the clocks at
+plate as shown. Which are the possible continuations somelatertimeinthereferenceframeofthestationary
+of the light ray? clock?
+a) 4 only. 1 2 3
+(cid:27)
+b) both 2 and 4.
+V 2:00
+c) both 3 and 6. 4
+2:00
+5
+d) both 1 and 5.
+(cid:27) (cid:27)
+V 1:59 V 2:00
+a) 2:02 b) 2:02
+6
+(cid:27) (cid:27)
+Question 6 V 2:01 V 2:02
+Approximately,whatfractionoftheenergyemittedby
+c) 2:02 d) 2:02
+the Sun reaches to the Earth?
+(a) 10
+−7;
+(b) 10
+−10;
+(c) 10
+−13;
+(d) 10
+−16. (cid:27)
+V 2:03
+e) 2:02
+Question 7
+Theresistanceofthetungsteninalightbulbincreases
+Question 10
+with temperature. Which of the following graphs
+For the statements:
+showsthe currentasa function of voltagefor the light
+1) Mass can be directly converted into kinetic energy.
+bulb?
+2) Kinetic energy can be directly convertedinto mass.
+I I
+a) Only first is true.
+b) Only second is true.
+c) Both are true.
+d) Neither is true.
+(a) V (b) V Question 11
+A stable Helium-4 nucleus has two protons and two
+I I
+neutrons. If the mass ofHelium-4 nucleus,protonand
+neutron are denoted by m , m and m respectively,
+He p n
+we can conclude that:
+a) m =2m +2m .
+He p n
+b) m >2m +2m .
+(c) V (d) V He p n
+c) m <2m +2m .
+He p n
+I d) Any of the above may be true.
+Question 12
+A clean metal surface is placed in a vacuum. The sur-
+faceis irradiatedwithmonochromaticlightofvariable
+intensity I(number of photons per unit area) and fre-
+(e) V
+quencyf. WemeasurethemaximumkineticenergyK
+of electrons emitted from the metal due to the photo-
+Question 8
+electric effect. How does K behave when I increases?
+A fastrockettravelsdirectly upwardsat0.5c (halfthe
+speed of light). There is an explosion directly below a) K increases.
+the rocket. If astronauts manage to measure how fast b) K is constant.
+the light produced by the explosion is moving relative c) K decreases.
+to their spacecraft, they will find the light to be mov- d) Impossible to determine.
+ing:
+Question 13
+a) Upwards at speed 0.5c.
+A point mass is moving in the xy plane. Its accelera-
+b) Upwards at speed c.
+tion is a constant vector perpendicular to the x axis,
+c) Upwards at speed 1.5c.
+then:
+d) Downwards at speed 0.5c.
+e) Downwards at speed c. a) only v y is constant.
+b) only v is constant.
+x
+Question 9 c) only the acceleration is constant.
+Two identical clocks are set to the same time as one d) the acceleration and v are constant.
+x
+passes the other at very high (relativistic) velocity e) the position and a are constant.
+y
+3
+
+Question 14 a) Only region I.
+Temp
+A huge case, attached to a cable, is descending at a b) Only region II. 6
+I II III
+constantvelocity. The tension inthe cable is (neglect-
+ing the air resistance):
+c
+d
+)
+)
+O
+O
+n
+n
+ly
+ly
+re
+r
+g
+e
+i
+g
+o
+i
+n
+on
+I
+s
+II.
+I &
+......................................................................................................................................................................
+a) greater than the weight of the case. III. -
+b) smaller than the weight of the case. t t
+e) Regions I, II & III. 1 2 Time
+c) equal to the weight of the case.
+d)wecannottellsincewedontknowthe weightofthe
+case.
+Question 20
+A spherical asteroid with a radius of 1 km is illumi-
+Question 15
+natedbysunlight. Inordertocalculatethesolarpower
+Objects A and B, isolated from the environment, are
+absorbed by the asteroid, what area should be used?
+initiallyseparatedfromeachotherandarethenplaced
+in thermal contact. Their initial temperatures are a) 1km2.
+◦ ◦
+T A = 0 C and T B = 100 C. The heat capacity of B b) 3.14km2.
+is twice the one of A. After a certain time, the system c) 12.6km2.
+reaches equilibrium. The final temperatures are:
+d) Answer cannot be determined from the available
+◦ data.
+a) T =T =50 C.
+A B
+◦
+b) T =T >50 C.
+A B A B
+◦
+c) T =T <50 C.
+A B 1.0Kg 2.0Kg Question 21
+◦
+d) T A >T B >50 C. 0 ◦ C 100 ◦ C If you toss a ball up, at the highest point
+◦
+e) T >50 C>T .
+A B
+a) The velocity changes direction.
+Question 16 b) The accelerationchanges direction.
+When a car is starting, its driving wheels experience: c) The acceleration is zero.
+d) Both velocity and acceleration are zero.
+a) The force of kinetic friction directed backward. e) More than one of the above is correct.
+b) The force of static friction directed backward.
+c) The force of kinetic friction directed forward.
+Question 22
+d) The force of static friction directed forward.
+Many cars are now equipped with anti-lock brakes
+(ABS), which prevents locking of the wheels during
+Question 17
+emergency braking. What is the main advantage?
+Anaquariumpartlyfilledwithwateracceleratesdown
+an incline which is at an angle θ with respect to the
+a) This saves the tires. Otherwise too much rubber is
+horizon. The surface of water in the aquarium:
+left on the road.
+b)Providesmorecontroloverthecarbutstoppingdis-
+a) is horizontal.
+tance increases slightly.
+b) is parallel to the plane of the incline.
+◦ c) This leads to a shorter stopping distance because
+c)formsanangleαwiththehorizon,where0 <α<θ
+◦ tires exert rolling friction which is larger than kinetic
+d) forms an angle α with horizon, where θ <α<90 .
+friction.
+d) This leads to a shorter stopping distance because
+Question 18
+tires exert rolling friction which is larger than static
+Objects around us have different colours. This is be-
+friction.
+cause
+e) This leads to a shorter stopping distance because
+tires exert static friction which is larger than kinetic
+a) They are at different temperatures.
+friction.
+b) They are non-thermal radiation sources.
+c)Differentmaterialsorpaintsreflectlightatdifferent
+Question 23
+speeds.
+d) Different materials or paints reflect different wave- Rankinorder,frombrightesttodimmest,theidentical
+lengths. bulbs A to D.
+Question 19 a) A=B =C =D.
+This graph shows the average temperature inside a b) A=B >C =D.
+room. At time t the heater is turned on. We want
+1 c) A>C >B >D.
+to compare the power input to the room (P ) and
+in
+d) A>C =D >B.
+the power output from the room (P ). For which
+out
+region(s) on the graph is P 6=P ? e) C =D >B =A.
+in out
+4
+
+Part B: Problems
+Problem 1
+Last year, a customer tried to compare two cars. A
+manufacturer of the USA car claims fuel efficiency of
+30 mpg (miles per gallon). The manufacturer of the
+European car states the fuel efficiency of 7.8l/100km
+(liters per hundred kilometers).
+(a) Which car is more efficient and by how much?
+This year, still undecided, this customer noticed that
+bothmanufacturersimprovedtheirfuelefficiencynum-
+bers by 20%.
+Figure 3
+(b) Which car is more efficient now, and by how
+much?
+(f) In which part of the trip the fuel was used most
+Fig. 1 shows the velocity as a function of time graph
+efficiently(leastgasolineusedperkilometertravelled)?
+for a trip you took with your car.
+Problem 2
+PhotoAshowsapendulum foragrandfatherclock. It
+consists of verythin sets of ironandzinc rods andthe
+pendulumbob. Atroomtemperaturethereisoneiron
+rodoflengthL =68.00cm,twoironrodsoflength
+0Fe
+L and two zinc rods of length L connected as in
+1Fe Zn
+diagram B. Both sets of rods are of negligible weight
+compared to the pendulum bob. The thickness of the
+connecting pieces is negligible compared to the length
+of the rods. The bob is attached to the iron rod. The
+pendulum length, then is L = L + (L − L ),
+0Fe 1Fe Zn
+Figure 1 L=70.00cm.
+(a) Does the position of the rods in diagram B cor-
+(c) Determinethetotaldistancetravelledduringthis respond to a warmer day or a colder day compared to
+two hour trip. their position in diagram C?
+(b) Find L and L if the pendulum period does
+(d) Fig. 2 displays the air drag force as a function 1Fe Zn
+not change when the temperature changes.
+of velocity. What is the total work done by the drag
+force on the car during this two hour trip?
+Figure 2
+(e) Each liter of gasoline has 35 MJ of energy. The
+efficiency of the motor as a function of the car’s speed
+isshownonFig.3. Howmuchgasolineisusedtoover-
+come the air drag during this two hour trip?
+5
+
+Problem 3
+Two radio antennas are 100 m apart on a north-south
+line. They broadcast identical radio waves at a fre-
+quency of 3.0 MHz. Your job is to monitor the signal
+strengthwith ahandheld receiver. To getto yourfirst
+measuring point, you walk 800 m east from the mid-
+point between the antennas, then 600 m north.
+(a) What is the phase difference between the waves
+at this point?
+(b) Is the interference at this point maximally con-
+structive, perfectly destructive, or somewhere in be-
+tween? Explain.
+(c) If you now begin to walk further north, does the
+signal strength increase, decrease, or stay the same?
+Sketchthe amplitude ofthe signalas a function ofthe
+distance.
+6
+

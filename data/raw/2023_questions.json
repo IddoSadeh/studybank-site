@@ -1,0 +1,423 @@
+{
+  "year": 2023,
+  "questions": [
+    {
+      "id": "2023_Q01",
+      "year": 2023,
+      "number": 1,
+      "text": "An aluminum wire of varying thickness is pulled at of difficulty, and may require graphing and/or measure- each end with a force of 30 N. Which of the following ment on the graph. Be careful to gather as many of the statements is true? Note: tension is a force that tends to easier marks as possible before venturing into more diffi- stretch something, and stress is the force per unit area. cult territory. When you are unable to solve any part of a question, you may assume a likely answer to that part",
+      "choices": {
+        "a": "The tension is 60 N all along the wire, and stress is and attempt the rest of the question anyway. constant along the wire Non-programmable calculators may be used. Answer the multiple-choice questions on the answer sheet pro- vided. Most importantly: write your solutions to the",
+        "b": "The tension is 60 N all along the wire, and stress three long problems on three separate sheets as they varies along the wire will be marked by people in different parts of Canada. Good luck.",
+        "c": "The tension is 30 N all along the wire, and stress is Notice: Fullmarkswillbegiventostudentswhoprovide constant along the wire full correct solutions to problems in"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q02",
+      "year": 2023,
+      "number": 2,
+      "text": "A 1kg object slides 3.6 m down a ramp with a 35◦ the best papers may not achieve an overall score of 80%. slope. It has an initial speed of 2 m/s and a final speed This Exam is meant to be challenging! of 1.06 m/s when it reaches the bottom. What was the work done by kinetic friction (µ =0.",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q03",
+      "year": 2023,
+      "number": 3,
+      "text": "when the object k Data has slid to the bottom of the ramp? Speed of light c=3.00×108 m/s",
+      "choices": {
+        "a": "10.6 Nm Speed of sound in air = 343 m/s Gravitational constant G=6.67×10−11 N·m2/kg2 Acceleration due to gravity g =9.81 m/s2",
+        "b": "21.7 Nm Standard atmospheric pressure P =1.01×105Pa 0 Density of fresh water ρ=1.00×103 kg/m3",
+        "c": "0 Nm Density of ice ρ =916 kg/m3 i Specific heat of water C =4186 J/(kg·K)",
+        "d": "19.6 Nm w Specific heat of ice C =2050 J/(kg·K) i Latent heat of water L =2260 kJ/kg"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q04",
+      "year": 2023,
+      "number": 4,
+      "text": "A very smart bird is sitting on a roof holding a shell",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q05",
+      "year": 2023,
+      "number": 5,
+      "text": "AveryheavyboxofmassM isbeingliftedupwardsby a crane at a constant velocity u. A ball of mass m≪M is thrown at the box with velocity v at angle α.",
+      "choices": {
+        "a": "(−vcosα, |vsinα−gt|)",
+        "c": "(−vcosα, 2u+|vsinα−gt|)",
+        "b": "(−vcosα,−|vsinα−gt|)",
+        "d": "d) (−vcosα, 2u−|vsinα−gt|)",
+        "e": "Either a or b.",
+        "f": "Either c or d."
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q06",
+      "year": 2023,
+      "number": 6,
+      "text": "A sphere of mass 0.2 kg is suspended from the ceiling in its beak. It wants to throw the shell so that it hits the by a light spring whose force constant is 3.2 N/m. It is ground with the highest speed possible. Assuming air re- projected vertically downwards with a speed of 0.5 m/s sistance is negligible, and initial speed is constant in all from its equilibrium position. What would be its maxi- scenarios (v =v =v ), how should the bird throw the A B c mum acceleration in subsequent motion? shell so that its final speed before hitting the ground is greatest?",
+      "choices": {
+        "a": "2.0 m/s",
+        "b": "8.0 m/s",
+        "d": "12.0 m/s",
+        "c": "10.0 m/s",
+        "e": "Both c and d."
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q07",
+      "year": 2023,
+      "number": 7,
+      "text": "field strength at point S? A B C AblockacceleratesuniformlyalongastraightlinefromA toC asshownabove. ItsspeedatpointAisv andthat A at point C is v . What is its speed at point B, which is C the mid-point between point A and C?",
+      "choices": {
+        "a": "A",
+        "b": "B (cid:"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q08",
+      "year": 2023,
+      "number": 8,
+      "text": "Two charged spheres X and Y are suspended from the",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q09",
+      "year": 2023,
+      "number": 9,
+      "text": "When two ends of a circular uniform wire are joined path? to the terminals of a battery, what is the strength of the magnetic field at the center of the circle?",
+      "choices": {
+        "a": "Zero",
+        "b": "Infinite",
+        "c": "Depends on the amount of e.m.f. applied",
+        "d": "Increase the magnetic flux density of the field"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q10",
+      "year": 2023,
+      "number": 10,
+      "text": "Negative charge is uniformly distributed on a semi- circular plastic rod. What is the direction of the electric",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q11",
+      "year": 2023,
+      "number": 11,
+      "text": "Supposethatapositron(charge+e,massm )isfired e ceiling by identical strings as shown below. When the at a non-relativistic velocity v towards a proton (charge 0 system is in equilibrium, the angles between string OX +e, mass m ) at rest. What is the minimum separation p and the vertical is i and that between OY and the verti- between the two particles as they approach each other? cal is j. If i > j, which of the following statement must be correct?",
+      "choices": {
+        "a": "e2 2πϵ0mev 0 2 O",
+        "b": "e 2πϵ0mev 0 2 (cid:"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q12",
+      "year": 2023,
+      "number": 12,
+      "text": "Anelectronentersthespaceinsideaninfinitecurrent- carrying solenoid. The velocity of the electron is parallel Y to the solenoid’s axis. The electron will:",
+      "choices": {
+        "a": "Both X and Y carry positive charges.",
+        "b": "The charges on X and Y are opposite.",
+        "c": "ThemagnitudeofchargesonYisgreaterthanthat",
+        "d": "The mass of Y is larger than that of X."
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q13",
+      "year": 2023,
+      "number": 13,
+      "text": "v2+v2 c) A C 2 c) C √ d) v v A C d) D",
+      "choices": {
+        "c": "C √",
+        "d": "D"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q14",
+      "year": 2023,
+      "number": 14,
+      "text": "Thenumberoffieldlinescrossingagivenareaisgiven by the electric flux. For a closed surface (like a cube or sphere) the total electric flux is given by Gauss’s law: Electric flux through a closed surface=Q/ϵ , (",
+      "choices": {
+        "e": "the total electric flux is given by Gauss’s law: Electric flux through a closed surface=Q/ϵ , ("
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q16",
+      "year": 2023,
+      "number": 16,
+      "text": "A diode conducts current only when the potential of pointAishigherthanthepotentialofpointB,otherwise it doesn’t allow the current to pass. When it conducts, the voltage drop across an ideal diode is zero. Consider a circuit with an ideal diode as shown below. Recall that PV =nRT. Which of the following explains The input voltage V is shown on the left. why the cup sucks up the liquid? in 5",
+      "choices": {
+        "a": "0.47 g/cm3",
+        "b": "0.94 g/cm3",
+        "c": "1.41 g/cm3",
+        "d": "4.23 g/cm3",
+        "e": "T decreases so P decreases"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q17",
+      "year": 2023,
+      "number": 17,
+      "text": "1/2 c) e2 i 2πϵ0mev 0 2 j d) e2 me+mp 2πϵ0v 0 2 memp X",
+      "choices": {
+        "c": "e2 i 2πϵ0mev 0 2 j",
+        "d": "e2 me+mp 2πϵ0v 0 2 memp X"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q18",
+      "year": 2023,
+      "number": 18,
+      "text": "A plate is filled with a layer of water and a lit candle is placed in the centre. A cup is overturned and placed e) will become infinity. to fully cover the candle. The flame is extinguished, and f) can not be determined. the cup seems to ‘drink the liquid’ — the water is sucked from the plate into the cup.",
+      "choices": {
+        "e": "will become infinity. to fully cover the candle. The flame is extinguished, and",
+        "f": "can not be determined. the cup seems to ‘drink the liquid’ — the water is sucked from the plate into the cup."
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q19",
+      "year": 2023,
+      "number": 19,
+      "text": "An ideal gas goes through a process such that PV3 =const.",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q20",
+      "year": 2023,
+      "number": 20,
+      "text": "The temperature of a gas is increased by the same",
+      "choices": {
+        "a": "The heat required in process A is greater.",
+        "b": "processes. glass",
+        "c": "The same heat is required in both cases.",
+        "d": "The change in entropy is the same for both pro- cesses.",
+        "e": "The change in internal energy is the same for both",
+        "f": "c, d and e. X"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q21",
+      "year": 2023,
+      "number": 21,
+      "text": "Sodium has a crystal structure (right) which can be Y thought of as a repetition of a unit cell shown on the left. The different colors just represent different relative positions in the unit cell. c) glass Y Given that sodium’s unit cell is a cube with edge a = X 0.428 nm and its atomic weight is 23 g/mol, what is the density of sodium? 6 d) glass X Y",
+      "choices": {
+        "c": "glass Y Given that sodium’s unit cell is a cube with edge a = X 0.428 nm and its atomic weight is 23 g/mol, what is the density of sodium?",
+        "d": "glass X Y"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q22",
+      "year": 2023,
+      "number": 22,
+      "text": "A light beam with two monochromatic components X and Y passes into a glass block and splits into two If the volume doubles during this process the tempera- monochromatic beams when it comes out of the glass ture: block. If the frequency of component X is smaller than that of Y, which of the following ray diagrams is correct?",
+      "choices": {
+        "a": "remains constant.",
+        "b": "increases four-fold.",
+        "c": "decreases four-fold.",
+        "d": "increases eight-fold.",
+        "e": "decreases eight-fold."
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q23",
+      "year": 2023,
+      "number": 23,
+      "text": "A photocell emits electrons when it is illuminated with green light. We are uncertain whether it emits elec- trons when it is illuminated with:",
+      "choices": {
+        "a": "ultra-violet radiation",
+        "b": "X-rays",
+        "c": "red light",
+        "d": "blue light"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q24",
+      "year": 2023,
+      "number": 24,
+      "text": "OneofthetwoslitsinaYoung’sexperimentispainted oversothatittransmitsonlyone-halftheintensityofthe other slit. As a result:",
+      "choices": {
+        "a": "The fringe system disappears",
+        "b": "The bright fringes get brighter and the dark ones get darker",
+        "c": "The bright fringes get dimmer",
+        "d": "The dark fringes get brighter",
+        "e": "The dark fringes get brighter and the bright ones get darker"
+      },
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    },
+    {
+      "id": "2023_Q25",
+      "year": 2023,
+      "number": 25,
+      "text": "A double slit system is located in water (n =1.",
+      "choices": {},
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "auto"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "year": 2013,
+  "questions": [
+    {
+      "id": "2013_FR1",
+      "year": 2013,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A light emitting diode (LED) is connected in series with a super capacitor of capacitance 3000 F and internal resistance ∼ 1 mΩ, and a microprocessor-controlled resistor. The capacitor is charged to 5 V. The LED requires constant current of 800 mA. At this current, the voltage drop over the LED is 2.7 V.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "What should be the dependence of the variable resistor on time for the current to remain constant?"
+        },
+        {
+          "label": "b",
+          "text": "What should be the initial value of the resistor? Does the value of the resistor stabilize after some time, and if so, to which resistance?"
+        },
+        {
+          "label": "c",
+          "text": "How long can the LED operate at full brightness before the capacitor needs to be recharged?"
+        }
+      ],
+      "given_data": "Capacitance = 3000 F, internal resistance ∼ 1 mΩ, initial capacitor voltage = 5 V, LED current = 800 mA, LED voltage drop = 2.7 V",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2013_FR2",
+      "year": 2013,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A light spring with a force constant of 3.85 N/m is compressed by 8.00 cm and held between two blocks. The block on the left has a mass of 250 g, while the block on the right has a mass of 500 g. Both blocks are initially held at rest on a horizontal surface, and are then released simultaneously so that the spring pushes them apart.",
+      "parts": [
+        {
+          "label": "",
+          "text": "What is the maximum velocity each block attains if the coefficient of kinetic friction between each block and the surface is 0.100 and the coefficient of static friction is 0.120?"
+        }
+      ],
+      "given_data": "Spring constant k = 3.85 N/m, compression = 8.00 cm, left block mass = 250 g, right block mass = 500 g, μₖ = 0.100, μₛ = 0.120",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2013_FR3",
+      "year": 2013,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "The luminosity of a star is defined as the energy it emits per unit time. We know from astronomical observations that the luminosity L of the stars that have a mass M < 10M☉ is approximately related to their mass as: L/L☉ = (M/M☉)³·⁵ where L☉ and M☉ are the luminosity and mass of the Sun. Furthermore, we know from Einstein's theory of relativity that the energy released from converting a mass M into energy is given by E = Mc². In this problem, we assume that all stars burn almost the same fraction of their mass during their active life.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "If the fraction of the mass converted into energy is α ≪ 1, first find an expression for the lifetime of a star in terms of its mass, luminosity, α and physical constants."
+        },
+        {
+          "label": "b",
+          "text": "Using the luminosity-mass equation, find the lifetime of a star as a function of its mass."
+        },
+        {
+          "label": "c",
+          "text": "If we know that the lifetime of our Sun is about 10 billion years, what is the lifetime of a star with a mass M = 5M☉?"
+        }
+      ],
+      "given_data": "L/L☉ = (M/M☉)³·⁵ (for M < 10M☉), E = Mc², α ≪ 1 (fraction of mass converted), Sun lifetime ≈ 10 billion years",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

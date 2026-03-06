@@ -1,0 +1,396 @@
+CanadianAssociationofPhysicists Question2
+2001PrizeExam The diagram below shows various positions of a child in
+motiononaswing. Somewhereinfrontofthechildastation-
+This is a three hour exam. National ranking and prizes arywhistleisblowing. Atwhichpositionwillthechildhear
+willbebasedonastudent’sperformanceonbothsectionsA thehighestfrequencyforthesoundofthewhistle?
+and B of the exam. However, performance on the multiple
+choice questions in part A will be used to determine whose
+writtenworkinpartBwillbemarkedforprizeconsideration
+by the National Committee. The questions in part B of the
+A
+exam have a range of difficulty. Please be careful to gather
+asmanyoftheeasiermarksaspossiblebeforeventuringinto
+B moredifficultterritory. Ifananswertopart(a)ofaquestion
+isneededforpart(b), andyouarenotabletosolvepart(a),
+assumealikelysolutionandattempttherestofthequestion
+anyway. No student is expected to complete this exam and
+partsofeachproblemmaybeverychallenging.
+Non-programmable calculators may be used. Please
+be very careful to answer the multiple choice ques-
+tions on the answer card/sheet provided; most im-
+portantly, write your solutions to the three written
+problems on separate sheets as they will be marked
+by people in different parts of Canada. Good luck.
+Data
+Speedoflight c=3.00×108m/s
+Gravitationalconstant G=6.67×10−11N·m2/kg2
+Accelerationduetogravity g =9.80m/s2
+Fundamentalcharge e=1.60×10−19C
+Massofelectron m =9.11×10−31kg
+e
+Massofproton m =1.673×10−27kg
+p
+Planck’sconstant h=6.63×10−34J·s
+Coulomb’sconstant 1/4π(cid:15) =8.99×109J·m/C2
+o
+Permeabilityoffreespace µ =4π×10−7N/A2
+o
+Speedofsoundinair v =343m/s
+s
+Densityofair ρ=1.2kg/m3
+Boltzmannconstant k =1.38×10−23J/K
+EnergyConversion 1eV=1.6×10−19J
+Avogadro’snumber N =6.02×1023mol−1
+A
+PartA:MultipleChoice
+Question1
+Three identical resistors are connected across a voltage
+source V so that one of them is in parallel with two others
+whichareconnectedinseries. Thepowerdissipatedthrough
+thefirstone,comparedtothepowerdissipatedbyeachofthe
+othertwo,isapproximately
+(a) thesame.
+(b) halfasmuch.
+(c) twiceasmuch.
+(d) fourtimesasmuch.
+(cid:0)
+D
+C
+(cid:1)
+whistle
+(a) AtBwhenmovingtowardA.
+(b) AtBwhenmovingtowardC.
+(c) AtCwhenmovingtowardB.
+(d) AtCwhenmovingtowardD.
+Question3
+In a Young double slit experiment, green light is incident
+on the two slits. The interference pattern is observed on a
+screen. Whichoneofthefollowingchangeswouldcausethe
+observedfringestobemorecloselyspaced?
+incoming
+screen(cid:13)
+(cid:0) (cid:13)
+light w (cid:1)
+fringes(cid:13)
+aves(cid:13)
+(a) Reducingtheseparationbetweentheslits.
+(b) Usingbluelightinsteadofgreenlight.
+(c) Usingredlightinsteadofgreenlight.
+(d) Movingthelightsourcefurtherawayfromtheslits.
+Question4
+Athinlenswithfocallengthf istobeusedasamagnify-
+ing glass. Which of the following statements regarding this
+situationistrue?
+(a) Aconverginglensmustbeused,andtheobjectbeplaced
+atadistancegreaterthan2f fromthelens.
+(b) Adiverginglensmustbeused,andtheobjectbeplaced
+betweenf and2f fromthelens.
+(c) Aconverginglensmustbeused,andtheobjectbeplaced
+atadistancelessthanf fromthelens.
+(d) Adiverginglensmustbeused,andtheobjectbeplaced
+atanypointotherthanthefocalpoint.
+
+CanadianAssociationofPhysicistsPrizeExam 2001
+Question5
+The figure shows the path of a ray of light as it passes
+through three different materials with refractive indices n ,
+1
+n and n . The figure is drawn to scale. What can we con-
+2 3
+cludeconcerningtheindicesofthesethreematerials?
+n
+1
+n
+2
+n
+3
+(a) n <n <n .
+3 2 1
+(b) n <n <n .
+3 1 2
+(c) n <n <n .
+2 1 3
+(d) n <n <n .
+1 3 2
+Question6
+The diagram shows the trajectory of three artillery shells.
+Eachwasfiredwiththesameinitialspeed. Whichshellwas
+intheairforthelongesttime? (Ignoreairfriction.)
+A (cid:0) (cid:13)
+B(cid:13)
+C (cid:1)
+Question8
+Two test charges are brought successively to a position
+some distance away from a negative charge −Q. First, test-
+charge q is placed at a distance R from −Q. Then it is re-
+movedandatest-charge−2qisplacedatadistance2Rfrom
+−Q. Thesignofq isunknown. Comparedwiththeelectric
+potentialatthepositionofthetest-chargeinthefirstcase,the
+electricpotentialatthepositionofthesecondtest-chargeis
+– Q q – Q – 2q
+R(cid:13) 2R(cid:13)
+(a) (b)
+(a) thesame.
+(b) twiceaslarge.
+(c) halfaslarge.
+(d) impossibletodetermineunlessthesignofqisknown.
+Question9
+Asimplependulum, consistingofamassm attheendof
+an unstretchable string of length L, swings upward, making
+anangleθwiththevertical. Theworkdonebythetensionin
+thestringis
+(a) Zero.
+(b) mgL
+(c) mgL cos θ
+(d) -mgL sin θ
+(cid:13)
+(a) ShellA.
+Question10
+(b) ShellB.
+Inproblemsinvolvingelectromagnetismitisoftenconve-
+(c) ShellC. nient and informative to express answers in terms of a con-
+(d) ShellsAandCwereintheairforequaltime,whichwas stant, α, which is a combination of the Coulomb constant,
+longerthanforshellB. k = 1/4π(cid:15) , the charge of the electron, e, and ¯h = h/2π,
+e 0
+h being Planck’s constant. For instance, the lowest energy
+that a hydrogenatom can have is given by E = −1α2mc2,
+2
+where m is the mass of the electron and c is the speed of
+Question7 light. Whichofthefollowingisthecorrectexpressionforα?
+LetV beelectricpotentialandEthemagnitudeoftheelec- (HINT: non-relativistic kinetic energy is 1mv2, where v is
+2
+tric field. At a given position, which of the following state- speed.)
+mentsistrue?
+k e2 ¯h
+(a) e . (b) .
+(a) E isalwayszerowhereV iszero. ¯hc k e e2c
+(b) V isalwayszerowhereE iszero. k e2¯h k e2c
+e e
+(c) . (d)
+(c) E canbezerowhereV isnonzero. c ¯h
+(d) E isalwaysnonzerowhereV isnonzero.
+2
+
+CanadianAssociationofPhysicistsPrizeExam 2001
+Question11 Question14
+A mass suspended from a spring is oscillating up and A vertical spring with constant 250 N/m and negligible
+down. Considerthefollowingtwostatements: massisattachedtoahorizontalplate. Ablockofmass0.255
+kg is dropped onto the spring which compresses by 0.12 m
+(1) Atsomepointduringtheoscillation, themasshaszero
+beforecomingmomentarilytorest. Thefollowingtwonum-
+velocitybutitisaccelerating.
+bers are the work done by the force of gravity, W , and the
+g
+(2) Atsomepointduringtheoscillation, themasshaszero
+work done by the spring, W , (both over the total distance
+s
+velocityandzeroacceleration.
+thatthespringiscompressed).
+(a) Bothoccuratsometimeduringtheoscillation. (a) W =0.30J,W =−1.8J.
+g s
+(b) Neitheroccursduringtheoscillation. (b) W =0.30J,W =1.8J.
+g s
+(c) Only(1)occurs. (c) W =−0.30J,W =1.8J.
+g s
+(d) Only(2)occurs. (d) W =−0.30J,W =−1.8J.
+g s
+Question15
+Question12
+Astoneofmassmisattachedtoalightstrongstringand
+A very long solenoid perpendicular to the page generates
+whirledinaverticalcircleofradiusr. Attheexactbottomof
+adownwardmagneticfieldwhosemagnitudeincreaseswith
+thepath,thetensioninthestringisthreetimestheweightof
+time. Thisinducesanemfinaconductingwirelooparound
+thestone. Thestone’sspeedatthatpointisgivenby
+thesolenoidwhichlightstwoidenticalbulbsconnectedinse-
+√
+riesalongthewire.Nowtwopointsdiametricallyopposedon (a) 2 gr
+√
+thewireloopareshortedwithanotherwirelyingtotheright (b) 2gr
+√
+ofbulbBintheplaneofthepage. Aftertheshortingwireis (c) 3gr
+inserted,
+(d) 4gr
+Question16
+Youarerapidlypumpingairintoatirewithabicyclepump.
+At the same time, helium gas is rapidly escaping out of a
+A B balloon. Whichofthefollowingstatementsistrue?
+(a) Thepumpcoolsdownwhiletheheliumgaswarmsupas
+itisexpelled.
+(b) Thepumpwarmsupwhiletheheliumgascoolsdownas
+itisexpelled.
+(c) The pump cools down while the helium gas also cools
+(a) bulbAgoesout,andbulbBdims. downasitisexpelled.
+(b) bulbAgoesout,andbulbBgetsbrighter. (d) Thepumpwarmsupswhiletheheliumhasalsowarms
+(c) bulbBgoesout,andbulbAdims. upasitisexpelled.
+(d) bulbBgoesout,andbulbAgetsbrighter.
+Question17
+Aparticle,movingthroughacertainregionofspace,expe-
+Question13
+riencesanon-zeromagneticforce. Whichofthefollowingis
+A quantity of charge, Q, is distributed uniformly through
+possible?
+asphereofradiusR. Asmallersphere,ofradiusdandcon-
+centricwiththelargesphere,isnowremovedfromit,leaving (a) A magnetic field exists in that region and changes the
+asphericalcavitywithnochargeinit. Thechargedensityof speedoftheparticle.
+theremainingshellhasnotchanged. Theelectrostaticpoten- (b) A magnetic field exists in this region and the particle’s
+tialatadistancer >R,outsidetheshell,is velocityvectorisparalleltothemagneticfieldvector.
+1 Qr3 1 QR3−d3 (c) Amagneticfieldexistsinthisregionandtheparticleis
+(a) (b) movingatrightangletothemagneticfield.
+4π(cid:15) r d3 4π(cid:15) r R3
+0 0
+(d) Amagneticfieldexistsinthisregionandtheparticleis
+1 QR3 1 Q d3
+(c) (d) moving in the direction opposite to the magnetic field
+4π(cid:15) r d3 4π(cid:15) r R3
+0 0 vector.
+3
+
+CanadianAssociationofPhysicistsPrizeExam 2001
+Question18 Question23
+The astronauts aboard a Space Shuttle in circular orbit Auniformpoleisattachedtoaverticalwallbyafriction-
+aroundtheEarthwishtotransfertheshuttletoanewcircular lesspivot. Thepoleisheldhorizontalbyaverticalcableat-
+orbitathigheraltitude. Inthisneworbit,theshuttlewillhave tached to the ceiling as shown. Considering torques on the
+poleabouttheaxisofthepivot,whichoneofthestatements
+(a) asmallerorbitalspeedandalargertotalenergy.
+belowthefigureiscorrect?
+(b) asmallerorbitalspeedandasmallertotalenergy.
+(c) alargerorbitalspeedandalargertotalenergy.
+(d) alargerorbitalspeedandasmallertotalenergy.
+cable
+Question19
+Acarpushesastalledtruckupahill.Thecarexertsaforce pivot
+of magnitude F 1 on the truck. The truck exerts a force of pole
+magnitudeF onthecar. Then
+2
+(a) F =F sincetheseforcesformanaction-reactionpair.
+1 2 (a) The magnitude of the torque due to the tension in the
+(b) F =F onlyifthecarandtruckdonotaccelerate.
+1 2 cableisequaltothemagnitudeofthetorqueduetothe
+(c) F >F ,orelsethecarandthetruckwouldnotmove.
+1 2 weightofthepole.
+(d) F <F becausethetruckisheavier.
+1 2 (b) The magnitude of the torque due to the tension in the
+cableisgreaterthanthemagnitudeofthetorquedueto
+theweightofthepole.
+Question20
+Aconvexmirrorhasitscentreofcurvaturelocatedbehind (c) The magnitude of the torque due to the tension in the
+themirror. Theimageformedbysuchamirroris cableislessthanthemagnitudeofthetorqueduetothe
+weightofthepole.
+(a) upsidedown,enlargedandvirtual.
+(d) The tension in the cable is equal to the weight of the
+(b) upsidedown,reducedandvirtual.
+pole.
+(c) rightsideup. reducedandreal.
+(d) rightsideup,reducedandvirtual.
+. Question24
+Theminimumspeedwithrespecttoairthataparticularjet
+Question21 aircraftmusthaveinordertokeepaloftis300km/hr.Suppose
+Atoyairplaneistravellinginahorizontalcircleatacon- thatasitspilotpreparestotakeoff,thewindblowseastward
+stantspeedattheendofatetherwire. Themagnitudeofthe atagroundspeedthatcanvarybetween0and30km/hr. Ig-
+tensioninthewireisF. Thenthewireisplayedouttotwice noring any other fact, a safe procedure to follow, consistent
+its original length and the plane is made to fly at twice its withusingupaslittlefuelaspossible,isto
+originalspeed. Thetensioninthewireisnow
+(a) takeoffeastwardatagroundspeedof320km/hr.
+(a) 1F
+4 (b) takeoffwestwardatagroundspeedof320km/hr.
+(b) 1F
+2 (c) takeoffwestwardatagroundspeedof300km/hr.
+(c) F
+(d) takeoffwestwardatagroundspeedof280km/hr.
+(d) 2F
+Question22 Question25
+The plates of a parallel-plate capacitor are separated by a A mass m is moving at speed v perpendicular to a rod of
+soliddielectric. Thiscapacitorandaresistorareconnectedin lengthdandmassM = 6mwhichpivotsaroundafriction-
+seriesacrosstheterminalsofabattery. Nowtheplatesofthe less axle running through its centre. It strikes and sticks to
+capacitorarepulledslightlyfartherapart. Whenequilibrium the end of the rod. The moment of inertia of the rod about
+isrestoredinthecircuit, itscentreisMd2/12. Thentheangularspeedofthesystem
+rightafterthecollisionis
+(a) thepotentialdifferenceacrosstheplateshasincreased.
+(b) theenergystoredonthecapacitorhasincreased. (a) 2v/3d.
+(c) thecapacitanceofthecapacitorhasincreased. (b) 2v/d.
+(d) thechargeontheplatesofthecapacitorhasdecreased.
+(c) v/d.
+(d) 3v/2d.
+4
+
+CanadianAssociationofPhysicistsPrizeExam 2001
+PartB
+Problem1
+Supposethatinitiallythesystemofmassesshownbelowis
+heldmotionless. Allsurfacesarefrictionless,andthepulley
+isfixedtomassM. Thestringiscompletelyinextensible: its
+length is constant. We are interested in the acceleration of
+each mass at the instant right after they are released. Note
+thatatthisinstantthestringholdingm isstillvertical.
+2
+M (cid:0)
+m
+1
+m
+2 (cid:1)
+(b) Suppose that the acceleration imparted to the bottle by
+the escaping gas and that you calculated in part (a) re-
+mainsthesameuntiltheairhasfinishedescapingatthe
+constantrate∆M/∆t.Whatwouldbethetotaldistance
+coveredbythebottlewhenitfinallycomestoastop?
+(c) NOTE: BONUS marks will be awarded if you can de-
+rive the following expression for the maximum speed
+the bottle can ever attain once all the air has escaped,
+and which does n(cid:127)ot assume that the acceleration of the
+bottleisconstantwhiletheairisescaping:
+m µg/2M
+v = u − f (M2−M2)
+f M (∆M/∆t) f i
+f
+where m is the mass of the escaped air, neglecting the
+airleftinthebottleattheend.
+(a) Draw free-body diagrams showing and labelling all
+forces that act on the three masses at the instant right Problem3
+aftertheyarereleased. Consider a long horizontal cylindrical shell, of length l,
+(b) Write Newton’s second law as it applies to each mass. radius R which can rotate freely about its longitudinal axis
+ExplainbrieflywhyM accelerates. with a moment of inertia I. The material that composes it
+iselectricallyinsulatingandnon-magnetic. Amasslessstring
+(c) LetAbetheaccelerationofmassM,a thatofm ,and
+1 1 attachedtoaverticallyhangingmassmisthenwoundaround
+a thatofm . Findarelationbetweentheaccelerations
+2 2 the cylinder drum. The mass is released from rest at time
+ofthethreemasses.
+t=0.
+(d) DeterminethetensionT inthestringandthethreeaccel-
+erations in terms of the masses and of the gravitational (a) Determinetheangularaccelerationandkineticenergyof
+acceleration,g. the system after the hanging mass has fallen a distance
+h.
+(e) Take the limits of your results in part (d) as M → ∞.
+Whatdotheybecomeifinsteadyoutakem → 0,orif (b) A net amount of positive charge Q, of negligible mass,
+1
+youtakem → 0(notbothatthesametime)? Doyour is deposited uniformly on the outside drum of the shell
+2
+resultsmakesenseinallthoselimits? before the mass is released. Redo part (a) under these
+conditions. Calculate the difference in kinetic energy
+betweenthetwocasesQ = 0andQ (cid:54)= 0. Doyouhave
+anyideaastowherethe“missing”kineticenergywent?
+Problem2
+A100kg(whenempty)cylindricalbottleofgas,contain- HINT: The magnetic field due to a very long solenoid of
+ing100lofairatapressureof100atmospheres,fallsoveron length l and N turns carrying a current I produces no net
+the lab floor, breaking the valve. This leaves a circular hole magnetic field outside the solenoid, but a net uniform mag-
+ofradius2.0cmattheendofthebottle,throughwhichtheair neticfieldofstrengthµ NI/l insidethesolenoid. Thefield
+0
+escapesinadirectionparalleltothelongaxisofthebottle. isdirectedalongthesolenoidaxis.
+(a) Letubetheexhaustspeedoftheairrelativetothelab,
+assumedtobeconstant,andM ,M theinitialandfinal
+i f
+massofthebottle,respectively. Thebottleslidesacross
+afloorwithakineticcoefficientoffrictionµ=0.15.
+Calculate∆M/∆t,themaximumrateatwhichthemass
+of the bottle changes if u is limited by the speed of
+sound, approximately equal to 343 m/s. HINT: under
+ourassumptions,∆M/∆tisconstant,andtheescaping
+air(asopposedtotheairstillinthebottle)hasadensity
+of1.2kg/m3.
+Write down the fundamental conservation law which
+governs the motion of the bottle. Calculate its accel-
+erationastheairstartsescaping.
+5
+

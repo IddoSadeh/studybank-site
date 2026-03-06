@@ -1,0 +1,448 @@
+1
+CAP High School Prize Exam
+11 April 2008
+9:00 – 12:00
+Competitor’s Information Sheet
+The following information will be used to inform competitors and schools of the exam results, to
+determine eligibility for some subsequent competitions, and for statistical purposes. Only the marking
+code, to be assigned by the local examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS.
+Family Name:________________________________Given Name:_______________________
+Home Address:_________________________________________________________________
+_________________________________________ Postal Code:______________
+Telephone: ( )____________________ E-mail: __________________________________
+School: ____________________________________________________________ Grade:_____
+Physics Teacher: _______________________________________________________________
+Date of Birth: ___________________________ Sex: Male Female
+Citizenship: ______________________________________________________ or
+Immigration Status:_____________________________________________________________
+For how many years have you studied in a Canadian school? ____________________________
+Would you prefer the further correspondence in French or English? _______________________
+Sponsored by:
+Canadian Association of Physicists
+Canadian Chemistry and Physics Olympiads
+
+2
+Canadian Association of Physicists ______________________________________________
+2008 Prize Exam
+Question 2
+This is a three-hour exam. National ranking and prizes will
+As a simple pendulum swings back and forth, the forces
+be based on a student’s performance on sections A, B, and C
+acting on the suspended object may produce positive work,
+of the exam. Performance on the questions in part A will be
+negative work or produce no work. Which of the forces if
+used to determine whose written work in parts B and C will
+any from the listed three below does no work on the
+be marked for prize consideration by the CAP Exam
+pendulum?
+National Committee. Part A consists of twenty multiple-
+(a) Tension.
+choice questions; part B consists of three questions that
+(b) Air resistance.
+require graphic solution. The problems in part C can also
+(c) Gravitational force.
+require graphing. The questions in part C have a range of
+(d) All the forces above do no work on the pendulum.
+difficulty. Do be careful to gather as many of the easier
+(e) All the forces above do work on the pendulum.
+marks as possible before venturing into more difficult
+territory. If an answer to part (a) of a question is needed for
+________________________________________________
+part (b), and you are not able to solve part (a), assume a
+Question 3
+likely solution and attempt the rest of the question anyway.
+A baseball bat is
+No student is expected to complete this exam and parts of
+made of wood of
+each problem may be very challenging.
+uniform density. The
+Non-programmable calculators may be used. Please be
+bat is cut at the
+careful to answer the multiple-choice questions on the
+location of its centre of mass, as shown. Which of the
+answer card/sheet provided; most importantly, write your
+following is true?
+solutions to the three long problems on three separate
+(a) The piece on the right has the smaller mass;
+sheets as they will be marked by people in different parts of
+(b) The piece on the left has the smaller mass;
+Canada. Good luck.
+(c) Both pieces have the same mass;
+Data
+Speed of light c = 3.00x108 m/s (d) Impossible to determine without knowledge of the wood
+Gravitational constant G = 6.67x10-11 N·m2/kg2 density.
+Acceleration due to gravity g = 9.80 m/s2
+Density of fresh water ρ = 1.00x103 kg/m3 ________________________________________________
+Specific heat capacity for water c = 4.19x103J/(kg·K) Question 4
+T
+Fu
+h
+n
+e
+d
+n
+a
+o
+m
+rm
+en
+a
+t
+l
+a
+a
+l
+t
+c
+m
+h
+o
+ar
+s
+g
+p
+e
+h e
+e
+r i
+=
+c
+1
+p
+.6
+re
+0
+s
+x
+s
+1
+u
+0
+re
+-1 9
+P
+C 0
+= 1.01x105Pa A
+sa m
+se
+e
+c t
+r
+i
+a
+o
+d
+n
+i u
+o
+s
+f
+,
+a
+m
+h
+a
+o
+s
+l
+s
+l o
+a
+w
+nd
+p
+l
+i
+e
+p
+n
+e
+g
+a
+th
+n
+.
+d
+T
+a
+h
+s
+e
+o
+y
+l i
+b
+d
+o
+c
+th
+y l
+r
+i
+o
+n
+t
+d
+a
+e
+t
+r
+e
+h
+a
+a
+b
+v
+o
+e
+u t
+t h
+th
+e
+eir
+Mass of electron m = 9.11x10-31 kg long central axes with the same angular speed. Which of
+Mass of proton m = e 1.67x 10-27 kg the following is true?
+Planck’s constant p h = 6.63x10-34 J·s (a) The pipe has a higher rotational kinetic energy.
+Coulomb’s constant 1/(4πε ) = 8.99x109 N·m2/C2 (b) The solid cylinder has a higher rotational kinetic energy.
+Boltzmann constant k = 1.3 0 8x10-23 J/K (c) They have the same rotational kinetic energy.
+(d) Impossible to determine without numerical data for radii,
+masses and lengths of the pipe and cylinder.
+Part A: Multiple Choice
+________________________________________________
+Question 1
+Question 5
+The Figure on the right shows
+In a comet-Sun system, the position of the comet closest to
+the electric field lines for two
+the Sun is called perihelion, and the position of the comet
+point objects separated by a
+farthest from the Sun is called aphelion. The two quantities
+small distance. The charges q
+1 that both have their highest values when the comet is in
+and q can be identified as
+2 perihelion are:
+(a) q is positive; q is negative;
+1 2 (a) the acceleration and the potential energy of the comet;
+q /q = -3;
+1 2 (b) the speed and the potential energy of the comet-Sun
+(b) q is negative; q is positive;
+1 2 system;
+q /q = -3;
+1 2 (c) the speed and the acceleration of the comet;
+(c) q is positive; q is negative; q /q = -1/3;
+1 2 1 2 (d) the acceleration and the total energy of the comet-Sun
+(d) q is negative; q is positive; q /q = -1/3;
+1 2 1 2 system.
+(e) q is zero with charges redistributed over the surface of
+1
+the object 1 due to electrostatic induction; q is positive.
+2
+
+3
+________________________________________________ _______________________________________________
+Question 6
+When an object is at point A on the graph of a simple Question 11
+harmonic motion below, what are respectively, its velocity An apple is held completely submerged just below the
+and acceleration? surface of a container of water. The apple is then moved to a
+(a) both positive; deeper point in the water. Compared with the force needed
+(b) both negative; to hold the apple just below the surface, what is the force
+(c) positive and zero; needed to hold it at a deeper point?
+(d) positive and negative; (a) larger;
+(e) negative and positive. (b) essentially the same;
+(c) smaller;
+(d) impossible to determine.
+________________________________________________
+Question 7 ________________________________________________
+Does the kinetic energy of an electron have an upper limit? Question 12
+(a) Yes, mc2. A small source radiates an electromagnetic wave with a
+e
+(b) Yes, ½ mc2. single frequency into vacuum, equally in all directions.
+e
+(c) Yes, with another value. Indicate the pair of quantities that are decreasing as the
+(d) No. wave moves away from the source:
+(a) the frequency of the wave and an amplitude of electric
+field;
+________________________________________________ (b) the amplitude of the electric field and the intensity of the
+Question 8 wave;
+When you receive a chest x-ray at the hospital, the x-rays (c) the frequency and the intensity of the wave;
+pass through a set of parallel ribs in your chest. Do your ribs (d) the speed of propagation and the wavelength;
+act as a diffraction grating for the X-rays?
+(a) Yes. They produce diffracted beams that can be _______________________________________________
+observed separately. Question 13
+(b) Not to a measurable extent. The ribs are too far apart. Two identical balls with completely smooth surfaces are
+(c) Essentially not. The ribs are too close together. moving uniformly in free space without rotation. At some
+(d) Essentially not. The ribs are too few in number. moment, they undergo a perfectly elastic glancing collision.
+(e) Absolutely not. X-rays cannot diffract. After the collision, the angle between the two vectors of
+velocities is
+(a) 30o
+(b) 45o
+________________________________________
+(c) 90o
+Question 9
+(d) Impossible to answer without knowledge of the angle
+A certain battery has some internal resistance. Can the
+between the two velocities before the collision.
+potential difference across the terminals of the battery be
+________________________________________________
+equal to its emf?
+Question 14
+(a) No.
+Car batteries are often rated in ampere-hours. Does this
+(b) Yes, if the battery is absorbing energy by electrical
+information designate the amount of
+transmission.
+(a) potential that the battery can supply;
+(c) Yes, if more than one wire is connected to each terminal.
+(b) power;
+(d)Yes, if the current in the battery is zero.
+(c) charge;
+(d) energy?
+________________________________________________
+Question 15
+_____________________________________________
+A laser beam travels from glass into air and strikes normally
+Question 10
+the smooth interface between the two media. In the air
+A long solenoid with closely spaced turns carries electric
+(a) the light travels with a lower speed normally to the
+current. Each turn of wire exerts:
+interface;
+(a) an attractive force on the next adjacent turn;
+(b) the light travels with a higher speed normally to the
+(b) a repulsive force on the next adjacent turn;
+interface;
+(c) zero force on the next adjacent turn; or
+(c) the light travels with unchanged speed but bends away
+(d) either an attractive or a repulsive force on the next
+from the normal;
+adjacent turn, depending on the direction of current in
+(d) the light travels with a higher speed and bends away
+solenoid?
+from the normal;
+(e) the light travels with a lower speed and bends away from
+the normal.
+
+4
+Y
+v B
+X
+Slit
+Position on the screen
+yytisnetnI
+________________________________________________
+Question 16
+If only one external force acts on an object,
+(a) it always changes the kinetic energy of the object; Part B: Questions that require graphical solutions
+(b) it always changes the speed of the object;
+(c) it always changes the momentum of the object.
+________________________________________________
+Question 17
+A square conductive frame Question 1
+is moving in the vertical YX A car accelerates uniformly along a curved horizontal
+plane at a constant velocity road, moving from left toward right, as it is seen from a
+v through a region of helicopter. Draw
+uniform magnetic field B (I) the vectors representing the forces exerted by the road
+directed perpendicular to the on the car at points A and B;
+plane of the frame as shown (II) the vector of velocity at point C.
+in the figure. Does charge
+separation occur in the
+frame?
+(a) Yes, with the top positive.
+(b) Yes, with the top negative.
+(c) No.
+(d) Yes, with the left side negative.
+(e) Yes, with the left side positive.
+________________________________________________
+Question 18
+A person spear-fishing from a boat sees a stationary fish a
+few meters away in a direction about 30o below the
+horizontal. The index of refraction of the water is 1.34.
+Assume the dense spear does not change direction when it
+enters the water. To spear the fish, the person should
+(a) aim above where he sees the fish; ________________________________________
+(b) aim precisely at the fish; or Question 2
+(c) aim below the fish? Single-slit diffraction is observed with an interference
+________________________________________________ pattern on a screen behind a slit for a red light source. The
+Question 19 red light source is then replaced by a violet light source of
+A spacecraft built in the shape of a sphere moves past an same intensity, without any changes to distances and the slit
+observer on the Earth with a speed of 0.5c. Approximately width. Use the “Intensity/Position” system of coordinates as
+what shape does the observer measure for the spacecraft as on the Figure below, to sketch the interference pattern on
+it goes by? the screen for the two sources of light. If you think that the
+(a) A sphere. patterns are identical, show just one pattern. If you think
+(b) A cigar shape, elongated along the direction of motion. that the two sources produce different patterns on the
+(c) A round ”pillow” shape, flattened along the direction of screen, make it clear which pattern corresponds to a given
+motion. colour
+(d) A conical shape, pointing in the direction of motion.
+________________________________________________
+Question 20
+One litre of water in a light thin-walled vessel is heated up
+under atmospheric pressure by an electric heater with
+unknown power rating. Initially the temperature of the water
+is 20oC. After the temperature becomes 60oC, it stops
+increasing, while the heater is still on. As the heater is
+unable to boil water, it is turned off. During the first 20
+seconds the water becomes 2 degrees cooler.
+Estimate the power output of the heater.
+(a) 8.40 W.
+(b) 420 W.
+(c) 1260 W.
+(d) 8400 W.
+
+5
+___________________________________________
+Question 3
+A skydiver jumps out of a plane at an altitude of 2000 m
+and begins her descent. At 1500 m, the skydiver reaches her Problem 3
+terminal speed of 55 m/s. When the skydiver descends to a In the arrangement shown in Figure 3C, an object is hung
+height of 500 m from the ground, she deploys her parachute from a string (with linear mass density µ=0.00200 kg/m)
+which rapidly slows her down to 5 m/s to ensure a safe
+that passes over a light pulley. The string is connected to a
+landing. Qualitatively, sketch the (vertical) speed of the
+vibrator (of constant frequency f), and the length of the
+skydiver as a function of height above ground starting just
+after she jumps out of the plane and finishing just before she string between point P and the pulley is L = 2.00 m. When
+lands.
+____________________________________________
+Part C: Problems
+Problem 1
+A stepladder of
+negligible weight is Figure 3C
+constructed as shown in
+Figure 1C. A painter of
+the mass m of the object is either 16.0 kg or 25.0 kg,
+mass 70.0 kg stands on
+standing waves are observed; however, no standing waves
+the ladder 3.00 m from
+are observed with any mass between these values. The
+the bottom. Assuming
+speed of a transverse wave in a string experiencing the
+the floor is frictionless,
+find tension T, is given by: v = T /µ.
+(a) the tension in the (a) What is the frequency of the vibrator?
+horizontal bar (b) What is the total number of nodes observed along the
+connecting the two compound string at this frequency, excluding the nodes
+halves of the ladder, at the vibrator and the pulley?
+(b) the normal forces at (c) What is the largest object mass for which standing waves
+A and B, and
+could be observed?
+(c) the components of
+the reaction force at Fig.1C
+the single hinge C
+that the left half of the ladder exerts on the right half.
+Problem 2
+Two horizontal metal plates, each 100 mm square, are
+aligned 10.0 mm apart, with one above the other. They are
+given equal-magnitude charges of opposite sign so that a
+uniform downward electric field of 2 000 N/C exists in the
+region between them. A particle of mass 2.00 × 10–16 kg and
+with a positive charge of 1.00 × 10–6 C leaves the centre of
+the bottom negative plate with an initial speed of 1.00 × 105
+m/s at an angle of 37.0° above the horizontal.
+(a) Find the trajectory of the particle.
+(b) Which plate does it strike?
+(c) Where does it strike, relative to its starting point?
+______________________________________________
+

@@ -1,0 +1,96 @@
+{
+  "year": 2025,
+  "questions": [
+    {
+      "id": "2025_FR1",
+      "year": 2025,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Two eggs, one hard boiled, the other raw were rotating for a long time at 20 rotations per second. At some point the torque forcing them to rotate was removed. Which one will stop first? Which one will be warmer after it stops? Estimate how much warmer. This will be just an order of magnitude calculation -you are not expected to give an accurate value, just an estimate. The rotational kinetic energy of the sphere is $\\frac{1}{2}I\\omega^2$, where $I$ is the moment of inertia of the sphere about the center of mass, and $\\omega$ is the angular speed. The moment of inertia of a solid sphere is given by the formula $I = \\frac{2}{5}MR^2$, where $R$ is the radius and $M$ is the mass of the sphere.",
+      "parts": [],
+      "given_data": "Rotational frequency: 20 rotations per second; Rotational kinetic energy: $\\frac{1}{2}I\\omega^2$; Moment of inertia of solid sphere: $I = \\frac{2}{5}MR^2$",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2025_FR2",
+      "year": 2025,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A circular copper coil consisting of 90 loops of radius $r_c = 0.35m$, and a total resistance $R = 4.2\\Omega$ is attached to a plastic pulley with radius $r_p = 0.4m$, as shown in the figure below. A non-elastic rope of negligible mass is wrapped around the pulley and attached to a hanging mass $m = 2.0kg$. When released, the rope unwinds without slipping as the hanging mass drops. A uniform magnetic field $B = 0.1T$ is initially perpendicular to the plane of the coil.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Derive an expression and calculate the numerical value of the average terminal speed (the terminal speed might vary slightly during each revolution of the coil)."
+        },
+        {
+          "label": "b",
+          "text": "Sketch a graph of velocity of the hanging mass as a function of time. You don't need to include any numerical values."
+        }
+      ],
+      "given_data": "90 loops, coil radius $r_c = 0.35m$, resistance $R = 4.2\\Omega$, pulley radius $r_p = 0.4m$, hanging mass $m = 2.0kg$, magnetic field $B = 0.1T$",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Diagram showing a circular coil in a magnetic field B (upward arrows), connected to a pulley system with radius rp, and a hanging mass m attached by a rope",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2025_FR3",
+      "year": 2025,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "The blue color of Morpho butterfly's wings is not due to pigment molecules but is instead caused by the light interference. This interference occurs when light reflects off the nano-size, tree-shaped structure on the wing's surface called lamellae (See the picture below). These lamellae consist of thin, transparent layers (54nm thick) with a refractive index of 1.56, separated by air gaps.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Considering the perpendicular reflections from only the top two transparent layers, calculate the size of the air gap between the layers. ($\\lambda_{blue} = 452nm$)"
+        },
+        {
+          "label": "b",
+          "text": "Calculate the wavelength of the light reflected by the wing if it were dipped in liquid nitrogen. Assume that liquid nitrogen would replace the air gaps and would not change the dimensions of the wing. The index of refraction of liquid nitrogen is 1.20."
+        },
+        {
+          "label": "c",
+          "text": "As the butterfly flies, an observer will see the reflections of light incident on the wings at different angles. Considering the reflection from only the top two layers, calculate the wavelengths of the observed light for the angles of incidence of $5°$, $10°$, $20°$, $30°$, $40°$, and $45°$? What is the color of the observed light during flight?"
+        }
+      ],
+      "given_data": "Transparent layer thickness: 54nm; Refractive index of layers: 1.56; $\\lambda_{blue} = 452nm$; Refractive index of liquid nitrogen: 1.20",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Image of a blue Morpho butterfly with a schematic showing transparent layers separated by air gaps in a tree-like structure (figure noted as not to scale)",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

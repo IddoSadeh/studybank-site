@@ -1,0 +1,133 @@
+{
+  "year": 2002,
+  "questions": [
+    {
+      "id": "2002_FR1",
+      "year": 2002,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Passing a car on a two-lane road requires more caution as speeds increase. Apart from maintaining a safe distance between vehicles in the same lane, there should also be enough space between oncoming vehicles while the passing manoeuvre takes place. Take all cars initially, travelling at the same constant speed, to have a length 4.2 m. Suppose further that a passing manoeuvre starts with the passing car at least 3.0 car lengths behind the back of the slower car, and that it ends when the driver has pulled in with the back of her car at least 3.0 car lengths ahead of the front of the slower car (no fish-tailing!). The passing car takes 4.0 s at constant acceleration to reach its final passing speed, which it keeps thereafter. This final speed is 11 km/hr greater than the steady speed of the slower car.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Calculate the total time it takes for such a passing manoeuvre."
+        },
+        {
+          "label": "b",
+          "text": "Now suppose that at the instant the passing driver has reached her overtaking speed, she notices 500 m ahead (from the front of her car) a very large truck coming toward her. The speed limit for trucks on that road, which we shall assume the truck driver respects, is 90 km/hr. The slower car is driving at 100 km/hr. Otherwise, the same conditions as in part (a) apply; assume that for minimal safety she should have completed her manoeuvre at least 2.0 s before the truck and her pass each other. But she cannot abort the manoeuvre without braking unless the front of her car is at least 2.0 m behind the back of the slow car, and she cannot brake safely because another car might be behind her is too close, trying to pass the slow car. Given that it takes her 1.6 s to react after she first sees the truck, discuss whether it is safe for her to continue, or whether she should pull back behind the slower car (if she can!). If it turns out that she is in trouble, could she continue accelerating at the same rate up to a higher speed not exceeding 120 km/hr and pass safely while still pulling in three car lengths in front of the slow car?"
+        }
+      ],
+      "given_data": "Car length = 4.2 m; Initial separation = 3.0 car lengths behind; Final separation = 3.0 car lengths ahead; Acceleration time = 4.0 s; Speed difference = 11 km/hr",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2002_FR2",
+      "year": 2002,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "In Poe's famous horror tale, The Pit and the Pendulum, the hero, who finds himself strapped flat to a horizontal surface, notices an almost motionless pendulum hanging from the ceiling 12 m above him. After some time, he also realizes that the pendulum is descending very slowly toward him with, according to the story, the amplitude of the swings and the speed at the lowest point in each swing both increasing inexorably. What is swinging is in fact a small razor-edged crescent of steel which will eventually sweep across the man's heart. Let's analyze this terrifying situation more closely to see if Poe's spell-binding description actually makes physical sense. To do this, we must make some assumptions which will not affect our final conclusions. The blade of mass m is suspended on the end of a massless cable of length l and is executing simple harmonic motion. Assume that the blade is also slowly lowered in very small increments of l which occur only when it goes through its lowest position in each swing, at θ = 0°, where θ is the angular position with respect to the vertical.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Explain in one short sentence why the angular momentum of the razor at θ = 0° remains constant all through the descent."
+        },
+        {
+          "label": "b",
+          "text": "Let the initial length of the cord be l₀ and the initial maximum speed of the razor be v₀. Obtain an algebraic expression for v as a function of l."
+        },
+        {
+          "label": "c",
+          "text": "Derive an algebraic expression for the kinetic energy of the pendulum at θ = 0° as a function of l."
+        },
+        {
+          "label": "d",
+          "text": "Make a reasonable simplifying assumption about the total mechanical energy. Find (always as a function of l) the maximum gravitational potential energy acquired by the pendulum in a given swing."
+        },
+        {
+          "label": "e",
+          "text": "Find the maximum angular displacement of the razor as a function of l."
+        },
+        {
+          "label": "f",
+          "text": "Discuss the accuracy of Poe's description of the descent of the pendulum."
+        }
+      ],
+      "given_data": "Pendulum height = 12 m above victim; Blade mass = m; Cable length = l (initially l₀); Initial maximum speed = v₀",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2002_FR3",
+      "year": 2002,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "One fine afternoon, as his family watches from some distance, a man walks barefoot on moist ground near a tower supporting electric transmission lines suddenly stops and collapses. His relatives call in emergency services, but these arrive too late to prevent the man's death. The autopsy reveals that the man's heart went into ventricular fibrillation, a fatal condition if not stopped very quickly. His relatives believe that he was electrocuted by some stray electric current from the tower and sue the power company. The court orders a forensic investigation to determine if the company is responsible for the victim's death. The investigation finds that there was indeed an electrical fault at the time the incident occurred: for about 1.0 s, an electric current of 100 A leaked into the ground from a vertical conducting rod whose rounded tip was just below ground, located 10 m away from where the man was standing. The resistivity of the moist ground was about 100 Ω·m.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Assuming that the current spread uniformly into the ground from the rounded tip, find the magnitudes of the current density, J (in A/m²), and of the electric field, E, as a function of the distance r from the tip of the rod. If you don't know the relationship between J and E, you can derive it from Ohm's law and a bit of dimensional analysis."
+        },
+        {
+          "label": "b",
+          "text": "Calculate E and J at the victim's location."
+        },
+        {
+          "label": "c",
+          "text": "Under any suitable approximation, obtain a reasonable estimate of the potential difference between the man's feet."
+        },
+        {
+          "label": "d",
+          "text": "It is reasonable to suppose that the current went up one leg of the man, across the torso (and the heart), and down through the other leg. The commonly accepted values for the resistance of a leg is 300 Ω and that of a torso 1000 Ω in these conditions. From these data, estimate the current across the victim's torso."
+        },
+        {
+          "label": "e",
+          "text": "Using your expression for E(r), obtain the potential difference, ΔV, between the tip of the rod and a point situated at distance r. Take the tip of the rod to have radius a. If the integral is a problem, you can still get the answer by noticing the similarity between E(r) and the field of a well-known charge configuration."
+        },
+        {
+          "label": "f",
+          "text": "Currents ranging from 0.10 A to 1.0 A across a torso can trigger fibrillation in the heart. Could the accident have been caused by the current that leaked from the rod?"
+        }
+      ],
+      "given_data": "Fault current = 100 A; Fault duration = 1.0 s; Distance to victim = 10 m; Ground resistivity = 100 Ω·m; Leg resistance = 300 Ω; Torso resistance = 1000 Ω; Fibrillation current range = 0.10 A to 1.0 A",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

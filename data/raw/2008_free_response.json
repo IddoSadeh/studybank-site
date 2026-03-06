@@ -1,0 +1,83 @@
+{
+  "year": 2008,
+  "questions": [
+    {
+      "id": "2008_FR1",
+      "year": 2008,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A car accelerates uniformly along a curved horizontal road, moving from left toward right, as it is seen from a helicopter.",
+      "parts": [
+        {
+          "label": "I",
+          "text": "Draw the vectors representing the forces exerted by the road on the car at points A and B;"
+        },
+        {
+          "label": "II",
+          "text": "Draw the vector of velocity at point C."
+        }
+      ],
+      "given_data": "",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "A curved horizontal road with points A, B, and C marked, showing a car's path from left to right",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2008_FR2",
+      "year": 2008,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Single-slit diffraction is observed with an interference pattern on a screen behind a slit for a red light source. The red light source is then replaced by a violet light source of the same intensity, without any changes to distances and the slit width. Use the \"Intensity/Position\" system of coordinates as on the Figure below, to sketch the interference pattern on the screen for the two sources of light. If you think that the patterns are identical, show just one pattern. If you think that the two sources produce different patterns on the screen, make it clear which pattern corresponds to a given colour",
+      "parts": [],
+      "given_data": "",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "A diagram showing a slit and screen setup with axes labeled 'Intensity' (vertical) and 'Position on the screen' (horizontal)",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2008_FR3",
+      "year": 2008,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A skydiver jumps out of a plane at an altitude of 2000 m and begins her descent. At 1500 m, the skydiver reaches her terminal speed of 55 m/s. When the skydiver descends to a height of 500 m from the ground, she deploys her parachute which rapidly slows her down to 5 m/s to ensure a safe landing. Qualitatively, sketch the (vertical) speed of the skydiver as a function of height above ground starting just after she jumps out of the plane and finishing just before she lands.",
+      "parts": [],
+      "given_data": "Initial altitude: 2000 m, Terminal speed reached at 1500 m: 55 m/s, Parachute deployed at 500 m height, Speed after parachute deployment: 5 m/s",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

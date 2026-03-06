@@ -1,0 +1,411 @@
+CAP High School/CEGEP Prize Exam
+April 6,2022
+9:00 - 12:00
+Student Information Sheet
+The following information will be used to inform students and schools of the exam results, to determine eligibility
+for some subsequent competitions and for statistical purposes. Only the marking code, to be assigned by the local
+examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS
+Student First Name
+Student Last Name
+Teacher Name
+Address: (StreetnumberandApt)
+(CityandProvince) (PostalCode)
+Telephone: ( ) Email:
+School: Grade:
+Date of Birth:
+Gender: Citizenship:
+If you are not a Canadian citizen, what is your Immigration Status?
+For how many years have you studied in a Canadian school?
+Would you prefer further correspondence in French or English?
+By signing this page I agree that, if my score on this Exam is in the top 20 nationally or in the top 6 in my province,
+my name, my school’s name, and my ranking can be published.
+Student’s signature:
+1
+
+Sponsored by: 1 eV ≈ 1.602×10−19 J
+Electrostaticconstantk =1/4π(cid:15) =8.99×109N·m2/C2
+0
+Permittivity of free space (cid:15) =8.854×10−12 C2/N·m2
+Canadian Association of Physicists; 0
+Boltzmann’s constant k =1.38×10−23 J/K
+Canadian Physics Olympiad; B
+Stefan–Boltzmann constant σ =5.67×10−8 W/m2· K4
+Department of Physics and Astronomy,
+Astronomical Unit (approximate distance from the Sun
+University of British Columbia. to the Earth) 1 AU =1.49598×1011 m
+Radius of the Earth R =6.371×106 m
+E
+Radius of the Sun R =6.96×108 m
+S
+Mass of the Earth 5.97×1024 kg
+2022 Canadian Association of Physicists Mass of the Sun 1.99×1030 kg
+Highschool/Cegep Prize Exam H Molar mass 2.016 g/mol
+2
+O Molar mass 31.998 g/mol
+2
+This is a three-hour exam. National ranking and prizes N Molar mass 28.013 g/mol
+2
+willbebasedonstudents’performanceonsectionsAand
+B of the exam. Performance on questions in section A
+willbeusedtodeterminewhosewrittenworkinsectionB
+will be marked for prize consideration by the CAP Exam
+Section A
+National Committee. Section A consists of 25 multiple-
+choicequestions. ThequestionsinsectionBspanarange
+of difficulty, and may require graphing and/or measure- 1)Abullethitsamovingblockofwood,whichwasthrown
+ment on the graph. Be careful to gather as many of the up in the air as a target. The bullet stays in it. Which
+easier marks as possible before venturing into more diffi- has a bigger change of momentum?
+cult territory. When you are unable to solve any part of
+a question, you may assume a likely answer to that part
+a) The bullet
+and attempt the rest of the question anyway.
+Non-programmable calculators may be used. Answer the
+b) The wood
+multiple-choice questions on the answer sheet pro-
+vided. Most importantly: write your solutions to the
+three long problems on three separate sheets as they c) They are both the same
+will be marked by people in different parts of Canada.
+Good luck. d) Theanswerdependsontheangleofinitialvelocities
+Notice: Fullmarkswillbegiventostudentswhoprovide
+full correct solutions to problems in Section B. Partial
+e) The answer depends on the final velocity
+marks will be given for partial solutions. There are no
+penalties for incorrect answers. The questions are not of
+equal difficulty. Remember that we are challenging the 2) Tom is riding a hot air balloon by himself. There is
+best physics students in Canada; it is possible that even a rope ladder hanging from the top of the balloon and
+the best papers may not achieve an overall score of 80%. reaching into the basket. At a moment when the balloon
+This Exam is meant to be challenging! is stationary in the air, Tom begins climbing the ladder
+with speed s relative to the ladder. Suppose Tom has
+Data mass m, the balloon has mass M. What is the speed of
+the balloon relative to the ground if air resistance can be
+Speed of light c=3.00×108 m/s
+neglected?
+Speed of sound in air = 343 m/s
+Gravitational constant G=6.67×10−11 N·m2/kg2
+Acceleration due to gravity g =9.81 m/s2 a) s
+Standard atmospheric pressure P =1.01×105Pa
+0
+Density of fresh water ρ=1.00×103 kg/m3 b) ms
+M
+Density of ice ρ =916 kg/m3
+i
+Specific heat of water C w =4186 J/(kg·K) c) m s
+Specific heat of ice C =2050 J/(kg·K) M+m
+i
+Latent heat of water L =2260 kJ/kg
+w (cid:113)
+Latent heat of ice L =334 kJ/kg d) m s
+i M+m
+Fundamental charge e=1.60×10−19 C
+Mass of an electron m =9.11×10−31 kg
+e e) 0
+Mass of a proton m =1.67×10−27 kg
+p
+Planck’s constant h=6.63×10−34 J·s
+2
+
+3) Ann and Betty are good at throwing and catching 6) A metal rod of length L is inclined on the rails in a
+balls. They can always throw a ball for the other to uniform magnetic field of flux density B as shown in the
+catchitwithonlynegligiblemotion. Thistimetheywant graph. Iftherodmoveswithconstantvelocityvupward,
+to have more fun and play the game on skateboards as what is the induced emf on the rod?
+shown. Initially they are both at rest. Ann first throws
+the ball to Betty at speed u. After catching the ball,
+Betty throws the ball back to Ann at the same speed.
+After Ann catches the ball, Betty is moving faster than
+Ann by how much? Assuming
+mass of the ball = m
+massofAnnandtheskateboard=massofBettyandthe
+skateboard = M
+a) 2B√Lv
+3
+√
+b) 3BLv
+2
+c) BLv
+d) BLv
+2
+a) Mm+2m2u
+M(M+m) 7) The graph below is showing the wavefronts of a plane
+b) 2m2 u wave with frequency 3 Hz travelling at speed v = 6 m/s
+M(M+m) hitting a board at an angle π/6. What is the phase dif-
+c) 2m u ference between the waves at two points 1 m apart along
+M+m the board?
+d) − 2m u
+M+m
+e) mu
+M
+4)Twoobjectsarelyingatrestonaflat,smoothsurface.
+Suppose the mass of object B is twice that of object A.
+If the same horizontal force is applied to the objects for
+the same length of time, what is the ratio of energy gain
+of object A to that of B?
+a) 1:4 a) π
+2
+b) π
+b) 1:2 3
+c) π
+c) 1:1 4
+d) π
+d) 2:1 6
+8) A uniform wire of cross-sectional area 1 mm2 has re-
+e) 4:1
+sistance3Ω. Avoltagedifferenceof6Visappliedacross
+its two ends. Given that the number of conduction elec-
+5) Air resistance affects a satellite orbiting the Earth in
+tron per volume of the wire is 1.00×1028 m−3, what is
+a nearly circular orbit. Which of the followings does not
+the average velocity of electron along the wire?
+occur?
+a) 3x108 m/s
+a) Anincreaseinthetimeforthesatellitetocomplete
+one revolution b) 3.1x10−3 m/s
+b) A decrease in the total mechanical energy c) 3.1x10−4 m/s
+c) An increase in the linear speed d) 1.3x10−3 m/s
+d) A decrease in the distance to the Earth e) 1.3x10−4 m/s
+3
+
+9) Two metal balls of the same diameter but differ- 12) People were watching a movie showing a car
+ent mass are dropped simultaneously from a high cliff . driving inside a big cylinder on a vertical wall
+Which of the statements below describes best what hap- (see below a frame from this video obtained from
+pens? www.aol.co.uk/2012/04/05). How would you explain
+this?
+a) Theheavieronehasthesameaccelerationfromthe
+start
+b) The lighter one has higher acceleration from the
+start
+c) They both have the same acceleration at the start
+but then the lighter one has higher acceleration.
+d) They both have the same acceleration at the start
+a) Impossible – some kind of film trick
+but then the heavier one has higher acceleration.
+b) The only way to do it would be to add some very
+e) They both have the acceleration all the way to the strongmagnetsinthewheelsanddriveonironwall.
+bottom The attraction force between the magnets and the
+iron wall results in the friction force to be bigger
+than the force of gravity pushing the car down.
+10) A person biking down a 5◦ slope without pedaling or
+braking noticed that her speed is constant at 25 km/h. c) Mostlikely,thereisahugevacuumpumpunderthe
+Approximately what power does she need to bike up this car, which sucks it to the wall and results in a fric-
+hill at the same speed if her weight including the bike is tion force bigger than the force of gravity pushing
+65 kg? the car down.
+d) The car is moving at high speed so a centripetal
+a) Nobody can bike down the hill at constant speed force forcing it to drive in circle inside the cylinder
+without braking. resultsintheforcepushingthecartowardsthewall.
+This force results in the friction force bigger than
+b) 800 W the force of gravity pushing the car down.
+13) A diver shines a beam of light from a laser at 80◦ to
+c) 1400 W
+the surface as shown below. How high above the water
+surface will the laser beam hit the vertical wall placed 2
+d) 400 W mawayfromthepointA(theplacewherethelaserbeam
+hits the surface of the water)?
+e) 2800 W
+a) About 15m
+b) About 8 m
+11) A level (a device for establishing a horizontal plane,
+whichconsistsofasmallsealedtransparenttubecontain- c) About 2 m
+ing liquid and an air bubble) was pushed on the table.
+When the level was accelerated, the bubble: d) About 0.2 m
+e) It will never go above the water
+a) did not move relative to the glass
+b) moved in the direction of acceleration
+c) moved in the direction opposite to the acceleration
+d) moved to the side of the tube
+e) was pushed deeper into the liquid
+4
+
+14)Ifhedirectsthebeam(fromthepreviousquestion)to 17) A child sitting on an inflatable mattress in the swim-
+be 20◦ to the surface, how high above the water surface ming pool had a 20 kg steel weight with him. When he
+will the laser beam hit the vertical wall placed 2 m away dropped it to the bottom of the pool the water level in
+fromthepointA(theplacewherethelaserbeamhitsthe the pool:
+surface of the water)?
+a) About 15m
+b) About 8 m
+c) About 2 m
+d) About 0.2 m
+e) It will never go above the water
+15) We are using X-rays (the wavelength of the order of
+0.1 nm) to measure the spacing between the atoms or
+molecules in crystals. If we use a beam of neutrons for a) Went down
+the same purpose their energy should be of the order of:
+b) Went up
+a) 10−15J
+c) Did not change
+b) 10−10J
+d) Depends on the mass of the child and mattress
+c) 10−20J
+18) A polarizer is a device that lets the component of
+d) 10−5J light parallel to the polarizer’s direction to go through
+and absorb the perpendicular direction. For example, a
+e) 10−25J vertically oriented polarizer only allows the vertical com-
+ponent of the light to go through and the transmitted
+16) What is the voltage across the resistor R 1 in the cir- light is a vertically polarized light. Now we have three
+cuit below? polarizers as shown below. The first polarizer is verti-
+cally oriented and the last one is horizontally oriented.
+The middle one is oriented at an angle θ with respect to
+the vertical direction. When a randomly oriented light
+with intensity L is passed into this series of polarizer,
+what is the intensity of the light after it passes through
+the third polarizer?
+light
+a) (9R /(R +R ))∗R /(R +R +R3) a) 0
+5 5 4 1 1 2
+b) (9R /(R +R ))∗R /(R +R +R ) b) L/8
+4 5 4 1 1 2 3
+c) 0 c) L/4cos2θ
+d) 9R /(R +R +R ) d) L/2cosθsinθ
+1 1 2 3
+e) (36R /(R +R ))∗R /(R +R +R ) e) L/2cos2θsin2θ
+4 5 4 1 1 2 3
+5
+
+19) The figure below shows two rectangular spaceships, 21) A uniform spring is fixed at one end. A mass is at-
+√
+oneatrestandtheotheronemovingatspeedv = 3c/2. tached to the other end and the system oscillates with
+In the stationary frame, they are seen to have the same angular frequency ω. Now suppose the spring is fixed
+length L and their two ends align at t = 0. If we know at both ends, then cut in half and the mass is attached
+that the clock at the left end of the moving spaceship is betweenthetwohalfsprings. Thenewangularfrequency
+showing that the time is at t(cid:48) = 0, what time would the of oscillations is:
+clock at its right end show?
+v
+t’=0 t’=?
+?
+a) ω/2
+b) 2ω
+t=0 t=0
+c) 4ω
+d) ω
+√
+√ e) 2ω
+a) − 3L/c
+22) A car travels with constant speed on a circular road
+√ on level ground as shown below. F is the force of air
+air
+b) 3L/c
+resistance on the car. Which of the other force is the
+horizontal force of the road on the car’s tires?
+√
+c) −L/ 3c
+√
+d) L/ 3c
+e) 0
+a) F
+a
+20) A car has maximum acceleration of a and maximum
+decelerationof−a. Theshortestpossibletimeforthecar b) F
+b
+to begin at rest, then arrive at rest at a point a distance
+∆x away is c) F
+c
+d) F
+d
+(cid:113)
+a) ∆x e) F
+2a e
+23) What is the speed of a particle observed to have a
+(cid:113) momentum of 5 MeV/c and a total relativistic energy of
+b) 4∆x
+a 10 MeV?
+a) c
+(cid:113)
+c) 2∆x
+a b) 0.75 c
+c) 0.5 c
+(cid:113)
+d) 3∆x √
+2a d) c/ 3
+e) 0.25 c
+(cid:113)
+e) ∆x
+a
+6
+
+24) Cherie is doing an experiment; she needs to heat a
+small sample to 700 K. There is only one oven available
+with a maximum temperature of 400 K. Could she heat a)
+the sample to 700 K by using a large lens to focus the
+radiation from the oven onto the sample?
+a) Yes, if the volume of the oven is at least 7/4 the
+volume of the sample. b)
+b) Yes, if the area of the front of the oven is at least
+7/4 the area of the front of the sample.
+c)
+c) Yes, ifthesampleisplacedatthefocalpointofthe
+lens.
+d) No,becauseitwouldviolatetheconservationofen-
+ergy.
+d)
+e) No,becauseitwouldviolatethesecondlawofther-
+modynamics.
+25)
+e)
+End of Section A
+Section B starts on next page
+Abeadslidesonawirewiththeshapeofahelixasshown
+above,whosesymmetryaxisisorientedvertically. Which
+graph on the right best represents the acceleration of the
+bead as a function of time?
+7
+
+1) Thevelocityneeded for the rocket or otherprojectile toorbit aroundthe Earth iscalled the ‘firstcosmic velocity’
+(v ). The velocity required to escape the Earth is called the ‘second cosmic velocity’ (v ). The minimum velocity
+1 2
+hastoattaintoleavethesolarsystemfromtheEarthiscalledthe‘thirdcosmicvelocity’(v ). Intermsoftheradius
+3
+of the Earth R, the speed Earth orbiting around the Sun v and the gravitational acceleration near the Earth surface
+g, find
+a) The ‘first cosmic velocity’ (v )
+1
+b) The ‘second cosmic velocity’ (v )
+2
+c) The ‘third cosmic velocity’ (v )
+3
+Finally, estimate the values of v , v and v using values from the formula page and the expressions obtained above.
+1 2 3
+8
+
+2) A very narrow beam of sound from a directional loudspeaker was directed towards the water at the angle 77◦ to
+the surface as shown by a dashed line on the picture. It was noticed that the fish avoids the dashed area, as they
+dislike the noise. Using the information from the picture calculate the speed of sound in water.
+9
+
+3) Deuterium is the heavy stable isotope of hydrogen, having a proton and neutron in its nucleus (protons and
+neutrons have approximately the same mass). Heavy water is a form of water that contains Deuterium and Oxygen.
+A heavy water nuclear reactor has heavy water between the nuclear fuel rods. Suppose that a neutron from the fuel
+rod has a head-on elastic collision with a Dueterium nucleus.
+a) Find the ratio of the final speed of the deuteron to the initial speed of the neutron.
+b) What percentage of the initial kinetic energy is transferred to the deuteron?
+c) How many such collisions is needed to slow down the neutron from 20 MeV to 0.02 eV?
+d) How would this estimate change if we consider collisions at other angles?
+10
+
+Question 1 a b c d e f
+Question 2 a b c d e f
+Question 3 a b c d e f
+Question 4 a b c d e f
+Question 5 a b c d e f
+Question 6 a b c d e f
+Question 7 a b c d e f
+Question 8 a b c d e f
+Question 9 a b c d e f
+Question 10 a b c d e f
+Question 11 a b c d e f
+Question 12 a b c d e f
+Question 13 a b c d e f
+Question 14 a b c d e f
+Question 15 a b c d e f
+Question 16 a b c d e f
+Question 17 a b c d e f
+Question 18 a b c d e f
+Question 19 a b c d e f
+Question 20 a b c d e f
+Question 21 a b c d e f
+Question 22 a b c d e f
+Question 23 a b c d e f
+Question 24 a b c d e f
+Question 25 a b c d e f
+11
+

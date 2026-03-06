@@ -1,0 +1,113 @@
+{
+  "year": 1998,
+  "questions": [
+    {
+      "id": "1998_FR1",
+      "year": 1998,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A ball of mass $m = 1.0$ kg is dropped from a height $h_1 = 1.0$ m above a hard table top. It rebounds to a height $h_1' < h_1$. The coefficient of restitution between the ball and the table is $e = \\sqrt{h_1'/h_1} = 0.7$. The radius of the ball is $r = 0.5$ cm.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "What is the ratio of the ball's kinetic energy just after it has bounced to that just before it bounces?"
+        },
+        {
+          "label": "b",
+          "text": "If the duration of the collision between the ball and the table top is $\\Delta t = 0.01$ s, what is the average force exerted on the ball by the table?"
+        },
+        {
+          "label": "c",
+          "text": "From what height, $h_2$, above the table top and directly above the first ball, must a second ball be dropped so that it collides with the first ball immediately after the first ball has finished its bounce from the table top. The second ball is identical to the first but with a mass of 100 g."
+        },
+        {
+          "label": "d",
+          "text": "If the coefficient of restitution between the two balls is 1.0, find the rebound height, $h_2'$, of the second ball above the table top."
+        }
+      ],
+      "given_data": "Ball mass m = 1.0 kg, initial height h₁ = 1.0 m, coefficient of restitution e = 0.7, ball radius r = 0.5 cm, collision duration Δt = 0.01 s, second ball mass = 100 g",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "1998_FR2",
+      "year": 1998,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Laminar optical devices are important in the semiconducting electronics industry. It is important to know how light interacts with such an interface and so let's consider the interaction of light with a simple laminar structure. Suppose that a beam of light of intensity $I_o$ shines upon a laminar interface with a small angle of incidence $\\theta_i = 30°$. The interface is a laminar sandwich made of two layers. There is a thick substrate layer, with an index of refraction $n_s = 1.2$, and a thin mid-layer, with an index of refraction $n_l = 1.5$. The index of refraction of air, $n_a$ may be taken to be unity. The thickness of the mid-layer is large enough so that interference effects are not an issue.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Find the angle $\\theta_l$ that light refracted through the air/mid-layer interface makes with the normal. Hence, find the angle of incidence for light impinging upon the substrate. Finally, find the refracted angle, $\\theta_s$, for light passing through the mid-layer/substrate interface."
+        },
+        {
+          "label": "b",
+          "text": "Using your angles from part (a), calculate values for $R$ and $T$ for reflection and transmission at the air/mid-layer, mid-layer/substrate, and mid-layer/air interfaces."
+        },
+        {
+          "label": "c",
+          "text": "Find an expression for the intensity of the light which is reflected from the laminar interface. Evaluate your expression to as many significant figures as possible."
+        }
+      ],
+      "given_data": "Incident angle θᵢ = 30°, substrate index nₛ = 1.2, mid-layer index nₗ = 1.5, air index nₐ = 1.0. For unpolarized light incident upon an n₁/n₂ interface with incident angle θᵢ, the fraction of incident light reflected is: R = (1/2)[(tan²(θᵢ - θₜ)/tan²(θᵢ + θₜ)) + (sin²(θᵢ - θₜ)/sin²(θᵢ + θₜ))]. The fraction of light transmitted is T = 1 - R.",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "A diagram shows a layered structure with incident light at 30° hitting an air/mid-layer interface (nₐ = 1.0), then a mid-layer (nₗ = 1.5), and finally a substrate layer (nₛ = 1.2)",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "1998_FR3",
+      "year": 1998,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A hummingbird has a mass of $m = 10$ g. It hovers in much the same manner as a helicopter except that instead of rotating, its wings sweep back and forth, developing lift on both parts of the stroke. The vertical, cross sectional area that the wings sweep through is $A = 0.01$ m².",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Estimate the mechanical power output $P$ the hummingbird needs to generate for hovering."
+        },
+        {
+          "label": "b",
+          "text": "Estimate the mass of sugar the hummingbird needs to ingest (as nectar) in order to hover for one hour."
+        }
+      ],
+      "given_data": "Hummingbird mass m = 10 g, wing sweep area A = 0.01 m²",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

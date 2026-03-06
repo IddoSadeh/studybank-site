@@ -1,0 +1,349 @@
+Canadian Association of Physicists Question2
+2002 Prize Exam A demonstration apparatus sits on a table in the lab. It con-
+sists of a metal track (shown as a thick solid line in the fig-
+This is a three hour exam. National ranking and prizes will urebelow)alongwhichaperfectlysphericalmarblecanroll
+bebasedonastudent’sperformanceonbothsectionsAand withoutslipping. Inonerun,themarbleisreleasedfromrest
+Boftheexam. However,performanceonthemultiplechoice at a height h above the table on the left section, rolls down
+questions in part A will be used to determine whose written one side and then up the other side without slipping, briefly
+workinpartBwillbemarkedforprizeconsiderationbythe stopping when it has reached h 1 . Assuming the table to be
+National Committee. The questions in part B of the exam horizontalandneglectingairdragaswellasanyenergyloss
+havearangeofdifficulty. Dobecarefultogatherasmanyof duetorolling,
+theeasiermarksaspossiblebeforeventuringintomorediffi-
+cultterritory. Ifananswertopart(a)ofaquestionisneeded
+for part (b), and you are not able to solve part (a), assume a
+h
+likely solution and attempt the rest of the question anyway. h
+q f 1
+No student is expected to complete this exam and parts of
+eachproblemmaybeverychallenging.
+Non-programmablecalculatorsmaybeused. Pleasebevery (a) h < h always, becausethe frictionthat keeps theball
+1
+careful to answer the multiple choice questions on the an- rollingmustdissipateenergy.
+swer card/sheet provided; most importantly, write your so-
+(b) h =h,sincetotalmechanicalenergyisconserved.
+1
+lutions to the three written problems on separate sheets as
+(c) h =honlyiftiltanglesφandθareequal.
+they will be marked by people in different parts of Canada. 1
+Goodluck. (d) h =honlyiftiltangleφislargerthanθ.
+1
+Data
+Question3
+Speedoflight c=3.00×108m/s
+In the movie Jurassic Park, as a jeep is being pursued by a
+Gravitationalconstant G=6.67×10−11N·m2/kg2
+dinosaur, onecanseetheanimalinthejeep’ssiderear-view
+Accelerationduetogravity g =9.80m/s2
+mirroronwhichisprinted: “Objectsinmirrorarecloserthan
+Fundamentalcharge e=1.60×10−19C
+theyappear.” Then,
+Massofelectron m =9.11×10−31kg
+e
+Massofproton m p =1.673×10−27kg (a) themirrorisflat.
+Coulomb’sconstant 1/4π(cid:15) =8.99×109J·m/C2
+o (b) themirrorisconcave.
+Permeabilityoffreespace µ =4π×10−7N/A2
+o
+(c) themirrorisconvex.
+Speedofsoundinair v =343m/s
+s
+Indexofrefractionofwater n =1.33 (d) themirrorcouldbeeitherconvexorconcave.
+w
+Energyconversion 1eV=1.6×10−19J
+Question4
+Alumpofstickychewing-gumwithmassmmovesatspeed
+PartA:MultipleChoice
+v toward another lump of mass M at rest. They collide
+and stick together, both moving at speed V. Nothing else
+Question1 isknownabouttheconditionsunderwhichthecollisiontakes
+Alittlegirlisholdingahelium-filledballoononastringwhile place. Whichofthefollowingstatementsisthemostcorrect?
+ridinginaclosedelevatorgoingdownaverytallbuildingat
+(a) Neither total kinetic energy nor total linear momentum
+constant speed. The elevator shaft is maintained under vac-
+canbeconserved.
+uum. Suddenlytheelevatorcablesnaps,sendingtheelevator
+(b) This is an elastic collision in which both total kinetic
+intofreefall. Inhersurprisethegirlletsgoofthestring. She
+energy and total linear momentum are conserved; the
+isevenmoresurprisedtosee
+finalspeedisV =v/2.
+(a) theballoonrising.
+(c) Thisisaninelasticcollision,andinsuchcollisions,total
+(b) theballoonfloatingdownward. linearmomentumisalwaysconserved; thefinalspeed
+isV =v/4.
+(c) theballoonremainingstationary.
+(d) This is an inelastic collision in which total linear mo-
+(d) the balloon bouncing slowly between the floor and the
+mentum is conserved, provided no external force can
+ceiling.
+deliveranimpulsetothesystemduringthecollision.
+
+CanadianAssociationofPhysicistsPrizeExam 2002
+Question5 Question10
+AccordingtotheArchimedesprinciple, At the shallow end of a swimming pool, the water is 70.0
+cm deep. The diameter of the cone of light emerging from
+(a) abodyimmersedinafluidexperiencesanupwardforce
+the water into the air above, emitted by a light source 10.0
+equaltotheweightofthefluiditdisplaces.
+cmindiameteratthebottomofthepoolandmeasuredbyan
+(b) abodyimmersedinafluidexperiencesanupwardforce observerontheedgeofthepool2.50maway,is’
+equaltotheweightoftheobject.
+(a)1.60m. (b)1.70m.
+(c) abodyimmersedinafluiddisplacesanamountoffluid
+(c)1.75m. (d)1.80m.
+equaltothevolumeofthebody.
+(d) a body immersed in a liquid floats only if its density is
+smallerthanthatoftheliquid. Question11
+Oftwoquantitiesofwaterandsteam,bothat100◦Candhav-
+Question6 ingthesamemass, inimmediatecontactwiththesamearea
+A guitar string of length L, with both of its ends fixed, is ofyourskin,whichislikeliesttocauseamoresevereburn?
+vibrating,producingasoundcomposedofafundamentalfre-
+(a)Thesteam. (b)Thereisnodifference.
+quency and its integer multiples (harmonics). To emphasize
+all the even-numbered harmonics at the expense of the odd- (c)Thewater. (d)Itdependsonthesteam’spressure.
+numbered ones, the furthest distance away from either end
+whereoneshouldholddownthestringis
+Question12
+(a)L/2. (b)L/3. A varying electric current running through a coiled wire in-
+(c)L/4. (d)L/5. ducesanemfacrossthecoil.Thevoltagemeasuredbyavolt-
+meteracrosstheterminalsofthecoil
+Question7
+(a) issmallerorlargerthantheemf,dependingonhowfast
+A sinusoidal wave is moving along a string of uniform den-
+thecurrentchanges.
+sity. Ifyoudoublethefrequencyofthewave,
+(b) islargerthantheemf.
+(a) thewavelengthofthewavedoubles.
+(c) isequaltotheemf.
+(b) thespeedofthewavedoubles.
+(d) issmallerthantheemf.
+(c) thespeedofthewaveremainsaboutthesame.
+(d) theperiodofthewavedoubles. Question13
+Three blocks of identical mass are connected by strings as
+Question8 shown below. The whole system is accelerated to the right
+Twopoint-charges,eachwithachargeof+1µC,liesomefi- alongafrictionless,horizontalsurfacebyaforceF. Thenet
+forceactingonthemiddleblockis
+nite distance apart. On which of the segments of an infinite
+line going through the charges is there a point, a finite dis-
+tance away from the charges, where the electric potential is F
+zero,assumingthatitvanishesatinfinity?
+(a) Betweeenthechargesonly. (a)zero. (b)F.
+(b) Oneithersideoutsidethesystem. (c)2F/3. (d)F/3.
+(c) Impossibletotellwithoutknowingthedistancebetween
+thecharges.
+Question14
+(d) Nowhere.
+A spaceship is moving straight toward Earth with its engine
+turnedoff.LetM andmbethemassesoftheEarthandofthe
+Question9 spaceship, respectively, with R the distance from the space-
+Standing on the ground, you are holding with your hand a shiptothecentreoftheEarth. Asaresultofthegravitational
+string from which is suspended a stone. The reaction force, force of the Earth, in moving from position 1 to position 2,
+associated—inthesenseofNewton’s3rdlaw—withtheforce thekineticenergyofthespaceshipincreasesby
+ofEarth’sgravityonthestone,istheforceexertedby GMm(R −R ) GMm(R −R )
+2 1 1 2
+(a) . (b) .
+(a)thestringonyourhand. (b)thestoneonthestring. R 1 R 2 R 1 R 2
+GMm(R −R ) GMm(R −R )
+2 1 1 2
+(c)yourbodyontheEarth. (d)thestoneontheEarth. (c) . (d) .
+R2 R2R2
+1 1 2
+2
+
+CanadianAssociationofPhysicistsPrizeExam 2002
+Question15 Question19
+Two masses, M and M , attached to the end of springs a Inanink-jetprinter,aninkdropletofmassmisgivenanega-
+a b
+and b, respectively, undergo simple harmonic motion on a tivechargeqbyacomputer-controlledchargingunit,andthen
+horizontal, frictionless surface. If the periods of motion are enters at speed v the region between two deflecting parallel
+identical,andifM = 2M ,theamplitudesAofoscillation platesoflengthLseparatedbydistanced(seefigurebelow).
+b a
+ofthetwomassesarerelatedby All over this region exists a downward electric field which
+√ you can assume to be uniform. Neglecting the gravitational
+(a)A = A / 2. (b)A = A /4.
+b a a b forceonthedroplet,themaximumchargethatitcanbegiven
+(c)A a = A b . (d)noneoftheabove. sothatitwillnothitaplateismostcloselyapproximatedby
+q
+E
+Question16
+v d
+Consideracircuitwhichcontainsabatteryandasingleresis-
+tanceR.IfasecondresistanceisaddedinparallelwithR, L
+(a) thevoltageacrossRwilldecrease.
+mv2E mv2d
+(b) thecurrentthroughRwillincrease. (a) . (b) .
+dL2 EL2
+(c) thetotalcurrentdrawnfromthebatterywillincrease. md m(vL)2
+(c) . (d) .
+E(vL)2 Ed
+(d) thepowerdissipatedinRwilldecrease.
+Question20
+Question17 Fourverylongstraightwirescarryequalelectriccurrentsin
+the +z direction. They intersect the x–y plane at (x,y) =
+StarshipEnterpriseisinacircularorbitofperiod300minutes
+(−a,0), (0,a), (a,0), and (0,−a). The magnetic force ex-
+around planet Thera at an altitude of 1000 km. A Klingon
+ertedonthewireatposition(−a,0)isalong
+spaceship then enters another circular orbit around Thera at
+analtitudeof19000km. Therahasaradiusof5000km. The (a)+y. (b)−y.
+KlingonspaceshipcirclesTherain
+(c)+x. (d)−x.
+(a)600minutes. (b)1200minutes.
+(c)1800minutes. (d)2400minutes. Question21
+Two masses, both equal to 100 g, are suspended at the ends
+Question18 ofidenticallightstringsoflength‘ = 1.0m,attachedtothe
+samepointontheceiling(seefigure). Attimet=0,theyare
+Asimplifiedbolaconsistsoftwo(insteadoftheusualthree)
+simultaneouslyreleasedfromrest,oneatangleθ =10◦,the
+smallbutheavyballsconnectedtoacommonpointbyiden- 1
+other at angle θ = 20◦ from the vertical. The masses will
+ticallengthsofstring. Tolaunchit,youholdoneoftheballs 2
+collide
+overheadandswingtheotherballinahorizontalcircleabout
+yourwrist. Youthenletgoofthebolawhichverysoonstarts
+rotating around its centre of mass, as shown below. Which
+oneofthefollowingstatementsholdstruewhentherotation
+q
+axischangesfrom(1)to(2)?
+q 2
+1
+(1) (2)
+(a) Angular momentum is the same, but angular speed in-
+creases.
+(b) Angularmomentumandangularspeedremainthesame. (a) atθ =0.0◦,0.50slater.
+(c) Angular momentum is the same, but angular speed de- (b) atθ =5.0◦totherightofthevertical,0.16slater.
+creases. (c) atθ =0.0◦,0.13slater.
+(d) Angularmomentumandangularspeedbothincrease. (d) atθ =5.0◦totherightofthevertical,0.10slater.
+3
+
+CanadianAssociationofPhysicistsPrizeExam 2002
+Question22 Question24
+Two trains are moving toward each other on two parallel Ajet-fighterpilot,wishingtoexperienceweightlessnesscon-
+tracks at the same speed with respect to the ground. When ditions, enters a parabolic trajectory closely approximating
+the whistle of one train blows, the frequency of the sound thatofaprojectileinfree-fall. Hisaircraftmustflyatamin-
+heardbyapassengerontheothertrainwillbe imumspeedof400km/hrtokeepcontrol,andheshouldnot
+exceed 600 km/hr so as not to suffer a black-out when he
+(a) greatestiftheairisstill.
+pullsoutofthetrajectoryattheend. Thereisnowindandair
+(b) greatestifawindblowsinthesamedirectionandatthe
+resistancecanbecompensatedbytheengine. Inordertobe
+samespeedastheothertrain.
+weightlessaslongaspossible,heshouldentertheparabolaat
+(c) greatestifawindblowsintheoppositedirectionandat anupwardangle(withrespecttothehorizontalground)of
+thesamespeedastheothertrain.
+(a)33.7◦. (b)41.8◦.
+(d) willnotdependonwhetherthereisawindblowing.
+(c)56.3◦. (d)48.2◦.
+Question23
+Question25
+InanAfricanwildlifereserveyourjeepistravellingatacon-
+stantspeedof105km/hralongsideacheetahrunningatfull Whichoneofthefollowingstatementsisnottrue?Thephase
+speed. Theanimal,frightenedbythejeep’snoise,keepsata differencebetweentwolightwavescanchange
+constantdistanceof60mfromthevehicle. Nothavingpaid
+(a) byreflection.
+much attention to the surrounding landscape, you suddenly
+realize that your jeep is passing the very same spot where it (b) bythewavestravellingalongpathsofdifferentlengths.
+was60secondsbefore. Thespeedofthecheetahis
+(c) bythewavestravellingthroughmediathathaveadiffer-
+(a)105km/hr. (b)94km/hr. entrefractionindex.
+(c)99km/hr. (d)82km/hr. (d) by being transmitted through a boundary between two
+mediawithdifferentrefractionindices.
+∗ ∗ ∗
+PartB
+Problem1 toward her. The speed limit for trucks on that road,
+whichweshallassumethetruckdriverrespects, is90
+Passing a car on a two-lane road requires more caution as
+km/hr. The slower car is driving at 100 km/hr. Oth-
+speeds increase. Apart from maintaining a safe distance be-
+erwise, the same conditions as in part (a) apply. We
+tweenvehiclesinthesamelane,thereshouldalsobeenough
+assume that for minimal safety she should have com-
+spacebetweenoncomingvehicleswhilethepassingmanœu-
+pletedhermanœuvreatleast2.0sbeforethetruckand
+vretakesplace.
+herpasseachother,Butshecannotabortthemanoeu-
+Takeallcarsinitially,travellingatthesameconstantspeed,to
+vrewithoutbrakingunlessthefrontofhercarisatleast
+havealength4.2m. Supposefurtherthatapassingmanœu-
+2.0mbehindthebackoftheslowcar, andshecannot
+vrestartswiththepassingcaratleast3.0carlengthsbehind
+brakesafelybecauseanothercarrightbehindherisalso
+thebackoftheslowercar,andthatitendswhenthedriverhas
+tryingtopasstheslowcar. Giventhatittakesher1.6s
+pulledinwiththebackofhercaratleast3.0carlengthsahead
+toreactaftershefirstseesthetruck,discusswhetherit
+oftheslowercar(nofish-tailing!).Thepassingcartakes4.0s
+is safe for her to continue, or whether she should pull
+atconstantaccelerationtoreachitsfinalpassingspeed,which
+backbehindtheslowercar(ifshecan!). Ifitturnsout
+itkeepsthereafter. Thisfinalspeedis11km/hrgreaterthan
+that she is in trouble, could she continue accelerating
+thesteadyspeedoftheslowercar.
+atthesamerateuptoahigherspeednotexceeding120
+km/hr and pass safely while still pulling in three car
+(a) Calculate the total time it takes for such a passing
+lengthsinfrontoftheslowcar?
+manœuvre.
+(b) Now suppose that at the instant the passing driver has
+reachedherovertakingspeed,shenotices500mahead
+(from the front of her car) a very large truck coming
+4
+
+CanadianAssociationofPhysicistsPrizeExam 2002
+Problem2 Problem3
+In Poe’s famous horror tale, The Pit and the Pendulum, the One fine afternoon, as his family watches from some dis-
+hero, who finds himself strapped flat to a horizontal sur- tance,amanwalkingbarefootonmoistgroundnearatower
+face, notices an almost motionless pendulum hanging from supportingelectrictransmissionlinessuddenlystopsandcol-
+the ceiling 12 m above him. After some time, he also real- lapses. Hisrelativescallinemergencyservices,butthesear-
+izesthatthependulumisdescendingveryslowlytowardhim rivetoolatetopreventtheman’sdeath.
+with,accordingtothestory,theamplitudeoftheswingsand The autopsy reveals that the man’s heart went into ventricu-
+the speed at the lowest point in each swing both increasing lar fibrillation, a fatal condition if not stopped very quickly.
+inexorably. What is swinging is in fact a small razor-edged His relatives believe that he was electrocuted by some stray
+crescentofsteelwhichwilleventuallysweepacrosstheman’s electric current from the tower and sue the power company.
+heart. The court orders a forensic investigation to determine if the
+Let’s analyze this terrifying situation more closely to see companyisresponsibleforthevictim’sdeath.
+if Poe’s spell-binding description actually makes physical The investigation finds that there was indeed an electrical
+sense. To do this, we must make some assumptions which fault at the time the incident occurred: for about 1.0 s, an
+will not affect our final conclusion. The blade of mass m is electriccurrentof100Aleakedintothegroundfromaverti-
+suspended on the end of a massless cable of length l and is calconductingrodwhoseroundedtipwasjustbelowground,
+executingsimpleharmonicmotion. Assumethatthebladeis located 10 m away from where the man was standing. The
+alsoslowlyloweredinverysmallincrementsoflwhichoccur resistivityofthemoistgroundwasabout100Ω·m.
+onlywhenitgoesthroughitslowestpositionineachswing,
+atθ = 0◦,whereθistheangularpositionwithrespecttothe (a) Assuming that the current spread uniformly into the
+vertical. groundfromtheroundedtip,findthemagnitudesofthe
+current density, J (in A/m2), and of the electric field,
+(a) Explain in one short sentence why the angular momen- E, as a function of the distance r from the tip of the
+tum of the razor at θ = 0◦ remains constant all through rod. Ifyoudon’tknowtherelationshipbetweenJ and
+thedescent. E, you can derive it from Ohm’s law and a bit of di-
+mensionalanalysis.
+(b) Lettheinitiallengthofthecordbel andtheinitialmax-
+0
+imum speed of the razor be v . Obtain an algebraic ex- (b) CalculateE andJ atthevictim’slocation.
+0
+pressionforvasafunctionofl.
+(c) Underanysuitableapproximation,obtainareasonable
+(c) Derive an algebraic expression for the kinetic energy of estimateofthepotentialdifferencebetweentheman’s
+thependulumatθ =0◦asafunctionofl. feet.
+(d) Makeareasonablesimplyfingassumptionaboutthetotal (d) Itisreasonabletosupposethatthecurrentwentupone
+mechanical energy. Find (always as a function of l) the leg of the man, across the torso (and the heart), and
+maximumgravitationalpotentialenergyacquiredbythe down through the other leg. The commonly accepted
+penduluminagivenswing. values for the resistance of a leg is 300 Ω and that of
+a torso 1000 Ω in these conditions. From these data,
+(e) Findthemaximumangulardisplacementoftherazorasa
+estimatethecurrentacrossthevictim’storso.
+functionofl.
+(e) Using your expression for E(r), obtain the potential
+(f) Discuss the accuracy of Poe’s description of the descent
+difference,∆V,betweenthetipoftherodandapoint
+ofthependulum.
+situated at distance r. Take the tip of the rod to have
+radiusa. Iftheintegralisaproblem, youcanstillget
+theanswerbynoticingthesimilaritybetweenE(r)and
+thefieldofawell-knownchargeconfiguration.
+(f) Currents ranging from 0.10 A to 1.0 A across a torso
+cantriggerfibrillationintheheart. Couldtheaccident
+have been caused by the current that leaked from the
+rod?
+∗ ∗ ∗ ∗
+5
+

@@ -1,0 +1,100 @@
+{
+  "year": 2019,
+  "questions": [
+    {
+      "id": "2019_FR1",
+      "year": 2019,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A golfer is playing golf facing an inclined plane of inclination angle θ as shown in the figure. When he strikes the ball, the ball flies towards the inclined plane. The ball left the ground at an angle φ relative to the inclined plane. What is the value of φ at which the ball can land the farthest distance along the incline? Neglect air resistance and assume the inclined plane is infinitely long.",
+      "parts": [],
+      "given_data": "Neglect air resistance and assume the inclined plane is infinitely long.",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "A diagram showing a golfer at the bottom of an inclined plane. The incline makes an angle θ with the horizontal, and the ball's trajectory makes an angle φ with the inclined plane.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2019_FR2",
+      "year": 2019,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A water bottle with diameter of 6.5 cm, made of transparent material, is left lying sideways on the wooden floor on the terrace, which is fully exposed to the sun during the whole day.",
+      "parts": [
+        {
+          "label": "1",
+          "text": "Show that it can start a fire on the wood floor."
+        },
+        {
+          "label": "2",
+          "text": "How far away from the line along which the bottle touches floor will the fire start?"
+        },
+        {
+          "label": "3",
+          "text": "What will be the angular position of the sun above the horizon?"
+        }
+      ],
+      "given_data": "The solar constant s (the amount of solar radiation energy hitting the square meter surface) at the Earth surface is about 1 kW/m². Ignition temperature of wood is about 500 °C. The object at the temperature T emits the energy P = eAσ(T⁴ - T₀⁴) where T₀ is the surrounding temperature, σ is the Stefan-Boltzmann constant σ = 5.67 × 10⁻⁸W/m²K and A is the emitting surface. Assume emissivity of wood e = 1. Ignore the heat conductivity of wood. The h/d ratio for the sun is about 1/110. Index of refraction of water n=1.33",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2019_FR3",
+      "year": 2019,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A proton (mass $m_p = 938$ MeV/c²) can be turned into a new particle called delta (Δ⁺, mass $m_Δ = 1232$ MeV/c² when it absorbs a photon (denoted with γ, massless): $p^+ + γ → Δ^+$. In such relativistic process, energy and momentum are necessarily conserved. The total relativistic energy of a particle depends on its momentum p and mass m through $E^2 = (pc)^2 + (mc^2)^2$, where c is the speed of light. For a massless particle, this simplifies to $E = |p|c$. Consider an ultra-relativistic proton, whose speed is close to the speed of light and whose momentum is much larger than $m_p c$ absorbing a very low energy (long wavelength) photon in a head-on collision.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Determine the total relativistic energy of the proton $E_p$ in terms of the (small) energy of the photon $E_γ$. Clearly state and justify all approximations made."
+        },
+        {
+          "label": "b",
+          "text": "If the absorbed photon has wavelength 1.063 mm, what must be the energy of the proton so that it is possible to produce a delta particle in such a head-on collision?"
+        },
+        {
+          "label": "c",
+          "text": "If this photon were to collide with the proton at a different angle, would your answer to part (b) be larger or smaller?"
+        }
+      ],
+      "given_data": "Proton mass $m_p = 938$ MeV/c², Delta particle mass $m_Δ = 1232$ MeV/c², Total relativistic energy formula: $E^2 = (pc)^2 + (mc^2)^2$, For massless particles: $E = |p|c$",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

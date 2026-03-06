@@ -1,0 +1,113 @@
+{
+  "year": 2014,
+  "questions": [
+    {
+      "id": "2014_FR1",
+      "year": 2014,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "When an objects breaks, many of the molecular bonds get detached, but in this process, some of the energy that caused the break turns into heat and sound wave energy. In this problem we want to understand what percentage of the energy that causes a break is actually used to break the molecular bondings. As a simple model we can think of glass as a cubical structure, which means each SiO₂ molecule occupies a cube of side length a, and each cubic molecule site has 1 bonding with each of its neighbouring cubes. The energy required to break this bond is called bonding energy, denoted by E₀. Furthermore, in this problem we are only interested in the order of magnitude of the values we obtain. The following image shows a piece of glass of dimensions 25 mm × 75 mm × 1 mm that is fallen down from a height 150 cm and broken into pieces.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "What was the average speed of the 'tooth' in one of the expansion joints?"
+        },
+        {
+          "label": "b",
+          "text": "At 6 in the morning a piece of tire rubber fell into a crack in front of one of the 'fingers', filling it completely. The rubber was 10 cm long and had a cross section of 4 cm². What was the force acting on the rubber along its length at 2 PM?"
+        },
+        {
+          "label": "c",
+          "text": "What will be the vertical force needed to pull this piece of rubber vertically to remove it?"
+        }
+      ],
+      "given_data": "Density of glass: ρₘ = 2 g/cm³, Molecular mass of SiO₂: M_{SiO₂} = 60 g/mol, Latent heat of Vaporization for glass: L_g = 10 kJ/g. Clearly state all the assumptions that you made while solving this problem. Data: The elastic constant of such a piece of rubber compressed along its length is 28 N/m. The coefficient of friction between the rubber and steel is 0.35. The linear Expansion coefficient of steel 13 × 10⁻⁶ K⁻¹. The linear Expansion coefficient of rubber 77 × 10⁻⁶ K⁻¹.",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Shows a piece of glass with grid lines/measurements, appears to be broken into pieces",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2014_FR2",
+      "year": 2014,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "The main span of the Lion Gate Bridge has a length of 473 m. On each end there are the expansion joints like the one on the photo below. They allow the span to expand horizontally without warping the steel frame of the span. One day the temperature in Vancouver changed from −4 to +15 degrees between 6 in the morning and 2 in the afternoon.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Using the image, estimate the total length of cracks and thereby the total number of broken bonds."
+        },
+        {
+          "label": "b",
+          "text": "Using the latent heat of vaporization for glass, estimate the bonding energy of glass."
+        },
+        {
+          "label": "c",
+          "text": "What percentage of the energy in this collision is used to break the bonds?"
+        }
+      ],
+      "given_data": "Numerical Values listed in Problem 1 apply here as well",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Shows expansion joints of a bridge with metal 'fingers' or teeth that can slide past each other",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2014_FR3",
+      "year": 2014,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A planet without atmosphere in orbit around a star radiates away an amount of energy equal to the amount of energy it receives from the star. Therefore, the average surface temperature of the planet is constant over decades. Imagine an Earth-sized planet without atmosphere orbiting around a Sun-sized star (with the same radiation power as the sun) at a distance of 1 AU (AU is the Astronomical Unit, equal to the Earth-Sun distance).",
+      "parts": [
+        {
+          "label": "a",
+          "text": "What portion of the energy radiated by the star is captured by the planet? (Assume that planet absorbs all the energy it receives)"
+        },
+        {
+          "label": "b",
+          "text": "According to Stefan-Boltzmann's law, the power per area emitted from the surface of an object at temperature T is I = σT⁴ for which σ is Stefan's constant. Assuming the power output of the star is the same as the Sun (3.85 × 10²⁶ W), find the surface temperature of the planet. Compare this result to the average surface temperature of the Earth (288 K). How much difference does the atmosphere make in the surface temperature of Earth? Would Earth be warm enough to be habitable for humans if it did not have an atmosphere?"
+        },
+        {
+          "label": "c",
+          "text": "Neptune is the outer-most planet in our solar system at distance 30.4 AU. If we assume that Neptune absorbs all the energy it receives from the Sun, what is the average uniform surface temperature of this planet?"
+        }
+      ],
+      "given_data": "Stefan-Boltzmann constant σ, Sun's power output = 3.85 × 10²⁶ W, Earth-Sun distance = 1 AU, Neptune distance = 30.4 AU, Earth's average surface temperature = 288 K",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

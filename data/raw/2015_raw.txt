@@ -1,0 +1,418 @@
+CAP High School Prize Exam
+April 14th, 2015
+9:00 - 12:00
+Competitor’s Information Sheet
+The following information will be used to inform competitors and schools of the exam results, to determine
+eligibilityforsomesubsequentcompetitions,andforstatisticalpurposes. Onlythemarkingcode,tobeassigned
+by the local examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS
+Family Name: Given Name:
+Home Address:
+Postal Code:
+Telephone: ( ) Email:
+School: Grade:
+Physics Teacher:
+Date of Birth: Sex: Male Female
+Citizenship:
+If you are not a Canadian citizen, what is your Immigration Status?
+For how many years have you studied in a Canadian school?
+Would you prefer further correspondence in French or English?
+Sponsored by:
+Canadian Association of Physicists (CAP),
+CAP Foundation,
+Canadian Physics Olympiad.
+The University of British Columbia,
+Department of Physics and Astronomy.
+1
+
+Canadian Association of Physicists Part A: Multiple Choice
+2015 Prize Exam
+Each multiple choice question is worth 1 point.
+Thisisathree-hourexam. Nationalrankingandprizes
+will be based on students’ performance on sections A
+and B of the exam. Performance on the questions in Question 1
+part A will be used to determine whose written work As shown in the picture, a ball is attached to a ceiling
+inpartBwillbemarkedforprizeconsiderationbythe and a wall with massless ropes A and B. Rope A is
+CAP Exam National Committee. Part A consists of at angle θ from the vertical direction, and rope B is
+twenty-five multiple-choice questions. The questions horizontal. Thesystemisstatic. IfropeBiscut,what
+in part B span a range of difficulties, and may require is the ratio of the tension in rope A immediately after
+graphing. Be careful to gather as many of the easier it is cut to the tension in A before it is cut?
+marks as possible before venturing into more difficult
+territory. If an answer to part (a) of a question is
+needed for part (b), and you are not able to solve part
+(a), assume a likely solution and attempt the rest of
+the question anyway.
+Non-programmablecalculatorsmaybeused. Pleasebe
+carefultoanswerthemultiple-choicequestionson the
+answer sheet provided;mostimportantly,writeyour
+solutionstothethreelongproblemsonthreeseparate
+sheets as they will be marked by people in different
+parts of Canada. Good luck.
+Notice: Fullmarkswillbegiventostudentswhopro-
+videfullcorrectsolutionstothelongproblems. Partial
+marks will be given for partial solutions. There are no
+penalties for incorrect answers. The questions are not
+of equal difficulty. Remember we are challenging the
+best physics students in Canada; it is possible that
+a) 1
+even the best papers may not achieve an overall score
+b) cosθ
+of 80%. This is meant to be tough!
+c) 1/cosθ
+Data d) cos2θ
+e) cosθsinθ
+Speed of light c=3.00×108m/s
+Gravitational constant G=6.67×10−11N·m2/kg2
+Acceleration due to gravity g =9.80m/s2
+Question 2
+Normal atmospheric pressure P =1.01×105Pa
+0 Consider a circuit made of a wire with uniform resis-
+Density of fresh water ρ=1.00×103kg/m3
+tanceinashapeofacircleasshowninthepicture. The
+Specific heat of water C =4186J/(kg·K)
+w circle is connected diagonally from point A to point B
+Specific heat of ice C =2050J/(kg·K)
+i with the same type of wire. If the current passing
+Latent heat of water L =2260kJ/kg
+w through the circuit is i , what is the current passing
+0
+Latent heat of ice L =334kJ/kg
+i through the wire AB as a function of angle θ?
+Density of ice ρ =916kg/m3
+i
+Fundamental charge e=1.60×10−19C
+Mass of electron m =9.11×10−31kg
+e
+Mass of proton m =1.67×10−27kg
+p
+Planck’s constant h=6.63×10−34Js
+Coulomb’s constant 1/(4π(cid:15) )=8.99×109N·m2/C2
+0
+Boltzmann’s constant k =1.38×10−23J/K
+A.U. Astronomical Unit = 1.49598×1011m: The ap-
+proximate distance from the Sun to the Earth.
+Radius of the Earth R =6.371×106m
+E
+Radius of the Sun R =6.96×108m
+S
+Stefan’s constant σ =5.6704×10−8W/(m2·K4)
+H Molar mass 2.016g/mol
+2 a) 0
+O Molar mass 31.998g/mol
+2 b) θ i
+N Molar mass 28.013g/mol π−θ 0
+2
+c) π−2θi
+π+2 0
+d) π−2θi
+π+4 0
+2
+
+Question 3 Question 5
+The following graph represents the speed of a car as a As shown in the picture a cylinder with volumetric
+function of time. We know that as the car speeds up thermal expansion coefficient of β = 3×10−6/oC is
+c
+there is a friction force with air that can be approxi- completely submerged and floating in a fluid at the
+mately considered to be proportional to the speed of temperature 50oC. The fluid has volumetric thermal
+the car. expansion coefficient of β =8×10−5/oC. If we cool
+f
+downthecylinderandthefluidto0oCwhatpercentage
+of the cylinder’s height will be out of the fluid?
+a) 0.39 %
+b) 0.42 %
+c) 0.78 %
+d) 0.84 %
+Which of the following graphs can be the force of the
+engine as a function of time?
+a) b)
+Question 6
+The amount of sunlight absorbed by the Earth’s at-
+mosphere is approximately proportional to the length
+c) d) of air through which it travels to reach to the Earth.
+Which of the following is closest to the ratio of the
+absorptionofsunlightduringsunsetrelativetotheab-
+sorption when the Sun is exactly at the center of the
+sky? The effective height of the atmosphere is about
+10 km.
+a) 22
+e) b) 36
+c) 45
+d) 64
+Question 7
+A beam of red light is made up of a stream of pho-
+tons. The size of dots represents the photon energy,
+Question 4 and the spacing represents the spatial distribution be-
+If electromagnetic radiation with intensity I (power tween photons.:
+per unit area) is absorbed by a surface, it exerts a
+pressure on the surface that is given by I cosθ, where
+c If we use photons of half the wavelength of red light,
+c is the speed of light and θ is the angle the light
+keepingtheintensityconstant,whatshouldthestream
+rays hit the surface relative to a direction perpendic-
+look like?
+ular to the surface. The Sun has a radiation power of
+P =3.9×1026 W.TheabsorptionofsunlightbyEarth
+causes a force on Earth that pushes it away from the a)
+Sun. Whichofthefollowingisclosesttothemagnitude
+of this force? b)
+a) 107 N c)
+b) 109 N
+c) 1011 N d)
+d) 1013 N
+e)
+3
+
+Question 8
+Topaintthesurfaceofasolidmetalsculptureweneed
+100 buckets of paint. If we melt the sculpture and
+create 1000 smaller but otherwise identical sculptures,
+how many buckets of paint are needed to paint the
+surface of all 1000 small sculptures? Assume that the
+original and the smaller sculptures are all solid with
+no cavity inside.
+a) 10
+b) 100
+c) 1000 Which of the PT diagrams below correctly reflects
+d) 10000 these processes:
+Question 9
+Apersonisstandingonaplatformthatisslidingdown
+the hill as shown in the picture. The slope of the hill
+is 30o with respect to the horizontal. The person is
+standing on a scale positioned on the surface of the
+platformandthescaleisreadingonly150lbswhilehis
+real weight is 160 lbs. Which of the following is the
+coefficient of kinetic friction between the platform and
+the slope?
+Question 11
+Asentencefromabookbyafamousbestsellingauthor
+Dan Brown:
+The pilot nodded. “Altitude sickness. We were at
+sixty thousand feet. You’re thirty percent lighter up
+√
+a) 3 there. Lucky we only did a puddle jump. If we’d gone
+√2
+to Tokyo I’d have taken her all the way up a hundred
+b) 3
+√4 miles. Now that’ll get your insides rolling.”
+c) 3
+√3
+d) 2 Is the statement correct?
+3
+e) there is not enough information to calculate the
+friction coefficient.
+a) Yes
+b) No, the distance from the surface of the Earth have
+to be about 1000 km for a person to feel 30% lighter.
+Question 10 c)No,thepersonwillnotfeellighterathigheraltitude
+Aconstantamountofidealgas,atthetemperatureT , sincetheupwardforceofairplanesenginecompensates
+0
+undergoes a process that changes its pressure from P for the lack of gravity
+0
+to2P . ThenitsvolumeisincreasedfromV to3V at d) No both arguments 2 and 3 are true
+0 0 0
+a constant pressure, as shown on PV diagram:
+4
+
+Question 12 with which the observer sees his image approaching
+him?
+a) 10 km/h
+b) 20 km/h
+c) 25 km/h
+d) 30 km/h
+e) 50 km/h
+Question 15
+Three identical closed containers are filled with gases
+atthesametemperature. ContainerAisfilledwith64
+gofoxygen, containerBis filled with84gofnitrogen,
+andcontainerCisfilledwith8gofhydrogen. Whichis
+the correct ranking of the pressures in the containers?
+The figure above shows some light rays coming from
+point P and passing through a lens. a) P >P >P
+A B C
+Which of the distances shown in the diagram below b) P A >P C >P B
+corresponds to the focal length of this lens? c) P A <P C <P B
+d) P <P <P
+A B C
+e) P =P >P
+A B C
+Question 16
+A ball is placed on a massless spring that is held at an
+angleofθ withrespecttothehorizontal. Thespringis
+then compressed a distance of x and released. When
+the ball reaches the maximum height of its trajectory,
+it is traveling at a speed v. Then a different ball,
+weighing four times as much as the first, is placed on
+the spring which is still at an angle θ. The spring is
+againcompressedadistancexandreleased. Compared
+to the first ball, the second ball reaches a maximum
+height that is
+a) sin2θ times as high.
+b) 1/4 times as high.
+c)
+v2g
+times as high.
+a) 1 x
+d) 4 times higher.
+b) 2
+c) 3
+d) 4 Question 17
+A laser beam propagating in glass (shown in white)
+Question 13
+hitstherectangulargapfilledwithair(showningray).
+A passenger of a train that is moving with the speed
+Which line shown on the figure below represents cor-
+of 25 m/s sees from his seat far from a window that it
+rect path of the beam?
+takes 6 seconds for another train to pass the window
+completely. If the length of the second train is 300 m
+and it is going in the opposite direction, what is its
+velocity?
+a) 15 m/s
+b) 20 m/s
+c) 25 m/s
+d) 30 m/s
+e) 35 m/s
+Question 14 a) 1
+Anobserverisrunningtowardamirrorwithaspeedof b) 2
+15km/h,andthemirrorismovingtowardtheobserver c) 3
+with a speed of 10 km/h. What is the relative speed d) 4
+5
+
+delay: the sound propagates in vacuum at the speed
+of light.
+Question 18 b) The students are wrong. The science advisor of the
+A parallel beam of light of frequency 6.9×1014 Hz en- movie made it according to the laws of physics.
+ters a glass plate with an index of refraction n = 1.5. c) The students are right, because the steel body of
+The frequency of light in the glass is: the spaceship blocks the sound
+d)Thestudentsareright, becausesoundcannotprop-
+a) 4.6×1014 Hz
+agate in the region between the spaceships
+b) 6.9×1014 Hz
+c) 10.36×1014 Hz
+d) 13.8×1014 Hz
+Question 23
+A beam of electrons is sent through a small hole in
+Question 19
+a piece of foil. The places where the electrons hit on
+Students are watching a science fiction movie where
+a distant screen are recorded. If we make the hole
+the blood spilled during a battle on the a spaceship
+smaller, the region where the electrons are hitting the
+withitsenginesturnedoffformspheresfloatinginair.
+screen will be
+The students think it is unphysical.
+a) The students are right, because the blood should
+not form spheres.
+b) The students are wrong, because in free fall the
+liquid should form into spheres due to atmospheric
+pressure.
+c) The students are wrong, because in free fall the liq-
+uidshouldformthespheresduetothesurfacetension.
+d) The students are right, because the gravitational
+forces should immediately pull the blood toward the
+walls or other objects on the ship.
+Question 20 a) bigger
+Unstable elementary particles are produced traveling b) the same
+at v = 0.6c with respect to an observer in a labora- c) smaller
+tory. These particles have a typical intrinsic lifetime
+of 100ns. In the frame of the observer, how long will
+the particles typically last before decaying? Question 24
+AnastronauttakesapendulumuptotheInternational
+a) They won’t decay while moving
+Space Station (ISS). The ISS orbits 330 km above the
+b) 100 ns
+surface of the Earth. The radius of the Earth is 6371
+c) 125 ns
+km. Compared to when it is at ground level, the pen-
+d) 175 ns
+dulum on the ISS swings with a period that is:
+e) 80 ns
+a) 49.3×10−3 times as long.
+b) 0.95 times as long.
+Question 21
+c) 1.05 times longer.
+Achargedmovingobjectentersavolumewhereauni-
+d) 20.3 times longer.
+formfieldispresent. Aftersometimetheobjectmoves
+e) The pendulum does not swing on the ISS.
+inacircularorbit. Whichfieldwaspresentinthisarea?
+a) gravitational
+b) magnetic Question 25
+c) electrostatic Twoobjects,AandB,appeartobethesamelengthin
+d) both a or c are possible a reference frame when A is stationary and B is mov-
+e) both b or c are possible ing with speed 3c along its length. In the frame of
+5
+referencewhere Bis stationaryandA ismoving, what
+is the ratio of their lengths?
+Question 22
+a) LA = 5
+Students are watching a science fiction movie where LB 4
+the crew of one spaceship watches an explosion on the b) LA = 16
+LB 25
+other spaceship. After a short time interval the crew c) LA = 4
+hear the sound of the explosion. The students think it d) L L B A = 5 9
+is unphysical.
+LB 25
+e) LA = 25
+LB 16
+a) The students are right, because there should be no
+6
+
+Part B: Problems
+Problem 1
+The picture below shows a gravel shooter, a fast moving conveyor belt that shoots the gravel to the desired
+point on the construction site. Perform some measurements on the photograph and calculate the speed with
+which the gravel leaves the end of the conveyor belt.
+a) Estimate the uncertainty of your answer.
+b) Estimate how much the air drag (friction) affects the distance to which gravel is shot.
+c) What is the average drag force on the gravel?
+Problem 2
+An astronaut on a spacewalk loses her grip on a circular garter spring (pictured below). Looking at the spring
+she notices that it is rotating around its axis of rotational symmetry at a rate of 300 rpm. The circumference
+of the rotating garter spring is 1% longer than that of the garter spring when at rest. Calculate the spring
+constant of the spring if the radius of the rotating garter spring is R = 20 cm and its mass is 1 kg. (We are
+looking for the spring constant of the spring if it were cut open and stretched along a straight line.)
+7
+
+Problem 3
+The vapor pressure is the pressure at which a liquid can be in equilibrium with its own vapor. When the
+pressure in the liquid is lower than the vapor pressure, the liquid begins to boil. The vapor pressure increases
+with temperature. The following pictures represents the vapor pressure of water, in Torr (760 Torr = 1 atm),
+as a function of temperature in Celsius.
+ImagineatallcolumnofwaterontheMoon,maintainedatatemperatureof50oCandleftopentothevacuum
+atthetop. Uptowhatdepthwillthewaterinthiscolumnboil? TheMoon’sradiusis0.273thatoftheEarth’s
+and its mass 1.23% that of the Earth’s.
+8
+
+Question 1 a b c d e f
+Question 2 a b c d e f
+Question 3 a b c d e f
+Question 4 a b c d e f
+Question 5 a b c d e f
+Question 6 a b c d e f
+Question 7 a b c d e f
+Question 8 a b c d e f
+Question 9 a b c d e f
+Question 10 a b c d e f
+Question 11 a b c d e f
+Question 12 a b c d e f
+Question 13 a b c d e f
+Question 14 a b c d e f
+Question 15 a b c d e f
+Question 16 a b c d e f
+Question 17 a b c d e f
+Question 18 a b c d e f
+Question 19 a b c d e f
+Question 20 a b c d e f
+Question 21 a b c d e f
+Question 22 a b c d e f
+Question 23 a b c d e f
+Question 24 a b c d e f
+Question 25 a b c d e f
+9
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+10
+

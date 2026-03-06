@@ -1,0 +1,353 @@
+CAP High School Prize Exam
+11 April 2003
+9:00 – 12:00
+Competitor’s Information Sheet
+The following information will be used to inform competitors and schools of the exam results, to deter-
+mine eligibility for some subsequent competitions, and for statistical purposes. Only the marking code,
+tobeassignedbythelocalexaminationcommittee,willbeusedtoidentifypapersformarking.
+MarkingCode:
+Thisboxmustbeleftempty.
+PLEASEPRINTCLEARLYINBLOCKLETTERS.
+FamilyName: GivenName:
+HomeAddress:
+PostalCode:
+Telephone:( ) E-mail:
+School: Grade:
+PhysicsTeacher:
+DateofBirth: Sex:
+Citizenship:
+ForhowmanyyearshaveyoustudiedinaCanadianschool?
+WouldyoupreferfurthercorrespondenceinFrenchorEnglish?
+Sponsored by:
+Canadian Association of Physicists
+Canadian Chemistry and Physics Olympiads
+
+Canadian Association of Physicists Question3
+2003 Prize Exam Two identical rooms in a perfectly insulated house are con-
+nected by an open doorway. The temperature in the two
+Thisisathreehourexam.Nationalrankingandprizeswillbe
+rooms are maintained at different values. The room which
+based on a student’s performance on both sections A and B
+containsmoreairmoleculesis
+oftheexam.Performanceonthemultiple-choicequestionsin
+partAwillbeusedtodeterminewhosewrittenworkinpart (a) theonewiththehighertemperature;
+B will be marked for prize consideration by the CAP Exam
+(b) theonewiththelowertemperature;
+NationalCommittee. ThequestionsinpartBhavearangeof
+difficulty.Dobecarefultogatherasmanyoftheeasiermarks (c) theonewiththehigherpressure;
+aspossiblebeforeventuringintomoredifficultterritory.Ifan
+(d) neither,sincebothhavethesamevolume.
+answertopart(a)ofaquestionisneededforpart(b),andyou
+arenotabletosolvepart(a),assumealikelysolutionandat- Question4
+tempttherestofthequestionanyway. Nostudentisexpected
+Threeairplanes,A,BandC,eachreleaseanobjectfromthe
+tocompletethisexamandpartsofeachproblemmaybevery
+samealtitudeandwiththesameinitialspeedv withrespect
+challenging. 0
+to the ground.. At the moment their object is released, A is
+Non-programmablecalculatorsmaybeused. Pleasebevery
+flyinghorizontally,Bisflyingupwardatanangle(cid:18) withre-
+careful to answer the multiple-choice questions on the an-
+spect to the horizontal, and C is flying at the same angle (cid:18)
+swer card/sheet provided; most importantly, write your so-
+asBbutdownwardwithrespecttothehorizontal. Assuming
+lutionstothethreelongproblemsonseparatesheetsasthey
+the ground to be horizontal and neglecting any aerodynami-
+willbemarkedbypeopleindifferentpartsofCanada. Good
+caleffect,thespeedsv atwhichthethreeobjectswillhitthe
+luck.
+groundsatisfy
+Data
+(a)v =v <v ; (b)v >v =v ;
+Speedoflight c=3:00 108m/s A B C A B C
+Gravitationalconstant G=6:67 (cid:2) 10 (cid:0)11Nm2/kg2 (c)v A <v B <v C ; (d)v A =v B =v C .
+RadiusofEarth R =6:38 (cid:2) 103km (cid:1) Question5
+MassofEarth M E =6:0 (cid:2) 1024kg
+MassofSun M E =2:0 (cid:2) 1030kg Twoidenticalconductingspheres,AandB,carryequalelec-
+RadiusofEarth’sorbit R S =1:50 (cid:2) 108km tric charge. They are separated by a distance much larger
+Accelerationduetogravity g
+E
+=
+S
+9:80m/s
+(cid:2)2 thantheirdiameterandexertanelectrostaticforceF oneach
+other. A third identical conducting sphere C is initially un-
+Fundamentalcharge e=1:60 10 (cid:0)19C
+Massofelectron m =9:1 (cid:2) 1 10 (cid:0)31kg chargedandfarawayfromAandB.SphereCisthenbrought
+Massofproton m e =1:673 (cid:2) 10 (cid:0)27kg briefly into contact with sphere A, then with sphere B, and
+Planck’sconstant h= p 6:63 1 (cid:2) 0 (cid:0)34Js finallyremovedfaraway. TheelectrostaticforcebetweenA
+Coulomb’sconstant 1=4(cid:25)(cid:15) =
+(cid:2)
+8:99 10
+(cid:1)9Jm/C2 andBisnow
+o
+(cid:2) (cid:1) (a)3F=8; (b)F=2;
+Speedofsoundinair v =343m/s
+s
+Energyconversion 1eV=1:6 10 (cid:0)19J (c)F=4; (d)F=16.
+(cid:2)
+Question6
+PartA:MultipleChoice
+Question1 On the ground, the Earth exerts a force F0 on an astronaut.
+Aparallel-platecapacitorholdschargeqandisnotconnected The force that the Earth exerts on this astronaut inside the
+to anything. The distance between the plates is now in- SpaceShuttleinlowEarthorbit,300kmabovetheground,is
+creased. Theelectricalenergystoredonthecapacitor
+(a) alittlelessthanF0;
+(a) decreases;
+(b) alittlemorethanF0;
+(b) remainsthesame;
+(c) exactlyF0;
+(c) increases;
+(d) zero,sincetheastronautisweightlesswheninorbit.
+(d) candoanyoftheabove,dependingonhowthecapaci-
+tancechanges.
+Question7
+Question2 Apersonisswingingaballattheendofastringoflength‘
+When a mechanical or electromagnetic wave goes from one withconstantspeedv. TheworkdonebythetensionT inthe
+mediumtoanother,itundergoesachangein stringoveronerevolutionis
+(a)amplitudeonly; (b)bothspeedandwavelength; (a)0; (b)mv2=2;
+(c)speedonly; (d)wavelengthonly. (c)2(cid:25)‘T; (d)undeterminedbytheinformationgiven.
+
+CanadianAssociationofPhysicistsPrizeExam 2003
+Question8 Question13
+Thepressureexertedbyagasonthewallsofthevesselthat An electric current runs counterclockwise in a rectangular
+containsitisduetothe looparoundtheoutsideedgeofthispage, whichliesflaton
+your table. A uniform magnetic field is then turned on, di-
+(a) change in kinetic energy of the gas molecules as they
+rectedparalleltothepagefromtoptobottom. Themagnetic
+strikethewalls;
+forceonthepagewillcause
+(b) collisionsbetweenthegasmolecules;
+(a)theleftedgetoliftup; (b)therightedgetoliftup;
+(c) repulsiveforcebetweenthegasmolecules;
+(c)thetopedgetoliftup; (d)thebottomedgetoliftup.
+(d) change in momentum of the gas molecules as they
+strikethewalls.
+Question14
+Question9
+Acarhasamaximumaccelerationof3:0m/s2. Itsmaximum
+accelerationwhiletowinganothercartwiceitsmass,assum-
+AMartiancreaturesimilartoanEarthfrogjumpswithanini-
+ingnoskidding,wouldbe
+tialspeedv andattainstherangeRoverhorizontalground.
+0
+The maximum possible height reached by the creature, ne-
+(a)3:0m/s2; (b)1:5m/s2;
+glecting friction in the tenuous Martian air, is ((cid:18) being the (c)1:0m/s2; (d)0:5m/s2.
+launchangle):
+R Question15
+(a) tan(cid:18);
+4 Two satellites of equal mass, A and B, are in concentric or-
+R bitsaroundtheEarth. ThedistanceofBfromEarth’scentre
+(b) sin(cid:18);
+4 istwicethatofA.Theratioofthecentripetalforceactingon
+R BtothatactingonAis
+(c) tan(cid:18);
+2 (a)1; (b)p1=2;
+(d) undeterminedbecauseofmissingdata.
+(c)1/2; (d)1/4.
+Question10
+Question16
+Theworkdonetoaccelerateatruckonahorizontalroadfrom
+resttospeedv A proton sits at coordinates(x;y) = (0;0), and an electron
+at (d;h), where d h. At time t = 0, a uniform electric
+(a) islessthanthatrequiredtoaccelerateitfromvto2v; fieldE ofunknown (cid:29) magnitudebutpointinginthepositivey
+(b) isequalthanthatrequiredtoaccelerateitfromvto2v; directionis turnedon. Assumingthat d is large enoughthat
+(c) ismorethanthatrequiredtoaccelerateitfromvto2v; theproton-electroninteractionisnegligible,theycoordinates
+ofthetwoparticleswillbeequal(atequaltime)
+(d) may be any one of the above since it depends on the
+forceactingonthetruckandthedistanceoverwhichit (a) atabouty =d=2000;
+acts.
+(b) atanundeterminedvaluesinceE isunknown;
+Question11 (c) atabouty =d=43;
+If the Earth did not rotate on its axis, the magnitude of the (d) nowhere: theymoveinoppositedirections.
+gravitationalaccelerationattheEquatorwouldbeabout
+Question17
+(a)0.003%larger; (b)0.3%larger;
+InthecircuitbelowweincreasetheresistanceR2. IfI
+j
+isthe
+(c)0.3%smaller; (d)0.003%smaller.
+currentthroughresistorR (j =1;2;3),then
+j
+Question12
+R1
+You want to apply a force on a box so that it moves with
+constant speed across a horizontal floor. The coefficient of
+kinetic friction between the box and the floor is (cid:22)k. Of the
+R3 R2
+fourfollowingcases, theforceyouapplyontheboxwillbe
+smallestwhenyou
+(a) pushonitwithaforceappliedatanangle0<(cid:18) <90 (cid:14)
+downwardfromthehorizontal;
+(a) I1andI2bothincrease;
+(b) pullonitwithaforceappliedatthesameangle(cid:18)asin
+(b) I1decreasesandI2increases;
+(a),upwardfromthehorizontal;
+(c) I1andI2bothdecrease;
+(c) doeither(a)or(b)sincetheappliedforceisthesame;
+(d) I1increasesandI2decreases.
+(d) pushorpullwithaforceappliedhorizontally.
+2
+
+CanadianAssociationofPhysicistsPrizeExam 2003
+Question18 Question22
+Twocarts,AandB,areplacedonanairtrack.Theyaremade In the diagram below, light is incident on the interface be-
+ofthesamematerialandlookidentical. Bisgivenaconstant tween media 1 and 2 at exactly the critical angle, and is to-
+speedandcollideselasticallywithAatrest. Afterthecolli- tally reflected. The light is then also totally reflected at the
+sion, both carts move in the same direction. One concludes interface between media 1 and 3, after which it travels in a
+that direction opposite to its initial direction. The two interfaces
+areperpendicular. Themediamusthavearefractionindexn
+(a) Aishollow;
+suchthat
+(b) Bishollow;
+(c) AandBareidentical;
+(d) anyofthefirstthreeanswersispossible. n n
+1 2
+Question19
+The smallest length scale known in physics is the Planck n 3
+length. Itisanimportantingredientinsomecurrrentcosmo- (a)n1 <n2 <n3; (b)n2
+1
+n2
+3
+n2
+2
+;
+logical theories. Which of the following expressions could (cid:0) (cid:21)
+representthisPlancklength? (seeDatatable.) (c)n2 1 n2 2 n2 3 ; (d)n2 1 + n2 2 n2 3 .
+(cid:0) (cid:21) (cid:21)
+(a)pe2=hc; (b)phc=G; Question23
+(c)pGhc; (d)phG=c3. Forthesakeofscienceaphysicistjumpsattachedtotheend
+of a bungee cord, carrying sound measuring equipment. As
+Question20 he swings up and down vertically with a period of 6:0s, he
+TheWebbspacetelescope,scheduledtobelaunchedin2010, monitors the frequency of a sound source on the ground di-
+willhaveamirror6mindiameter. ComparedwiththeHub- rectlybelowhim,andobservesadifferenceof84Hzbetween
+blespacetelescope,whosemirrorhasa2:4mdiameter,itwill the maximum and minimum frequency of the source. If the
+beabletoresolveobjectswhoseangularseparationisabout sourceemitsataconstant1370Hz, andassumingnosignif-
+icant attenuation of his oscillations over the duration of the
+(a) 2.5timessmaller; measurements,theamplitudeofhisoscillationsisclosestto
+(b) 5timessmaller; (a)10m; (b)20m;
+(c) anorderofmagnitudesmaller; (c)32m; (d)15m.
+(d) the same: the larger mirror only increases the amount Question24
+oflightgathered.
+Apersonpullsaboxalongthegroundatconstantspeed.Con-
+sideringtheEarthandtheboxtogetherasasystem,whichof
+Question21
+thefollowingistrueaboutthenetforceF exertedbytheper-
+AsimplependulumoflengthLissuspendedfromthetopof sononthissystemandtheworkW shedoesonit?
+a flat beam of thickness L=2. The bob is pulled away from
+thebeamsothatitmakesanangle(cid:18) <30 (cid:14) withthevertical, (a)F =0andW =0; (b)F 6 =0andW =0;
+asshowninthefigure.Itisthenreleasedfromrest.If(cid:30)isthe (c)F =0andW =0; (d)F =0andW =0.
+6 6 6
+maximumangulardeflectiontotheright,then
+Question25
+Amagnetmovesinsideacoil.Whichofthefollowingfactors
+L=2
+canaffecttheemfinducedinthecoil?
+L
+(cid:18) I. thespeedatwhichthemagnetmoves
+(cid:30) II. thestrengthofthemagnet
+III. thenumberofturnsinthecoil
+(a)(cid:30)=(cid:18); (b)(cid:30)<(cid:18); (a)Ionly; (b)IandIIonly;
+(c)(cid:18) <(cid:30)<2(cid:18); (d)(cid:30) 2(cid:18). (c)IIandIIIonly; (d)I,IIandIII.
+(cid:21)
+(cid:3) (cid:3) (cid:3)
+3
+
+CanadianAssociationofPhysicistsPrizeExam 2003
+PartB
+Problem1 Problem2
+AtTRIUMF,alargeexperimentalparticleandnuclearphysics Tidesaremainlycausedbythegradient(orvariation)ofthe
+research facility on the campus of the University of British gravitational force of the Moon and of the Sun across the
+Columbia, onemajorprogrammeinvolvestheproductionof Earth’sdiameter.Largewatermasses,suchasEarth’soceans,
+intensebeamsofunstableisotopesofalkaliatoms(potassium bulge along the direction of the gradient and are pinched in
+K, rubidium Rb, francium Fr). These have the advantage the perpendiculardirection. As the Earth rotates, the bulges
+thatsincetheirvalenceshellcontainsonlyoneelectron,their (hightideregions)moveacrossthesurfaceoftheEarth.
+closedshellstructurewhentheyareionisedsimplifiescalcu-
+Now the Bay of Fundy, between New Brunswick and Nova
+lations.
+Scotia,isreputedtohavethehighesttidesintheworld. Their
+Many isotopes are produced when bombarding a calcium amplitudeisonlyaboutametreatthemouth,orentrance,of
+oxide target with 0.5GeV protons from the TRIUMF accel- the bay, whereas at the other end, 260km away, the ampli-
+erator. Until recently, the desired isotope was selected by tude reaches up to 16m. You may assume that the relevant
+meansoftheTRIUMFIsotopeSeparatorOn-Line(TISOL)— speed of water waves in the bay (for very long wavelengths
+now decommissioned and replaced by a combined separa- andshallowenoughdepth)isabout25 m/s. Thebayisnar-
+tor/accelerator called ISAC—and sent as a low-speed beam rowcomparedtoitslength.
+toexperimentalareas.
+Usingtheabovedata,investigatewhethertheunusuallyhigh
+You are asked to design a (much) simplified version of TI-
+tidescouldbetheresultofaresonanceexcitedbytheMoon
+SOL. More specifically, you want to select 38K ions whose
+inthebay. Assumethatthedepthofthebayisuniform,and
+energyis20keV.38Khasamassof6:3 10 (cid:0)26kg. Separa-
+(cid:2) neglecttheinfluenceoftheSun. Hint: calculatetheperiodof
+tionshouldproceedintwosteps,asillustratedbelow.
+thewateroscillationsinthebay.
+Problem3
+The next-generation large space telescope is scheduled for
+launch in 2010. It will be put in orbit around the Sun, in a
+R
+special zone where its distance relative to the Earth and to
+theSuncanremainconstant. Thelocationofsuchzoneswas
+38K
+first calculated in the XVIIIth century by the French-Italian
+mathematicianJoseph-LouisLagrange.
+(1)Velocity
+Selector (2)MassSeparator Eventhoughitreliesonapproximations,Lagrange’sfullso-
+lutionisfairlyinvolved,butyoushouldstillbeabletomake
+a good qualitative guess at a partial solution. Consider two
+point masses, M1 and M2, referring respectively to the Sun
+Thefigureshowsthedesiredpathofa20keV38Kionthrough andtheEarth.Bothorbitaroundtheircommoncentreofmass
+the system. This path is to be achieved by means of suit- atangularvelocity!andwithaperiodofoneyear. Theseor-
+ableuniformtime-independentelectromagneticfields. Inter- bitsarecirculartoagoodapproximation,andthedistanceR
+actionsbetweenionscanbeneglectedhere. betweenM1 andM2 isconstant. SinceM1 M2,themo-
+(cid:29)
+tion of M1 is not detectable at the scale of the figure below
+andcanbeneglected.
+(a) Inthefirststep,outofallions(38Kornot)enteringtheve-
+locityselectorfromtheleft,onlythosethathaveaspeed
+correspondingtoa20keV38Kionshouldbeundeflected.
+Suggest a field configuration that can do this, draw a
+R
+sketch showing the direction of the field(s), and derive
+as muchinformationas you can about the magnitudeof
+thefield(s).
+x
+M M
+1 2
+(b) In the second step, only 38K ions should be deflected
+so that the radius R of their trajectory is 2.1m. Again,
+suggest a suitable field configuration for this, draw a
+sketch showing the direction of the field(s), and derive
+as muchinformationas you can about the magnitudeof
+thefield(s).
+4
+
+CanadianAssociationofPhysicistsPrizeExam 2003
+We wish to find where, on the line that joins M1 and M2, areforxandwhereroughlytheLagrangezonesarepo-
+an object of mass m can sit so that it also orbits the centre sitionedonthexaxis. Provideaqualitativesketchbased
+ofmass(whichwecantaketobeatM1’sposition)withthe ontheabovefigure,andexplainyourreasoning.
+same, constant, angular velocity !. We can also safely as-
+(d) The Webb space telescope (as it is called) will operate
+sumethatmissosmallthatitdoesnotinfluencethemotion
+at a temperature of about 35K and, therefore, it should
+ofM1andM2.
+be shielded from heat sources at all times, while having
+(a) Write down the equation that must be satisfied by the as unobstructed a view of the sky as possible. Discuss
+forcesactingontheorbitingmintermsof!,M1,M2,R which (if any) of your solutions is most suitable for the
+andx,wherexisthedistancebetweenmandM1. Webbtelescope.
+(b) ShowthatinthelimitM2 M1, thisconditioncanbe
+(cid:28) (e) IfthereareotherLagrangezonesoffthexaxis,theycan-
+written
+(cid:11)u2 notbefoundfromtheequationin(b),butwhatwouldbe
+3
+u 1 =
+(cid:0) (cid:6)(1 u)2 theirminimumnumber? Justifyyouranswer.
+(cid:6)
+whereu x=R,and(cid:11) M2=M1.
+(cid:17) (cid:17)
+(c) Donotattempttosolvethisalgebraicequation. Instead, Hint: To a good approximation Kepler’s Third Law for the
+usephysicalargumentstofindhowmanysolutionsthere systemis!2R3 = GM1.
+(cid:3) (cid:3) (cid:3) (cid:3)
+5
+

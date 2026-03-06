@@ -1,0 +1,129 @@
+{
+  "year": 2006,
+  "questions": [
+    {
+      "id": "2006_FR1",
+      "year": 2006,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Sand from a stationary hopper falls onto a moving conveyor belt at a rate of 5.00 kg/s as shown above. The conveyor belt is supported by frictionless rollers and moves at a constant speed of 0.75 m/s under the action of a constant horizontal external force $F_{ext}$ supplied by the motor that drives the belt.",
+      "parts": [
+        {
+          "label": "1",
+          "text": "the force of friction exerted by the belt on the sand;"
+        },
+        {
+          "label": "2",
+          "text": "the external force $F_{ext}$;"
+        },
+        {
+          "label": "3",
+          "text": "the work done by $F_{ext}$ in 1 s;"
+        },
+        {
+          "label": "4",
+          "text": "the kinetic energy acquired by the falling sand each second due to the change in its horizontal motion;"
+        },
+        {
+          "label": "5",
+          "text": "compare and analyse the answers to 3) and 4)."
+        }
+      ],
+      "given_data": "Sand falls at rate of 5.00 kg/s, belt speed is constant at 0.75 m/s",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Shows a hopper dropping sand vertically onto a horizontal conveyor belt moving to the right with external force F_ext. Belt is supported by frictionless rollers.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2006_FR2",
+      "year": 2006,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A source of electric power with electromotive force $E$ and internal resistance $r$, is connected to a resistor.",
+      "parts": [
+        {
+          "label": "1",
+          "text": "Find the power delivered to the resistor as a function of the resistance of the resistor."
+        },
+        {
+          "label": "2",
+          "text": "Find the power produced by the source as a function of the resistance of the resistor."
+        },
+        {
+          "label": "3",
+          "text": "Sketch graphs of these two functions."
+        },
+        {
+          "label": "4",
+          "text": "Treating the efficiency of the source as the ratio of power consumed to power produced by the source, find the efficiency of the source of electric power as a function of the resistance of the resistor and sketch the graph of this function."
+        },
+        {
+          "label": "5",
+          "text": "Find the resistance of the resistor that corresponds to the maximum power delivered to the resistor, and calculate the efficiency for this resistance."
+        }
+      ],
+      "given_data": "EMF = E, internal resistance = r",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2006_FR3",
+      "year": 2006,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A point source of light is moving uniformly along a straight line, which intersects the optical axis of a converging lens under a small angle $\\alpha$ at a distance $2F$ from the lens with a focal distance $F$. The speed of the source of light is $v_0$.",
+      "parts": [
+        {
+          "label": "i",
+          "text": "Draw the lens, the trajectory of the source of light, and the trajectory of its image produced by the lens."
+        },
+        {
+          "label": "ii",
+          "text": "Draw the vector diagram for the velocity of the source of light, the velocity of the image, and the relative velocity of the image with respect to the source."
+        },
+        {
+          "label": "iii",
+          "text": "Determine the minimum relative speed of the image of the source of light with respect to the source."
+        }
+      ],
+      "given_data": "Small angle α, distance 2F from lens, focal distance F, source speed v₀",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

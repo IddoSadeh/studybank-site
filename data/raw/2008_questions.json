@@ -1,0 +1,429 @@
+{
+  "year": 2008,
+  "questions": [
+    {
+      "id": "2008_Q01",
+      "year": 2008,
+      "number": 1,
+      "text": "The figure on the right shows the electric field lines for two point objects separated by a small distance. The charges $q_1$ and $q_2$ can be identified as",
+      "choices": {
+        "a": "$q_1$ is positive; $q_2$ is negative; $q_1/q_2$ = -3;",
+        "b": "$q_1$ is negative; $q_2$ is positive; $q_1/q_2$ = -3;",
+        "c": "$q_1$ is positive; $q_2$ is negative; $q_1/q_2$ = -1/3;",
+        "d": "$q_1$ is negative; $q_2$ is positive; $q_1/q_2$ = -1/3;",
+        "e": "$q_1$ is zero with charges redistributed over the surface of the object 1 due to electrostatic induction; $q_2$ is positive."
+      },
+      "has_diagram": true,
+      "diagram_description": "Electric field lines diagram showing two point charges with field lines radiating outward from one charge and converging toward another, indicating opposite charges",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q02",
+      "year": 2008,
+      "number": 2,
+      "text": "As a simple pendulum swings back and forth, the forces acting on the suspended object may produce positive work, negative work or produce no work. Which of the forces if any from the listed three below does no work on the pendulum?",
+      "choices": {
+        "a": "Tension.",
+        "b": "Air resistance.",
+        "c": "Gravitational force.",
+        "d": "All the forces above do no work on the pendulum.",
+        "e": "All the forces above do work on the pendulum."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q03",
+      "year": 2008,
+      "number": 3,
+      "text": "A baseball bat is made of wood of uniform density. The bat is cut at the location of its centre of mass, as shown. Which of the following is true?",
+      "choices": {
+        "a": "The piece on the right has the smaller mass;",
+        "b": "The piece on the left has the smaller mass;",
+        "c": "Both pieces have the same mass;",
+        "d": "Impossible to determine without knowledge of the wood density."
+      },
+      "has_diagram": true,
+      "diagram_description": "Baseball bat diagram showing a bat cut at its center of mass location",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q04",
+      "year": 2008,
+      "number": 4,
+      "text": "A section of a hollow pipe and a solid cylinder have the same radius, mass and length. They both rotate about their long central axes with the same angular speed. Which of the following is true?",
+      "choices": {
+        "a": "The pipe has a higher rotational kinetic energy.",
+        "b": "The solid cylinder has a higher rotational kinetic energy.",
+        "c": "They have the same rotational kinetic energy.",
+        "d": "Impossible to determine without numerical data for radii, masses and lengths of the pipe and cylinder."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q05",
+      "year": 2008,
+      "number": 5,
+      "text": "In a comet-Sun system, the position of the comet closest to the Sun is called perihelion, and the position of the comet farthest from the Sun is called aphelion. The two quantities that both have their highest values when the comet is in perihelion are:",
+      "choices": {
+        "a": "the acceleration and the potential energy of the comet;",
+        "b": "the speed and the potential energy of the comet-Sun system;",
+        "c": "the speed and the acceleration of the comet;",
+        "d": "the acceleration and the total energy of the comet-Sun system."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q06",
+      "year": 2008,
+      "number": 6,
+      "text": "When an object is at point A on the graph of a simple harmonic motion below, what are respectively, its velocity and acceleration?",
+      "choices": {
+        "a": "both positive;",
+        "b": "both negative;",
+        "c": "positive and zero;",
+        "d": "positive and negative;",
+        "e": "negative and positive."
+      },
+      "has_diagram": true,
+      "diagram_description": "A simple harmonic motion graph showing displacement vs time, with point A marked on the curve at a negative displacement value where the curve is moving upward",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q07",
+      "year": 2008,
+      "number": 7,
+      "text": "Does the kinetic energy of an electron have an upper limit?",
+      "choices": {
+        "a": "Yes, $m_e c^2$.",
+        "b": "Yes, ½ $m_e c^2$.",
+        "c": "Yes, with another value.",
+        "d": "No."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q08",
+      "year": 2008,
+      "number": 8,
+      "text": "When you receive a chest x-ray at the hospital, the x-rays pass through a set of parallel ribs in your chest. Do your ribs act as a diffraction grating for the X-rays?",
+      "choices": {
+        "a": "Yes. They produce diffracted beams that can be observed separately.",
+        "b": "Not to a measurable extent. The ribs are too far apart.",
+        "c": "Essentially not. The ribs are too close together.",
+        "d": "Essentially not. The ribs are too few in number.",
+        "e": "Absolutely not. X-rays cannot diffract."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q09",
+      "year": 2008,
+      "number": 9,
+      "text": "A certain battery has some internal resistance. Can the potential difference across the terminals of the battery be equal to its emf?",
+      "choices": {
+        "a": "No.",
+        "b": "Yes, if the battery is absorbing energy by electrical transmission.",
+        "c": "Yes, if more than one wire is connected to each terminal.",
+        "d": "Yes, if the current in the battery is zero."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q10",
+      "year": 2008,
+      "number": 10,
+      "text": "A long solenoid with closely spaced turns carries electric current. Each turn of wire exerts:",
+      "choices": {
+        "a": "an attractive force on the next adjacent turn;",
+        "b": "a repulsive force on the next adjacent turn;",
+        "c": "zero force on the next adjacent turn; or",
+        "d": "either an attractive or a repulsive force on the next adjacent turn, depending on the direction of current in the solenoid?"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q11",
+      "year": 2008,
+      "number": 11,
+      "text": "An apple is held completely submerged just below the surface of a container of water. The apple is then moved to a deeper point in the water. Compared with the force needed to hold the apple just below the surface, what is the force needed to hold it at a deeper point?",
+      "choices": {
+        "a": "larger;",
+        "b": "essentially the same;",
+        "c": "smaller;",
+        "d": "impossible to determine."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q12",
+      "year": 2008,
+      "number": 12,
+      "text": "A small source radiates an electromagnetic wave with a single frequency into vacuum, equally in all directions. Indicate the pair of quantities that are decreasing as the wave moves away from the source:",
+      "choices": {
+        "a": "the frequency of the wave and an amplitude of electric field;",
+        "b": "the amplitude of the electric field and the intensity of the wave;",
+        "c": "the frequency and the intensity of the wave;",
+        "d": "the speed of propagation and the wavelength;"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q13",
+      "year": 2008,
+      "number": 13,
+      "text": "Two identical balls with completely smooth surfaces are moving uniformly in free space without rotation. At some moment, they undergo a perfectly elastic glancing collision. After the collision, the angle between the two vectors of velocities is",
+      "choices": {
+        "a": "30°",
+        "b": "45°",
+        "c": "90°",
+        "d": "Impossible to answer without knowledge of the angle between the two velocities before the collision."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q14",
+      "year": 2008,
+      "number": 14,
+      "text": "Car batteries are often rated in ampere-hours. Does this information designate the amount of",
+      "choices": {
+        "a": "potential that the battery can supply;",
+        "b": "power;",
+        "c": "charge;",
+        "d": "energy?"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q15",
+      "year": 2008,
+      "number": 15,
+      "text": "A laser beam travels from glass into air and strikes normally the smooth interface between the two media. In the air",
+      "choices": {
+        "a": "the light travels with a lower speed normally to the interface;",
+        "b": "the light travels with a higher speed normally to the interface;",
+        "c": "the light travels with unchanged speed but bends away from the normal;",
+        "d": "the light travels with a higher speed and bends away from the normal;",
+        "e": "the light travels with a lower speed and bends away from the normal."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q16",
+      "year": 2008,
+      "number": 16,
+      "text": "If only one external force acts on an object,",
+      "choices": {
+        "a": "it always changes the kinetic energy of the object",
+        "b": "it always changes the speed of the object",
+        "c": "it always changes the momentum of the object"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q17",
+      "year": 2008,
+      "number": 17,
+      "text": "A square conductive frame is moving in the vertical XY plane at a constant velocity v through a region of uniform magnetic field B directed perpendicular to the plane of the frame as shown in the figure. Does charge separation occur in the frame?",
+      "choices": {
+        "a": "Yes, with the top positive",
+        "b": "Yes, with the top negative",
+        "c": "No",
+        "d": "Yes, with the left side negative",
+        "e": "Yes, with the left side positive"
+      },
+      "has_diagram": true,
+      "diagram_description": "Shows a square conductive frame in an XY coordinate system with X symbols (representing magnetic field B perpendicular to the plane) surrounding it, and an arrow indicating velocity v",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q18",
+      "year": 2008,
+      "number": 18,
+      "text": "A person spear-fishing from a boat sees a stationary fish a few meters away in a direction about 30° below the horizontal. The index of refraction of the water is 1.34. Assume the dense spear does not change direction when it enters the water. To spear the fish, the person should",
+      "choices": {
+        "a": "aim above where he sees the fish",
+        "b": "aim precisely at the fish; or",
+        "c": "aim below the fish"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q19",
+      "year": 2008,
+      "number": 19,
+      "text": "A spacecraft built in the shape of a sphere moves past an observer on the Earth with a speed of 0.5c. Approximately what shape does the observer measure for the spacecraft as it goes by?",
+      "choices": {
+        "a": "A sphere",
+        "b": "A cigar shape, elongated along the direction of motion",
+        "c": "A round \"pillow\" shape, flattened along the direction of motion",
+        "d": "A conical shape, pointing in the direction of motion"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2008_Q20",
+      "year": 2008,
+      "number": 20,
+      "text": "One litre of water in a light thin-walled vessel is heated up under atmospheric pressure by an electric heater with unknown power rating. Initially the temperature of the water is 20°C. After the temperature becomes 60°C, it stops increasing, while the heater is still on. As the heater is unable to boil water, it is turned off. During the first 20 seconds the water becomes 2 degrees cooler. Estimate the power output of the heater.",
+      "choices": {
+        "a": "8.40 W",
+        "b": "420 W",
+        "c": "1260 W",
+        "d": "8400 W"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    }
+  ]
+}

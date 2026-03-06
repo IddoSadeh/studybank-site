@@ -1,0 +1,113 @@
+{
+  "year": 1996,
+  "questions": [
+    {
+      "id": "1996_FR1",
+      "year": 1996,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "The study of the acceleration due to gravity of the earth can be very interesting. A variety of factors, such as the earth's spin and altitude, result in variations of \"g\". In this question, we shall investigate these variations.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "First let's assume that the earth is a non-spinning sphere. Find an expression for \"g\" at the earth's surface in terms of the earth's mass $M_E$, radius $R_E$ and $G$, the gravitational constant."
+        },
+        {
+          "label": "b",
+          "text": "Modify your expression from part (a) to give the acceleration due to gravity at an altitude of $h$ above the earth's surface. Simplify your expression in the limit that $h << R_E$ (the altitude is much less than the radius of the earth). Compare the weights of a 90 kg mountaineer at sea level and at the top of Everest at an altitude of about 8000 m. Hint: you may use the approximation that $1/(1 + x)^2 ≈ 1 - 2x$ if $|x| << 1$."
+        },
+        {
+          "label": "c",
+          "text": "The acceleration due to gravity depends on latitude because the earth is spinning. Find the percentage difference between $g$ at the poles and at the equator due to the earth's spin. Hint: consider the weight of an object at the two locations."
+        },
+        {
+          "label": "d",
+          "text": "Find an expression for the magnitude of the freefall acceleration of an object near the surface of the earth as a function of the latitude $θ$. Assume that the earth is spherical and spinning."
+        }
+      ],
+      "given_data": "For part (b): 90 kg mountaineer, Everest altitude ≈ 8000 m, approximation $1/(1 + x)^2 ≈ 1 - 2x$ if $|x| << 1$",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Spherical Earth diagram showing latitude angle θ and angular velocity ω",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "1996_FR2",
+      "year": 1996,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "It is possible to exert forces on small objects in a controlled fashion using a laser. Consider a laser beam incident upon a small glass prism as shown. The prism has an index of refraction $n = 1.6$ and the laser light is of frequency $f$. The prism is isosceles with a base of $2h$, a height $w$ and a base angle of $α$.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Sketch the possible paths for a ray of laser light entering the top half of the prism."
+        },
+        {
+          "label": "b",
+          "text": "Find the range of values for the angle $α$ so that the light will exit from the long side of the prism as shown and find an expression for the deflection angle $θ$ (you might want to do this first!). Only an approximate numerical value for $α$ is required. Henceforth, you may assume that the angle $α$ satisfies this condition."
+        },
+        {
+          "label": "c",
+          "text": "The momentum $p$ of a photon is related to its energy $E$ by $E = pc$ where $c$ is the speed of light. Find the vertical force exerted on the prism by a stream of $r$ photons per second incident upon its top half. You may express your answer in terms of the deflection angle $θ$."
+        }
+      ],
+      "given_data": "Prism: index of refraction n = 1.6, base = 2h, height = w, base angle = α; Photon momentum relation: E = pc",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Isosceles glass prism with laser beam entering from left, showing dimensions h, w, angle α, and deflection angle θ",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "1996_FR3",
+      "year": 1996,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "In some large lakes, typically ones that are long and narrow, a strange phenomenon occurs. The water will oscillate up and down slowly first being high at one end and low at the other and then later reversing itself. It is much like the water in a bathtub sloshing back and forth and is not to be confused with regular waves on the water's surface. The phenomenon is called \"seiching\".",
+      "parts": [
+        {
+          "label": "a",
+          "text": "How can seiching be initiated and how might it decay?"
+        },
+        {
+          "label": "a",
+          "text": "Make a physical model for seiching and find an expression for a lake's period of oscillation. Possible factors include the lake's length $l$, width $w$, depth $h$, and amplitude of oscillation $δ$. Most simple models might begin by considering the lake to be a rectangular tank of water with the following geometry."
+        }
+      ],
+      "given_data": "Lake parameters: length l, width w, depth h, amplitude of oscillation δ. Reference data: Lake Geneva has length 60 km, average depth 150 m, oscillation period 76 minutes with amplitudes up to 2 m, seiching can last up to a week. Lake Vättern is 123 km long, average depth 50 m, seiches with period about 3 hours.",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Rectangular tank representing lake geometry showing length l, width w, depth h, and oscillation amplitude δ",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

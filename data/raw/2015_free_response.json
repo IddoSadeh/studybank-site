@@ -1,0 +1,87 @@
+{
+  "year": 2015,
+  "questions": [
+    {
+      "id": "2015_FR1",
+      "year": 2015,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "The picture below shows a gravel shooter, a fast moving conveyor belt that shoots the gravel to the desired point on the construction site. Perform some measurements on the photograph and calculate the speed with which the gravel leaves the end of the conveyor belt.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Estimate the uncertainty of your answer."
+        },
+        {
+          "label": "b",
+          "text": "Estimate how much the air drag (friction) affects the distance to which gravel is shot."
+        },
+        {
+          "label": "c",
+          "text": "What is the average drag force on the gravel?"
+        }
+      ],
+      "given_data": "Scale bar shows 100m horizontal distance",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Photograph showing a gravel shooter with a conveyor belt launching gravel in a parabolic trajectory. A scale bar indicates 100m horizontal distance. The trajectory shows multiple positions of gravel particles forming a curved path.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2015_FR2",
+      "year": 2015,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "An astronaut on a spacewalk loses her grip on a circular garter spring (pictured below). Looking at the spring she notices that it is rotating around its axis of rotational symmetry at a rate of 300 rpm. The circumference of the rotating garter spring is 1% longer than that of the garter spring when at rest. Calculate the spring constant of the spring if the radius of the rotating garter spring is R = 20 cm and its mass is 1 kg. (We are looking for the spring constant of the spring if it were cut open and stretched along a straight line.)",
+      "parts": [],
+      "given_data": "Rotation rate: 300 rpm; Circumference increase: 1%; Radius R = 20 cm; Mass = 1 kg",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Image of a circular garter spring with radius R marked, showing the spring coiled in a circle.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2015_FR3",
+      "year": 2015,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "The vapor pressure is the pressure at which a liquid can be in equilibrium with its own vapor. When the pressure in the liquid is lower than the vapor pressure, the liquid begins to boil. The vapor pressure increases with temperature. The following picture represents the vapor pressure of water, in Torr (760 Torr = 1 atm), as a function of temperature in Celsius. Imagine a tall column of water on the Moon, maintained at a temperature of 50°C and left open to the vacuum at the top. Up to what depth will the water in this column boil? The Moon's radius is 0.273 that of the Earth's and its mass is 1.23% that of the Earth's.",
+      "parts": [],
+      "given_data": "Temperature: 50°C; Moon's radius = 0.273 × Earth's radius; Moon's mass = 1.23% × Earth's mass",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Graph showing vapor pressure of water (y-axis in Torr, ranging from 0 to 1600) versus temperature in Celsius (x-axis, ranging from -20 to 120). The curve shows an exponential-like increase in vapor pressure with temperature.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

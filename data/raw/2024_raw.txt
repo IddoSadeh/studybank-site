@@ -1,0 +1,665 @@
+CAP High School/CEGEP Prize Exam
+April 10, 2024
+9:00 - 12:00
+Student Information Sheet
+The following information will be used to inform students and schools of the exam results, to determine
+eligibility for some subsequent competitions and for statistical purposes. Only the marking code, to be
+assigned by the local examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS
+Student First Name
+Student Last Name
+Teacher Name
+Address: (StreetnumberandApt)
+(CityandProvince) (PostalCode)
+Telephone: ( ) Email:
+School: Grade:
+Date of Birth:
+Gender: Citizenship:
+If you are not a Canadian citizen, what is your Immigration Status?
+For how many years have you studied in a Canadian school?
+Would you prefer further correspondence in French or English?
+By signing this page I agree that, if my score on this Exam is in the top 20 nationally or in the top 6 in my
+province, my name, my school’s name, and my ranking can be published.
+Student’s signature:
+
+Sponsored by:
+Specific heat of water C =4186 J/(kg·K)
+w
+Specific heat of ice C =2050 J/(kg·K)
+i
+Latent heat of water L =2260 kJ/kg
+Canadian Association of Physicists; w
+Latent heat of ice L =334 kJ/kg
+Canadian Physics Olympiad; i
+Fundamental charge e=1.60×10−19 C
+Department of Physics and Mass of an electron m =9.11×10−31 kg
+e
+Astronomy, University of British Mass of a proton m =1.67×10−27 kg
+p
+Columbia. Planck’s constant h=6.63×10−34 J·s
+1 eV ≈ 1.602×10−19 J
+Electrostatic constant k = 1/4πϵ = 8.99×109N ·
+0
+m2/C2
+2024 Canadian Association of Permittivityoffreespaceϵ =8.854×10−12C2/N·m2
+0
+Physicists Highschool/Cegep Prize Boltzmann’s constant k =1.38×10−23 J/K
+B
+Exam Stefan–Boltzmann constant σ = 5.67×10−8 W/m2·
+K4
+This is a three-hour exam. National ranking and
+Astronomical Unit (approximate distance from the
+prizeswillbebasedonstudents’performanceonsec-
+Sun to the Earth) 1 AU =1.49598×1011 m
+tionsAandBoftheexam. Performanceonquestions
+Radius of the Earth R =6.371×106 m
+E
+in section A will be used to determine whose written
+Radius of the Sun R =6.96×108 m
+S
+work in section B will be marked for prize considera-
+Mass of the Earth 5.97×1024 kg
+tionbytheCAPExamNationalCommittee. Section
+Mass of the Sun 1.99×1030 kg
+Aconsistsof25multiple-choicequestions. Theques-
+H Molar mass 2.016 g/mol
+2
+tions in section B span a range of difficulty, and may
+O Molar mass 31.998 g/mol
+2
+require graphing and/or measurement on the graph.
+N Molar mass 28.013 g/mol
+2
+Be careful to gather as many of the easier marks as
+possiblebeforeventuringintomoredifficultterritory.
+Whenyouareunabletosolveanypartofaquestion,
+you may assume a likely answer to that part and at- Section A
+tempt the rest of the question anyway.
+Non-programmablecalculatorsmaybeused. Answer 1. Black holes have a very strong gravitational field
+the multiple-choice questions on the answer sheet from which nothing can escape, including light.
+provided. Most importantly: write your solutions to Approximately,whatistheradiusofablackhole
+the three long problems on three separate sheets having mass equal to the sun?
+as they will be marked by people in different parts of Hint: Use Newtonian mechanics.
+Canada. Good luck. A. 1.5km.
+Notice: Full marks will be given to students who
+B. 3km.
+provide full correct solutions to problems in Sec-
+tion B. Partial marks will be given for partial solu- C. 15km.
+tions. There are no penalties for incorrect answers. D. 30km.
+The questions are not of equal difficulty. Remember
+E. The mass is too small to be a black hole.
+that we are challenging the best physics students in
+Canada; it is possible that even the best papers may
+not achieve an overall score of 80%. This Exam is Solution: The black hole should approxi-
+meant to be challenging! mately have escape velocity equal to c
+Data 1 2Gm
+mc2− =0
+2 R
+Speed of light c=3.00×108 m/s
+2GM
+Speed of sound in air = 343 m/s ∴R=
+c2
+Gravitational constant G=6.67×10−11 N·m2/kg2
+Acceleration due to gravity g =9.81 m/s2
+Standard atmospheric pressure P =1.01×105Pa
+0
+Density of fresh water ρ=1.00×103 kg/m3 2. Surface tension is defined as the force per unit
+Density of ice ρ =916 kg/m3 length acting on the surface of a liquid. Due to
+i
+Page 2
+
+the presence of it, the surface of a liquid can be A. 0.5v
+0
+thought of as having a “stretchy” property like a
+B. v
+0
+piece of rubber. Assume that a soap bubble of
+C. 1.5v
+radius R has a surface tension T. What is the 0
+differenceinpressurebetweenthepressureinside D. 2.5v 0
+the bubble and the atmospheric pressure? Note E. 3.5v
+0
+thatasoapbubblehasbothaninnerandanouter
+surface.
+A. T Solution: A.
+2R When the ball rolls without slipping it’s ve-
+B. T
+R locity v and angular frequency ω are related
+C. 2T by v =ωr. Conservation of angular momen-
+R
+tum with respect to the contact point to the
+D. 4T
+R ground:
+E. 8 R T 2mr2× v r =mv 0 r
+∴ v = 1v Note that we have used parallel
+Solution: D 2 0
+axis theorem to find the
+3. Consider the setup below.
+5. The speed of a falling raindrop is 10 m/s. The
+weather forecast predicts 10mm of rain in the
+next hour. If you go out with an umbrella of
+radius 70 cm, approximately what is the force of
+the rain hitting your umbrella?
+A. 0.0002 N
+B. 0.0004 N
+C. 0.002 N
+D. 0.004 N
+E. 0.02 N
+F. 0.04 N
+Let a ,a ,a be the accelerations of m ,m ,m
+1 2 3 1 2 3
+respectively. Which of the following is true?
+Solution: F. Approximate the umbrella as
+A. a =−1(a +a )
+1 2 2 3 aflatdisk,andassumethatwhenaraindrop
+B. a =−1(a −a ) hitstheumbrellaitisstoppedcompletely(it
+1 2 2 3
+C. a = 1(a +a ) doesn’t bounce). Then:
+1 2 2 3
+D. a 1 =a 2 +a 3 dp P Nmv (Ahρ)v
+F = = = = (1)
+E. a =a −a dt T T T
+1 2 3
+(cid:18) (cid:19)
+h
+F. a 1 =−(a 2 +a 3 ) =A ρv =0.04N (2)
+T
+Solution: A
+6. Akitchentowelhangsoffatable. Thecoefficient
+4. Aringofradiusr(andmomentofinertiawithre- of friction between towel and table is µ. What is
+spect to an axis going through its center of mass themaximumfractionofthetowelthatcanhang
+I = mr2) is given an initial velocity v . The before the towel falls?
+0
+ring slides for a little while and then starts to A. µ
+roll. What’s the velocity of the ring when it rolls 1+µ
+without slipping? B. 1− µ µ
+Page 3
+
+C. 1−µ
+µ
+D. µ
+2+µ
+Page 4
+
+9. A mass hangs from the ceiling, held up by two
+Solution: A. Let x be hanging fraction. springs in series. The upper spring has spring
+Equating F g = mxg to F f = m(1 − x)µg constant k 1 , and the bottom spring has spring
+gives the answer. constant k . If the mass is displaced from equi-
+2
+librium by a small amount x, it has a maximum
+speed v. If instead the mass is displaced by x/2,
+7. Neglecting air resistance, a baseball player on
+what is the maximum speed?
+Earth can throw a baseball a distance of 100 m.
+A. 1v
+Ifgravityis5timesweakeronthemoon,howfar 4
+could he throw the ball if he were on the moon? B. 1v
+2
+A. 20 m C. v
+B. 100 m D. k√1+k2 v
+2 k1k2
+C. 500 m E. k√1−k2 v
+D. 2500 m
+2 k1k2
+F. |k √1−k2|v
+2 k1k2
+Solution: C. The distance thrown is d =
+∆tv where ∆t is the flight time of the ball Solution: B. Because the initial displace-
+h
+and v is the horizontal component of the ment is small we can treat the resulting os-
+h
+velocity. From the kinematics in the vertical cillation as harmonic. For a harmonic oscil-
+direction we get ∆t=2v v /g where v v is the latorthemaximumkineticenergyisK max =
+vertical velocity component and g is the ac-
+1mv2whilethemaximumpotentialenergyis
+2
+celerationduetogravity. Therefored∝1/g, U max = 2 1kx2 where k is the effective spring
+so decreasing g by 5 increases the distance constant. Conservation of energy requires
+by 5. K max =U max whichmeansthatv ispropor-
+tional to x. So decreasing x by 2 decreases v
+by 2.
+8. You live on the 20th floor of a building with two
+elevators, A and B, of the same mass. To go to
+floor 20, elevator A accelerates for the first 10 10. A car is speeding up as it goes in a circle. When
+floors, then decelerates for the last 10. Mean- itisatthenorthernmostpointofthecircle,what
+whileelevatorBacceleratesfor5floors,movesat are the possible directions for its acceleration.
+a constant speed for 10 floors, then decelerates
+A. Exactly north
+for 5 floors. Both elevators complete the trip in
+B. Between north and west
+the same amount of time. You are environmen-
+tally conscious, so you want to take the elevator C. Between north and east
+which uses the least electricity. Assume friction
+D. Exactly south
+in the motors and air drag are negligible. Which
+E. Between south and west
+elevator should you take?
+F. Between south and east
+A. Elevator A.
+B. Elevator B.
+C. Both elevators use the same amount of elec- Solution: E or F. It is going in a circle, so
+tricity. it must have a south component of accelera-
+tion. If it’s going counterclockwise and it is
+D. Can’t say without more information.
+speedingup,itmusthaveawestcomponent.
+If it’s going clockwise and it is speeding up,
+Solution: C. Without drag or friction the it must have an east component.
+only energy cost comes from doing work
+against gravity. Since both elevators climb
+the same height, they do the same amount 11. A regular n-gon is a polygon with n equal edges
+of work. as well as equal angles. Positive charges each of
+Page 5
+
+magnitude q sit on the corners of a regular 2024- A. The time to hit the screen increases if B in-
+gon. Thedistancefromeachchargetothecenter creases.
+of the 2024-gon is a. If one of the charges is re- B. The time to hit the screen increases if B de-
+moved, what is the magnitude and the direction creases.
+of electric field at the center?
+C. The time to hit the screen increases if α in-
+A. q , directed away from the removed creases
+4πϵ0a2
+charge.
+D. The time to hit the screen increases if α de-
+B. q , directed towards the removed charge creases.
+4πϵ0a2
+C. 1 q , directed away from the removed E. The time to hit the screen is independent of
+c
+2
+h
+02
+a
+4
+rg
+4π
+e.
+ϵ0a2
+α.
+D. 1 q , directed towards the removed
+20244πϵ0a2
+charge Solution: C. The time to hit the screen de-
+E. 1 q , directed away from the removed pends on the component of v parallel to B.
+20234πϵ0a2
+charge.
+D
+F. 20 1 234πϵ q 0a2 , directed towards the removed T = vcosα
+charge
+14. In the following circuit, each resistor has resis-
+Solution: B
+tance 1 Ω. Find the equivalent resistance of the
+circuit between point A and B.
+12. In the circuit below each resistor has equal resis-
+tance.
+Whereshouldabatterybeconnectedsothateach
+resistor has voltage equal to the emf of the bat-
+tery?
+A. Between A and B
+B. Between B and C A. 3Ω
+2
+C. Between C and D B. 6Ω
+2
+D. Between A and C C. 4Ω
+3
+E. Between B and D D. 8Ω
+3
+E. None of these.
+F. Between A and D
+Solution: C.
+Solution: A, B, C or F
+Due to symmetry along a vertical line going
+through the center and points A and B, the
+circuit can be folded in half along this line.
+13. Anelectronwithaninitialvelocityventersauni-
+In the new circuit all resistor will have resis-
+form magnetic field making an angle α with the
+tance 1/2. This gives
+magneticfieldB. Itthenhitsascreenlocatedat
+a distance D form the entrance point. Assuming
+4
+0<α<900, which of the following statement is R =2.(1/2)+(1/2)||1= Ω
+eq 3
+true?
+Page 6
+
+15. Wires A and B lie in the x−y plane. The wires Solution: D.The current intheloop isde-
+carry equal currents in the same direction. A terminedbythenegativerateofchangeofthe
+chargedparticlepassespreciselybetweenthetwo magnetic flux through the loop, using the
+wires, heading in the +zˆ direction. What hap- right hand rule to define what apositive
+pens to the velocity⃗v of the particle over time? current is.Consider theareaenclosed bythe
+A. The direction and magnitude change. loop,anddefine thenormal direction toface
+upward. With thisconvention themagnetic
+B. The direction changes but the magnitude re-
+flux through the loop decreases then in-
+mains constant.
+creases asthemagnet passes through. This
+C. The direction remains constant but the mag- means that thecurrent intheloop increases
+nitude changes.
+than decreases to 0 than ingresses again in
+D. The direction and magnitude both remain the opposite direction,thendecreasesbackto
+constant. zero. Note that choosing the opposite
+directionforthenormalwillresultinthesame
+finalconclusion.
+Solution: B. There is a non-trivial mag-
+netic field, so the particle will change direc-
+17. Two charges A and B are held at a fixed dis-
+tion. But the speed remains the same be-
+tance apart. A material M is placed between
+cause magnetic forces don’t do any work.
+the charges, where M is either a block of alu-
+minum or a block of rubber. M does not touch
+the charges. What happens to the magnitude of
+16. A permanent magnet is dropped north-first
+the electromagnetic force on charge A as a result
+throughaconductingloop. Whichdiagramcould
+of the presence of the material?
+represent the current in the loop as a function
+A. Decreases substantially for both materials.
+of time? (A positive value indicates a clockwise
+current, and a negative value a counterclockwise B. Increases substantially for both materials.
+current, when viewed from above.)
+C. Remains approximately the same for both
+materials.
+D. Increases for one material, decreases for the
+other.
+E. Increases for one material, remains same for
+A.
+the other.
+F. Decreases for one material, remains same for
+the other.
+B.
+Solution: A.Thechargecarriersinthealu-
+minum will redistribute to shield charge A
+from charge B, thus decreasing the force on
+A. The rubber has a dielectric constant sub-
+stantially different from the vacuum so that
+C.
+itwillalsoresultintheforceonAdecreasing.
+18. Two permanent magnets A and B are held at a
+fixed distance apart. A material M is placed be-
+D. tween the magnets, where M is either a block of
+aluminumorablockofrubber. Mdoesnottouch
+themagnets. Whathappenstothemagnitudeof
+theelectromagneticforceonmagnetAasaresult
+of the presence of the material?
+A. Decreases substantially for both materials.
+Page 7
+
+B. Increases substantially for both materials.
+Solution: D.
+C. Remains approximately the same for both
+materials. Since the capacitors are uncharged, there
+is almost no voltage difference across them.
+D. Increases for one material, decreases for the
+This allows a significant amount of current
+other.
+to pass through the capacitor in the mo-
+E. Increases for one material, remains same for mentsimmediatelyaftertheswitchisclosed.
+the other. Hence, a large portion of the current flow
+F. Decreases for one material, remains same for through D-E-O-A.
+the other.
+20. In the circuit below, all resistors are identical
+Solution: C. Both materials have magnetic with resistance R and all capacitors are identi-
+permeabilities very close to that of air, so cal with capacitance C. A battery with voltage
+neithermaterialwillsubstantiallychangethe V isconnectedbetweenpointsAandD.Initially,
+force on magnet A. the switch isopened and allof the capacitorsare
+uncharged. Whichofthefollowingoptionsistrue
+a long time after the switch is opened? Assume
+19. In the circuit below, all resistors are identical theinternalresistanceofthebatteryisnegligible.
+with resistance R and all capacitors are identi-
+cal with capacitance C. A battery with voltage
+V isconnectedbetweenpointsAandD.Initially,
+the switch isopened and allof the capacitorsare
+uncharged. Whichofthefollowingoptionsistrue
+right after the switch is closed? Assume the in-
+ternal resistance of the battery is negligible.
+A. Mostofthecurrentonlyflowsthroughallca-
+pacitors.
+B. Most of the current only flows through resis-
+tors OF, FE, and OD.
+C. Most of the current only flows through resis-
+tors AB, OB, and OD.
+A. Mostofthecurrentonlyflowsthroughallre- D. Almost no current flows through any capaci-
+sistors. tors.
+B. Most of the current only flows through resis-
+tors AB, FE, and CD.
+Solution: C.
+C. Most of the current only flows through resis-
+Almost no current flows through the capaci-
+tors OB, OF, and OD.
+tors when they are almost full. Hence, most
+D. Almostnocurrentflowsthroughanyresistor. of the current flows through D-O-B-A.
+21. One mole of an ideal gas inside an engine goes
+through a process labelled by 1 → 2 → 3 → 1.
+The Volume vs Temperature graph during this
+process is shown below.
+Page 8
+
+23. The gas in the Earth’s atmosphere is more dense
+closer to the Earth’s surface. Based on this fact,
+wheredoyouexpectthesuntobewhenyoulook
+directly at it? (Assume the sun isn’t directly
+above you.)
+A. Slightly higher than it appears
+B. Slightly lower than it appears
+C. Slightly right of where it appears
+D. Slightly left of where it appears
+Consider the following statements:
+Solution: B. Treat the atmosphere as a
+i. Work done by the gas during 2−3 is zero. spherical shell with a higher refractive index
+ii. The pressure during 3−1 is constant. than the vacuum of space. Then light rays
+from the sun will bend towards the normal
+iii. The total work done by the gas during
+as they enter the atmosphere. This means
+1−2−3−1 is zero.
+that the sun appears higher than it actually
+Which of these statements is/are true? is.
+A. i
+B. ii
+24. You want to magnify an ant using a magnifying
+C. iii glasswithafocallengthof20cm. Howfarshould
+D. i and ii you place your magnifying glass from the ant?
+E. ii and iii A. Less than 20 cm
+F. i, ii and iii B. Approximately 20 cm
+C. More than 20 cm
+Solution: D D. It depends on other factors
+22. Howdoesincreasingthepressureaffectthefreez-
+Solution: A. You want to create a virtual
+ing temperature T and boiling temperature T
+f b image, so the ant needs to be within the fo-
+of most liquids?
+cal length of the glass.
+A. It decreases T and T .
+f b
+B. It increases T and T .
+f b
+25. Two very large mirrors intersect each other at
+C. It decreases T and increases T .
+f b
+the right angle. Suppose, you are standing at
+D. It increases T and decreases T .
+f b an equal distance from each mirror. How many
+images of yourself will you see in the mirrors?
+Solution: B. Increasing pressure makes a A. 2
+substance more compact. Since solids are
+B. 3
+generallymorecompactthanliquids,andliq-
+uids are more compact than gasses, increas- C. 4
+ing pressure means that a liquid will gener- D. 5
+ally tend to freeze at a higher temperature,
+E. More than 5
+and a gas will tend to condense at a higher
+temperature.
+Page 9
+
+Section B
+1. The juggler in the photograph rotates the umbrella in such a way that the disk rolling on the umbrella
+stays in the same place in the room reference frame, as shown:
+a. The coefficient of a rolling friction C is a property of a rolling object and the surface on which it
+rolls. ItisdefinedbytheequationF =CN,whereF isthemagnitudeoftheappliedforcerequired
+fortheobjecttorollataconstantvelocity,andN isthemagnitudeofthenormalforceoftheobject
+relative to the surface. Make appropriate measurements on the photo and some approximations to
+figure out what is the coefficient of rolling friction of the disk over the umbrella material.
+Solution:
+N =F cosα (2 marks) (3)
+g
+F =F sinα (2 marks) (4)
+g
+C =F/N =tanα (2 marks) (5)
+α=15±2◦ (1 + 1 marks) (6)
+b. Using the photo can you determine the angular velocity of the rotation of the umbrella?
+Page 10
+
+Solution: No, withoutdragobjectcanbestationaryatdifferentangularvelocities. (2marks)
+Page 11
+
+2. Birefringence is an optical phenomena where a birefringent crystal refracts light in two different direc-
+tions, resulting in the separation of a single incident light beam into two polarized rays with different
+refractive indices (n and n ). These two rays are often called the ordinary ray (o-ray) and the extraor-
+o e
+dinary ray (e-ray). Each ray travels through the crystal at a different speed.
+Part 1: Refraction from a birefringent crystal
+Whenanelectromagneticwavepropagatesinamediumwitharefractiveindexn,thechangeinoscillation
+phase after going through a distance d can be expressed as follows.
+2πnd
+ϕ=
+λ
+a. Suppose we have a birefringent crystal with thickness d. If a beam of light with a wavelength of λ
+propagatesthroughthecrystal,expressthephasedifferencebetweentheordinaryandextraordinary
+ray, ϕ, in terms of λ, n , n , and d.
+e o
+A beam of linearly polarized polychromatic light, whose electric field’s vector makes an angle θ = 45◦
+with the x-axis, falls normally on a crystal. The refractive index for the electric field component in the
+x-direction is n = 2.647, and the refractive index for the electric field component in the y-direction is
+o
+n =2.693.
+e
+b. Write down the conditions for the phase difference, ϕ, that causes the transmitted light to have:
+Page 12
+
+i. Maximum intensity
+ii. Minimum intensity
+c. It is known that the wavelengths for three primary colors are:
+– λ = 680 nm
+red
+– λ = 530 nm
+green
+– λ = 470 nm
+blue
+Find the minimum thickness of the crystal, so that the transmitted light:
+i. Appears blue.
+ii. Appears yellow.
+Part 2: Birefringent crystal and polarizers
+A polarizer is an optical device that transmits electromagnetic waves with a particular orientation. For
+example,alinearpolarizeratθwillselectivelytransmitthecomponentoflightorientedatθasillustrated
+in the figure below.
+Page 13
+
+Now,ourbirefringentcrystalisplacedbetweentwolinearpolarizers. Thefirst(front)polarizerisaligned
+θ = 45◦ clockwise with respect to the y-axis, while the second (rear) one is aligned θ = 45◦ counter-
+clockwise with respect to the y-axis as shown in the figure below. An unpolarized light propagates
+normally to the first polarizer.
+d. Write down the conditions for the phase difference, ϕ, that causes the transmitted light to have:
+i. Maximum intensity
+ii. Minimum intensity
+e. Find the minimum thickness of the crystal, so that the transmitted light:
+i. Appears blue.
+ii. Appears yellow.
+Page 14
+
+Solution:
+a. The phase difference between the ordinary and extraordinary rays is proportional to the dif-
+ference in optical path length (OPL) of both rays.
+2πd
+ϕ= (n −n )
+λ e o
+b. After passing through the first polarizer, the polarized light has equal x and y components of
+amplitude with no phase difference between both components.
+Hence, the maximum transmitted intensity corresponds to the following condition.
+π
+ϕ=− +2mπ
+2
+(cid:18) (cid:19)
+λ 1
+∆n= 2m−
+2d 2
+Where m = 0,1,2,..
+Usingasimilaridea,theminimumtransmittedintensitycorrespondstothefollowingcondition.
+π
+ϕ= +2mπ
+2
+(cid:18) (cid:19)
+λ 1
+d= 2m+
+2∆n 2
+Page 15
+
+c. A blue light corresponds to maximum transmission for λ=λ . The minimum value of ∆n,
+blue
+occurs when m=1
+3λ
+d= blue =7.663µm
+4∆n
+A yellow light is a combination of red and green lights, which corresponds to a minimum
+transmission of blue light.
+λ
+d= blue =2.554µm
+4∆n
+d. Theideausedinpartb. isalsousefultosolvethispart. Thelightshouldbelinearlypolarized
+and directed to the polarization axis of the second polarizer to be maximally transmitted and
+should be perpendicular to the polarization axis to be minimally transmitted.
+Maximum transmission:
+π
+ϕ= +mπ
+2
+(cid:18) (cid:19)
+λ 1
+d= m+
+2∆n 2
+Minimum transmission:
+ϕ=mπ
+mλ
+d=
+2∆n
+e. Blue light:
+λ
+d= blue =2.554µm
+4∆n
+λ
+d= blue =10.22µm
+∆n
+Page 16
+
+3. Two uncharged 10cm×10cm metal plates, separated by a distance d = 1 mm are just touching the
+surface of water as shown in the figure. The electric permittivity of water is 10 times than that of the
+air. IfaconstantvoltagedifferenceofV =600V isappliedtotheplates, determinehowmuchthewater
+rises inside the plates.
+Solution: Before the water level changes inside the plates, the capacitance is
+ε lw
+C = 0
+d
+where w and l are the width and length of each plate. Assume the water level changes by a height
+h. The new capacitance
+ε (l−h)w κε hw
+C′ = 0 + 0
+d d
+ε lw ε hw
+= 0 + 0 (κ−1)
+d d
+since κ > 1 the capacitance increases so does the electrostatic energy of the system (Q = 1CV2).
+2
+Page 17
+
+We must have
+1 1
+(C′−C)V2 = mgh
+2 2
+1ε hw h
+0 (κ−1)V2 =(ρwhd)·g·
+2 d 2
+ε V2
+∴h= 0 (κ−1)
+ρgd2
+Plugging in the numbers gives h≈2.9mm
+Page 18
+

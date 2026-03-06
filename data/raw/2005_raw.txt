@@ -1,0 +1,327 @@
+CAP High School Prize Exam
+April 8 2005
+9:00 – 12:00
+Competitor’s Information Sheet
+The following information will be used to inform competitors and schools of the exam results, to deter-
+mine eligibility for some subsequent competitions, and for statistical purposes. Only the marking code,
+tobeassignedbythelocalexaminationcommittee,willbeusedtoidentifypapersformarking.
+MarkingCode:
+Thisboxmustbeleftempty.
+PLEASEPRINTCLEARLYINBLOCKLETTERS.
+FamilyName: GivenName:
+HomeAddress:
+PostalCode:
+Telephone:( ) E-mail:
+School: Grade:
+PhysicsTeacher:
+DateofBirth: Sex:
+Citizenship:
+ForhowmanyyearshaveyoustudiedinaCanadianschool?
+WouldyoupreferfurthercorrespondenceinFrenchorEnglish?
+Sponsored by:
+Canadian Association of Physicists
+Canadian Chemistry and Physics Olympiads
+
+Canadian Association of Physicists Question3
+2005 Prize Exam At some time t, two identical balls, A and B, are set rolling
+withoutslippingatthesamespeedfromoneendoftwotracks
+This is a three-hour exam. National ranking and prizes will which are identical with the same horizontal length, except
+bebasedonastudent’sperformanceonbothsectionsAandB thattrackBhasadipinthepathofballB,asshowninthefig-
+oftheexam.Performanceonthemultiple-choicequestionsin ure.Thestraightportionsofthetracksarehorizontal.Gravity
+partAwillbeusedtodeterminewhosewrittenworkinpart isuniformthroughout.Whichballreachestheotherendfirst?
+B will be marked for prize consideration by the CAP Exam
+NationalCommittee. ThequestionsinpartBhavearangeof
+difficulty.Dobecarefultogatherasmanyoftheeasiermarks A
+aspossiblebeforeventuringintomoredifficultterritory.Ifan
+answertopart(a)ofaquestionisneededforpart(b),andyou
+arenotabletosolvepart(a),assumealikelysolutionandat- B
+tempttherestofthequestionanyway. Nostudentisexpected
+tocompletethisexamandpartsofeachproblemmaybevery
+challenging.
+Non-programmablecalculatorsmaybeused. Pleasebecare- (a) BallA;
+ful to answer the multiple-choice questions on the answer
+(b) neither,sincebotharriveatthesametime;
+card/sheet provided; most importantly, write your solutions
+to the three long problems on three separate sheets as they (c) ballB;
+willbemarkedbypeopleindifferentpartsofCanada. Good
+(d) ballA,butonlyifthedipisdeepenough.
+luck.
+Data
+Question4
+Speedoflight c=3:00£108m/s
+Gravitationalconstant G=6:67£10 ¡11N¢m2/kg2 Toagoodapproximation,EarthandJupitermovearoundthe
+RadiusofEarth R =6:37£103km Sun in circular orbits of 1:49£108km and 7:79£109km
+MassofEarth M E =6:0£1024kg radius, respectively. What is the maximum error that can
+E ariseinthepredictionofsolareclipsetimes(asobservedfrom
+RadiusofEarth’sorbit R =1:50£108km
+ES Earth) on Jupiter caused by one of its moons if one fails to
+Accelerationduetogravity g =9:80m/s2
+take into accountthe variationof the relative positionof the
+Fundamentalcharge e=1:60£10 ¡19C twoplanets?
+Massofelectron m e =9:11£10 ¡31kg (a)2:6£103s; (b)3:1£103s;
+Massofproton m =1:673£10 ¡27kg
+p
+Planck’sconstant h=6:63£10 ¡34J¢s (c)5:0£102; (d)9:9£102s.
+Coulomb’sconstant 1=4…† =8:99£109J¢m/C2
+o Question5
+Experiment shows that two perfectly neutral parallel metal
+PartA:MultipleChoice
+platesseparatedbyasmalldistanced, attracteachothervia
+a very weak force, known as the Casimir force. The force
+Question1
+per unit area of the plates, F, depends only on the Planck
+Achildthrowsaballtowardthefrontendofanapproaching constant h, on the speed of light c, and on d. Which of the
+train. Thecollisionbetweentheballandthetrainisperfectly followinghasthebestchanceofbeingcorrectforF?
+elastic. Letvbethespeedoftheballwithrespecttothetrain
+and V its speed with respect to the ground. If the labels“i” (a)F = hc=d2; (b)F = hc=d4;
+and “f” refer to those speeds just before and just after, re- (c)F = hd2=c; (d)F = d4=hc.
+spectively,theballhitsthetrain,then
+Question6
+(a)v =v andV <V; (b)v <v andV <V;
+i f i f i f i f
+AsimplependulumoflengthLwithabobofmassmistaken
+(c)v >v andV <V; (d)v =v andV >V.
+i f i f i f i f into Earth orbit on the International Space Station. Its fre-
+Question2 quencyofoscillationwithrespecttothatonthegroundis
+(a)greater; (b)smallerbutnon-zero;
+Aphysicstextbookofmassmrestsflatonahorizontaltable
+of mass M placed on the ground. Let N a!b be the contact (c)thesame; (d)zero.
+force exerted by body “a” on body “b”. According to New-
+ton’s 3rd Law, which of the following is an action-reaction Question7
+pairofforces? Whenyouturnonabattery-operatedportablemusic-playing
+device, how long must you leave it on for electrons leaving
+(a) mgandN table!book ;
+thenegative terminalof thebatteryto reachthepositive ter-
+(b) (m+M)gandN table!book ; minaliftheirpathlieswithingoodconductors?
+(c) N ground!table andMg+N book!table ; (a)Afewmilliseconds; (b)afewtenthsofasecond;
+(d) N ground!table andN table!ground . (c)afewmicroseconds; (d)afewminutes.
+
+CanadianAssociationofPhysicistsPrizeExam 2005
+Question8 Question13
+CircuitAismadeofresistorsconnectedinseriestoabattery; Anobjectofmassmhangsmotionlessfromaverticalspring.
+circuit B is made of resistors connected in parallel to a bat- When the object is pulled down to a new rest position, the
+tery. Let P be the power drawn from the batteries. As the totalmechanicalenergyofthesystem
+numberofresistorsineachcircuitisincreased, (a)increases; (b)remainsthesame;
+(c)decreases; (d)mayincreaseordecreasedependingon
+(a) P A increasesandP B decreases; thenewposition.
+(b) bothP andP increase; Question14
+A B
+(c) P decreasesandP increases; As more and more negative electric charge is being brought
+A B
+toaconductingsphere,insidethesphere
+(d) P andP remainthesame.
+A B
+(a) theelectricfieldandpotentialincrease;
+Question9 (b) the electric field stays constant and the potential in-
+Accordingtoasimplifiedbutstillusefulmodel,thedragforce creases;
+duetoairresistanceonamovingcargoeslikethesquareof (c) the electric field stays constant and the potential de-
+thecar’sspeedv. Supposethatthemaximumspeedofacar creases;
+islimitedonlybythisdragforce.Ifthepowerofthecar’sen-
+(d) theelectricfieldincreasesandthepotentialdecreases.
+ginewereincreasedby50%, thetopspeedofthecarwould
+increasebyabout
+Question15
+(a)50%; (b)15%;
+A static magnetic field of about 0.01T in strength can erase
+(c)22%; (d)30%.
+data on the magnetic strip of a credit card. What would be
+Question10 roughly the minimum diameter of a long straight wire car-
+rying a 100A current for which your card would be safe no
+A projectile is launched with an initial velocity v, with v
+i ix matterhowcloseyoutakeittothewire?
+and v the horizontal and vertical velocity components, re-
+iy
+spectively. Whenisthereapointonitstrajectoryafterlaunch (a)0.2mm; (b)1mm;
+whereitsvelocityisperpendiculartoitsacceleration? (c)2mm; (d)4mm.
+(a)Always; (b)onlyifv 6=0andv pointsupward;
+ix iy
+Question16
+(c)onlyifv 6=0; (d)always,exceptifv =0.
+ix ix A string of length L is composed of two segments of equal
+Question11 length.Onesegmenthaslinearmassdensity„1andtheother
+other„2 6= „1. Onesegmentistiedtoawall,andthestring
+Three charged conducting metal spheres, of radius R1, R2,
+is stretched by a force, applied to the other segment, which
+andR3,areconnectedtogetherbywires.LetR1 <R2 <R3.
+is much greater than the total weight of the string. If T is
+At equilibrium, which of the following sets of relations in- i
+thetensionintheithsegment,andv thespeedofatransverse
+volvingtheelectricfieldstrengthEgeneratedbyasphere,its i
+wavepropagatingalongthatsegment,
+potentialV,anditschargeQ,mustholdbetweenthespheres?
+(a)v1 =v2andT1 =T2; (b)v1 6=v2andT1 =T2;
+(a) V1 =V2 =V3, E1 <E2 <E3, Q1 <Q2 <Q3; (c)v1 =v2andT1 6=T2; (d)v1 6=v2andT1 6=T2.
+(b) V1 =V2 =V3, E1 >E2 >E3, Q1 <Q2 <Q3; Question17
+(c) V1 <V2 <V3, E1 <E2 <E3, Q1 =Q2 =Q3; A perfectly straight portion of a uniform rope has mass M
+and length L. At end A of the segment, the tension in the
+(d) V1 >V2 >V3, E1 <E2 <E3, Q1 >Q2 >Q3; ropeisT ;atendBitisT >T . Thetensionintheropeat
+A B A
+adistanceL=5fromendAis
+Question12
+(a)T ¡T ; (b)(T +T )=5;
+B A A B
+Aballofmassmattachedtoaninextensiblestringoflength
+(c)(4T +T )=5; (d)(T ¡T )=5.
+R in swung around a vertical circle just fast enough so that A B A B
+thestringisalwaysfullystretched. Let¢T denotethediffer- Question18
+encebetweenthetensioninthestringatthebottomandatthe Two spheres are identical except that sphere A is white
+topofthecircle,v andv thespeedoftheballatthebottom whereas sphere B is black. After they have been in thermal
+b t
+andatthetop,respectively. Then,taking“dependence”tobe contactlongenoughwitheachotherandtheirsurroundings,
+withrespecttoasetofindependentvariables, inthevisiblerange,
+(a) AradiateslessthanB;
+(a) ¢T isindependentofR,v andv ;
+b t
+(b) bothemitthesameamountofradiation;
+(b) ¢T isindependentofR,butdependsonv2¡v2;
+b t (c) AradiatesmorethanB;
+(c) ¢T dependsonR,butonneitherv norv ;
+b t (d) A radiates more than B only if its temperature is high
+(d) ¢T dependsonRandv2¡v2. enough.
+b t
+2
+
+CanadianAssociationofPhysicistsPrizeExam 2005
+Question19 Question23
+AnaircraftboundforVancouverandcomingfromMontre´al If there were only one transmitter, and you were separated
+is flying due west. Its body and wings are covered in alu- fromthistransmitterbythemanytallbuildingstobefoundin
+minium.Atsomepointonitsflightpath,theEarth’smagnetic downtownToronto,spacedabout30mapartonaverage,with
+fieldpointsnorthanddownward.Thepointontheplane’sex- which of the following would you be most likely to experi-
+teriorwhichisthenatthehighestpotentialis encedeadspots(placeswithverypoorornoreception)?
+(a)thenose(front); (b)thetail(back);
+(a) AMradiostations(frequency1MHz);
+(c)thetipoftherightwing; (d)thetipoftheleftwing.
+(b) FMradiostations(frequency100MHz);
+Question20
+(c) cellphones(frequency1000MHz);
+Youareontheshoreofacanalofuniformwidthdandwant
+(d) allofthepreviousequally.
+toreachapointadistanceL>dawayalongtheothershore
+as quickly as possible. To achieve this, you first run along
+the shore at constant speed v1, then jump in the canal and Question24
+swimdirectlytowardyourtargetatconstantspeedv2 < v1,
+Ahorizontalcathoderaytube(CRT)issetsothatitselectron
+bothbeingyourmaximumspeeds. Thewaterinthecanalis
+beamproducesaspotoflightatthecentreofthescreenwhen
+motionless. The angle of your trajectory in the water with
+noexternalelectromagneticfieldispresent. Whenyoulook
+respecttotheshoremustobey:
+straightatthescreen,however,youdiscoverthatthespot,in-
+(a)cos(cid:181) = v1=v2; (b)cos(cid:181) = pv
+1
+2=v
+2
+2¡1; steadofbeingatthecentreasitshould,isshiftedabittothe
+right. Suspecting what the cause of this deflection may be,
+(c)cos(cid:181) = 1 ¡ d=L; (d)cos(cid:181) = v2=v1. you rotate the CRT by 180– around its vertical axis. Facing
+Question21 the screen, you find that the spot of light is still shifted to
+rightofcentrebythesamedistanceasbefore. Youconclude
+Exactly half of a rectangular conducting loop lies in a uni-
+thattheCRTisimmersedin
+form magnetic field perpendicular to the plane of the loop.
+At some point in time, the magnitude of the magnetic field
+starts rapidly decreasing. While this is happening, which of (a) anelectricfielddirectedhorizontallytotheleftwithre-
+thefollowingstatementsmostaccuratelydescribestheeffect specttothescreen’sinitialposition;
+ontheloop? (b) an electric field directed horizontally to the right with
+respecttothescreen’sinitialposition;
+(a) Theloopispulledintothemagneticfield;
+(b) theloopispushedoutofthemagneticfield; (c) amagneticfielddirectedverticallyupwardwithrespect
+tothescreen’sinitialposition;
+(c) theloopstartsrotating;
+(d) amagneticfielddirectedverticallydownwardwithre-
+(d) thebehaviouroftheloopcannotbedeterminedunless
+specttothescreen’sinitialposition;
+thedirectionofthemagneticfieldiscompletelyspeci-
+fied.
+Question25
+Question22 Lightraysfromaverydistantsourcetravelalongthe+xdi-
+Twootherwiseidenticalspaceshipshavedifferentsolarsails: rection.Twoidenticalthinlenseswithfocallengthf >0and
+sailAisaperfectreflector,sailBisaperfectabsorber. Each theiropticalaxisalongx, sit, oneatx = 0, andtheotherat
+starts at the same distance from the Sun and travels radially x=d<f. Wheredotheraysfocus?
+outward. Let¢p and¢p bethemomentumgainedbythe
+A B f(f ¡d) f(f ¡d)
+shipsaftertravellingequaldistances. Then (a)d + ; (b)d ¡ ;
+2f ¡d d
+(a)¢p A =¢p B ; (b)¢p A >¢p B ; f(f ¡d) f2
+(c)d + ; (d)d + .
+(c)¢p A <¢p B ; (d)¢p A =¢p B =0. 2(f +d) 2f ¡d
+⁄ ⁄ ⁄
+3
+
+CanadianAssociationofPhysicistsPrizeExam 2005
+PartB (a) Assume that in such collisions, the molecules become
+embedded in the solar panel. If the satellite is moving
+Problem1 atspeedv,findanexpressionforthemaximumretarding
+forceonthesolarpanelintermsof‰andoftheradiusof
+A magnetohydrodynamic (MHD) generator is a device that
+thesatellite’sorbit. Makeanyotherreasonableassump-
+convertspartofthekineticenergyofastreaminghotgasinto
+tion.
+electrical energy. At its operating temperature of between
+2000 and 3000K, the gas is readily ionised. As schemati- (b) Estimatehowmuchaltitudethesatellitemightloseover
+cally shown in the figure, the ions and electrons enter a re- oneweekbecauseof thisfriction. If youmake assump-
+gionbetweentwoelectrodes(here,parallelconductingplates tions,donotforgettojustifythembriefly.
+ofareaAseparatedbyagapd)inwhichauniformandcon-
+(c) Somebodyclaimsthatasthesatellitelosesaltitudeitalso
+stantmagneticfieldB hasbeensetup, pointingstraightout
+losesspeedbecauseofthefriction. Commentbriefly.
+of the page. Their initial velocity v is parallel to the plates.
+AresistorRisconnectedtotheplates. Themagneticfieldis
+strong enough that many charged particles will hit the elec-
+Problem3
+trodes and charge them before they can exit. This creates a
+Inamoodforsomephysicsasyoulookatasailboatonalake,
+time-varyingpotentialdifferenceV betweentheplates.
+youwonderaboutitsstabilitywhenastrongwindblowsfrom
+v theside. Thesailboatleansoverinthewindandthequestion
+iswhetheritskeelcanpreventitfrombeingblownovercom-
++
+¢ B d pletely.
+-
+Analyzethestabilityofthesailboatusingthefollowingover-
+simplifiedmodel.
+Consider the hull of the sailboat as an airtight hollow cylin-
+der. Ontopofthiscylinderandperpendiculartoitsitsamast
+R
+carrying a square sail, assumed to be always parallel to the
+(a) Onadiagram, displayalltheforcesactingonapositive lengthofthehull. Attachedtothebottomofthehullisakeel
+ionatsomegenericpositionbetweentheplates.Useyour intheshapeofasquarealwaysparalleltothesail. Aheavy
+diagramtoshowthattheionexperiencesabrakingforce leadweightformsthebottomofthekeelunderwater. Other
+a soon as its velocity has a component transverse to the thantheleadweight,considermast,sail,hull,andkeeltobe
+plates. weightless. Somewhatunrealistically(itwouldmaketacking
+difficult),youcanalsoassumethatthesailextendsalltheway
+(b) Then, as a crude approximation, assume that any elec- fromthebottomtothetopofthemast.
+tric field E arising from the process is uniform every-
+where between the plates. Assume also that the trans- (a) Establisharelationshipbetweenwindspeedandthean-
+verse component of the velocity of the charges remains gle(cid:181) themastwilltiltawayfromitsinitialuprightposi-
+everywhere much smaller than its longitudinal compo- tionwhenawindwithspeedv blowsperpendicular(ini-
+nent, andthatthe latterthereforeis prettyuniform. The tially) to the sail. Other assumptions may be made so
+gas obeys a generalised Ohm’s law, according to which long as they are explicitly stated and, as much as possi-
+J = (cid:190)(E +v £B), where J is the transverse current ble,justified.
+density between the plates and (cid:190) is the conductivity of
+In this simplified model, is this boat stable in all wind
+thegas.
+speeds? Sinceyoumaynotbeabletofindageneralso-
+Obtain an expression for the current I flowing through
+lutionfortheangle(cid:181)asafunctionofv,youarewelcome
+theresistorintermsofv,B,andR.
+to obtain solutions valid only for small (cid:181) or for large (cid:181).
+Theexpansion(1+x)n …1+nx+:::forx¿1may
+(c) Derive an expression for the output voltage V that does
+beuseful.
+notexplicitlycontainR.
+(b) Thefollowingdata,looselybasedontheCatalinaCapri–
+Problem2
+16,aregivenforasmallsailboat.AreaAofsailis12m2,
+massM ofleadweight190kg,depthdofkeelbelowwa-
+A 1000kg satellite is orbiting the Earth at an altitude of
+terlevel,technicallyknownasdraft,0.75m,heighthof
+400km. It receives electrical power from a solar panel of
+area A = 10m2. At this altitude, Earth’s atmosphere is mast 6.6m, specific gravity of lead, supposed to be the
+very tenuous, with a density ‰ … 10 ¡11kg/m3. Neverthe- partatthebottomofthekeelthatactsasastabiliser,11.3.
+Also,airdensityis1.2kg/m3.
+less, over time, the friction force generated by collisions of
+themoleculesandthepanelmightcausethesatellitetolose Withthesedata,atwhatwindspeedwill(cid:181)be30–? 60–?
+altitude.
+4
+

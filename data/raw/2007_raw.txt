@@ -1,0 +1,295 @@
+1
+CAP High School Prize Exam
+April 5th 2007
+9:00 – 12:00
+Competitor’s Information Sheet
+The following information will be used to inform competitors and schools of the exam results, to
+determine eligibility for some subsequent competitions, and for statistical purposes. Only the marking
+code, to be assigned by the local examination committee, will be used to identify papers for marking.
+Marking Code:
+This box must be left empty.
+PLEASE PRINT CLEARLY IN BLOCK LETTERS.
+Family Name:________________________________Given Name:_______________________
+Home Address:_________________________________________________________________
+_________________________________________ Postal Code:______________
+Telephone: ( )____________________ E-mail: __________________________________
+School: ____________________________________________________________ Grade:_____
+Physics Teacher: _______________________________________________________________
+Date of Birth: ___________________________ Sex: Male Female
+Citizenship: ______________________________________________________ or
+Immigration Status:_____________________________________________________________
+For how many years have you studied in a Canadian school? ____________________________
+Would you prefer the further correspondence in French or English? _______________________
+Sponsored by:
+Canadian Association of Physicists
+Canadian Chemistry and Physics Olympiads
+
+2
+Canadian Association of Physicists
+2007 Prize Exam Question 3
+What is the potential difference V – V in the circuit
+This is a three-hour exam. National ranking and prizes will B A
+segment below if the current I = 1.5 A?
+be based on a student’s performance on sections A, B, and C
+of the exam. Performance on the questions in parts A and B I 20 Ω
+55RR//1122
+will be used to determine whose written work in part C will A AA BB B
+be marked for prize consideration by the CAP Exam - + + -
+National Committee. Part A consists of twenty multiple- 20 V 12 V
+choice questions; part B consists of five questions that (a) +22 V (b) –22 V (c) –38 V (d) +38 V (e) +2.0 V
+require graphic solution. The problems in part C can also
+require graphing. The questions in part C have a range of Question 4
+difficulty. Do be careful to gather as many of the easier The graph on the right shows a
+marks as possible before venturing into more difficult velocity versus time graph for a
+territory. If an answer to part (a) of a question is needed for ball.
+part (b), and you are not able to solve part (a), assume a Which explanation best fits the v 1
+likely solution and attempt the rest of the question anyway. motion of the ball as shown by the
+No student is expected to complete this exam and parts of graph?
+each problem may be very challenging.
+Non-programmable calculators may be used. Please be (a) The ball falls, is caught, and is - v 1
+careful to answer the multiple-choice questions on the thrown down with a greater
+answer card/sheet provided; most importantly, write your velocity.
+solutions to the three long problems on three separate (b) The ball rises, hits the ceiling, and falls down.
+sheets as they will be marked by people in different parts of (c) The ball falls, hits the floor, and bounces up.
+Canada. Good luck. (d) The ball rises, is caught, and then is thrown down.
+Data
+Speed of light c = 3.00x108 m/s Question 5
+Gravitational constant G = 6.67x10-11 N·m2/kg2 A light bulb A is rated at 60 W and a light bulb B is rated at
+Acceleration due to gravity g = 9.80 m/s2 100 W. Both are designed to operate at 110 V. Which
+Density of fresh water ρ = 1.00x103 kg/m3 statement is correct?
+The normal atmospheric pressure P
+0
+= 1.01x105Pa
+Fundamental charge e =1.60x10-19 C (a) The 60 W bulb has a greater resistance and greater
+Mass of electron m e = 9.11x10-31 kg current than the 100 W bulb.
+Mass of proton m p = 1.67x 10-27 kg (b) The 60 W bulb has a greater resistance and smaller
+Planck’s constant h = 6.63x10-34 J·s current than the 100 W bulb.
+Coulomb’s constant 1/(4πε 0 ) = 8.99x109 N·m2/C2 (c) The 60 W bulb has a smaller resistance and smaller
+Boltzmann constant k = 1.38x10-23 J/K current than the 100 W bulb.
+(d) The 60 W bulb has a smaller resistance and greater
+Part A: Multiple Choice current than the 100 W bulb.
+Question 1 (e) We need to know the resistivities of the filaments to
+A book is placed on a chair. Then a videocassette is placed answer this question.
+on the book. The floor exerts a normal force:
+Question 6
+(a) on all three; When a light ray travels between any two points, the path it
+(b) only on the book; takes is the one that
+(c) only on the chair;
+(d) upwards on the chair and downwards on the book. (a) covers the greatest distance;
+(b) avoids travel in more than one medium;
+Question 2 (c) covers the least distance;
+The figure shows two point sources (A and B) of coherent (d) takes the least time;
+mechanical waves of the same wavelength. Source B emits (e) is the mean between the longest and the shortest
+waves that are +π radians out of phase with the waves from paths.
+source A. Source A is 3λ distant from P and source B is 5λ
+distant from P (λ is the wavelength). Question 7
+A B A fountain sends water to a height of 100 metres. What
+must be the pressurization (above atmospheric pressure) of
+P the water system driving the fountain? 1 ATM = 105 N/m2.
+The phase difference between the waves arriving at P from (a) 10.8 ATM; (b) 9.80 ATM;
+A and B is (c) 8.80 ATM; (d) 1.00 ATM.
+(a) 0 rad (b) π/2 rad (c) 2π rad (d) 3π rad (e) 4π rad
+
+3
+Question 8 Question 13
+A bead of mass m, attached to a string, is pushed and starts The electric potential inside a charged solid spherical
+to rotate in the vertical plane. Only the gravitaional force conductor in equilibrium:
+influences the rotation of the bead. The difference between
+the tension of the string when the bead is at the lowest point (a) is always zero;
+(T ) and when the bead is at the upper point (T ) is: (b) decreases from its value at the surface to a value of zero
+L U
+at the centre;
+(a) T – T = 2mg; (c) is constant and is equal to its value at the surface;
+U L
+(b) T – T = 6mg; (d) increases from its value at the surface to a higher value
+U L
+(c) T – T = 2mg; at the centre.
+L U
+(d) T – T = 5mg;
+L U
+(e) T – T = 6mg. Question 14
+L U
+For which process below will the internal energy of a
+Question 9 system NOT change?
+Two identical particles, each with a mass of 4.5 mg and
+charge of 30 nC, are moving directly toward each other with (a) An adiabatic expansion or compression of an ideal gas;
+equal speeds of 4.0 m/s at the instant when the distance (b) An isothermal expansion or compression of an ideal gas;
+separating the two particles is equal to 25 cm. How far apart (c) An isobaric expansion or compression of an ideal gas;
+will they be from each other at the point of closest (d) The freezing of a quantity of a liquid at its melting point;
+approach? (e) The evaporation of a quantity of a liquid at its boiling
+point.
+(a) 7.8 cm; (b) 9.8 cm; (c) 12 cm;
+(d) 15 cm; (e) 20 cm. Question 15
+A diver shines an underwater searchlight at the surface of a
+Question 10 pond whose water has an index of refraction n =1.33. At
+A straight wire of length L carries a current I in the positive what angle of incidence relative to the surface will the light
+z direction in a region where the magnetic field is uniform be totally reflected?
+and specified by B = 3B, B = - 2B, and B =B, where B is a
+x y z
+constant. What is the magnitude of the magnetic force on (a) 41o (b) 47o (c) 49o
+the wire? (d) 51o (e) 58o
+(a) 1.0 ILB; (b) 3.2 ILB; (c) 3.6 ILB;
+(d) 4.2 ILB; (e) 5.0 ILB Question 16
+According to the Bohr model of the atom, an electron can
+Question 11 undergo a transition from one orbit that is closer to the
+A spaceship of mass m circles a planet of mass M in a nucleus to another which is farther from the nucleus, by
+circular orbit of radius R. How much energy is required to absorbing a photon whose energy E depends on its
+transfer the spaceship to a circular orbit of radius 3R? frequency f as E = hf, where h is Planck’s constant. An
+energy of 13.6 eV is needed to ionize a hydrogen atom by
+(a) GmM/(2R); (b) GmM/(3R); (c) GmM/(4R); ejccting an electron from the lowest energy level. What is
+(d) GmM/(6R); (e) 3GmM/(4R) the longest wavelength of a photon that can eject the
+electron from the lowest energy level of the atom?
+Question 12
+Three simple pendulums with strings of different lengths (a) 40 nm;
+and bobs of different masses are pulled out from their (b) 60 nm;
+position of equilibrium to angles of θ , θ = 2θ , and θ = (c) 70 nm;
+1 2 1 3
+3θ , respectively. All angles θ , θ and θ are very small. The (d) 80 nm;
+1 1 2 3
+bobs are then released and start oscillating freely. Which (e) 90 nm.
+answer better matches the results of measurements of the
+frequencies of the three pendulums? Question 17
+One reason why we know that magnetic fields are not the
+(a) f =2 f and f = 3 f ; same as electric fields is because the force they exert on a
+1 2 1 3
+(b) f = 3f and f = 2f ; charge +q, is:
+3 1 2 1
+(c) f = f = f ; (a) in opposite directions in electric and magnetic fields if
+1 2 3
+(d) We need to know the mass of each bob to find the the charge is moving;
+relationship between the frequencies; (b) parallel to the magnetic field and perpendicular to the
+(e) We need to know the length of each pendulum to find electric field if the charge is moving;
+the relationship between the frequencies. (c) parallel to the electric field and perpendicular to the
+magnetic field if the charge is moving;
+(d) zero in the electric field and nonzero in the magnetic
+field if the charge is not moving;
+
+4
+Question 18 Part B: Questions that require graphical solutions
+In an experiment to prove
+the existence of the light Question 21
+pressure, two vertically Two identical dielectric balls supported by insulating
+oriented disks are attached threads hang side by side, touching each other. The two
+as shown to the ends of a balls are initially electrically neutral.
+horizontal beam in an Sketch the position of the balls on their threads after one of
+evacuated tube. The the balls is positively charged and the other stays neutral.
+horizontal beam is Sketch the electric field lines near the balls.
+suspended at its central point
+by a vertical wire. The Question 22
+surfaces of the disks are A 71-kg man stands on a spring scale in an elevator. Starting
+simultaneously illuminated from rest, the elevator ascends, attaining its maximum speed
+by a parallel beam of light of of 1.2 m/s in 0.80 s. It travels with this constant speed for the
+high intensity. next 2.0 seconds. The elevator then undergoes a uniform
+Which explanation best fits the behaviour of the two-disk deceleration downwards (in the negative y direction) for 1.9 s
+system? and comes to rest.
+Draw a diagram for the reading of the scale versus time
+(a) The horizontal beam is displaced from its equilibrium during the motion of the elevator.
+position due to the equal light pressure on both discs.
+(b) The horizontal beam rotates around the vertical wire Question 23
+with the mirror moving in the direction of light A spool of thread on a horizontal surface may roll without
+propagation and the black disk moving in the opposite slipping if someone pulls it by the free end of the thread.
+direction. The spool may roll toward or away from the person who
+(c) The horizontal beam rotates around the vertical wire pulls the free end of the thread
+with the black disk moving in the direction of light depending on the direction of the
+propagation and the mirror moving in the opposite applied force.
+direction. Sketch a side-view diagram of the
+(d) The experiment cannot show the existence of light spool of thread on the horizontal
+pressure because light has no mass. surface which shows the direction of
+the force applied to the free end of
+Question 19 the thread in such a way that this force does not cause the
+You are shown a photo of a car driven on a rolling of the spool in either direction. The force belongs to
+vertical inside wall of a huge cylinder with a the plane of the drawing.
+radius of 50 m. The coefficient of static
+friction between the car tires and the Question 24
+cylinder is µ = 0.8. The minimum speed, at Consider the motion of a mass attached to a spring.
+s
+which the car can be driven like that, is: Sketch the following two graphs one below the other using
+the same scale for the time axis (in units of period):
+(a) 20 km/h; (b) 70 km/h; (c) 90 km/h; 1) Displacement of the mass versus time;
+(d) 120 km/h. 2) Kinetic energy of the mass versus time.
+Question 25
+Question 20 A system consists of two ideal spheres with equal diameters
+An emf may be induced in that move toward each other as shown.
+(a) a piece of linear wire when it moves in a uniform
+static magnetic field; m v
+(b) a closed loop of wire moving with a fixed
+-v 2m
+orientation at a constant velocity in a non-uniform
+static magnetic field;
+(c) a closed loop of wire moving with a fixed
+orientation and accelerating in a uniform static
+magnetic field; The spheres undergo a glancing collision.
+(d) the cases described in (a) and (b) only; Sketch a vector diagram for the linear momentum of each of
+(e) the cases described in (b) and (c) only. the spheres and for the centre of mass of the system before
+and after the perfectly elastic collision of the spheres.
+
+5
+4) If the segment with the 5.00 Ω rod could slide along
+Part C: Problems the rails and was released at a given time, how would
+this segment move (qualitatively)?
+Problem 1
+A student working in a laboratory has to remove a heavy
+Problem 3
+box with new equipment from its initial position on the
+A soap film with an index of refraction n
+floor to the opposite wall of the room, which is d metres
+= 1.33 is contained within a rectangular
+away. She may choose: either to pick up the box, to carry
+wire frame. The frame is held vertically so
+it in her hands across the room, and then to drop it on the
+that the film drains downwards and
+floor in the new place; or to attach a rope to one of the
+approximates the shape of a wedge with
+corners of the box and pull the box along the floor to the
+flat faces near the top. The thickness of
+new place. The mass M of the box and its contents is
+the film at the very top is essentially zero.
+printed on the package. Acceleration due to gravity g, the
+The film is viewed in reflected white light
+coefficients of static and kinetic friction µ and µ for the
+s k with near-normal incidence, and the first
+box material and the floor, and other constants are
+violet (λ = 420 nm) interference band is
+available to the student in a handbook. After performing
+observed 3.00 cm from the top edge of the
+some calculations, the student notes that µ < µ <1 and
+k s film.
+chooses the second method.
+1) Locate the first red (λ = 680 nm)
+interference band. x
+1) What physical quantities should the student compare
+2) Determine the film thickness at the
+to choose the proper method of moving the heavy
+positions of the first violet and the
+box?
+first red bands.
+2) What parameter related to a quantity above shows an
+3) What is the wedge angle of the film?
+advantage for one of the two methods? Estimate this
+parameter for the two methods.
+3) Draw a free-body diagram (i.e. a vector diagram) for
+the chosen method of pulling the box with the
+attached rope along the horizontal floor.
+4) Dragging the box may be easier or harder. Express
+the condition that makes dragging easiest in terms of
+physics. Identify the parameter responsible for this
+condition using your free-body diagram.
+5) Using the parameter found, give a numerical
+condition for the easiest way of moving the box by
+the student.
+Problem 2
+Two parallel rails with negligible resistance are 10.0 cm
+apart and are connected by a 5.00-Ω resistor. The circuit
+also contains two metal rods having resistances of 10.0 Ω
+and 15.0 Ω sliding along the rails as shown in the figure.
+The rods are pulled away from the resistor at constant
+speeds of 4.00 m/s and 2.00 m/s, respectively. A uniform
+magnetic field of magnitude 0.0100 T is applied
+perpendicular to the plane of the rails.
+1) Determine the direction and the value of the current in
+the 5.00 Ω resistor.
+2) Find the forces applied to the 10.0 Ω and the 15.0 Ω
+rods.
+3) What is the force applied to the segment of the circuit
+with the 5.00 Ω resistor?
+

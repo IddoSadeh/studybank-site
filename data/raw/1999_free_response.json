@@ -1,0 +1,108 @@
+{
+  "year": 1999,
+  "questions": [
+    {
+      "id": "1999_FR1",
+      "year": 1999,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Four charges, each of charge +e, are at the four corners of a square of side a = 1 cm. The four charges are fixed in place and are considered to be of point-size. Gravity plays no role in this situation.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Sketch a diagram of the electric field due to this charge system."
+        },
+        {
+          "label": "b",
+          "text": "What is the net force acting upon one of the charges?"
+        },
+        {
+          "label": "c",
+          "text": "What is the electrostatic potential energy of this charge system?"
+        },
+        {
+          "label": "d",
+          "text": "Now suppose that two of the charges are protons and the other two are positrons. A positron is the electron's anti-particle. It has the same mass as an electron but a charge of +e. The four charges are suddenly released. What are their speeds when they are a significant distance apart from one another?"
+        }
+      ],
+      "given_data": "Square side length a = 1 cm, each charge = +e",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "A square with vertices labeled e+ at each corner, with side length a marked",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "1999_FR2",
+      "year": 1999,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Suppose that we have a string of equally spaced beads of mass m, their surfaces being separated by a distance d, that are free to slide without friction on a thin wire. Suppose that a constant force F acts on the first bead, initially at rest, causing it to accelerate along the wire as shown. This force acts only on the first bead and might be created by a well directed, steady stream of air. The first bead will collide with the second, which will in turn collide with the third, and so on. Suppose that all collisions are elastic.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "What is the speed of the first bead immediately before and immediately after its collision with the second bead?"
+        },
+        {
+          "label": "b",
+          "text": "What is the speed of the second bead immediately before and immediately after its collision with the third bead?"
+        },
+        {
+          "label": "c",
+          "text": "Remember that the constant force is always acting upon the first bead. What is the time interval between subsequent collisions between the first and second beads? What then is the average speed of the first bead? What is the speed of the 'shock wave' that travels down the wire?"
+        },
+        {
+          "label": "d",
+          "text": "If the whole process is repeated, but with collisions which are perfectly inelastic, what is the terminal speed of the shock wave formed?"
+        }
+      ],
+      "given_data": "Bead mass = m, separation distance = d, constant force F on first bead only, all collisions initially elastic",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Four beads numbered 1, 2, 3, 4 on a wire, separated by distance d, with force F arrow pointing right on bead 1",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "1999_FR3",
+      "year": 1999,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "From everyday experience and observations, estimate the brightness of a full moon as compared to the noon day sun. Brightness is defined as the luminous intensity as measured in units of power per unit area. To arrive at a reasonable numerical estimate, you will need to estimate some physical parameters. It is essential that you explain the reasoning behind your estimates and include detailed drawings and explanations to support your arguments.",
+      "parts": [],
+      "given_data": "Brightness defined as luminous intensity measured in units of power per unit area",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

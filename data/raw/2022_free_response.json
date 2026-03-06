@@ -1,0 +1,104 @@
+{
+  "year": 2022,
+  "questions": [
+    {
+      "id": "2022_FR1",
+      "year": 2022,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "The velocity needed for the rocket or other projectile to orbit around the Earth is called the 'first cosmic velocity' (v₁). The velocity required to escape the Earth is called the 'second cosmic velocity' (v₂). The minimum velocity has to attain to leave the solar system from the Earth is called the 'third cosmic velocity' (v₃). In terms of the radius of the Earth R, the speed Earth orbiting around the Sun v and the gravitational acceleration near the Earth surface g, find",
+      "parts": [
+        {
+          "label": "a",
+          "text": "The 'first cosmic velocity' (v₁)"
+        },
+        {
+          "label": "b",
+          "text": "The 'second cosmic velocity' (v₂)"
+        },
+        {
+          "label": "c",
+          "text": "The 'third cosmic velocity' (v₃)"
+        }
+      ],
+      "given_data": "Finally, estimate the values of v₁, v₂ and v₃ using values from the formula page and the expressions obtained above.",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2022_FR2",
+      "year": 2022,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A very narrow beam of sound from a directional loudspeaker was directed towards the water at the angle 77° to the surface as shown by a dashed line on the picture. It was noticed that the fish avoids the dashed area, as they dislike the noise. Using the information from the picture calculate the speed of sound in water.",
+      "parts": [],
+      "given_data": "",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Image shows a loudspeaker directing a sound beam at 77° angle to the water surface, with a dashed line showing the beam path and a shaded area underwater where fish avoid.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2022_FR3",
+      "year": 2022,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Deuterium is the heavy stable isotope of hydrogen, having a proton and neutron in its nucleus (protons and neutrons have approximately the same mass). Heavy water is a form of water that contains Deuterium and Oxygen. A heavy water nuclear reactor has heavy water between the nuclear fuel rods. Suppose that a neutron from the fuel rod has a head-on elastic collision with a Dueterium nucleus.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Find the ratio of the final speed of the deuteron to the initial speed of the neutron."
+        },
+        {
+          "label": "b",
+          "text": "What percentage of the initial kinetic energy is transferred to the deuteron?"
+        },
+        {
+          "label": "c",
+          "text": "How many such collisions is needed to slow down the neutron from 20 MeV to 0.02 eV?"
+        },
+        {
+          "label": "d",
+          "text": "How would this estimate change if we consider collisions at other angles?"
+        }
+      ],
+      "given_data": "",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

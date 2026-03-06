@@ -1,0 +1,83 @@
+{
+  "year": 2009,
+  "questions": [
+    {
+      "id": "2009_FR1",
+      "year": 2009,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "The drag force due to air resistance on a falling object depends on the instantaneous velocity of the object as: $D = -1/4 Av^2$. Sketch a diagram of height vs. distance for the trajectory of two projectile objects launched from the same point at ground level with the same angle to the horizontal:",
+      "parts": [
+        {
+          "label": "a",
+          "text": "the projectile for which the air resistance is negligible"
+        },
+        {
+          "label": "b",
+          "text": "the projectile that is experiencing a drag force in the air"
+        }
+      ],
+      "given_data": "Drag force equation: $D = -1/4 Av^2$",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2009_FR2",
+      "year": 2009,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A diagram below shows the potential energy of an object in an isolated mechanical system with total energy $E$ and with conservative forces only. In the space below the given diagram, sketch a diagram for the x-component of the net force on the object as a function of x. Your diagram must show the correct trend of the function, zeros and vertex points.",
+      "parts": [],
+      "given_data": "Total energy $E$, potential energy function $U(x)$ shown in diagram with points $x_1, x_2, x_3, x_4, x_5, x_6$",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Graph showing potential energy $U(x)$ vs position $x$ with a curve that has multiple turning points and valleys, with horizontal dashed line at energy $E$",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2009_FR3",
+      "year": 2009,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A very thin stick is placed on the optical axis of a thin convex lens as shown in the diagram. Draw the image of the object. Show all rays used for the image construction.",
+      "parts": [],
+      "given_data": "Thin convex lens with focal points at distance $f$ on both sides",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Diagram showing a thin vertical stick positioned on the optical axis of a convex lens, with focal points marked at distances $f$ on both sides of the lens",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

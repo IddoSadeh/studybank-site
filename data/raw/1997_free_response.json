@@ -1,0 +1,108 @@
+{
+  "year": 1997,
+  "questions": [
+    {
+      "id": "1997_FR1",
+      "year": 1997,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A massive satellite in orbit (i.e. in a weightless environment) has a rotating cuff that allows a small mass $m$ on the end of a cord to circle about the satellite at a radius $r$ with a speed $v$. The initial speed of the mass is $v_0$ and the initial radius of its circular path is $r_0$. A mechanism within the cuff allows the cord to be drawn in so that the radius of revolution for the mass decreases. The centre of revolution for the mass remains constant and you may assume that the satellite is much, much more massive than $m$.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Find the initial tension $T_0$ in the string."
+        },
+        {
+          "label": "b",
+          "text": "Suppose that the cord begins to be drawn in at a constant rate ($r$ decreases uniformly from its initial value $r_0$). Express the speed $v$ of the mass as a function of $r$, $r_0$ and of its initial speed $v_0$."
+        },
+        {
+          "label": "c",
+          "text": "If the cord snaps beyond a maximum tension $T_{max}$ and the radius of the satellite is $R$, what constraint must be satisfied in order for the mass to be brought within the satellite?"
+        },
+        {
+          "label": "d",
+          "text": "What amount of work is necessary to bring the mass from radius $r_0$ to radius $R$?"
+        }
+      ],
+      "given_data": "",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Diagram shows a satellite with a small mass m connected by a cord of radius r, with the mass circling around the satellite at speed v",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "1997_FR2",
+      "year": 1997,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A solid metal sphere of radius 2 cm carries a net negative charge $-Q$. The air around the sphere will hence be subjected to an electric field. If an electric field in excess of $3.0 \\times 10^6$ V/m is applied across an \"air molecule\", the molecule will ionize. This will appear as sparking and is called \"break down\". You may assume spherical symmetry in this problem (although in actuality, sparking will break this symmetry).",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Sketch the electric field lines within and around the charged sphere and show on your diagram how the excess charge on the sphere is distributed."
+        },
+        {
+          "label": "b",
+          "text": "What is the minimum charge that the sphere must have to cause the break down of air near its surface?"
+        },
+        {
+          "label": "c",
+          "text": "It requires about $1.6 \\times 10^{-18}$ J of energy to ionize an air molecule. Consider a free electron near the surface of the sphere carrying this minimum charge as in part (b). What radial distance must the electron travel before attaining a kinetic energy equal to the ionization energy for an air molecule? An electron typically travels only $1.0 \\times 10^{-6}$ m before colliding with an air molecule. Is it possible for our accelerated electron to cause ionization of air molecules away from the surface of the sphere?"
+        },
+        {
+          "label": "d",
+          "text": "What is the potential (in units of V) on the surface of the sphere when break down just occurs?"
+        }
+      ],
+      "given_data": "It requires about 1.6 × 10^-18 J of energy to ionize an air molecule. An electron typically travels only 1.0 × 10^-6 m before colliding with an air molecule.",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "1997_FR3",
+      "year": 1997,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A spherical balloon of radius $R = 5$ cm has within it a small, solid lead sphere of mass $m$ and radius $r$. The mass of the balloon is negligible as compared to the mass of the lead sphere. The system is buoyantly neutral, floating just below the surface in a pool of water. The balloon is given a light downwards push. Describe the motion of the system qualitatively, and as quantitatively as possible. Hint: A spherical object of radius $r$ moving without turbulence and with a velocity $v$ through a fluid of viscosity $\\eta$ experiences a retarding force given by, $F_v = 6\\pi r\\eta v$. Water has a viscosity of $\\eta = 1.0 \\times 10^{-3}$ Pa·s and a density of $\\rho_w = 1000$ kg/m³. Lead has a density of $\\rho_l = 11.3 \\times 10^3$ kg/m³.",
+      "parts": [],
+      "given_data": "Water has a viscosity of η = 1.0 × 10^-3 Pa·s and a density of ρ_w = 1000 kg/m³. Lead has a density of ρ_l = 11.3 × 10^3 kg/m³. Hint: A spherical object of radius r moving without turbulence and with a velocity v through a fluid of viscosity η experiences a retarding force given by F_v = 6πrηv.",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

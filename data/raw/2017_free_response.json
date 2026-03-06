@@ -1,0 +1,87 @@
+{
+  "year": 2017,
+  "questions": [
+    {
+      "id": "2017_FR1",
+      "year": 2017,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A circular mirror of radius R = 20 cm and center C is filled with a transparent liquid up to 1 cm of height. What is the refractive index of this liquid if the image of point A falls on itself? You may use the small angle approximation: tan(θ) = sin(θ) = θ for θ << 1.",
+      "parts": [],
+      "given_data": "R = 20 cm, height = 1 cm, small angle approximation: tan(θ) = sin(θ) = θ for θ << 1",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "A circular mirror with center C and point A located 9 cm above the mirror surface, with 10 cm distance marked between C and A",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2017_FR2",
+      "year": 2017,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "The 2 photos above show a woman jumping on a Pogo Stick. In the photograph on the left she is in the air at her highest point whereas in the photograph on the right she is at her lowest point (notice that at this time the spring is compressed). The picture on the far right shows how the pogo stick is built. The woman is 168 cm tall and weighs 60 kg. Calculate the full period of her jumps and plot with appropriately marked scales the height of her center of gravity as a function of time. Assume that the woman keeps her body stationary with respect to the pogo stick.",
+      "parts": [],
+      "given_data": "Woman's height: 168 cm, Weight: 60 kg",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Two photographs showing a woman at highest and lowest points of pogo stick jump, plus a diagram of the pogo stick construction",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2017_FR3",
+      "year": 2017,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "The tension of the surface film of a liquid caused by the attraction of the particles in the surface layer of the liquid is called surface tension. This force is responsible for the spherical shape of soap bubbles in the air and can be modeled as F = σ · l where σ is the surface tension constant of the liquid and l is the length of the cross section of the surface. For example: In the picture shown below, a force of F = 2 · σl is required to hold and expand the thin layer of bubble between the two rods held at a distant l (notice that the factor of 2 appears because the bubble has two surfaces).",
+      "parts": [
+        {
+          "label": "a",
+          "text": "An astronaut pours some water in the air on a space station (no gravity environment) and notices that due to its surface tension, the liquid turns into a ball of radius 5 cm. What is the pressure difference inside and outside of the water ball? (σwater = 0.073 N/m)"
+        },
+        {
+          "label": "b",
+          "text": "The astronaut notices that if she connects two water-balls with radii of r₁ = 2 cm and r₂ = 5 cm with a thin straw of diameter D = 1 mm and length L = 5 cm, water will flow from one ball to the other ball. Find the direction and the magnitude of the average speed Vav of the water between balls in terms of r₁, r₂ at the instant in which they are connected by the straw. Assume that the balls remain almost spherical."
+        },
+        {
+          "label": "c",
+          "text": "Estimate how long it would take for one ball to completely absorb the other."
+        }
+      ],
+      "given_data": "Surface tension model: F = σ · l, σwater = 0.073 N/m, Pressure drop in pipe: δp = 32μLVav/D², μwater = 0.001002 N·s/m² (dynamic viscosity of water)",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Diagram showing two rods with a soap bubble film between them, with force F applied to maintain the bubble",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

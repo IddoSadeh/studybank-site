@@ -1,0 +1,108 @@
+{
+  "year": 1994,
+  "questions": [
+    {
+      "id": "1994_FR1",
+      "year": 1994,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "In this question we will investigate a possible navigational aid for aircraft approaching an airport. Suppose at one end of a runway there are two radio transmitting towers, one on either side of the runway, separated by a distance $l = 100$ m. The two towers each transmitting a radio signal of frequency $f_0 = 12$ MHz in phase with each other. An aircraft with a ground speed of $v$ is flying towards the airport such that its velocity makes an angle $\\theta$ with the runway as shown. The aircraft, still very far from the airport, has locked onto the signals and is leading directly for the midpoint of the towers.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "At the aircraft's current position, the intensity of the signal from each tower separately would be $I_0$. Find the intensity of the combined signal from both towers received by the aircraft for headings of $\\theta = 0$ and $\\theta = \\pi/2$."
+        },
+        {
+          "label": "b",
+          "text": "For what headings would the aircraft receive no signal? If the aircraft was commanded to approach the airport with a heading of 30°, what kind of a signal should the captain expect from the radio towers?"
+        },
+        {
+          "label": "c",
+          "text": "The aircraft gets slightly off course and is approaching the airport on a heading of $\\theta = 0$ but is heading directly for one of the transmitting towers (as opposed to their midpoint). The aircraft is still very far from the airport but as it draws nearer, the intensity of the signal received from the radio towers starts to drop. How far is the aircraft from the nearest tower when the signal has dropped to a minimum?"
+        },
+        {
+          "label": "d",
+          "text": "The aircraft, back on course now, is approaching the airport with a ground speed of 500 km/hr and on a heading with $\\theta = 30°$. The aircraft has a circuit which generates its own 12 MHz reference signal and compares it to the one being received from the radio towers. A beat is detected in the sum of the two signals. What is the beat frequency? The navigator quickly programs the on-board computer to calculate the aircraft's ground speed in terms of this beat frequency $\\Delta f$. When the beat frequency is 10 Hz and the signal received from the towers is lower than the 12 MHz on-board reference signal, what is the plane's ground speed?"
+        }
+      ],
+      "given_data": "Two radio transmitting towers separated by distance $l = 100$ m, transmitting frequency $f_0 = 12$ MHz in phase with each other",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Shows an aircraft approaching two radio towers with velocity vector making angle θ with the runway, and distance l between towers",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "1994_FR2",
+      "year": 1994,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Consider the circuit shown with the two switches $S_1$ and $S_2$. The battery has an emf of $\\varepsilon = 6$ V and the resistor has a resistance of $R = 1.0$ Ω. The bottom wire is enclosed in an insulated wrapping of mass $M = 0.1$ kg which carries a positive static charge of $Q = 10$ mC. Assume that the masses of all other wires and components are very small as compared to this charge bearing wrapping. The dimensions of the circuit are $l = 5$ cm square. The bridge (or middle connecting) wire, with $S_2$ in it, is $l/2$ above the bottom wire. The contraption is suspended in such a way that it may pivot about the top wire on the axis AB; the circuit maintains its shape regardless of the switch configuration. A magnetic field, $B = 10.0$ T, and an electric field, $E = 1000$ N/C, both point out of the page.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "With both switches open, find the equilibrium angle $\\theta$ that the plane of the circuit makes with the vertical as it swings upwards due to the presence of the electric field."
+        },
+        {
+          "label": "b",
+          "text": "With $S_1$ closed and $S_2$ open, find the equilibrium angle $\\theta$."
+        },
+        {
+          "label": "c",
+          "text": "Now with $S_1$ open and $S_2$ closed, the circuit is swung from hanging straight down, $\\theta = 0$, to being horizontal, $\\theta = \\pi/2$, in a time of $\\Delta t = 5$ ms. Estimate the work required to perform this operation."
+        },
+        {
+          "label": "d",
+          "text": "The circuit is released from the horizontal with both switches open. Describe the motion of the circuit and calculate any relevant parameters necessary to backup your description. What would be the effect of closing $S_2$ during this motion?"
+        }
+      ],
+      "given_data": "Battery emf $\\varepsilon = 6$ V, resistor $R = 1.0$ Ω, mass $M = 0.1$ kg, charge $Q = 10$ mC, circuit dimensions $l = 5$ cm square, magnetic field $B = 10.0$ T, electric field $E = 1000$ N/C both pointing out of page",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Shows a square circuit with switches S1 and S2, pivoting about axis AB at the top, with the bottom wire carrying charge Q and mass M. The bridge wire with S2 is positioned l/2 above the bottom wire.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "1994_FR3",
+      "year": 1994,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Design a spherical spacecraft which could be carried out of the solar system by the pressure of solar radiation alone. Discuss constraints on the materials used. You may assume that the craft can be initially launched from the earth using a conventional rocket so that it may start its journey already having escaped the earth's pull. The momentum $p$ of a photon is given by $p = E/c$ where $E$ is the energy of the photon and $c$ is the speed of light. The intensity of the solar radiation at the radius of the earth's orbit about the sun is given by the solar constant, $S = 1370$ W/m².",
+      "parts": [],
+      "given_data": "Photon momentum $p = E/c$ where $E$ is photon energy and $c$ is speed of light. Solar constant $S = 1370$ W/m²",
+      "choices": {},
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

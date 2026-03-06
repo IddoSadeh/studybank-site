@@ -1,0 +1,87 @@
+{
+  "year": 2016,
+  "questions": [
+    {
+      "id": "2016_FR1",
+      "year": 2016,
+      "number": 1,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A railway car wheel is made by getting a solid steel wheel of diameter d = 75 cm and covering the rim of the wheel with a thin (0.5 cm) ring of hard steel. To do so, the ring is heated to 400°C. At that temperature it has an inner diameter identical to that of the cold wheel (75 cm). After putting the ring on the wheel, it was cooled back down to room temperature. The coefficient of linear expansion of the steel is α = 1.2 × 10⁻⁵ K⁻¹ and the elastic constant of a strip of steel with the same cross section and length as the ring is k = 2.1 × 10⁷ N/m. What force one would need to slide the ring off the wheel (in the direction parallel to the axis)? The coefficient of friction of steel on steel is μ = 0.8.",
+      "parts": [],
+      "given_data": "d = 75 cm, ring thickness = 0.5 cm, heating temperature = 400°C, α = 1.2 × 10⁻⁵ K⁻¹, k = 2.1 × 10⁷ N/m, μ = 0.8",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Cross-sectional view of a wheel with a ring around its rim, showing the wheel and ring components with dashed lines indicating the ring placement",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2016_FR2",
+      "year": 2016,
+      "number": 2,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "Some people are not satisfied with just driving snowmobiles on snow and try high jumps on them, as seen on these pictures. In flight, the angle θ which the snowmobile makes with the horizontal can be changed by using the brakes or accelerator. Shortly explain how this is done, quoting the appropriate physics laws. Assuming that the mass of the snowmobile with the rider is about 250 kg and the mass of the rotating parts is about 20 kg, calculate what he has to do to tilt the snowmobile by θ = 5° down (to lower the front) and then maintain the snowmobile at that angle. State any approximations and size estimates that you make.",
+      "parts": [],
+      "given_data": "Mass of snowmobile with rider ≈ 250 kg, mass of rotating parts ≈ 20 kg, desired tilt angle θ = 5°",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Photos of snowmobiles jumping, with one image showing a snowmobile in flight with angle θ marked relative to the horizontal",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    },
+    {
+      "id": "2016_FR3",
+      "year": 2016,
+      "number": 3,
+      "question_type": "free_response",
+      "section": "B",
+      "text": "A Reuleaux triangle is a two-dimensional figure defined as the intersection of three identical disks placed so that the center of each disk lies on the boundary of the other two (see diagram). The moment of inertia of a Reuleaux triangle rotating about its centre of mass is given by I = CMR², where M is its mass, R the radius of the circles and C is a numerical constant.",
+      "parts": [
+        {
+          "label": "a",
+          "text": "Consider a \"wheel\" in the shape of a Reuleaux triangle with uniform density, resting on a flat surface. What is the frequency of small oscillations of this wheel? Neglect any slipping."
+        },
+        {
+          "label": "b",
+          "text": "Consider two logs with Reuleaux triangle cross-sections placed on a flat horizontal surface and supporting a long flat plank of wood, as shown. Assume no slipping and consider only the time period before one of the logs reaches the end of the plank. Sketch the height of the center of mass of the plank as a function of horizontal displacement."
+        },
+        {
+          "label": "c",
+          "text": "Is there a configuration in part (b) for which the center of mass of the whole system (logs + plank) remains at constant height as the plank moves? Justify your answer."
+        }
+      ],
+      "given_data": "I = CMR² where C is a numerical constant, M is mass, R is radius of circles",
+      "choices": {},
+      "has_diagram": true,
+      "diagram_description": "Diagram showing a Reuleaux triangle formed by the intersection of three circles with radius R, followed by illustrations of: (a) a single Reuleaux triangle wheel on a surface with gravity arrow, and (b) two Reuleaux triangle logs supporting a horizontal plank",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude",
+      "ai_processed": false,
+      "source": "cap",
+      "subject": "physics"
+    }
+  ]
+}

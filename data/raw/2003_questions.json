@@ -1,0 +1,530 @@
+{
+  "year": 2003,
+  "questions": [
+    {
+      "id": "2003_Q01",
+      "year": 2003,
+      "number": 1,
+      "text": "A parallel-plate capacitor holds charge q and is not connected to anything. The distance between the plates is now increased. The electrical energy stored on the capacitor",
+      "choices": {
+        "a": "decreases",
+        "b": "remains the same",
+        "c": "increases",
+        "d": "can do any of the above, depending on how the capacitance changes"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q02",
+      "year": 2003,
+      "number": 2,
+      "text": "When a mechanical or electromagnetic wave goes from one medium to another, it undergoes a change in",
+      "choices": {
+        "a": "amplitude only",
+        "b": "both speed and wavelength",
+        "c": "speed only",
+        "d": "wavelength only"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q03",
+      "year": 2003,
+      "number": 3,
+      "text": "Two identical rooms in a perfectly insulated house are connected by an open doorway. The temperature in the two rooms are maintained at different values. The room which contains more air molecules is",
+      "choices": {
+        "a": "the one with the higher temperature",
+        "b": "the one with the lower temperature",
+        "c": "the one with the higher pressure",
+        "d": "neither, since both have the same volume"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q04",
+      "year": 2003,
+      "number": 4,
+      "text": "Three airplanes, A, B and C, each release an object from the same altitude and with the same initial speed $v_0$ with respect to the ground. At the moment their object is released, A is flying horizontally, B is flying upward at an angle $\\theta$ with respect to the horizontal, and C is flying at the same angle $\\theta$ as B but downward with respect to the horizontal. Assuming the ground to be horizontal and neglecting any aerodynamical effect, the speeds $v$ at which the three objects will hit the ground satisfy",
+      "choices": {
+        "a": "$v_A = v_B < v_C$",
+        "b": "$v_A > v_B = v_C$",
+        "c": "$v_A < v_B < v_C$",
+        "d": "$v_A = v_B = v_C$"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q05",
+      "year": 2003,
+      "number": 5,
+      "text": "Two identical conducting spheres, A and B, carry equal electric charge. They are separated by a distance much larger than their diameter and exert an electrostatic force F on each other. A third identical conducting sphere C is initially uncharged and far away from A and B. Sphere C is then brought briefly into contact with sphere A, then with sphere B, and finally removed far away. The electrostatic force between A and B is now",
+      "choices": {
+        "a": "$3F/8$",
+        "b": "$F/2$",
+        "c": "$F/4$",
+        "d": "$F/16$"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q06",
+      "year": 2003,
+      "number": 6,
+      "text": "On the ground, the Earth exerts a force $F_0$ on an astronaut. The force that the Earth exerts on this astronaut inside the Space Shuttle in low Earth orbit, 300 km above the ground, is",
+      "choices": {
+        "a": "a little less than $F_0$",
+        "b": "a little more than $F_0$",
+        "c": "exactly $F_0$",
+        "d": "zero, since the astronaut is weightless when in orbit"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q07",
+      "year": 2003,
+      "number": 7,
+      "text": "A person is swinging a ball at the end of a string of length $l$ with constant speed $v$. The work done by the tension $T$ in the string over one revolution is",
+      "choices": {
+        "a": "0",
+        "b": "$mv^2/2$",
+        "c": "$2\\pi lT$",
+        "d": "undetermined by the information given"
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q08",
+      "year": 2003,
+      "number": 8,
+      "text": "The pressure exerted by a gas on the walls of the vessel that contains it is due to the",
+      "choices": {
+        "a": "change in kinetic energy of the gas molecules as they strike the walls;",
+        "b": "collisions between the gas molecules;",
+        "c": "repulsive force between the gas molecules;",
+        "d": "change in momentum of the gas molecules as they strike the walls."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q09",
+      "year": 2003,
+      "number": 9,
+      "text": "A Martian creature similar to an Earth frog jumps with an initial speed $v_0$ and attains the range $R$ over horizontal ground. The maximum possible height reached by the creature, neglecting friction in the tenuous Martian air, is ($\\theta$ being the launch angle):",
+      "choices": {
+        "a": "$\\frac{R}{4} \\tan \\theta$;",
+        "b": "$\\frac{R}{4} \\sin \\theta$;",
+        "c": "$\\frac{R}{2} \\tan \\theta$;",
+        "d": "undetermined because of missing data."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q10",
+      "year": 2003,
+      "number": 10,
+      "text": "The work done to accelerate a truck on a horizontal road from rest to speed $v$",
+      "choices": {
+        "a": "is less than that required to accelerate it from $v$ to $2v$;",
+        "b": "is equal than that required to accelerate it from $v$ to $2v$;",
+        "c": "is more than that required to accelerate it from $v$ to $2v$;",
+        "d": "may be any one of the above since it depends on the force acting on the truck and the distance over which it acts."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q11",
+      "year": 2003,
+      "number": 11,
+      "text": "If the Earth did not rotate on its axis, the magnitude of the gravitational acceleration at the Equator would be about",
+      "choices": {
+        "a": "0.003% larger;",
+        "b": "0.3% larger;",
+        "c": "0.3% smaller;",
+        "d": "0.003% smaller."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q12",
+      "year": 2003,
+      "number": 12,
+      "text": "You want to apply a force on a box so that it moves with constant speed across a horizontal floor. The coefficient of kinetic friction between the box and the floor is $\\mu_k$. Of the four following cases, the force you apply on the box will be smallest when you",
+      "choices": {
+        "a": "push on it with a force applied at an angle $0 < \\theta < 90°$ downward from the horizontal;",
+        "b": "pull on it with a force applied at the same angle $\\theta$ as in (a), upward from the horizontal;",
+        "c": "do either (a) or (b) since the applied force is the same;",
+        "d": "push or pull with a force applied horizontally."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q13",
+      "year": 2003,
+      "number": 13,
+      "text": "An electric current runs counterclockwise in a rectangular loop around the outside edge of this page, which lies flat on your table. A uniform magnetic field is then turned on, directed parallel to the page from top to bottom. The magnetic force on the page will cause",
+      "choices": {
+        "a": "the left edge to lift up;",
+        "b": "the right edge to lift up;",
+        "c": "the top edge to lift up;",
+        "d": "the bottom edge to lift up."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q14",
+      "year": 2003,
+      "number": 14,
+      "text": "A car has a maximum acceleration of $3.0 m/s^2$. Its maximum acceleration while towing another car twice its mass, assuming no skidding, would be",
+      "choices": {
+        "a": "$3.0 m/s^2$;",
+        "b": "$1.5 m/s^2$;",
+        "c": "$1.0 m/s^2$;",
+        "d": "$0.5 m/s^2$."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q15",
+      "year": 2003,
+      "number": 15,
+      "text": "Two satellites of equal mass, A and B, are in concentric orbits around the Earth. The distance of B from Earth's centre is twice that of A. The ratio of the centripetal force acting on B to that acting on A is",
+      "choices": {
+        "a": "1;",
+        "b": "$\\sqrt{1/2}$;",
+        "c": "1/2;",
+        "d": "1/4."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q16",
+      "year": 2003,
+      "number": 16,
+      "text": "A proton sits at coordinates $(x, y) = (0, 0)$, and an electron at $(d, 0)$ where $d > h$. At time $t = 0$, a uniform electric field $E$ of unknown magnitude but pointing in the positive $y$ direction is turned on. Assuming that $d$ is large enough that the proton-electron interaction is negligible, the $y$ coordinates of the two particles will be equal (at equal time)",
+      "choices": {
+        "a": "at about $y = d/2000$;",
+        "b": "at an undetermined value since $E$ is unknown;",
+        "c": "at about $y = d/43$;",
+        "d": "nowhere: they move in opposite directions."
+      },
+      "has_diagram": false,
+      "diagram_description": "",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q17",
+      "year": 2003,
+      "number": 17,
+      "text": "In the circuit below we increase the resistance $R_2$. If $I_j$ is the current through resistor $R_j$ ($j = 1, 2, 3$), then",
+      "choices": {
+        "a": "$I_1$ and $I_2$ both increase;",
+        "b": "$I_1$ decreases and $I_2$ increases;",
+        "c": "$I_1$ and $I_2$ both decrease;",
+        "d": "$I_1$ increases and $I_2$ decreases."
+      },
+      "has_diagram": true,
+      "diagram_description": "Circuit diagram showing three resistors: R1 at the top in series with the battery, and R3 and R2 in parallel with each other, both connected below R1.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q18",
+      "year": 2003,
+      "number": 18,
+      "text": "Two carts, A and B, are placed on an air track. They are made of the same material and look identical. B is given a constant speed and collides elastically with A at rest. After the collision, both carts move in the same direction. One concludes that",
+      "choices": {
+        "a": "A is hollow;",
+        "b": "B is hollow;",
+        "c": "A and B are identical;",
+        "d": "any of the first three answers is possible."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q19",
+      "year": 2003,
+      "number": 19,
+      "text": "The smallest length scale known in physics is the Planck length. It is an important ingredient in some current cosmological theories. Which of the following expressions could represent this Planck length? (see Data table.)",
+      "choices": {
+        "a": "$\\sqrt{e^2/ℏc}$;",
+        "b": "$\\sqrt{ℏc/G}$;",
+        "c": "$\\sqrt{Gℏc}$;",
+        "d": "$\\sqrt{ℏG/c^3}$."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q20",
+      "year": 2003,
+      "number": 20,
+      "text": "The Webb space telescope, scheduled to be launched in 2010, will have a mirror 6 m in diameter. Compared with the Hubble space telescope, whose mirror has a 2.4 m diameter, it will be able to resolve objects whose angular separation is about",
+      "choices": {
+        "a": "2.5 times smaller;",
+        "b": "5 times smaller;",
+        "c": "an order of magnitude smaller;",
+        "d": "the same: the larger mirror only increases the amount of light gathered."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q21",
+      "year": 2003,
+      "number": 21,
+      "text": "A simple pendulum of length $L$ is suspended from the top of a flat beam of thickness $L/2$. The bob is pulled away from the beam so that it makes an angle $θ < 30°$ with the vertical, as shown in the figure. It is then released from rest. If $φ$ is the maximum angular deflection to the right, then",
+      "choices": {
+        "a": "$φ = θ$;",
+        "b": "$φ < θ$;",
+        "c": "$θ < φ < 2θ$;",
+        "d": "$φ ≥ 2θ$."
+      },
+      "has_diagram": true,
+      "diagram_description": "A diagram showing a pendulum suspended from a beam. The beam has thickness L/2 and the pendulum has length L. The pendulum is shown at an initial angle θ to the left of vertical, with φ representing the maximum deflection to the right.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q22",
+      "year": 2003,
+      "number": 22,
+      "text": "In the diagram below, light is incident on the interface between media 1 and 2 at exactly the critical angle, and is totally reflected. The light is then also totally reflected at the interface between media 1 and 3, after which it travels in a direction opposite to its initial direction. The two interfaces are perpendicular. The media must have a refraction index $n$ such that",
+      "choices": {
+        "a": "$n_1 < n_2 < n_3$;",
+        "b": "$n_1^2 - n_2^2 ≥ n_3^2$;",
+        "c": "$n_1^2 - n_2^2 ≥ n_3^2$;",
+        "d": "$n_1^2 + n_2^2 ≥ n_3^2$."
+      },
+      "has_diagram": true,
+      "diagram_description": "A diagram showing light traveling through three media with refractive indices n₁, n₂, and n₃. The light undergoes total internal reflection at two perpendicular interfaces, ultimately traveling in the opposite direction to its initial path.",
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q23",
+      "year": 2003,
+      "number": 23,
+      "text": "For the sake of science a physicist jumps attached to the end of a bungee cord, carrying sound measuring equipment. As he swings up and down vertically with a period of 6.0 s, he monitors the frequency of a sound source on the ground directly below him, and observes a difference of 84 Hz between the maximum and minimum frequency of the source. If the source emits at a constant 1370 Hz, and assuming no significant attenuation of his oscillations over the duration of the measurements, the amplitude of his oscillations is closest to",
+      "choices": {
+        "a": "10 m;",
+        "b": "20 m;",
+        "c": "32 m;",
+        "d": "15 m."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q24",
+      "year": 2003,
+      "number": 24,
+      "text": "A person pulls a box along the ground at constant speed. Considering the Earth and the box together as a system, which of the following is true about the net force $F$ exerted by the person on this system and the work $W$ she does on it?",
+      "choices": {
+        "a": "$F = 0$ and $W = 0$;",
+        "b": "$F ≠ 0$ and $W = 0$;",
+        "c": "$F = 0$ and $W ≠ 0$;",
+        "d": "$F ≠ 0$ and $W ≠ 0$."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    },
+    {
+      "id": "2003_Q25",
+      "year": 2003,
+      "number": 25,
+      "text": "A magnet moves inside a coil. Which of the following factors can affect the emf induced in the coil?\nI. the speed at which the magnet moves\nII. the strength of the magnet\nIII. the number of turns in the coil",
+      "choices": {
+        "a": "I only;",
+        "b": "I and II only;",
+        "c": "II and III only;",
+        "d": "I, II and III."
+      },
+      "has_diagram": false,
+      "diagram_description": null,
+      "correct_answer": null,
+      "solution": null,
+      "topics": [],
+      "equations": [],
+      "difficulty": null,
+      "verified": false,
+      "extraction_quality": "claude"
+    }
+  ]
+}
